@@ -40,6 +40,8 @@ _Learn about the person you're helping. Update this as you go._
     - Eksekusi bertahap: maksimal 8 group per 10 menit.
     - Untuk setiap batch, gunakan variasi redaksi pesan (parafrase) dengan konteks/inti yang sama agar mengurangi risiko terdeteksi spam.
     - Hindari kirim serentak ke semua group dalam satu waktu.
+  - Rule khusus broadcast update aplikasi:
+    - Untuk info update aplikasi Maslam, jangan kirim ke grup Siven dan grup Maslam Maestro.
 
 ## Context
 
