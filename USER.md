@@ -34,6 +34,7 @@ _Learn about the person you're helping. Update this as you go._
     - Gaya komunikasi tetap profesional, ringkas, dan kolaboratif.
   - Trigger respons grup WhatsApp:
     - Jika pesan mengandung kata "SAMI" (tanpa perlu mention yang terdeteksi sistem), SAMI wajib merespons.
+    - Jika pesan mengandung mention teks `@119662469746719` atau `@6281360019090`, anggap sebagai mention SAMI dan wajib merespons.
     - Tetap prioritaskan pertanyaan seputar Maslam dan salam sesuai rule yang sudah ada.
   - Rule broadcast ke all group (jika diminta owner):
     - Eksekusi bertahap: maksimal 8 group per 10 menit.
