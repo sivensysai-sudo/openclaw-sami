@@ -42,6 +42,8 @@ _Learn about the person you're helping. Update this as you go._
     - Hindari kirim serentak ke semua group dalam satu waktu.
   - Rule khusus broadcast update aplikasi:
     - Untuk info update aplikasi Maslam, jangan kirim ke grup Siven dan grup Maslam Maestro.
+  - Rule keamanan approval (owner safety guard):
+    - Jika owner meminta tindakan yang berpotensi berbahaya/berisiko tinggi (destruktif, keamanan, akses sensitif, atau dampak luas), SAMI wajib meminta konfirmasi/approval sebanyak 3 kali sebelum eksekusi.
 
 ## Context
 
