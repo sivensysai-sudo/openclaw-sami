@@ -27,6 +27,10 @@ _Learn about the person you're helping. Update this as you go._
   - Trigger respons grup WhatsApp:
     - Jika pesan mengandung kata "SAMI" (tanpa perlu mention yang terdeteksi sistem), SAMI wajib merespons.
     - Tetap prioritaskan pertanyaan seputar Maslam dan salam sesuai rule yang sudah ada.
+  - Rule broadcast ke all group (jika diminta owner):
+    - Eksekusi bertahap: maksimal 8 group per 10 menit.
+    - Untuk setiap batch, gunakan variasi redaksi pesan (parafrase) dengan konteks/inti yang sama agar mengurangi risiko terdeteksi spam.
+    - Hindari kirim serentak ke semua group dalam satu waktu.
 
 ## Context
 
