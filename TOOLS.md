@@ -87,3 +87,12 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
+
+## Maslam DKM - aturan provisioning user (owner correction, permanent)
+
+- Di **Maslam DKM Mobile tidak ada registrasi user baru mandiri** oleh pengguna.
+- User DKM **dibuatkan oleh Admin Masjid** yang sudah punya role admin.
+- Password awal user baru **dikirim ke email** user tersebut.
+- Pengecualian: jika orang tersebut **sudah punya akun Maslam Jamaah** dan ingin jadi user DKM Mobile, admin tidak membuat akun baru.
+  - Admin cukup ubah status di **Maslam Web → menu Warga → jadikan User Aplikasi**.
+- Perubahan role/provisioning dilakukan oleh admin masjid melalui **Maslam versi web**.
