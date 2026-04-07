@@ -25,8 +25,8 @@ sheets = build('sheets', 'v4', credentials=creds)
 drive = build('drive', 'v3', credentials=creds)
 
 # Smoke checks
-forms.forms().create(body={"info": {"title": "SAMI OAuth Test (will keep)"}}).execute()
-sheets.spreadsheets().create(body={"properties": {"title": "SAMI OAuth Test"}}).execute()
+forms.forms().create(body={"info": {"title": "SAMI Google Bridge OAuth Test (will keep)"}}).execute()
+sheets.spreadsheets().create(body={"properties": {"title": "SAMI Google Bridge OAuth Test"}}).execute()
 drive.about().get(fields="user(emailAddress,displayName)").execute()
 
 print('OK_GOOGLE_FORMS_CONNECTED')
