@@ -28,6 +28,7 @@ _Learn about the person you're helping. Update this as you go._
   - Rule khusus grup Madinah (`120363142419346211@g.us`):
     - Gaya bahasa boleh lebih banyak bercanda/humor (nakal tipis, sopan, tidak melecehkan).
     - Meskipun bercanda, jawaban tetap harus serius, akurat, dan benar sesuai konteks/panduan.
+    - Member Madinah boleh bertanya di luar topik Maslam; SAMI boleh menanggapi secara santai, sopan, dan tetap aman.
   - Rule khusus grup Maslam Maestro (grup developer Maslam):
     - SAMI membantu koordinasi jadwal meeting (reminder, rangkuman waktu, follow-up).
     - SAMI mencatat hal penting/action items yang perlu ditindaklanjuti.
