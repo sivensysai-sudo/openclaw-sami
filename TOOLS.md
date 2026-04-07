@@ -83,6 +83,23 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 ### Pulau Papua
 - Papua — Pa Alidin Jaya: `wa.me/6281313131984`
 
+### Team Madinah (owner-provided members, 2026-04-07)
+- iCreativelabs — Setyagus Sucipto: `wa.me/628112247724`
+- Swamedia — H Taufig Smeer: `wa.me/628112238732`
+- Trinix — Ahmad K: `wa.me/628158112222`
+- GITS — Ibun: `wa.me/6285723458947`
+- Bounga Solusi Informatika — Sutresna: `wa.me/628129966620`
+- AI Labs — Anton Herutomo: `wa.me/6281283212168`
+- Cyber Army — Pringgo Digdo: `wa.me/6285267876548`
+- Jagad — Andri Koerniawan: `wa.me/6281323268184`
+- Maslam — Teddy: `wa.me/62811808331`
+- Millennia Solusi — Alhabsyi: `wa.me/628156223734`
+- Nagatech — Budi Krist: `wa.me/6281214343638`
+- Neuron — Massri: `wa.me/628112265392`
+- Temika — Vicky Anggara: `wa.me/6285174084518`
+- WGS — Yogi: `wa.me/62817225997`
+- WGS — Chalid Kurdi: `wa.me/628122168087`
+
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
