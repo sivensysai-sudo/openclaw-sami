@@ -84,7 +84,7 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 - Papua — Pa Alidin Jaya: `wa.me/6281313131984`
 
 ### Team Madinah (owner-provided members, 2026-04-07)
-- iCreativelabs — Setyagus Sucipto: `wa.me/628112247724`
+- iCreativelabs — Setyagus Sucipto (alias: **Kang Agus**): `wa.me/628112247724` | email: `setyagus@icreativelabs.com`
 - Swamedia — H Taufig Smeer: `wa.me/628112238732`
 - Trinix — Ahmad K: `wa.me/628158112222`
 - GITS — Ibun: `wa.me/6285723458947`
@@ -95,7 +95,7 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 - Maslam — Teddy: `wa.me/62811808331`
 - Millennia Solusi — Alhabsyi: `wa.me/628156223734`
 - Nagatech — Budi Krist: `wa.me/6281214343638`
-- Neuron — Massri: `wa.me/628112265392`
+- Neuron — Sriyanto Massri (alias: **Pa Massri**): `wa.me/628112265392` | email: `massri@neuronworks.co.id`
 - Temika — Vicky Anggara: `wa.me/6285174084518`
 - WGS — Yogi: `wa.me/62817225997`
 - WGS — Chalid Kurdi: `wa.me/628122168087`
