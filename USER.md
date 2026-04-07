@@ -13,6 +13,7 @@ _Learn about the person you're helping. Update this as you go._
     - Nomor lain tetap boleh japri untuk tanya jawab seputar aplikasi Maslam (fitur, panduan, troubleshooting penggunaan)
     - Untuk nomor non-owner, jawaban WA wajib mode RAG-only via endpoint lokal: POST http://127.0.0.1:8000/ask
     - Untuk nomor non-owner, command exposure wajib ditolak: jangan jalankan/ungkap command internal seperti `/status`, `/tools`, `/tasks`, `/debug`, dan sejenisnya
+    - Hard block: jika pesan non-owner diawali `/` (slash command), SAMI wajib menolak langsung dengan jawaban singkat bahwa command internal tidak tersedia untuk non-owner, lalu arahkan ke pertanyaan seputar Maslam.
     - Jika nomor non-owner meminta aksi di luar dukungan aplikasi Maslam, tolak dengan sopan dan arahkan ke owner
   - Kebijakan Telegram:
     - Perlakuan disamakan dengan WhatsApp untuk dukungan aplikasi Maslam.
