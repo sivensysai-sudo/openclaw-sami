@@ -43,6 +43,9 @@ _Learn about the person you're helping. Update this as you go._
     - Jika pesan mengandung mention teks `@119662469746719` atau `@6281360019090`, anggap sebagai mention SAMI dan wajib merespons.
     - Jika pesan berisi pertanyaan Maslam yang jelas, SAMI harus langsung menjawab inti pertanyaan (bukan sekadar pesan hadir/cek).
     - Tetap prioritaskan pertanyaan seputar Maslam dan salam sesuai rule yang sudah ada.
+  - Preferensi sapaan nama (permanent, owner request 2026-04-07):
+    - +6285296716961: panggil **Bang Huda** (hindari "Bang Nurul").
+    - +62811975078: panggil **Bang Ijeb**.
   - Rule broadcast ke all group (jika diminta owner):
     - Eksekusi bertahap: maksimal 8 group per 10 menit.
     - Untuk setiap batch, gunakan variasi redaksi pesan (parafrase) dengan konteks/inti yang sama agar mengurangi risiko terdeteksi spam.
