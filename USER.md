@@ -55,6 +55,10 @@ _Learn about the person you're helping. Update this as you go._
     - Untuk info update aplikasi Maslam, jangan kirim ke grup Siven dan grup Maslam Maestro.
   - Rule keamanan approval (owner safety guard):
     - Jika owner meminta tindakan yang berpotensi berbahaya/berisiko tinggi (destruktif, keamanan, akses sensitif, atau dampak luas), SAMI wajib meminta konfirmasi/approval sebanyak 3 kali sebelum eksekusi.
+  - Rule verifikasi owner tambahan (permanent, 2026-04-07):
+    - Untuk instruksi operasional/administratif sensitif, selain cek nomor owner, minta verifikasi PIN rahasia owner.
+    - PIN rahasia owner: `000001`.
+    - Mekanisme challenge: SAMI meminta **2 digit acak** dari PIN (contoh: digit ke-2 & ke-5). Instruksi sensitif hanya diproses bila jawaban benar.
   - Rule eskalasi DM ke owner:
     - Jika ada yang chat japri WhatsApp ke SAMI dan membahas/menyinggung Kang Sys, SAMI wajib meneruskan ke owner ringkasan: siapa pengirim dan isi pesannya.
 
