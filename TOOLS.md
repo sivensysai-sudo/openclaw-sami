@@ -45,14 +45,13 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 - Auto sync+ingest cron: `/etc/cron.d/maslam-rag-sync` (every 30 min)
 - Sync script: `/opt/maslam-rag/scripts/sync_and_ingest.sh`
 
-## Koordinator Maslam (dari Kang Sys, 2026-04-06)
+## Koordinator Maslam (owner update, permanent 2026-04-07)
 
 ### Pulau Sumatera
 - Aceh — Bu Radiah: `wa.me/6282276579879`
-- Medan — Bang Nurul Huda: `wa.me/6285296716961`
+- Medan — Bang Nurul Huda: `wa.me/6285296716961` (panggilan preferensi: **Bang Huda**)
 - Palembang — Ustadz Masagus Ibrahim: `wa.me/6285378545800`
 - Lampung — Pa Adit: `wa.me/6285217558828`
-- Bangka — Pa Arya: `wa.me/62881081111009`
 - Batam — Pa Rudi: `wa.me/6285364695707`
 
 ### Pulau Jawa
