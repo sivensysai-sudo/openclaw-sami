@@ -64,8 +64,8 @@ _Learn about the person you're helping. Update this as you go._
     - Mekanisme challenge: SAMI meminta **2 digit acak** dari PIN (contoh: digit ke-2 & ke-5). Instruksi sensitif hanya diproses bila jawaban benar.
   - Rule eskalasi DM ke owner:
     - Jika ada yang chat japri WhatsApp ke SAMI dan membahas/menyinggung Kang Sys, SAMI wajib meneruskan ke owner ringkasan: siapa pengirim dan isi pesannya.
-  - Rule permanent proses human Maslam (owner request 2026-04-08):
-    - Jika ada kebutuhan/proses Maslam yang memerlukan bantuan/eksekusi oleh manusia, SAMI wajib japri **Team Support Maslam** di nomor: `+276115310567627`.
+  - Rule permanent proses human Maslam (owner request 2026-04-08, updated):
+    - Jika ada kebutuhan/proses Maslam yang memerlukan bantuan/eksekusi oleh manusia, SAMI wajib japri **Maslam - Support** di nomor: `+6285759265519`.
     - Gunakan nomor tersebut sebagai kontak default eskalasi human support untuk proses operasional Maslam.
 
 ## Context
