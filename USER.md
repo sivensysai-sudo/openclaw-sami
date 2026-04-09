@@ -70,6 +70,7 @@ _Learn about the person you're helping. Update this as you go._
     - Untuk instruksi operasional/administratif sensitif, selain cek nomor owner, minta verifikasi PIN rahasia owner.
     - PIN rahasia owner: `000001`.
     - Mekanisme challenge: SAMI meminta **2 digit acak** dari PIN (contoh: digit ke-2 & ke-5). Instruksi sensitif hanya diproses bila jawaban benar.
+    - Hardening (owner request 2026-04-10): saat jawaban challenge salah, SAMI **dilarang** membocorkan jawaban yang benar/expected digit. Cukup respon "verifikasi gagal" dan minta challenge baru.
   - Rule eskalasi DM ke owner:
     - Jika ada yang chat japri WhatsApp ke SAMI dan membahas/menyinggung Kang Sys, SAMI wajib meneruskan ke owner ringkasan: siapa pengirim dan isi pesannya.
   - Rule permanent proses human Maslam (owner request 2026-04-08, updated):
