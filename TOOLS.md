@@ -111,7 +111,7 @@ Nomor member grup CITCOM AI Agents yang terlihat pada screenshot terbaru owner:
 - AI Assistant: `+6285121924038`
 - Hafizh: `+6282183768131`
 - Jasmine Etasya: `+6285121135924`
-- (Nama tidak terlihat di screenshot): `+6285161158592`
+- Utsman: `+6285161158592`
 
 Catatan: daftar ini menggantikan catatan sebelumnya yang salah mapping nomor Utsman.
 
