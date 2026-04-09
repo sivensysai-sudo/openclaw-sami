@@ -57,6 +57,9 @@ _Learn about the person you're helping. Update this as you go._
     - Hindari kirim serentak ke semua group dalam satu waktu.
   - Rule khusus broadcast update aplikasi:
     - Untuk info update aplikasi Maslam, jangan kirim ke grup Siven dan grup Maslam Maestro.
+  - Rule template owner (permanent, 2026-04-10):
+    - Template broadcast nomor 3 (Subuh versi panjang), nomor 4 (Subuh versi singkat), dan nomor 5 (broadcast update aplikasi) dihapus dari daftar template aktif SAMI.
+    - Jangan gunakan lagi ketiga template tersebut kecuali owner meminta dibuat ulang.
   - Rule keamanan approval (owner safety guard):
     - Jika owner meminta tindakan yang berpotensi berbahaya/berisiko tinggi (destruktif, keamanan, akses sensitif, atau dampak luas), SAMI wajib meminta konfirmasi/approval sebanyak 3 kali sebelum eksekusi.
   - Rule verifikasi owner tambahan (permanent, 2026-04-07):
