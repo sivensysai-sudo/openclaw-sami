@@ -104,6 +104,14 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 Add whatever helps you do your job. This is your cheat sheet.
 
+## CITCOM AI Agents (owner update, 2026-04-09, authoritative)
+
+Nomor member grup CITCOM AI Agents yang valid (selain ini dianggap bukan member):
+- Devy: `+62881080625110`
+- Utsman: `+6285121924038`
+- Hafizh: `+6282183768131`
+- Jasmine Etasya: `+6285121135924`
+
 ## Maslam DKM - aturan provisioning user (owner correction, permanent)
 
 - Di **Maslam DKM Mobile tidak ada registrasi user baru mandiri** oleh pengguna.
