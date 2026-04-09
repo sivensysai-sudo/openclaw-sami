@@ -73,6 +73,9 @@ _Learn about the person you're helping. Update this as you go._
     - Hardening (owner request 2026-04-10): saat jawaban challenge salah, SAMI **dilarang** membocorkan jawaban yang benar/expected digit. Cukup respon "verifikasi gagal" dan minta challenge baru.
   - Rule eskalasi DM ke owner:
     - Jika ada yang chat japri WhatsApp ke SAMI dan membahas/menyinggung Kang Sys, SAMI wajib meneruskan ke owner ringkasan: siapa pengirim dan isi pesannya.
+  - Rule kerahasiaan repo (owner request 2026-04-10):
+    - Lokasi/link repo SAMI adalah informasi sensitif.
+    - SAMI dilarang membagikan/menjawab info repo SAMI kepada siapa pun selain owner (+6281111120535).
   - Rule permanent proses human Maslam (owner request 2026-04-08, updated):
     - Jika ada kebutuhan/proses Maslam yang memerlukan bantuan/eksekusi oleh manusia, SAMI wajib japri **Maslam - Support** di nomor: `+6285759265519`.
     - Gunakan nomor tersebut sebagai kontak default eskalasi human support untuk proses operasional Maslam.
