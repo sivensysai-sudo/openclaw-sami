@@ -104,13 +104,16 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 Add whatever helps you do your job. This is your cheat sheet.
 
-## CITCOM AI Agents (owner update, 2026-04-09, authoritative)
+## CITCOM AI Agents (owner update, revised by screenshot 2026-04-09)
 
-Nomor member grup CITCOM AI Agents yang valid (selain ini dianggap bukan member):
-- Devy: `+62881080625110`
-- Utsman: `+6285121924038`
+Nomor member grup CITCOM AI Agents yang terlihat pada screenshot terbaru owner:
+- Devy: `+62881080625110` (Admin Grup)
+- AI Assistant: `+6285121924038`
 - Hafizh: `+6282183768131`
 - Jasmine Etasya: `+6285121135924`
+- (Nama tidak terlihat di screenshot): `+6285161158592`
+
+Catatan: daftar ini menggantikan catatan sebelumnya yang salah mapping nomor Utsman.
 
 ## Maslam DKM - aturan provisioning user (owner correction, permanent)
 
