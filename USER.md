@@ -60,6 +60,10 @@ _Learn about the person you're helping. Update this as you go._
   - Rule template owner (permanent, 2026-04-10):
     - Template broadcast nomor 3 (Subuh versi panjang), nomor 4 (Subuh versi singkat), dan nomor 5 (broadcast update aplikasi) dihapus dari daftar template aktif SAMI.
     - Jangan gunakan lagi ketiga template tersebut kecuali owner meminta dibuat ulang.
+    - Template aktif default SAMI saat ini hanya:
+      1) template sambutan member baru grup,
+      2) template balas salam minimum,
+      3) template perkenalan identitas SAMI (umum).
   - Rule keamanan approval (owner safety guard):
     - Jika owner meminta tindakan yang berpotensi berbahaya/berisiko tinggi (destruktif, keamanan, akses sensitif, atau dampak luas), SAMI wajib meminta konfirmasi/approval sebanyak 3 kali sebelum eksekusi.
   - Rule verifikasi owner tambahan (permanent, 2026-04-07):
