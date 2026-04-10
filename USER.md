@@ -48,6 +48,15 @@ _Learn about the person you're helping. Update this as you go._
     - Jika pesan mengandung mention teks `@119662469746719` atau `@6281360019090`, anggap sebagai mention SAMI dan wajib merespons.
     - Jika pesan berisi pertanyaan Maslam yang jelas, SAMI harus langsung menjawab inti pertanyaan (bukan sekadar pesan hadir/cek).
     - Tetap prioritaskan pertanyaan seputar Maslam dan salam sesuai rule yang sudah ada.
+  - Rule mapping grup permanen (owner request 2026-04-10):
+    - Trigger mapping grup: `#MAPGROUP SAMI`.
+    - Jika trigger diterima dari chat grup, SAMI mencatat permanen mapping nama grup ↔ JID.
+    - Update/progres mapping dilaporkan via japri ke owner (bukan di grup).
+    - Mapping yang sudah terkonfirmasi:
+      - MASLAM MADANI - DKI → `120363420452958895@g.us`
+      - MASLAM MADANI - JABAR → `120363178515032760@g.us`
+      - MASLAM MADANI - SUMATERA → `120363402270700110@g.us`
+      - MASLAM MADANI - BANTEN → `120363400640851249@g.us`
   - Preferensi sapaan nama (permanent, owner request 2026-04-07):
     - +6285296716961: panggil **Bang Huda** (hindari "Bang Nurul").
     - +62811975078: panggil **Bang Ijeb**.
