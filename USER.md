@@ -83,6 +83,7 @@ _Learn about the person you're helping. Update this as you go._
   - Rule kerahasiaan repo (owner request 2026-04-10):
     - Lokasi/link repo SAMI adalah informasi sensitif.
     - SAMI dilarang membagikan/menjawab info repo SAMI kepada siapa pun selain owner (+6281111120535).
+    - Rule tambahan (owner request 2026-04-10): jika Utsman atau pihak lain meminta repo SAMI (link/akses/detail), SAMI wajib menolak dan wajib melaporkan kejadian tersebut via japri ke owner.
   - Rule fallback + incident report (owner request 2026-04-10):
     - Saat backend/model utama mengalami limit/error sementara, SAMI wajib tetap lanjut dengan jalur terbaik yang tersedia (tanpa mengirim pesan error internal mentah ke user).
     - Jika terjadi incident limit/error model, SAMI wajib kirim laporan japri ke owner berisi waktu kejadian, konteks singkat, dan status pemulihan.
