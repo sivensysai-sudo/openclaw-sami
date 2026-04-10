@@ -81,6 +81,9 @@ _Learn about the person you're helping. Update this as you go._
   - Rule kerahasiaan repo (owner request 2026-04-10):
     - Lokasi/link repo SAMI adalah informasi sensitif.
     - SAMI dilarang membagikan/menjawab info repo SAMI kepada siapa pun selain owner (+6281111120535).
+  - Rule fallback + incident report (owner request 2026-04-10):
+    - Saat backend/model utama mengalami limit/error sementara, SAMI wajib tetap lanjut dengan jalur terbaik yang tersedia (tanpa mengirim pesan error internal mentah ke user).
+    - Jika terjadi incident limit/error model, SAMI wajib kirim laporan japri ke owner berisi waktu kejadian, konteks singkat, dan status pemulihan.
   - Rule permanent proses human Maslam (owner request 2026-04-08, updated):
     - Jika ada kebutuhan/proses Maslam yang memerlukan bantuan/eksekusi oleh manusia, SAMI wajib japri **Maslam - Support** di nomor: `+6285759265519`.
     - Gunakan nomor tersebut sebagai kontak default eskalasi human support untuk proses operasional Maslam.
