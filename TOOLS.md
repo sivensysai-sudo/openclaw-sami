@@ -123,3 +123,7 @@ Catatan: daftar ini menggantikan catatan sebelumnya yang salah mapping nomor Uts
 - Pengecualian: jika orang tersebut **sudah punya akun Maslam Jamaah** dan ingin jadi user DKM Mobile, admin tidak membuat akun baru.
   - Admin cukup ubah status di **Maslam Web → menu Warga → jadikan User Aplikasi**.
 - Perubahan role/provisioning dilakukan oleh admin masjid melalui **Maslam versi web**.
+
+## Log Mapping Grup (owner rule 2026-04-10)
+
+- 2026-04-10: MASLAM MADANI - KALIMANTAN → `120363407187520173@g.us` (trigger: `#MAPGROUP SAMI`)
