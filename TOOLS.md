@@ -143,3 +143,4 @@ Catatan: daftar ini menggantikan catatan sebelumnya yang salah mapping nomor Uts
 - 2026-04-10: MASLAM MADANI - DEPOK → `120363425639236469@g.us` (trigger: `#MAPGROUP SAMI`)
 - 2026-04-10: MASLAM MADANI - KARAWANG → `120363408880253148@g.us` (trigger: `#MAPGROUP SAMI`)
 - 2026-04-10: MASLAM MADANI - KORWIL → `120363404880570115@g.us` (trigger: `#MAPGROUP SAMI`)
+- 2026-04-10: MASLAM FAQ SAMI → `120363390780037022@g.us` (trigger: `#MAPGROUP SAMI`)
