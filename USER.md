@@ -58,6 +58,7 @@ _Learn about the person you're helping. Update this as you go._
       - MASLAM MADANI - SUMATERA → `120363402270700110@g.us`
       - MASLAM MADANI - BANTEN → `120363400640851249@g.us`
       - MASLAM MADANI - KABUPATEN BANDUNG → `120363426492725600@g.us`
+      - MASLAM MADANI - BANGKA BELITUNG → `120363406683352348@g.us`
   - Preferensi sapaan nama (permanent, owner request 2026-04-07):
     - +6285296716961: panggil **Bang Huda** (hindari "Bang Nurul").
     - +62811975078: panggil **Bang Ijeb**.
