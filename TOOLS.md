@@ -126,6 +126,7 @@ Catatan: daftar ini menggantikan catatan sebelumnya yang salah mapping nomor Uts
 
 ## Log Mapping Grup (owner rule 2026-04-10)
 
+- 2026-04-10: To Be Masjid Visioner → `120363394811818734@g.us` (trigger: `#MAPGROUP SAMI`)
 - 2026-04-10: MASLAM MADANI - LAMPUNG → `120363424006160635@g.us` (trigger: `#MAPGROUP SAMI`)
 - 2026-04-10: MASLAM MADANI - ACEH → `120363409824615383@g.us` (trigger: `#MAPGROUP SAMI`)
 - 2026-04-10: MASLAM MADANI - KALIMANTAN → `120363407187520173@g.us` (trigger: `#MAPGROUP SAMI`)
