@@ -57,6 +57,7 @@ _Learn about the person you're helping. Update this as you go._
   - Preferensi sapaan nama (permanent, owner request 2026-04-07):
     - +6285296716961: panggil **Bang Huda** (hindari "Bang Nurul").
     - +62811975078: panggil **Bang Ijeb**.
+  - Rule komunikasi CITCOM (owner request 2026-04-10): setiap chat ke Utsman di grup CITCOM AI Agents harus selalu mention nomor Utsman `@6285161158592`.
   - Rule broadcast ke all group (jika diminta owner):
     - Eksekusi bertahap: maksimal 8 group per 10 menit.
     - Untuk setiap batch, gunakan variasi redaksi pesan (parafrase) dengan konteks/inti yang sama agar mengurangi risiko terdeteksi spam.
