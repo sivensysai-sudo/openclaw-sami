@@ -1,0 +1,42 @@
+{
+  "name": "maslam-shared-rag",
+  "version": "v1",
+  "updatedAt": "2026-04-12",
+  "sources": [
+    {
+      "title": "MASLAM TV",
+      "type": "manual",
+      "link": null
+    },
+    {
+      "title": "Kalender Hijriah",
+      "type": "manual",
+      "link": null
+    },
+    {
+      "title": "Panduan Menu Foto Lembaga",
+      "type": "manual",
+      "link": null
+    },
+    {
+      "title": "Panduan Mengatasi Aplikasi Maslam Mobile (Jamaah & DKM) yang Hang atau Menampilkan Layar Biru",
+      "type": "manual",
+      "link": "https://www.instagram.com/reel/DIP9NQ3oHiX/"
+    },
+    {
+      "title": "Panduan Modul Keuangan Aplikasi Maslam",
+      "type": "manual",
+      "link": null
+    },
+    {
+      "title": "Data Koreksi Owner",
+      "type": "policy",
+      "link": null
+    }
+  ],
+  "rules": {
+    "mode": "rag_only_for_maslam",
+    "notFound": "Belum ada di dokumentasi yang tersedia.",
+    "cite": "source_title"
+  }
+}
