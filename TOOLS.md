@@ -158,3 +158,9 @@ Sumber mapping permanen nama grup ↔ JID WhatsApp (trigger: `#MAPGROUP SAMI` / 
 - MASLAM MADANI - SUMATERA SELATAN → `120363430234249773@g.us`
 - MASLAM MADANI - SUMATERA UTARA → `120363406261364099@g.us`
 - To Be Masjid Visioner → `120363394811818734@g.us`
+
+## Pairing Korwil ↔ Grup WA Maslam (operational note, 2026-04-11)
+
+- Koreksi mapping permanen:
+  - Batam/Kepri — Pa Rudi (`+6285364695707`) → **MASLAM MADANI - RIAU** (`120363407403514533@g.us`)
+- Catatan: mapping sebelumnya ke `MASLAM MADANI - SUMATERA` dinyatakan tidak berlaku untuk Batam/Kepri.
