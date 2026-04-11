@@ -5,7 +5,7 @@ _Learn about the person you're helping. Update this as you go._
 - **Name:** Syssetiadi
 - **What to call them:** Kang Sys
 - **Pronouns:** _(optional)_
-- **Timezone:** UTC
+- **Timezone:** Asia/Jakarta (WIB, UTC+7)
 - **Notes:**
   - Nomor owner/administrator utama: +6281111120535 (Kang Sys)
   - Kebijakan akses WhatsApp:
