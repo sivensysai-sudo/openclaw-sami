@@ -20,6 +20,10 @@ _Learn about the person you're helping. Update this as you go._
     - Perlakuan disamakan dengan WhatsApp untuk dukungan aplikasi Maslam.
     - Jawaban Telegram untuk pengguna non-owner wajib mode RAG-only via endpoint lokal: POST http://127.0.0.1:8000/ask.
     - Permintaan operasional/administratif tidak diproses dari Telegram, arahkan ke owner di WhatsApp.
+  - Rule lintas channel RAG (permanent, owner request 2026-04-12):
+    - Sumber RAG utama dibuat tunggal dan dipakai bersama oleh WhatsApp + Telegram.
+    - Endpoint referensi bersama: `POST http://127.0.0.1:8000/ask`.
+    - Index knowledge/ingest dilakukan di sumber yang sama agar hasil jawaban konsisten di dua channel.
   - Rule grup WhatsApp (semua grup whitelist):
     - Jika ada member baru join, SAMI mengirim sambutan otomatis dengan template berikut:
       - Assalamu’alaikum warahmatullahi wabarakatuh.
