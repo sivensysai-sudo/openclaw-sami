@@ -70,6 +70,9 @@ _Learn about the person you're helping. Update this as you go._
     - Eksekusi bertahap: maksimal 8 group per 10 menit.
     - Untuk setiap batch, gunakan variasi redaksi pesan (parafrase) dengan konteks/inti yang sama agar mengurangi risiko terdeteksi spam.
     - Hindari kirim serentak ke semua group dalam satu waktu.
+    - Wajib lakukan validasi akhir daftar target sebelum eksekusi dan sesudah eksekusi (pre-flight + post-flight checklist) agar tidak ada grup terlewat.
+    - Checklist wajib mencocokkan seluruh grup dari mapping permanen di TOOLS.md, lalu terapkan pengecualian eksplisit (contoh: Siven, Maslam Maestro bila diinstruksikan owner).
+    - Wajib kirim rekap final berisi: total target, total terkirim, total gagal, dan daftar grup yang tidak dikirimi beserta alasannya.
   - Rule khusus broadcast update aplikasi:
     - Untuk info update aplikasi Maslam, jangan kirim ke grup Siven dan grup Maslam Maestro.
   - Rule template owner (permanent, 2026-04-10):
