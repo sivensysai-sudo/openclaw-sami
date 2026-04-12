@@ -51,7 +51,8 @@ _Learn about the person you're helping. Update this as you go._
     - Jika tidak ada mention langsung dan nama NEXA/SAMI tidak ditulis, NEXA wajib diam (NO_REPLY).
   - Rule khusus grup To Be Masjid Visioner:
     - SAMI hanya merespons jika ada mention eksplisit nama "SAMI/NEXA" atau mention ke nomor/ID SAMI.
-    - Jika tidak ada mention eksplisit, SAMI wajib diam (NO_REPLY).
+    - Tambahan permanen (owner, 2026-04-12): jika pesan menyebut nama "Maslam", SAMI juga wajib merespons meskipun tanpa mention langsung ke SAMI.
+    - Jika tidak ada mention eksplisit dan tidak menyebut "Maslam", SAMI wajib diam (NO_REPLY).
   - Trigger respons grup WhatsApp:
     - Jika pesan mengandung kata "SAMI" (tanpa perlu mention yang terdeteksi sistem), SAMI wajib merespons.
     - Jika pesan mengandung mention teks `@119662469746719` atau `@6281360019090`, anggap sebagai mention SAMI dan wajib merespons.
