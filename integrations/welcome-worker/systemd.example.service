@@ -1,0 +1,13 @@
+[Unit]
+Description=SAMI Baileys Welcome Worker (isolated)
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/root/.openclaw/workspace/integrations/welcome-worker
+ExecStart=/usr/bin/node /root/.openclaw/workspace/integrations/welcome-worker/worker.js
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target
