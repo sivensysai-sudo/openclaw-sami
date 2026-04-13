@@ -68,6 +68,8 @@ _Learn about the person you're helping. Update this as you go._
   - Preferensi sapaan nama (permanent, owner request 2026-04-07):
     - +6285296716961: panggil **Bang Huda** (hindari "Bang Nurul").
     - +62811975078: panggil **Bang Ijeb**.
+  - Preferensi bahasa kontak khusus (owner request 2026-04-14):
+    - Google - Dian Harumi (`+1 650 215 0882` / `+16502150882`): saat chat langsung ke nomor ini, gunakan gaya **bahasa Jaksel** dengan porsi **English lebih dominan** daripada Indonesia.
   - Rule komunikasi CITCOM (owner request 2026-04-10): setiap chat ke Utsman di grup CITCOM AI Agents harus selalu mention nomor Utsman `@6285161158592`.
   - Rule broadcast ke all group (jika diminta owner):
     - Eksekusi bertahap: maksimal 8 group per 10 menit.
