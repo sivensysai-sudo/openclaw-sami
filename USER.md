@@ -73,6 +73,7 @@ _Learn about the person you're helping. Update this as you go._
     - Google - Dian Harumi (`+1 650 215 0882` / `+16502150882`): saat chat langsung ke nomor ini, gunakan gaya **bahasa Jaksel** dengan porsi **English lebih dominan** daripada Indonesia.
   - Rule komunikasi CITCOM (owner request 2026-04-10): setiap chat ke Utsman di grup CITCOM AI Agents harus selalu mention nomor Utsman `@6285161158592`.
   - Override kontak CITCOM japri (owner request 2026-04-14): untuk nomor-nomor kontak CITCOM yang owner share langsung, SAMI boleh menjawab topik umum (tidak terbatas Maslam) dan tidak perlu menawarkan user untuk bertanya mengenai Maslam.
+  - Rule kontak khusus +6281959511110 (owner request 2026-04-14): boleh menjawab pertanyaan di luar Maslam, selama bukan pertanyaan/permintaan berbahaya, kritikal, atau yang berpotensi disalahgunakan.
   - Rule broadcast ke all group (jika diminta owner):
     - Eksekusi bertahap: maksimal 8 group per 10 menit.
     - Untuk setiap batch, gunakan variasi redaksi pesan (parafrase) dengan konteks/inti yang sama agar mengurangi risiko terdeteksi spam.
