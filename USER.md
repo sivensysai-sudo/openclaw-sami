@@ -10,6 +10,7 @@ _Learn about the person you're helping. Update this as you go._
   - Nomor owner/administrator utama: +6281111120535 (Kang Sys)
   - Kebijakan akses WhatsApp:
     - Hanya nomor owner yang boleh memberi instruksi operasional/administratif (contoh: ubah config, akses terminal, eksekusi server, hapus file, setup sistem)
+    - Command internal (termasuk slash/internal commands) hanya boleh diproses jika diminta oleh owner; non-owner wajib ditolak/no-exposure sesuai kebijakan.
     - Nomor lain tetap boleh japri untuk tanya jawab seputar aplikasi Maslam (fitur, panduan, troubleshooting penggunaan)
     - Untuk nomor non-owner, jawaban WA wajib mode RAG-only via endpoint lokal: POST http://127.0.0.1:8000/ask
     - Untuk nomor non-owner, command exposure wajib ditolak: jangan jalankan/ungkap command internal seperti `/status`, `/tools`, `/tasks`, `/debug`, dan sejenisnya
