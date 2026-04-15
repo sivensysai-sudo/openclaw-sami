@@ -44,6 +44,8 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 - Local knowledge folder: `/opt/maslam-rag/knowledge`
 - Auto sync+ingest cron: `/etc/cron.d/maslam-rag-sync` (every 30 min)
 - Sync script: `/opt/maslam-rag/scripts/sync_and_ingest.sh`
+- Cache link manual guide Idul Adha (Qurban): `/root/.openclaw/workspace/data/manual-guide-idul-adha-links.md`
+- Policy: pakai cache link valid, jangan fetch ulang kecuali ada perubahan/error/dokumen baru atau diminta owner.
 
 ## Koordinator Maslam (owner update, permanent 2026-04-07)
 
