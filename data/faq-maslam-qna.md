@@ -38,3 +38,9 @@ Aplikasi Maslam gratis. Tidak ada biaya penggunaan, termasuk pendampingan dan ba
 
 ## 12) Dari mana pendanaan Maslam berasal?
 Dari komunitas CITCOM (C-Level IT Community) melalui kontribusi finansial dan dukungan sumber daya.
+
+## 15) Apa bentuk legal entity dari Maslam?
+Maslam berbentuk yayasan (lembaga non-profit).
+
+## 16) Orang-orang di balik Maslam
+Gerakan Maslam dipimpin oleh Syssetiadi, yang juga menjabat sebagai CEO Siven Teknologi Informasi dan Ketua CITCOM.
