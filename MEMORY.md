@@ -24,4 +24,8 @@
   - Source attachment: `data/inbound/data_maslam.docx`
   - Extracted cache: `data/inbound/data_maslam.extracted.txt`
   - Synced path in RAG: `/opt/maslam-rag/knowledge/OwnerUploads/data_maslam.docx` dan `/opt/maslam-rag/knowledge/OwnerUploads/data_maslam.extracted.txt`
+- Owner upload knowledge tambahan (2026-04-16):
+  - Source attachment: `data/inbound/7_problematika_masjid.pdf`
+  - Extracted cache: `data/inbound/7_problematika_masjid.extracted.txt`
+  - Synced path in RAG: `/opt/maslam-rag/knowledge/OwnerUploads/7_problematika_masjid.pdf` dan `/opt/maslam-rag/knowledge/OwnerUploads/7_problematika_masjid.extracted.txt`
 - Ingest endpoint remains: `POST http://127.0.0.1:8000/ingest`
