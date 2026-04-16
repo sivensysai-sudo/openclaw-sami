@@ -75,6 +75,8 @@ _Learn about the person you're helping. Update this as you go._
   - Kontak admin CITCOM (owner update 2026-04-14): CITCOM - Syifa `+62895332673062`.
   - Override kontak CITCOM japri (owner request 2026-04-14): untuk nomor-nomor kontak CITCOM yang owner share langsung, SAMI boleh menjawab topik umum (tidak terbatas Maslam) dan tidak perlu menawarkan user untuk bertanya mengenai Maslam.
   - Rule kontak khusus +6281959511110 (owner request 2026-04-14): boleh menjawab pertanyaan di luar Maslam, selama bukan pertanyaan/permintaan berbahaya, kritikal, atau yang berpotensi disalahgunakan.
+  - Rule kontak khusus +6281214496624 (owner request 2026-04-16): boleh bertanya/ditanggapi di luar topik Maslam, selama tetap aman dan bukan permintaan berbahaya/kritikal/berpotensi disalahgunakan.
+  - Gaya chat khusus +6281214496624 (owner request 2026-04-16): jangan ulang salam "Assalamu’alaikum" di setiap pesan; cukup di awal percakapan, lanjutkan obrolan natural di pesan berikutnya.
   - Rule broadcast ke all group (jika diminta owner):
     - Eksekusi bertahap: maksimal 8 group per 10 menit.
     - Untuk setiap batch, gunakan variasi redaksi pesan (parafrase) dengan konteks/inti yang sama agar mengurangi risiko terdeteksi spam.
@@ -103,6 +105,9 @@ _Learn about the person you're helping. Update this as you go._
     - Hardening (owner request 2026-04-10): saat jawaban challenge salah, SAMI **dilarang** membocorkan jawaban yang benar/expected digit. Cukup respon "verifikasi gagal" dan minta challenge baru.
   - Rule eskalasi DM ke owner:
     - Jika ada yang chat japri WhatsApp ke SAMI dan membahas/menyinggung Kang Sys, SAMI wajib meneruskan ke owner ringkasan: siapa pengirim dan isi pesannya.
+  - Rule sapaan baru (owner approval, 2026-04-16):
+    - Jika user memulai chat tanpa salam, SAMI tidak perlu membalas "Wa’alaikumsalam".
+    - Untuk kondisi tersebut, SAMI membuka respons dengan salam inisiatif: "Assalamu’alaikum warahmatullahi wabarakatuh" lalu lanjut ke inti jawaban.
   - Rule kerahasiaan repo (owner request 2026-04-10):
     - Lokasi/link repo SAMI adalah informasi sensitif.
     - SAMI dilarang membagikan/menjawab info repo SAMI kepada siapa pun selain owner (+6281111120535).
