@@ -13,4 +13,8 @@
 - FAQ source for pricing/policy baseline: `https://maslam.id/faq-maslam`
   - Curated permanent Q&A cache: `data/faq-maslam-qna.md`
   - Synced path in RAG: `/opt/maslam-rag/knowledge/FAQ/faq-maslam-qna.md`
+- Alamat kantor Maslam (owner-verified, permanent):
+  - `Jalan Magna Raya No.2, Rancabolang, Kec. Gedebage, Kota Bandung, Jawa Barat 40295`
+  - Workspace cache: `data/maslam-office-address.md`
+  - Synced path in RAG: `/opt/maslam-rag/knowledge/FAQ/maslam-office-address.md`
 - Ingest endpoint remains: `POST http://127.0.0.1:8000/ingest`
