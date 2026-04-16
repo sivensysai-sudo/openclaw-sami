@@ -1,0 +1,5496 @@
+🌐 
+Kenalan
+ 
+dengan
+ SAMI – Support Assistant Maslam Interactive
+
+SAMI (Support Assistant 
+Maslam
+ Interactive) 
+adalah
+ chatbot 
+berbasis
+ AI yang 
+dirancang
+ 
+khusus
+ 
+untuk
+ 
+membantu
+ para 
+pengguna
+ 
+aplikasi
+ 
+Maslam
+. 
+Tujuannya
+ 
+adalah
+ 
+memberikan
+ 
+dukungan
+ 
+cepat
+, 
+interaktif
+, dan 
+akurat
+ 
+kapan
+ pun 
+dibutuhkan
+, 
+sehingga
+ 
+pengurus
+ masjid 
+maupun
+ 
+jamaah
+ 
+dapat
+ 
+menggunakan
+ 
+aplikasi
+ 
+Maslam
+ 
+dengan
+ 
+lebih
+ 
+mudah
+ dan 
+percaya
+ 
+diri
+.
+
+🎯 
+Fungsi
+ dan Peran SAMI
+
+Asisten
+ Digital 24/7
+SAMI 
+selalu
+ 
+siap
+ 
+sedia
+ 
+setiap
+ 
+saat
+ 
+untuk
+ 
+menjawab
+ 
+pertanyaan
+, 
+tanpa
+ 
+perlu
+ 
+menunggu
+ admin 
+atau
+ 
+tim
+ support manual.
+
+Panduan 
+Penggunaan
+ 
+Aplikasi
+
+Memberikan
+ 
+instruksi
+ 
+langkah
+ demi 
+langkah
+ 
+untuk
+ 
+mengoperasikan
+ 
+fitur
+ di 
+aplikasi
+ 
+Maslam
+ DKM 
+maupun
+ Maslam Jamaah.
+
+Menjelaskan
+ 
+fungsi
+ menu 
+seperti
+ 
+keuangan
+, ZISWAF, 
+aset
+, 
+kegiatan
+, 
+hingga
+ 
+laporan
+ 
+Idul
+ Adha dan 
+Idul
+ Fitri.
+
+Solusi Kendala Teknis
+
+Membantu
+ 
+pengguna
+ 
+mengatasi
+ 
+permasalahan
+ 
+umum
+, 
+misalnya
+ 
+aplikasi
+ error, data 
+tidak
+ 
+muncul
+, 
+atau
+ 
+kesulitan
+ login.
+
+Memberikan
+ tips troubleshooting 
+sebelum
+ 
+harus
+ 
+menghubungi
+ 
+tim
+ 
+teknis
+.
+
+Pusat 
+Informasi
+ 
+Maslam
+
+Menyediakan
+ 
+jawaban
+ 
+seputar
+ 
+visi
+, 
+misi
+, 
+serta
+ 
+manfaat
+ 
+aplikasi
+ Maslam.
+
+Memberikan
+ 
+penjelasan
+ 
+mengenai
+ 
+konsep
+ 
+digitalisasi
+ masjid, 
+transparansi
+ 
+keuangan
+, 
+hingga
+ 
+penguatan
+ 
+komunitas
+ 
+jamaah
+.
+
+🤝 
+Keunggulan
+ SAMI
+
+Interaktif
+: 
+Berkomunikasi
+ 
+dengan
+ 
+gaya
+ 
+ramah
+ dan 
+mudah
+ 
+dipahami
+.
+
+Adaptif
+: Mampu 
+menyesuaikan
+ 
+jawaban
+ 
+sesuai
+ 
+konteks
+ 
+pertanyaan
+ 
+pengguna
+.
+
+Berbasis
+ Data Resmi 
+Maslam
+: 
+Informasi
+ yang 
+diberikan
+ 
+terjamin
+ valid 
+karena
+ 
+diambil
+ 
+dari
+ 
+dokumentasi
+ dan 
+sumber
+ internal 
+Maslam
+.
+
+Mudah
+ Diakses: SAMI 
+bisa
+ 
+digunakan
+ 
+langsung
+ di 
+dalam
+ 
+aplikasi
+ 
+Maslam
+ 
+maupun
+ 
+kanal
+ 
+komunikasi
+ lain (WhatsApp, web, 
+atau
+ 
+integrasi
+ lain yang 
+akan
+ 
+dikembangkan
+).
+
+🤖 
+Evolusi
+ Chatbot Maslam: Dari RAG 
+ke
+ Agentic AI
+
+1. Chatbot RAG (Retrieval-Augmented Generation)
+
+Saat 
+ini
+ SAMI 
+sudah
+ 
+dilengkapi
+ 
+kemampuan
+ RAG, 
+artinya
+:
+
+SAMI 
+bisa
+ 
+menjawab
+ 
+pertanyaan
+ 
+berdasarkan
+ 
+dokumentasi
+ 
+resmi
+ 
+Maslam
+ (manual guide, FAQ, 
+panduan
+ 
+fitur
+, 
+dsb
+).
+
+Setiap
+ 
+jawaban
+ 
+lebih
+ 
+akurasi
+ 
+karena
+ 
+merujuk
+ 
+ke
+ 
+sumber
+ yang 
+benar
+, 
+bukan
+ 
+sekadar
+ 
+generatif
+.
+
+Fungsi
+ 
+utamanya
+: 
+menjelaskan
+, 
+memandu
+, dan 
+memberikan
+ 
+solusi
+ 
+berdasarkan
+ 
+pengetahuan
+ yang 
+ada
+.
+
+Contoh
+:
+
+“
+Bagaimana
+ 
+cara
+ input 
+penerimaan
+ ZISWAF di Maslam?”
+→ SAMI 
+menjawab
+ 
+dengan
+ 
+langkah-langkah
+ 
+sesuai
+ manual 
+resmi
+.
+
+ Apa Itu 
+
+Maslam
+ :
+ 
+Maslam
+ 
+secara
+ 
+istilah
+ 
+merupakan
+ 
+akronim
+ dari Masajid Al-Alam, yang berarti "Masjid Seluruh Dunia". Nama ini mencerminkan visi universal untuk menyatukan dan memberdayakan masjid-masjid di seluruh dunia melalui semangat kebersamaan dan inovasi. Filosofi di balik nama Maslam adalah menciptakan koneksi global antar masjid, membangun jaringan kolaboratif, dan mendorong pertumbuhan komunitas yang berlandaskan nilai-nilai Islam.
+Secara terminologi, Maslam awalnya dirancang sebagai sebuah ekosistem digital yang bertujuan untuk mendukung modernisasi masjid melalui penggunaan teknologi. Aplikasi ini memberikan solusi praktis bagi Dewan Kemakmuran Masjid (DKM) untuk mengelola kegiatan masjid, seperti pencatatan keuangan, ziswaf, data jamaah, pengelolaan jadwal shalat, publikasi program masjid, dan interaksi dengan jamaah. Dengan adanya Maslam, DKM dapat meningkatkan efisiensi pengelolaan masjid sekaligus memperkuat hubungan dengan jamaah melalui pendekatan teknologi yang modern.
+Seiring perkembangan, Maslam tidak hanya terbatas pada pengelolaan masjid, tetapi juga telah diperluas untuk mendukung berbagai lembaga lainnya. Lembaga seperti baitul maal, yayasan, pondok pesantren, lembaga pendidikan, dan organisasi keagamaan atau sosial lainnya kini juga dapat menggunakan Maslam sebagai alat bantu manajemen mereka. Dengan fleksibilitas ini, Maslam mampu menyediakan sistem yang relevan dan bermanfaat bagi berbagai jenis institusi yang ingin mengadopsi teknologi untuk meningkatkan tata kelola dan efektivitas operasional mereka.
+Ekspansi Maslam ini menunjukkan komitmen untuk menciptakan dampak yang lebih luas dalam masyarakat, baik di lingkup masjid maupun di luar itu. Dengan terus berkembang dan berinovasi, Maslam tidak hanya menjadi platform teknologi, tetapi juga menjadi bagian dari gerakan yang mendukung modernisasi lembaga Islam dan sosial. Melalui Maslam, teknologi dan nilai-nilai keislaman dapat berjalan seiring untuk membangun sistem manajemen yang lebih efektif, transparan, dan inklusif.
+
+Sejarah Maslam : Maslam didirikan oleh para anggota komunitas IT bernama C-Level IT Community (CITCOM), sebuah komunitas eksklusif yang diwakili langsung oleh para pemimpin tingkat C-Level di perusahaan teknologi terkemuka. CITCOM dikenal tidak hanya sebagai komunitas profesional, tetapi juga sebagai organisasi yang peduli terhadap isu-isu sosial. Beberapa program sosial unggulan mereka antara lain CITCOM Ceria, yang bertujuan membahagiakan anak yatim piatu dan dhuafa melalui kegiatan seperti wisata, makan bersama di restoran, hingga belanja di pusat perbelanjaan. Selain itu, ada pula CITCOM Mandiri, yang memberikan pelatihan IT kepada anak-anak dari keluarga kurang mampu agar mereka bisa mandiri dan memiliki keterampilan di bidang teknologi.
+Meskipun program-program tersebut berdampak positif, CITCOM merasa bahwa dampaknya masih terbatas dan dapat dilakukan oleh komunitas non-IT lainnya. Oleh karena itu, mereka mencari terobosan baru yang lebih spesifik dan selaras dengan keahlian komunitas mereka sebagai profesional IT. Pilihan jatuh pada digitalisasi manajemen masjid, sebuah inisiatif yang sangat relevan dengan tantangan yang dihadapi banyak masjid. Masjid di Indonesia pada umumnya masih menghadapi berbagai masalah, seperti keterbatasan teknologi, pengelolaan manual, kurangnya transparansi keuangan, tidak adanya data demografi jamaah, hingga pencatatan ZISWAF (Zakat, Infak, Sedekah, Wakaf) yang tidak sesuai aturan.
+Maslam lahir sebagai jawaban atas tantangan tersebut dengan pendekatan yang inovatif. Solusi yang ditawarkan Maslam berfokus pada prinsip PERTAMA: Profesional, Efisien, Rinci, Transparan, Akuntabel, Modern, dan Adaptif. Aplikasi ini dirancang untuk mendigitalisasi seluruh aspek manajemen masjid, mulai dari pencatatan keuangan, integrasi data antar bidang, hingga transparansi pengelolaan ZISWAF. Dengan hadirnya Maslam, masjid tidak hanya menjadi tempat ibadah, tetapi juga pusat manajemen komunitas yang modern dan terpercaya.
+Gerakan Maslam dimulai pada bulan Juli 2023 dengan antusiasme tinggi dari masjid-masjid yang menyambut baik solusi ini. Masjid-masjid tersebut menyadari bahwa Maslam menghadirkan solusi yang tepat untuk masalah-masalah yang mereka hadapi. Dengan fitur-fitur yang dirancang secara khusus, Maslam membantu masjid mengatasi masalah teknologi yang tertinggal, pengelolaan manual, hingga keterbatasan dalam integrasi data dan transparansi keuangan.
+Pada tanggal 26 Februari 2024, Maslam resmi menjadi sebuah yayasan non-profit dengan nama Maslam Inovasi Teknologi. Komitmen ini menunjukkan keseriusan para pendirinya untuk menjadikan Maslam sebagai solusi digital yang berkelanjutan dan berdampak besar bagi pengelolaan masjid. Melalui inovasi dan kolaborasi, Maslam terus berkembang menjadi aplikasi yang tidak hanya memenuhi kebutuhan masjid, tetapi juga menjadi langkah awal dalam transformasi digital komunitas umat Islam.
+
+Mengapa Masjid Perlu Menggunakan Aplikasi Maslam?
+
+Aplikasi Maslam hadir dengan satu tujuan utama: mempermudah pengelolaan masjid melalui teknologi digital yang canggih, aman, dan terintegrasi. Kehadiran aplikasi ini lahir dari kenyataan di lapangan bahwa belum ada solusi yang benar-benar mumpuni untuk membantu pengurus masjid mengelola informasi, keuangan, dan program-program masjid dengan efisien dan transparan.
+
+Berikut adalah alasan mengapa aplikasi Maslam menjadi jawaban atas kebutuhan masjid modern:
+
+Masalah yang Dihadapi Masjid dalam Sistem Informasi
+
+Selama ini, banyak masjid menggunakan alat tradisional untuk mencatat dan mengelola data, tetapi masing-masing memiliki keterbatasan yang signifikan:
+
+Buku Catatan Keuangan:
+
+Banyak masjid masih menggunakan buku tulis untuk mencatat transaksi keuangan.
+
+Risiko kehilangan, kerusakan, atau tercecernya data sangat tinggi.
+
+Proses pencatatan manual memakan waktu dan menyulitkan proses pelaporan yang transparan kepada jamaah.
+
+Microsoft Excel:
+
+Beberapa masjid mulai beralih ke Excel untuk pencatatan keuangan.
+
+Namun, file Excel rentan terhadap kerusakan komputer, virus, atau bahkan terhapus secara tidak sengaja.
+
+Tidak adanya fitur backup otomatis membuat data sulit dipulihkan jika terjadi masalah.
+
+Google Sheet:
+
+Google Sheet dianggap sebagai alternatif modern karena datanya tersimpan di cloud.
+
+Namun, Google Sheet memiliki banyak keterbatasan untuk digunakan sebagai sistem informasi masjid: 
+
+Pencatatan Berulang: Tidak ada kontrol untuk menghindari duplikasi data, sehingga risiko kesalahan input sangat tinggi.
+
+Integrasi Data: Google Sheet tidak dapat mengintegrasikan berbagai data masjid seperti data jamaah, donatur, mustahik, atau laporan ZISWAF (Zakat, Infaq, Shadaqah, Wakaf).
+
+Fitur Khusus Masjid: Google Sheet tidak mendukung fitur spesifik seperti pengelolaan kegiatan Idul Fitri, Idul Adha, atau program sosial berbasis keagamaan lainnya.
+
+Software Akuntansi:
+
+Banyak program akuntansi yang tersedia di pasaran, tetapi hampir semuanya dirancang untuk kebutuhan perusahaan, bukan masjid.
+
+Program ini tidak memiliki fitur penting seperti: 
+
+Jamaah, donator, mustahik dan demographi jamaah
+
+Pencatatan ZISWAF sesuai aturan syariah.
+
+Pengelolaan data jamaah, donatur, dan mustahik.
+
+Menu untuk kegiatan khusus masjid seperti pengelolaan kurban atau program Ramadhan.
+
+Maslam Hadir untuk Menjawab Kebutuhan Masjid
+
+Menyadari berbagai keterbatasan di atas, Maslam dirancang khusus untuk memenuhi kebutuhan unik pengelolaan masjid. Berikut adalah keunggulan Maslam:
+
+Pengelolaan Keuangan yang Terintegrasi dan Aman:
+
+Semua transaksi keuangan masjid, termasuk penerimaan dan distribusi ZISWAF, dicatat dengan rapi dan otomatis di aplikasi.
+
+Data tersimpan aman di cloud, sehingga tidak perlu khawatir akan kehilangan atau kerusakan file.
+
+Data Jamaah yang Lengkap dan Informatif:
+
+Maslam menyediakan fitur untuk mencatat data jamaah, donatur, dan mustahik.
+
+Pengurus masjid dapat memahami demografi jamaah mereka, mulai dari status ekonomi, tingkat pendidikan, hingga keterlibatan jamaah dalam ibadah di masjid.
+
+Fitur Khusus Masjid:
+
+Maslam memiliki menu yang dirancang khusus untuk kebutuhan masjid, seperti: 
+
+Pengelolaan kurban saat Idul Adha.
+
+Program Ramadhan, seperti distribusi zakat fitrah dan buka puasa bersama.
+
+Pengelolaan program sosial berbasis keagamaan.
+
+Transparansi dan Kepercayaan:
+
+Maslam membantu pengurus masjid menyajikan laporan keuangan yang transparan kepada jamaah, sehingga membangun kepercayaan dan meningkatkan partisipasi jamaah.
+
+Mudah Digunakan dan Fleksibel:
+
+Aplikasi ini dirancang agar mudah digunakan oleh pengurus masjid, bahkan bagi yang tidak memiliki latar belakang IT.
+
+Maslam juga memberikan kebebasan kepada masjid untuk menggunakan fitur sesuai kebutuhan. Masjid dapat memilih untuk tidak menginput data jamaah jika merasa tidak diperlukan.
+
+Jangkauan Luas:
+
+Maslam telah digunakan oleh ratusan masjid di seluruh Indonesia, dari Aceh hingga Papua.
+
+Keberhasilan ini menunjukkan bahwa Maslam mampu beradaptasi dengan kebutuhan masjid di berbagai wilayah, dari masjid besar di kota hingga masjid kecil di pelosok.
+
+Maslam Tidak Wajib, Tetapi Sangat Direkomendasikan
+
+Maslam tidak memaksakan penggunanya untuk mengadopsi aplikasi ini. Keputusan untuk menggunakan Maslam sepenuhnya diserahkan kepada masing-masing masjid. Namun, berdasarkan pengalaman dari ratusan masjid yang telah menggunakannya, aplikasi ini terbukti mampu memberikan solusi nyata atas berbagai permasalahan yang dihadapi pengurus masjid.
+
+Maslam adalah alat bantu yang dirancang untuk mempermudah, bukan membebani. Dengan menggunakan aplikasi ini, masjid dapat lebih fokus pada misi utamanya: memakmurkan jamaah dan masyarakat sekitar.
+
+Kesimpulan: Mengapa Harus Maslam?
+
+Maslam hadir karena kebutuhan nyata akan aplikasi yang mampu menjawab tantangan pengelolaan masjid secara modern, transparan, dan efisien. Dengan fitur-fitur yang dirancang khusus untuk masjid, Maslam menjadi solusi yang ideal untuk pengelolaan keuangan, data jamaah, dan program masjid.
+
+Aplikasi ini tidak hanya membantu pengurus masjid, tetapi juga menjawab kebutuhan jamaah akan transparansi dan kepercayaan. Dengan jangkauan yang terus berkembang di seluruh Indonesia, Maslam siap menjadi mitra digitalisasi masjid, membantu membawa masjid ke era baru yang lebih modern dan terorganisir.
+
+Pilihan ada di tangan Anda: apakah ingin menggunakan alat modern ini atau tetap dengan cara lama. Namun, jika tujuan Anda adalah kemudahan, transparansi, dan efisiensi, Maslam adalah jawabannya.
+
+Platform Maslam / Kategori Aplikasi Maslam / Jenis Aplikasi Maslam
+
+Platform Maslam terdiri dari berbagai aplikasi yang saling terintegrasi untuk mendukung manajemen masjid dan lembaga. Berikut adalah komponen utama dari Platform Maslam:
+
+Maslam Web Apps DKM
+Aplikasi berbasis web untuk pengelolaan system informasi masjid dan lembaga oleh pengurus.
+
+Maslam Mobile Apps DKM
+Aplikasi berbasis mobile untuk pengelolaan system informasi masjid dan lembaga oleh pengurus.
+
+Maslam Mobile Apps Jamaah
+Aplikasi mobile yang memungkinkan jamaah mengakses informasi masjid, termasuk laporan keuangan, jadwal shalat, dan program-program masjid serta informasi lainnya.
+
+Maslam TV
+Platform untuk menampilkan informasi visual di layar TV masjid, seperti jadwal shalat, program masjid, laporan keuangan, dan konten Islam yang relevan bagi jamaah.
+
+Dengan kombinasi ini, Platform Maslam menawarkan solusi terpadu yang mendukung pengelolaan masjid secara efisien serta memudahkan jamaah dalam mengakses informasi penting.
+
+Berikut adalah fitur-fitur yang tersedia di Maslam DKM:
+
+Dashboard Keuangan
+Menampilkan ringkasan keuangan masjid, termasuk pendapatan, pengeluaran, dan laporan keuangan lainnya disertai tampilan grafik / chart.
+
+Dashboard Warga
+Menampilkan data dan statistik mengenai warga atau jamaah masjid, termasuk informasi demografis warga, disertai tampilan grafik / chart.
+
+Dashboard Idul Adha
+Memudahkan pengelolaan dan pelaporan kegiatan serta keuangan terkait dengan perayaan Idul Adha dan Kurban, disertai tampilan grafik / chart.
+
+Profile
+Mengelola informasi profil masjid/lembaga dan pengurus.
+
+Kegiatan
+Mengelola dan memantau kegiatan yang diselenggarakan oleh masjid/lembaga.
+
+Warga / Jamaah
+Mengelola data jamaah.
+
+Aset
+Menyimpan dan mengelola informasi terkait aset masjid.
+
+Inventory
+Memantau dan mengelola stok barang.
+
+Ziswaf
+Menangani zakat, infak, sedekah, dan wakaf yang dikelola oleh masjid.
+
+Keuangan
+Pengelolaan seluruh aspek keuangan masjid, termasuk pencatatan dan pelaporan.
+
+Idul Fitri
+Memfasilitasi pengelolaan kegiatan dan keuangan terkait perayaan Idul Fitri.
+
+Idul Adha
+Mengelola kegiatan dan dana terkait perayaan Idul Adha.
+
+eApproval
+Fitur untuk memberikan persetujuan secara elektronik terhadap berbagai permintaan dan keputusan administratif.
+
+Administrative Tools
+Alat bantu administratif untuk memudahkan pengelolaan masjid, seperti pengaturan user, hak akses, dan laporan.
+
+Berikut adalah fitur-fitur yang tersedia di Maslam Jamaah, yang dirancang untuk memenuhi kebutuhan jamaah dalam mengakses informasi dan berinteraksi dengan masjid atau lembaga: 
+
+Pencarian Masjid/Lembaga Terdekat
+Mempermudah jamaah menemukan masjid atau lembaga di sekitar lokasi mereka.
+
+Pencarian Kajian/Kegiatan 
+Jamaah dapat mencari informasi terkait kajian atau kegiatan yang diadakan di masjid/lembaga terdekat atau masjid tempat mereka terdaftar sebagai jamaah.
+
+Pencarian Fasilitas 
+Memungkinkan jamaah menemukan fasilitas yang disediakan oleh masjid/lembaga, seperti aula, parkir, perpustakaan, dan lainnya.
+
+Melihat Data Jamaah Lain
+Jamaah dapat melihat data anggota lain yang juga terdaftar di masjid yang sama (dengan pengaturan privasi).
+
+Informasi Aset 
+Jamaah dapat mengakses informasi tentang aset-aset masjid/lembaga tempat mereka terdaftar.
+
+Laporan Keuangan 
+
+Jamaah dapat melihat laporan keuangan masjid/lembaga tempat mereka terdaftar.
+
+Jamaah juga dapat mengakses laporan keuangan dari masjid/lembaga lain yang memilih untuk mempublikasikan laporan keuangannya.
+
+Informasi Idul Fitri
+Menampilkan informasi seperti jadwal shalat Id, lokasi, dan kegiatan terkait Idul Fitri.
+
+Informasi Idul Adha
+Memuat informasi tentang shalat Idul Adha, kegiatan, dan pemesanan hewan kurban.
+
+Pemesanan Hewan Kurban
+Fasilitas untuk memesan hewan kurban secara online melalui masjid atau lembaga.
+
+Jadwal Shalat
+Menampilkan jadwal shalat harian yang terintegrasi dengan lokasi jamaah.
+
+Tabungan Kurban
+Jamaah dapat memantau tabungan kurban yang telah disimpan, termasuk riwayat pembayaran.
+
+Riwayat ZISWAF
+Jamaah dapat melihat riwayat donasi Zakat, Infak, Sedekah, Wakaf, dan riwayat sebagai mustahik.
+
+Fitur-Fitur Tambahan yang Akan Dikembangkan
+
+Pencatatan Puasa: Mempermudah jamaah mencatat ibadah puasa yang telah dilakukan.
+
+Arah Kiblat: Menyediakan informasi arah kiblat dengan fitur kompas.
+
+Doa Harian: Koleksi doa-doa harian yang dapat diakses oleh jamaah.
+
+Fitur-fitur lainnya yang sedang direncanakan untuk meningkatkan pengalaman jamaah.
+
+Penambahan fitur laporan keuangan ini bertujuan untuk memberikan transparansi dan kemudahan akses bagi jamaah, baik untuk masjid/lembaga tempat mereka terdaftar maupun masjid/lembaga dengan laporan keuangan publik.
+
+Tipe Masjid yang Bisa Menggunakan Aplikasi Maslam 
+
+Semua tipe masjid dapat menggunakan aplikasi Maslam. Mulai dari mushola, masjid biasa, masjid jami, masjid bersejarah, masjid perkantoran, masjid sekolah, masjid kampus, masjid raya, masjid agung, masjid nasional, masjid negara, dan berbagai tipe masjid lainnya dapat memanfaatkan fitur-fitur yang disediakan oleh aplikasi ini.
+Maslam dirancang untuk menjadi solusi yang fleksibel dan dapat disesuaikan dengan berbagai kebutuhan dan skala masjid. Dengan demikian, aplikasi ini dapat digunakan oleh berbagai jenis masjid, baik yang berukuran kecil maupun besar, serta berbagai tujuan dan fungsi.
+
+Selain Masjid Maslam bisa dipergunakan untuk Berbagai Lembaga
+
+Maslam tidak hanya untuk masjid, tetapi juga dapat digunakan oleh Baitul Maal, yayasan, pondok pesantren, lembaga pendidikan, dan lembaga sosial lainnya. Maslam membantu mengelola keuangan, ZISWAF, administrasi, aset, dan program secara efisien, transparan, dan profesional.
+
+Keunggulan Maslam mencakup digitalisasi data, transparansi laporan, dan fleksibilitas yang dapat disesuaikan dengan kebutuhan lembaga. Dengan Maslam, berbagai lembaga dapat meningkatkan kinerja dan modernisasi pengelolaan mereka, mendukung misi sosial, keagamaan, dan pendidikan secara lebih optimal.
+
+Apakah Maslam aman digunakan?
+
+Ya, Maslam dirancang dengan keamanan yang tinggi.
+
+Kami mengambil langkah-langkah keamanan modern, termasuk:
+
+Pengaturan Akses Berbasis Peran: Pengguna diberikan akses sesuai peran mereka dalam pengelolaan masjid, mengurangi risiko pengaksesan tidak sah.
+
+Program Bug Hunter: Maslam aktif berpartisipasi dalam program bug hunter, di mana para ahli keamanan independen dapat melaporkan dan mendeteksi potensi kerentanan keamanan. Ini membantu kami memastikan keamanan aplikasi dari perspektif eksternal.
+
+Backup Harian: Database Maslam di backup setiap hari dan disimpan di tempat terpisah. Hal ini dilakukan untuk memastikan bahwa data masjid Anda dapat dipulihkan dengan cepat dan tepat jika terjadi suatu kejadian yang tidak diinginkan.
+
+Kami berkomitmen untuk memberikan lingkungan yang aman dan andal bagi pengguna Maslam, serta terus melakukan upaya untuk meningkatkan keamanan aplikasi ini.
+
+Penyimpanan Data Aplikasi Maslam
+
+Aplikasi ini menyimpan data di cloud dan tidak mendukung penyimpanan on premise di masing-masing masjid. Keputusan ini diambil karena implementasi on premise di ribuan atau puluhan ribu masjid bisa menjadi tugas yang sangat rumit, cost yang mahal dan memakan waktu.
+
+Dengan menggunakan penyimpanan di cloud, Maslam dapat memberikan akses yang cepat, skalabilitas, dan manajemen data yang lebih efisien. Hal ini memastikan pengguna dapat dengan mudah mengakses dan mengelola data mereka tanpa harus memikirkan infrastruktur teknis yang kompleks di masing-masing lokasi masjid.
+
+Kemampuan Kustomisasi Aplikasi Maslam
+
+Saat ini, kemampuan kustomisasi aplikasi Maslam untuk memenuhi keperluan masing-masing masjid masih terbatas. Namun, tujuan utama kami adalah memastikan bahwa aplikasi ini dapat digunakan sebanyak mungkin masjid. Meskipun belum memungkinkan kustomisasi yang mendalam sesuai keunikan setiap masjid, Maslam telah dirancang dengan fleksibilitas tinggi sehingga dapat mengatasi berbagai kebutuhan umum di dalam masjid.
+
+Dengan pendekatan ini, kami berharap dapat menyediakan solusi yang efektif dan bermanfaat bagi sebanyak mungkin masjid, sambil terus meningkatkan dan memperluas fitur-fitur yang tersedia.
+
+Apakah masjid lain bisa melihat data masjid saya?
+
+Tidak, Maslam dirancang dengan sistem hak akses yang ketat. Setiap masjid memiliki hak akses yang terpisah dan terkendali dengan baik. Ini berarti bahwa data masjid Anda hanya dapat diakses oleh pihak yang memiliki izin dan hak akses yang sah.
+
+Dengan penerapan sistem hak akses ini, privasi dan keamanan data masjid Anda dijaga dengan baik. Masjid lain tidak dapat melihat atau mengakses data dari masjid Anda, memastikan bahwa informasi yang sensitif tetap bersifat pribadi dan terlindungi.
+
+Apakah pihak Maslam bisa melihat data masjid saya?
+
+Sejujurnya, pihak Maslam memiliki kemampuan untuk melihat data masjid Anda. Namun, penting untuk diingat bahwa kami bertanggung jawab menjaga kerahasiaan dan keamanan data Anda.
+
+Kami mengambil serius kewajiban untuk melindungi informasi yang disimpan dalam aplikasi. Perlu dicatat bahwa meskipun kami dapat melihat data masjid, password pengguna dienkripsi satu arah, yang berarti kami tidak dapat melihat atau mendapatkan akses ke password pengguna. Ini dirancang untuk menjamin tingkat keamanan yang tinggi dan memberikan kepercayaan kepada pengguna bahwa informasi login mereka tetap aman.
+
+Kami berkomitmen untuk menjaga kerahasiaan data masjid Anda dan mengambil semua langkah yang diperlukan untuk melindungi privasi dan keamanan informasi yang disimpan dalam platform Maslam.
+
+Berapa biaya untuk menggunakan aplikasi ini?
+
+Aplikasi ini benar-benar gratis! Tidak ada biaya yang terkait dengan penggunaan Maslam, termasuk fasilitas pendampingan dan bantuan teknis. Kami berkomitmen untuk menyediakan alat yang bermanfaat dan berguna bagi masjid tanpa membebankan biaya kepada penggunanya.
+
+Sebagai tambahan, pihak Maslam juga menyediakan layanan pendampingan secara gratis. Tim kami siap membantu Anda memahami dan menggunakan aplikasi ini dengan optimal, sehingga Anda dapat memaksimalkan manfaatnya sesuai kebutuhan masjid Anda.
+
+Kami yakin bahwa dengan menyediakan Maslam secara gratis, kami dapat mendukung kemajuan dan efisiensi pengelolaan masjid di berbagai komunitas tanpa hambatan finansial.
+
+Darimana pendanaan Maslam berasal?
+
+Pendanaan Maslam berasal dari para anggota komunitas CITCOM (C-Level IT Community). Mereka tidak hanya berperan sebagai donatur finansial, tetapi juga sebagai kontributor aktif yang menyumbangkan berbagai bentuk dukungan, seperti:
+
+Kontribusi finansial: Anggota komunitas menyumbangkan dana untuk pengembangan dan pemeliharaan aplikasi Maslam.
+
+Sumber daya manusia: Berbagai anggota komunitas menyumbangkan waktu dan tenaga mereka sebagai pengembang, tester, dan dalam peran lainnya.
+
+Keilmuan: Anggota komunitas berbagi pengetahuan dan keahlian mereka dalam pengembangan dan pengelolaan aplikasi.
+
+Pikiran: Ide-ide dan umpan balik dari komunitas membantu dalam pengembangan dan peningkatan berkelanjutan Maslam.
+
+Tempat dan sumber daya lainnya: Beberapa anggota komunitas mungkin juga menyediakan fasilitas, infrastruktur, atau sumber daya lain yang dibutuhkan untuk pengembangan Maslam.
+
+Dengan kolaborasi dari berbagai lapisan komunitas, Maslam dapat terus dikembangkan dan disediakan secara gratis untuk mendukung pengelolaan masjid di berbagai tempat. Ini merupakan contoh bagaimana kerjasama komunitas dapat menciptakan solusi yang bermanfaat bagi masyarakat.
+
+Apakah Maslam akan menerima donasi diluar member CITCOM?
+
+Ya, Maslam memiliki kebijakan untuk menerima donasi dari pihak yang bukan anggota CITCOM. Dan saat ini, Maslam sudah membuka pintu untuk penerimaan donasi dari pihak eksternal untuk kebutuhan dan strategi pengembangan aplikasi.
+
+Perlu diingat bahwa donasi di sini merujuk pada sumbangan sukarela tanpa patokan nilai tertentu. Ini berbeda dengan biaya langganan, di mana akses ke aplikasi dapat ditutup jika biaya tersebut tidak dibayarkan. Saat ini, Maslam tetap berkomitmen untuk menyediakan layanan secara gratis dan membuka peluang donasi untuk mendukung kelangsungan dan pengembangan masa depan aplikasi ini.
+
+Apakah Maslam akan menerima investor bisnis?
+
+Tidak, Maslam memiliki kebijakan untuk tidak menerima investasi pihak lain yang memiliki kepentingan bisnis. Keputusan ini diambil untuk menjaga keamanan dan kerahasiaan data masjid.
+
+Dengan tidak melibatkan investor eksternal, kami dapat memastikan bahwa data masjid tetap aman dan tidak digunakan untuk kepentingan bisnis. Keamanan dan privasi data pengguna Maslam tetap menjadi prioritas utama, dan kebijakan ini dirancang untuk menjaga integritas dan tujuan awal pengembangan aplikasi ini sebagai alat yang bermanfaat untuk pengelolaan masjid. 
+
+Pengumuman
+ 
+untuk
+ 
+Pendatang
+ Baru di Maslam 
+Selamat datang kepada pengguna baru Maslam! Untuk mengakses aplikasi, silakan gunakan email yang telah didaftarkan, dan password telah kami kirimkan ke email tersebut.
+
+Berikut pilihan aplikasi Maslam yang tersedia:
+
+1. Maslam Versi Web: Untuk akses web, gunakan https://apps.maslam.id/, aplikasi ini dirancang bagi user DKM untuk menginput data masjid.
+
+2. Maslam DKM Versi Mobile: Bisa diunduh di https://play.google.com/store/apps/details?id=com.maslam.maslambackendapp untuk perangkat mobile dan memiliki fungsi yang sama dengan versi web.
+
+3. Maslam Mobile: Untuk jamaah masjid yang ingin melihat informasi masjid yang telah diinput oleh DKM, aplikasi ini bisa diunduh di https://play.google.com/store/apps/details?id=com.maslam.maslamfrontendapp.
+
+Kami juga menyediakan pelatihan dan pendampingan online bersama staf Maslam, Kang Ghifar. Tim kami siap membantu Anda hingga memahami penggunaan aplikasi ini, Insya Allah, silahkan hubungi di nomor wa 085759265519 
+
+Untuk panduan lebih lanjut, silakan cek tutorial di YouTube Maslam : https://youtu.be/kI2_R3ogvGI?si=2RBZivjNxSJHtRrY
+
+Salam Takzim
+Maslam
+
+Istilah Strategis dalam Ekosistem Maslam:
+
+Istilah-istilah dalam ekosistem Maslam dirancang untuk menciptakan identitas yang kuat sekaligus mempermudah pemahaman peran dan tanggung jawab setiap pihak yang terlibat. Dengan menggunakan istilah yang spesifik dan penuh makna, Maslam tidak hanya memberikan pengakuan terhadap kontribusi individu atau kelompok, tetapi juga memperkuat rasa kebersamaan dalam mendukung digitalisasi manajemen masjid. Selain itu, istilah-istilah ini menjadi alat komunikasi yang efektif untuk menyampaikan visi besar Maslam kepada masyarakat luas, membangun citra profesional, dan menciptakan kesan mendalam terhadap setiap elemen dalam ekosistemnya.
+
+Berikut adalah istilah-istilah penting dalam Maslam yang menggambarkan peran masing-masing pihak:  
+
+MASLAM MADINAH (Maslam Digital Innovators and Architects for High Impact): Para pendiri, kontributor utama, dan penggerak inovasi digital di Maslam. Mereka adalah arsitek di balik visi besar Maslam, memastikan platform ini terus berkembang untuk mendukung digitalisasi manajemen masjid.  
+
+MASLAM MAESTRO (Maslam Advanced Engineering Squad for Technology and Research Operations): Tim pengembang teknologi Maslam yang terdiri dari berbagai spesialis, seperti UI/UX, manajemen produk, pengembang web dan mobile, backend, fullstack, DevOps, QA, hingga keamanan siber. Mereka menciptakan harmoni teknologi untuk memberikan pengalaman terbaik bagi pengguna.  
+
+MASLAM MASIF (Maslam Influencer): Individu atau komunitas atau Lembaga yang aktif mempromosikan manfaat Maslam ke masyarakat luas. MASIF adalah duta inspirasi yang memperluas jangkauan platform ini.  
+
+MASLAM SAMI (Support Assistant Maslam Interactive): Chatbot interaktif yang membantu pengguna memahami dan menggunakan aplikasi Maslam dengan mudah. SAMI memberikan solusi cepat dan informatif kapan pun dibutuhkan.  
+
+MASLAM MADANI (Maslam Digital Navigator): Para pengguna Maslam di masjid-masjid yang berperan sebagai pejuang digital sesungguhnya. Mereka adalah garda terdepan yang mengarahkan dan mengelola digitalisasi masjid, memastikan bahwa teknologi digunakan secara maksimal untuk mempermudah operasional dan meningkatkan efisiensi manajemen masjid. Sebagai navigator digital, mereka membantu membawa masjid ke era digital dengan semangat inovasi dan perubahan.  
+
+Dengan adanya istilah-istilah strategis ini, Maslam tidak hanya menciptakan struktur yang jelas dalam ekosistemnya, tetapi juga membangun semangat kolaborasi dan inovasi di antara para pendukungnya. Setiap istilah mewakili peran penting dalam perjalanan Maslam untuk memajukan digitalisasi manajemen masjid, sekaligus menjadi pengingat bahwa transformasi besar hanya dapat tercapai melalui kerja sama yang harmonis dan visi yang terarah. Mari bersama-sama menjadikan Maslam sebagai simbol perubahan positif untuk masa depan masjid yang lebih modern dan efisien.
+
+6. MASLAM MATRIX (Maslam Training and Implementation Experts), bertugas membantu mengedukasi pengguna Maslam melalui pelatihan langsung maupun online, membimbing proses instalasi, konfigurasi, dan adopsi platform secara efektif. Selain itu, MATRIX memberikan dukungan pasca-pelatihan untuk memastikan kelancaran penggunaan, sekaligus berperan sebagai jembatan antara Maslam dan komunitas dalam menyebarkan pengetahuan dan memperluas pemahaman tentang digitalisasi manajemen masjid.
+
+7. MASLAM CIRCLE (Committed Investors Rallying for Community Life Empowerment) 
+
+  - Committed: Menunjukkan dedikasi dan komitmen para donatur dalam mendukung tujuan-tujuan mulia Maslam.  
+
+  - Investors: Menggambarkan peran donatur sebagai "investor sosial" yang berkontribusi untuk keberlanjutan program Maslam.  
+
+  -  Rallying: Melibatkan upaya kolektif, di mana semua donatur bersatu, bergerak bersama, dan saling mendukung untuk menciptakan dampak positif.  
+
+  - Community Life Empowerment: Fokus utama CIRCLE adalah memberdayakan kehidupan masyarakat melalui program-program Maslam yang inovatif dan berdampak.  
+
+Dengan menjadi bagian dari CIRCLE, donatur tidak hanya berkontribusi secara finansial, tetapi juga menjadi bagian dari gerakan besar yang mendukung perubahan sosial berkelanjutan. CIRCLE adalah lingkaran kebaikan yang terus berputar, membawa manfaat nyata bagi umat dan masyarakat luas.
+
+4 Jari untuk 4 Pilar Kemasjidan:
+
+Simbol 4 Jari ini menyampaikan sebuah pesan mendalam tentang komitmen bersama untuk memajukan peradaban umat melalui 4 Pilar Kemasjidan. Ini bukan hanya sekadar simbol, tetapi sebuah pesan mendalam tentang pentingnya peran masjid dalam membangun umat melalui 4 Pilar Kemasjidan:  
+
+1. Baitullah, masjid sebagai pusat ibadah, tempat umat berkomunikasi dengan Allah, memperkuat ketakwaan, dan membangun spiritualitas.  
+
+2. Baitul Tarbiyah, pilar pendidikan dan pembinaan umat. Masjid menjadi pusat edukasi, membentuk generasi Islam yang berilmu dan berakhlak mulia.  
+
+3. Baitul Maal, mengelola zakat, infak, sedekah, dan wakaf, masjid membantu meringankan beban sesama dan menjadi tempat distribusi keberkahan untuk kesejahteraan umat.  
+
+4. Baitul Muamalah, pusat interaksi sosial dan ekonomi umat.  Masjid sebagai wadah pemberdayaan ekonomi syariah dan hubungan sosial yang harmonis..  
+
+Simbol empat jari ini adalah komitmen untuk memaksimalkan peran masjid sebagai mercusuar peradaban Islam. Semoga pesan ini menginspirasi masjid-masjid di seluruh dunia untuk menghidupkan kembali keempat pilar ini. Bersama kita wujudkan masjid sebagai pusat kebangkitan umat!
+
+Pendiri /Founder Maslam
+
+Gerakan ini dipimpin oleh Syssetiadi, yang juga menjabat sebagai CEO dari Siven Teknologi Informasi. Beliau tidak hanya sebagai penggerak utama di Maslam, tetapi juga menjabat sebagai Ketua CITCOM (C-Level IT Community), sebuah komunitas IT yang diwakili langsung oleh para C-level dari masing-masing perusahaan IT terkemuka.
+
+Syssetiadi ditemani oleh beberapa tokoh kunci yang turut aktif dalam pergerakan ini, antara lain:
+
+Setyagus Sucipto, CEO dari iCreativeLabs
+
+Eka Sutresna, CEO dari Bounga Solusi Informatika
+
+Umar Alhabsyi, CEO dari Millennia Solusi
+
+Yogi Arjan, COO dari Walden Global Services
+
+Chalid Kurdi, CHRO dari Walden Global Services
+
+Andri Kurniawan, CEO dari Jagad Kreatif Nusantara
+
+Sriyanto Massri, CEO dari Neuronworks Indonesia
+
+Hasan Taufig, CBDO dari Swamedia Informatika
+
+Deddy Novrandianto, CEO dari Motiolabs Digital Indonesia
+
+Ahmad Karamah, CEO dari Trinix System Indonesia
+
+Pringgo Digdo, CEO dari Cyber Army Indonesia
+
+Anton Herutomo, CEO dari AI Labs
+
+Ibnu Wardy, Founder GITS Indonesia
+
+Vicky Anggara, CEO dari Teknologi Integrasi Informatika
+
+Mereka bersama-sama membentuk tim yang 
+kompeten
+ dan 
+berkomitmen
+ 
+untuk
+ 
+mengembangkan
+ 
+serta
+ 
+mendukung
+ 
+keberhasilan
+ 
+Maslam
+ 
+dalam
+ 
+menyediakan
+ 
+solusi
+ 
+pengelolaan
+ masjid yang 
+efisien
+ dan 
+bermanfaat
+. 
+
+Syssetiadi: 
+Inisiator
+ dan Founder CITCOM & Maslam
+
+Pemimpin
+ 
+Inovatif
+ di Dunia IT dan 
+Digitalisasi
+ Masjid
+
+Syssetiadi 
+adalah
+ 
+seorang
+ 
+tokoh
+ visioner di 
+bidang
+ 
+teknologi
+ 
+informasi
+ yang 
+dikenal
+ 
+sebagai
+ 
+inisiator
+ dan founder 
+dari
+ dua 
+inisiatif
+ 
+besar
+, 
+yaitu
+ CITCOM dan 
+Maslam
+. 
+Dengan
+ 
+pengalaman
+ 
+luas
+ 
+dalam
+ dunia IT, 
+ia
+ 
+terus
+ 
+mendorong
+ 
+kolaborasi
+ dan 
+digitalisasi
+ 
+untuk
+ 
+menciptakan
+ 
+dampak
+ yang 
+lebih
+ 
+besar
+ 
+bagi
+ 
+industri
+ dan 
+masyarakat
+.
+
+CITCOM: 
+Membangun
+ 
+Ekosistem
+ 
+Kolaboratif
+ Perusahaan IT
+
+Sebagai
+ 
+inisiator
+ dan founder CITCOM, Syssetiadi 
+menciptakan
+ 
+komunitas
+ yang 
+menjadi
+ 
+wadah
+ 
+bagi
+ 
+perusahaan-perusahaan
+ IT 
+untuk
+ 
+berjejaring
+, 
+belajar
+, dan 
+berkolaborasi
+. CITCOM 
+lahir
+ 
+dari
+ 
+visi
+ 
+bahwa
+ 
+sinergi
+ 
+antarperusahaan
+ 
+dapat
+ 
+menghasilkan
+ 
+nilai
+ 
+lebih
+ 
+besar
+ 
+dibandingkan
+ 
+persaingan
+ 
+semata
+.
+
+Di 
+bawah
+ 
+kepemimpinannya
+, CITCOM 
+telah
+:
+✅ 
+Mendorong
+ 
+kerja
+ 
+sama
+ 
+antaranggota
+ 
+dengan
+ 
+nilai
+ 
+mencapai
+ 
+puluhan
+ 
+miliar
+ rupiah
+✅ 
+Menekankan
+ 
+nilai
+ Friendship, Learn, Collaboration, dan Impact 
+dalam
+ 
+setiap
+ 
+kegiatan
+
+✅ 
+Membantu
+ 
+perusahaan-perusahaan
+ IT 
+berkembang
+ 
+melalui
+ 
+kemitraan
+ 
+strategis
+ dan 
+berbagi
+ 
+wawasan
+
+Keberhasilan
+ CITCOM 
+membuktikan
+ 
+bahwa
+ 
+dengan
+ 
+membangun
+ 
+komunitas
+ 
+berbasis
+ 
+kolaborasi
+, 
+perusahaan
+ IT 
+dapat
+ 
+tumbuh
+ 
+lebih
+ 
+cepat
+ dan 
+lebih
+ 
+kuat
+ 
+secara
+ 
+bersama-sama
+.
+
+Maslam
+: 
+Digitalisasi
+ 
+Manajemen
+ Masjid
+
+Selain 
+berperan
+ di CITCOM, Syssetiadi juga 
+merupakan
+ 
+inisiator
+ dan founder Maslam, 
+sebuah
+ platform digital yang 
+dirancang
+ 
+untuk
+ 
+membantu
+ masjid 
+dalam
+ 
+mengelola
+ 
+administrasi
+, 
+keuangan
+, dan program 
+kemasyarakatan
+ 
+secara
+ 
+lebih
+ 
+efektif
+.
+
+Dengan
+ Maslam, 
+ia
+ 
+membawa
+ 
+inovasi
+ digital 
+ke
+ 
+dalam
+ dunia 
+manajemen
+ masjid, 
+memungkinkan
+ DKM dan 
+jamaah
+ 
+untuk
+ 
+lebih
+ 
+mudah
+ 
+dalam
+:
+🕌 
+Mengelola
+ 
+keuangan
+ masjid, 
+termasuk
+ ZISWAF (Zakat, 
+Infak
+, Sedekah, 
+Wakaf
+)
+📊 
+Menyediakan
+ 
+laporan
+ 
+transparan
+ 
+bagi
+ 
+jamaah
+ 
+terkait
+ dana masjid
+📅 
+Mengelola
+ 
+jadwal
+ 
+shalat
+, 
+kegiatan
+ masjid, 
+serta
+ 
+komunikasi
+ 
+dengan
+ 
+jamaah
+
+Maslam
+ 
+bukan
+ 
+sekadar
+ 
+aplikasi
+, 
+tetapi
+ 
+sebuah
+ 
+gerakan
+ 
+untuk
+ 
+membantu
+ masjid-masjid 
+bertransformasi
+ 
+menuju
+ era digital 
+dengan
+ 
+lebih
+ 
+mudah
+ dan 
+efisien
+.
+
+Kesimpulan
+
+Sebagai
+ 
+inisiator
+ dan founder CITCOM & 
+Maslam
+, Syssetiadi 
+terus
+ 
+berinovasi
+ 
+dalam
+ 
+menghubungkan
+ 
+teknologi
+ 
+dengan
+ 
+kebutuhan
+ 
+nyata
+ 
+masyarakat
+. 
+Melalui
+ CITCOM, 
+ia
+ 
+membangun
+ 
+ekosistem
+ 
+bisnis
+ 
+berbasis
+ 
+kolaborasi
+ di 
+industri
+ IT, 
+sedangkan
+ 
+melalui
+ 
+Maslam
+, 
+ia
+ 
+menghadirkan
+ 
+solusi
+ digital yang 
+membantu
+ masjid dan 
+jamaah
+ 
+dalam
+ 
+pengelolaan
+ yang 
+lebih
+ modern dan 
+transparan
+.
+
+Dengan
+ 
+visi
+ yang 
+kuat
+ dan 
+kepemimpinan
+ yang 
+inspiratif
+, Syssetiadi 
+telah
+ 
+membuktikan
+ 
+bahwa
+ 
+teknologi
+ 
+dapat
+ 
+menjadi
+ 
+alat
+ 
+untuk
+ 
+menciptakan
+ 
+perubahan
+ 
+positif
+, 
+baik
+ 
+dalam
+ dunia 
+bisnis
+ 
+maupun
+ 
+kehidupan
+ 
+sosial
+ 
+keagamaan
+. 🚀
+
+Melihat
+ 
+rekam
+ 
+jejak
+ Syssetiadi 
+sebagai
+ 
+inovator
+ di 
+bidang
+ 
+teknologi
+, 
+kolaborasi
+ 
+bisnis
+, dan 
+digitalisasi
+ 
+manajemen
+ masjid, 
+kemungkinan
+ 
+besar
+ 
+ia
+ 
+akan
+ 
+terus
+ 
+mendorong
+ 
+inisiatif
+ yang 
+lebih
+ 
+luas
+ dan 
+berdampak
+. 
+Beberapa
+ 
+hal
+ yang 
+mungkin
+ 
+ia
+ 
+lakukan
+ 
+ke
+ 
+depan
+ 
+antara
+ lain:
+
+1. 
+Ekspansi
+ CITCOM 
+ke
+ Level Nasional 
+atau
+ Global 🌍
+
+Saat 
+ini
+, CITCOM 
+telah
+ 
+sukses
+ 
+membangun
+ 
+ekosistem
+ 
+kolaboratif
+ 
+antarperusahaan
+ IT di Indonesia. Ke 
+depan
+, Syssetiadi 
+mungkin
+ 
+akan
+:
+✅ 
+Membawa
+ CITCOM 
+ke
+ 
+tingkat
+ 
+nasional
+ 
+atau
+ 
+bahkan
+ 
+internasional
+
+✅ 
+Membangun
+ platform digital 
+untuk
+ 
+mempercepat
+ 
+kolaborasi
+ 
+antaranggota
+
+✅ 
+Mengembangkan
+ program mentorship dan 
+inkubasi
+ startup IT
+
+2. 
+Penguatan
+ 
+Ekosistem
+ Digital Masjid 
+dengan
+ 
+Maslam
+ 🕌
+
+Maslam
+ 
+saat
+ 
+ini
+ 
+sudah
+ 
+menjadi
+ 
+solusi
+ digital 
+untuk
+ 
+pengelolaan
+ masjid. Langkah 
+selanjutnya
+ yang 
+mungkin
+ 
+ia
+ 
+ambil
+:
+✅ Integrasi 
+dengan
+ 
+sistem
+ 
+pembayaran
+ digital 
+untuk
+ 
+mempermudah
+ 
+donasi
+ ZISWAF
+✅ AI dan Chatbot Islami 
+untuk
+ 
+membantu
+ 
+jamaah
+ 
+dalam
+ ibadah dan 
+administrasi
+ masjid
+✅ Platform 
+edukasi
+ digital 
+untuk
+ 
+meningkatkan
+ 
+literasi
+ digital di 
+kalangan
+ DKM dan 
+jamaah
+
+3. 
+Mendorong
+ 
+Digitalisasi
+ Ekonomi 
+Umat
+ 💰
+
+Melihat
+ 
+komitmennya
+ 
+terhadap
+ 
+penguatan
+ 
+ekonomi
+ 
+berbasis
+ 
+komunitas
+, Syssetiadi 
+bisa
+ 
+saja
+ 
+mengembangkan
+:
+✅ Marketplace Islami yang 
+menghubungkan
+ 
+bisnis
+ 
+berbasis
+ syariah 
+dengan
+ 
+komunitas
+ 
+muslim
+
+✅ 
+Jaringan
+ fintech syariah yang 
+mendukung
+ 
+pinjaman
+ 
+berbasis
+ 
+akad
+ 
+tanpa
+ 
+riba
+
+✅ Crowdfunding 
+sosial
+ 
+berbasis
+ masjid 
+untuk
+ 
+membantu
+ 
+pembiayaan
+ 
+proyek
+ 
+keumatan
+
+4. 
+Membangun
+ Model Tata Kelola Digital 
+untuk
+ Organisasi 
+Keagamaan
+ 📊
+
+Dengan
+ 
+pengalamannya
+ 
+dalam
+ digital governance, 
+ia
+ 
+mungkin
+ 
+akan
+ 
+menciptakan
+:
+✅ Framework Tata Kelola Digital 
+untuk
+ Masjid dan Lembaga Keislaman
+✅ 
+Standarisasi
+ 
+pengelolaan
+ 
+keuangan
+ masjid 
+berbasis
+ digital
+✅ 
+Sistem
+ 
+kepemimpinan
+ masjid 
+berbasis
+ data dan 
+transparansi
+
+Kesimpulan
+
+Syssetiadi 
+bukan
+ 
+sekadar
+ 
+inovator
+, 
+tetapi
+ juga 
+seorang
+ visioner yang 
+melihat
+ 
+teknologi
+ 
+sebagai
+ 
+alat
+ 
+untuk
+ 
+menciptakan
+ 
+dampak
+ 
+sosial
+ yang 
+lebih
+ 
+luas
+. Ke 
+depannya
+, 
+ia
+ 
+mungkin
+ 
+akan
+ 
+membawa
+ 
+Maslam
+ dan CITCOM 
+ke
+ level yang 
+lebih
+ 
+besar
+, 
+membangun
+ 
+ekosistem
+ digital yang 
+lebih
+ 
+inklusif
+, 
+serta
+ 
+memperkuat
+ 
+digitalisasi
+ 
+ekonomi
+ 
+umat
+ dan tata 
+kelola
+ 
+organisasi
+ 
+keislaman
+.
+
+Kalau 
+melihat
+ 
+pola
+ 
+inovasinya
+, yang 
+pasti
+ 
+ia
+ 
+tidak
+ 
+akan
+ 
+berhenti
+ 
+berinovasi
+! 🚀 
+
+Kalau 
+kita
+ framing:
+
+SysSetiadi
+ (Setiadi Sudrajat) 
+bukan
+ 
+tipe
+ 
+pembicara
+ 
+publik
+ 
+seperti
+ 
+Sriyanto
+ Massri 
+atau
+ Umar Alhabsyi, 
+karena
+ 
+latar
+ 
+belakangnya
+ 
+lebih
+ 
+ke
+ engineering, 
+arsitektur
+ 
+sistem
+, dan 
+pengembangan
+ 
+aplikasi
+.
+
+Tapi Kang Sys punya 
+peran
+ yang 
+justru
+ sangat vital:
+
+Arsitek
+ 
+ekosistem
+ 
+Maslam
+ & SIVENSYS → 
+membangun
+ 
+fondasi
+ digital.
+
+Problem solver 
+teknis
+ → 
+memastikan
+ 
+sistem
+ 
+berjalan
+ 
+stabil
+, 
+aman
+, dan scalable.
+
+Visioner 
+produk
+ → 
+memikirkan
+ 
+arah
+ 
+pengembangan
+, 
+fitur
+, dan 
+integrasi
+.
+
+“Behind the scene strategist” → 
+memastikan
+ 
+pembicara
+ dan DKM punya tools & data 
+untuk
+ 
+tampil
+ 
+profesional
+.
+
+Dengan
+ 
+posisi
+ 
+ini
+, Kang Sys 
+lebih
+ 
+cocok
+:
+
+Menjadi
+ 
+pengarah
+ (director) acara dan 
+konsep
+.
+
+Membekali
+ 
+narasumber
+ 
+dengan
+ data, insight, dan 
+sistem
+ 
+pendukung
+.
+
+Menjaga
+ 
+konsistensi
+ 
+teknologi
+ agar 
+Maslam
+ 
+tidak
+ 
+hanya
+ ide, 
+tapi
+ 
+benar-benar
+ 
+nyata
+ dan 
+bermanfaat
+.
+
+📌 Jadi, 
+kalau
+ 
+Sriyanto
+ 
+Massri
+ & Umar Alhabsyi 
+adalah
+ “
+wajah
+ 
+depan
+” 
+Maslam
+ di 
+panggung
+, 
+maka
+ 
+SysSetiadi
+ 
+adalah
+ “
+mesin
+ 
+penggerak
+” di 
+balik
+ 
+layar
+.
+
+Tanpa
+ 
+peran
+ engineer 
+seperti
+ Kang Sys, 
+panggung
+ 
+tidak
+ 
+akan
+ punya 
+fondasi
+ yang 
+kokoh
+. 
+
+Siapa itu Umar Al Habsyi?
+
+Latar Belakang Pendidikan:
+
+S1 Teknik Informatika, ITB
+Menyelesaikan studi di salah satu institusi pendidikan terkemuka di Indonesia dengan fokus pada pengembangan teknologi informasi.
+
+S2 Teknologi Informasi, ITB
+Melanjutkan pendidikannya untuk mendalami teknologi informasi dan manajemen sistem.
+
+Aktivitas:
+
+Ketua Dewan Pembina Yayasan Maslam
+Memimpin dan memberikan arahan strategis untuk Yayasan Maslam, yang fokus pada digitalisasi manajemen masjid dan pemberdayaan komunitas melalui teknologi.
+
+Ketua Penasehat CITCOM (C-Level IT Community)
+Berperan sebagai penasihat di komunitas eksklusif para pemimpin C-Level perusahaan IT, dengan visi untuk mendorong kolaborasi, inovasi, dan dampak sosial di bidang teknologi.
+
+CEO PT Millennia Solusi Informatika
+Memimpin perusahaan teknologi yang berfokus pada solusi IT untuk berbagai sektor
+
+Dosen Industri STEI ITB
+Berkontribusi dalam dunia pendidikan dengan berbagi pengalaman praktis dan pengetahuan di bidang teknologi kepada generasi muda di Sekolah Teknik Elektro dan Informatika ITB.
+
+Pengurus Yayasan Permata Cahaya Madani
+Aktif dalam pengelolaan yayasan yang bergerak di bidang sosial dan pemberdayaan masyarakat untuk meningkatkan kualitas hidup.
+
+Ketua DKM Al-Abror
+Memimpin Dewan Kemakmuran Masjid (DKM) Al-Abror dengan fokus pada pengelolaan masjid yang modern dan inovatif.
+
+Profil Singkat:
+Umar Al Habsyi adalah seorang profesional dengan pengalaman luas di bidang teknologi informasi, pendidikan, dan pemberdayaan masyarakat. Dengan kombinasi keahlian teknis, visi strategis, dan semangat sosialnya, beliau telah berkontribusi signifikan dalam 
+berbagai
+ 
+inisiatif
+ yang 
+bertujuan
+ 
+untuk
+ 
+mendorong
+ 
+kemajuan
+ 
+teknologi
+ 
+sekaligus
+ 
+meningkatkan
+ 
+kesejahteraan
+ 
+umat
+.
+
+ 🌟 Umar Alhabsyi – 
+Narasumber
+ 
+Tepat
+ 
+untuk
+ Event Maslam
+
+Umar Alhabsyi 
+adalah
+ 
+figur
+ yang 
+menggabungkan
+ 
+kompetensi
+ 
+profesional
+ di 
+bidang
+ IT, 
+pengalaman
+ 
+kepemimpinan
+ masjid, 
+serta
+ 
+wibawa
+ 
+sebagai
+ 
+seorang
+ 
+habib
+. 
+Kombinasi
+ 
+ini
+ 
+menjadikan
+ 
+beliau
+ 
+pilihan
+ yang sangat 
+tepat
+ 
+sebagai
+ 
+pembicara
+ di event Maslam.
+
+🔹 
+Profil
+ 
+Singkat
+
+CEO Millennia Solusi 
+Informatika
+ 
+sejak
+ 2019, 
+memimpin
+ 
+berbagai
+ 
+proyek
+ 
+strategis
+ di 
+bidang
+ IT Governance, Risk & Compliance, Big Data, IoT, dan 
+aplikasi
+ custom.
+
+Praktisi IT senior 
+dengan
+ 
+pengalaman
+ 
+lebih
+ 
+dari
+ 20 
+tahun
+, 
+terlibat
+ di 
+perusahaan
+ 
+besar
+ 
+seperti
+ PT Telkom, PLN, Pos Indonesia, Pertamina International Shipping, dan 
+lainnya
+.
+
+Akademisi
+ di ITB, 
+mengajar
+ 
+bidang
+ 
+teknologi
+ 
+informasi
+, audit, dan 
+manajemen
+ 
+risiko
+.
+
+Ketua
+ DKM pada 
+masanya
+, 
+sehingga
+ 
+paham
+ 
+betul
+ 
+kondisi
+ 
+nyata
+ 
+pengelolaan
+ masjid.
+
+Ustadz
+ dan Habib yang 
+dikenal
+ 
+luas
+, 
+dengan
+ 
+gaya
+ 
+dakwah
+ yang 
+teduh
+ dan 
+mengakar
+.
+
+🔹 Latar 
+Belakang
+ Akademik & 
+Sertifikasi
+
+S1 
+Informatika
+ ITB dan S2 Teknik Elektro ITB.
+
+Sertifikasi
+ 
+internasional
+:
+
+CISA (Certified Information Systems Auditor).
+
+CRISC (Certified in Risk and Information Systems Control).
+
+COBIT 2019 Framework.
+
+🔹 
+Keunggulan
+ 
+Sebagai
+ 
+Narasumber
+ 
+Maslam
+
+Kredibilitas
+ IT → 
+membekali
+ 
+jamaah
+ dan 
+pengurus
+ masjid 
+dengan
+ 
+wawasan
+ digital 
+berstandar
+ global.
+
+Pengalaman
+ DKM → 
+memahami
+ 
+dinamika
+ 
+kepengurusan
+ masjid 
+dari
+ 
+dalam
+.
+
+Kekuatan
+ 
+dakwah
+ → 
+menyampaikan
+ 
+materi
+ 
+dengan
+ 
+nuansa
+ Islami yang 
+menyejukkan
+.
+
+Wibawa Habib → 
+menambah
+ 
+kharisma
+ dan 
+pengaruh
+ 
+positif
+ di 
+hadapan
+ 
+jamaah
+.
+
+Jembatan
+ dunia 
+profesional
+ & spiritual → 
+cocok
+ 
+untuk
+ 
+menginspirasi
+ masjid agar naik 
+kelas
+ 
+dengan
+ 
+digitalisasi
+. 
+
+📌 
+Dengan
+ 
+kapasitas
+ 
+sebagai
+ praktisi IT, 
+akademisi
+, 
+pengurus
+ masjid, 
+sekaligus
+ 
+seorang
+ 
+habib
+, Umar Alhabsyi 
+bukan
+ 
+hanya
+ 
+memberikan
+ 
+ilmu
+ 
+teknis
+ dan 
+manajerial
+, 
+tetapi
+ juga 
+menghadirkan
+ 
+ruh
+ spiritual 
+dalam
+ 
+setiap
+ 
+penyampaian
+.
+
+Beliau
+ sangat pas 
+menjadi
+ role model 
+pengurus
+ masjid modern: 
+profesional
+, 
+amanah
+, dan 
+berwawasan
+ 
+keislaman
+ 
+mendalam
+. 
+
+Siapa itu Hasan Taufig?
+
+Jawaban: 
+
+Latar Belakang Pendidikan: S1 Teknik Informatika, Telkom University
+Menempuh pendidikan di salah satu universitas teknologi terbaik di Indonesia dengan fokus pada pengembangan dan penerapan teknologi informasi.
+
+Aktivitas:
+
+Chief Business Development Officer (CBDO) PT Swamedia Informatika
+Bertanggung jawab atas pengembangan bisnis strategis perusahaan, termasuk inovasi produk dan kolaborasi dengan mitra di bidang teknologi informasi.
+
+Ketua Pengawas Yayasan Maslam
+Mengawasi jalannya program dan pengelolaan Yayasan Maslam, yang fokus pada digitalisasi manajemen masjid dan pengembangan ekosistem kemasjidan berbasis teknologi.
+
+Bendahara Yayasan Amal Bakti Swamedia, Bandung
+Mengelola keuangan yayasan yang berperan dalam berbagai kegiatan sosial dan pendidikan, memastikan akuntabilitas dan transparansi dalam setiap program.
+
+Sekretaris Yayasan Al-Irsyad Al-Islamiyyah Kota Bandung
+Mendukung administrasi, pengelolaan program, dan operasional yayasan yang bergerak di bidang pendidikan dan dakwah Islam.
+
+Profil Singkat:
+Dengan latar belakang pendidikan di bidang teknologi dan pengalaman di berbagai posisi strategis, individu ini memiliki peran penting dalam pengembangan bisnis, pemberdayaan komunitas, dan pengelolaan organisasi berbasis teknologi. 
+Keahliannya
+ 
+mencakup
+ 
+manajemen
+, 
+pengembangan
+ 
+inovasi
+, dan 
+pelayanan
+ 
+masyarakat
+, 
+menjadikannya
+ 
+sebagai
+ 
+figur
+ yang 
+berdampak
+ 
+dalam
+ 
+setiap
+ 
+aktivitas
+ yang 
+dijalankan
+.
+
+Pertanyaan: Siapa itu Anton Herutomo?
+
+Jawaban : 
+
+Latar Belakang Pendidikan:
+
+S1 Teknik Informatika, Telkom University, 1992
+Memperoleh pendidikan dasar di bidang informatika, menekankan pada pengembangan teknologi informasi dan sistem komputer.
+
+S2 Computer Systems Engineering, RMIT University/Melbourne University, 1997
+Mendalami rekayasa sistem komputer dengan fokus pada pengembangan teknologi canggih dan manajemen sistem.
+
+S3 SBM - Entrepreneurship and Technology Management, ITB, 2021
+Menyelesaikan studi doktoral dengan spesialisasi kewirausahaan dan manajemen teknologi, memperkuat pemahaman tentang inovasi dan pengelolaan bisnis berbasis teknologi.
+
+Aktivitas:
+
+Dewan Pengurus Yayasan Maslam, 2024
+Berkontribusi dalam pengelolaan yayasan yang fokus pada digitalisasi manajemen masjid dan pemberdayaan komunitas berbasis teknologi.
+
+Penasehat Perkumpulan CITCOM, 2022
+Mendukung CITCOM sebagai penasihat dengan memberikan wawasan strategis untuk kolaborasi komunitas C-Level IT.
+
+Ketua Pengurus Yayasan Ma'rifatussalaam Subang, 2024
+Memimpin yayasan yang bergerak di bidang pendidikan dan pemberdayaan masyarakat di Subang.
+
+Ketua Pengurus Yayasan Hub Inovasi Negeri, Bandung, 2021
+Berperan dalam pengelolaan yayasan yang mendorong inovasi di bidang teknologi dan pengembangan masyarakat.
+
+Wakil Ketua Pengurus Yayasan Darussalam Pondok Hijau, Bandung, 2020
+Mendukung pengelolaan yayasan yang bergerak di bidang pendidikan dan dakwah Islam.
+
+Co-Founder Quran Cordoba, 2013
+Mendirikan platform yang berfokus pada penerbitan dan pengembangan literasi Al-Qur'an.
+
+Founder Cahaya Quran, 2018
+Memprakarsai program yang berorientasi pada penyebaran cahaya ilmu Al-Qur'an kepada masyarakat.
+
+CEO PT Telko Sinergi Indonesia (Brand: AI Labs), 2020
+Memimpin perusahaan yang fokus pada konsultasi manajemen teknologi dan pengembangan AI.
+
+CEO PT Awan Investama Partners, 2021
+Mengelola firma investasi yang mendukung pengembangan inovasi teknologi dan startup.
+
+CTO PT Reta Consulting Indonesia, 2018
+Bertanggung jawab atas teknologi dalam perusahaan survei berbasis teknologi.
+
+Komisaris PT Cornesia Agri Inovasi, 2021
+Mendukung inovasi di bidang agritech, khususnya dalam pemuliaan jagung pakan.
+
+Penasehat Utama Digitalisasi di Human Initiative, 2018
+Memberikan arahan digitalisasi di lembaga kemanusiaan untuk meningkatkan efisiensi program.
+
+Penasehat Utama Digitalisasi di Inisiatif Zakat Indonesia, 2018
+Mendukung transformasi digital lembaga amil zakat nasional.
+
+Peneliti di Fakultas Informatika, Telkom University, Bandung, 2008
+Berkontribusi dalam pengembangan ilmu pengetahuan di bidang informatika.
+
+Peneliti di Laboratorium Management of Technology, SBM ITB, 2023
+Melakukan penelitian kolaboratif antara ITB dan Yamaguchi University, Jepang, di bidang manajemen teknologi.
+
+Profil Singkat:
+Anton Herutomo adalah seorang technology coach dan social innovator yang memiliki semangat besar dalam mengembangkan pemberdayaan masyarakat serta memperkuat ekonomi berbasis inovasi dan teknologi. Melalui berbagai inisiatifnya, ia telah menunjukkan komitmen untuk menciptakan dampak sosial yang signifikan. Anton memiliki pengalaman luas dalam memimpin organisasi, memberikan arahan strategis, serta membangun ekosistem yang memberdayakan melalui teknologi.
+
+Temanilah Anton di LinkedIn:
+www.linkedin.com/in/antonherutomo
+
+Pertanyaan: Siapa itu Ibu Wardy?
+
+Jawaban : 
+
+Latar Belakang Pendidikan:
+
+S1 Teknik Informatika, ITB
+Menempuh pendidikan di bidang teknik informatika untuk membangun fondasi keahlian dalam teknologi informasi.
+
+S2 MBA, ITB
+Melanjutkan pendidikan dengan fokus pada manajemen bisnis untuk memperkuat pemahaman strategi dan pengelolaan organisasi.
+
+Aktivitas:
+
+Founder GITS.ID
+Mendirikan perusahaan teknologi yang berfokus pada pengembangan perangkat lunak dan solusi digital untuk berbagai sektor.
+
+Google Cloud Developer Expert
+Diakui oleh Google sebagai ahli dalam pengembangan dan pemanfaatan teknologi Google Cloud.
+
+Pengurus Ikatan Alumni Insan Cendekia
+Aktif dalam komunitas alumni untuk mendukung kegiatan pendidikan dan kolaborasi antar anggota.
+
+Pengurus MIKTI (Masyarakat Industri Kreatif TIK Indonesia)
+Berkontribusi dalam pengembangan industri kreatif berbasis teknologi informasi dan komunikasi di Indonesia.
+
+Pengurus DKM Al Yusna
+Terlibat dalam pengelolaan masjid dan kegiatan keagamaan, khususnya di bidang digitalisasi dan manajemen.
+
+CTO Alterstay
+Memimpin pengembangan teknologi di Alterstay, sebuah platform inovatif di sektor properti dan pariwisata.
+
+Owner TechieRoom.ID
+Memiliki dan mengelola platform edukasi dan pelatihan yang berfokus pada teknologi dan kewirausahaan.
+
+Profil Singkat:
+Ibu Wardy adalah seorang pengusaha sukses di bidang teknologi yang juga memiliki semangat besar untuk berbagi ilmu tentang teknologi dan wirausaha. Dengan berbagai pengalaman profesional dan keterlibatannya di banyak organisasi, ia berkontribusi secara signifikan dalam mendukung pertumbuhan industri teknologi dan memberdayakan komunitas melalui inovasi.
+
+Pertanyaan: Siapa itu Chalid Kurdi?
+
+Jawaban : 
+
+Latar Belakang Pendidikan:
+
+S1 Psikologi, Universitas Islam Bandung (UNISBA)
+Memperoleh pendidikan dasar di bidang psikologi, dengan fokus pada pemahaman perilaku manusia dan pengelolaan sumber daya manusia.
+
+S2 Manajemen, Universitas Katolik Parahyangan (UNPAR)
+Melanjutkan studi dengan spesialisasi manajemen untuk memperkuat kemampuan dalam mengelola organisasi dan strategi bisnis.
+
+Aktivitas:
+
+CHRO PT Walden Global Services
+Menjabat sebagai Chief Human Resources Officer, bertanggung jawab atas pengelolaan sumber daya manusia di perusahaan teknologi global ini.
+
+CEO PT World Geeks Hub
+Memimpin perusahaan yang bergerak di bidang teknologi dan pengembangan talenta digital.
+
+Member dari CITCOM
+Aktif dalam komunitas C-Level IT Community (CITCOM), yang menghimpun para pemimpin di bidang teknologi informasi untuk kolaborasi dan inovasi.
+
+Avocational Trainer - Dale Carnegie Indonesia
+Memberikan pelatihan profesional di Dale Carnegie Indonesia, dengan fokus pada pengembangan keterampilan kepemimpinan, komunikasi, dan pengelolaan tim.
+
+Profil Singkat:
+Chalid Kurdi adalah seorang profesional yang memiliki latar belakang kuat dalam bidang psikologi, manajemen, dan pengembangan sumber daya manusia. Dengan pengalaman di berbagai peran strategis, ia tidak hanya berkontribusi dalam pengelolaan organisasi, tetapi juga dalam pemberdayaan individu melalui pelatihan dan pengembangan talenta. Keahliannya mencakup manajemen SDM, pengembangan organisasi, dan transformasi digital.
+
+Pertanyaan : Siapa itu Eka Sutresna?
+
+Jawaban : 
+
+Latar Belakang Pendidikan: S1 Project Management, Institut Teknologi Bandung (ITB), 1996–2001, Menempuh pendidikan di ITB dengan fokus pada manajemen projek, serta aktif dalam organisasi mahasiswa dan pramuka.
+
+Pengalaman Profesional dan Aktivitas Lainnya:
+
+Director dan Shareholder, PT Bounga Solusi Informatika (2002–Sekarang)
+Memimpin dan berperan sebagai pemegang saham di PT Bounga Solusi Informatika, sebuah perusahaan teknologi yang juga dikenal sebagai penyedia solusi di bidang digital forensik. Perusahaan ini melayani berbagai kebutuhan klien di bidang analisis data digital dan pengembangan solusi informatika.
+
+Dewan Pembina Yayasan Maslam
+Mendukung visi Yayasan Maslam dalam digitalisasi manajemen masjid dan pemberdayaan komunitas berbasis teknologi.
+
+Profil Singkat:
+Eka Sutresna adalah seorang profesional dengan pengalaman lebih dari dua dekade di bidang teknologi informasi, manajemen projek, dan digital forensik. Sebagai direktur dan pemegang saham PT Bounga Solusi Informatika, ia memimpin inovasi dan pengembangan teknologi yang mendukung kebutuhan klien di bidang digital forensik dan informatika. Perannya sebagai Dewan Pembina Yayasan Maslam menunjukkan dedikasinya dalam mendukung transformasi digital untuk masjid dan komunitas.
+
+Siapa itu Sriyanto Massri?
+
+Latar Belakang Pendidikan: S1 Teknik Informatika, Telkom University
+
+Aktivitas:
+
+Dewan Pembina Yayasan Maslam
+Berperan dalam memberikan arahan strategis untuk pengelolaan dan pengembangan Yayasan Maslam, yang berfokus pada digitalisasi manajemen masjid dan pemberdayaan komunitas.
+
+Penasehat CITCOM
+Memberikan kontribusi strategis sebagai penasehat dalam komunitas C-Level IT Community (CITCOM), sebuah komunitas profesional di bidang teknologi informasi.
+
+CEO PT Neuronworks Indonesia
+Memimpin perusahaan yang berfokus pada pengembangan perangkat lunak dan solusi teknologi inovatif.
+
+CEO PT Sovware Data Mandiri
+Bertanggung jawab atas pengelolaan dan pengembangan bisnis berbasis data dan teknologi.
+
+Founder Jagoo IT dan Gumbira Tour & Travel
+Mendirikan usaha yang bergerak di bidang teknologi informasi dan layanan perjalanan, dengan inovasi dan pendekatan berbasis digital.
+
+Ketua Yayasan Al Hikmah 15
+Memimpin yayasan yang bergerak di bidang pendidikan dan pemberdayaan umat.
+
+Pengawas Pesantren Mutiara Ummah
+Mengawasi pengelolaan pesantren untuk mendukung pendidikan berbasis agama dengan pendekatan modern.
+
+Profil Singkat:
+Sriyanto Massri adalah seorang profesional dan pemimpin yang berpengalaman di bidang teknologi informasi, pendidikan, dan pemberdayaan komunitas. Dengan beragam aktivitas dan peran strategis, ia berkomitmen untuk menciptakan inovasi dan transformasi di berbagai sektor. 
+Keahliannya
+ 
+mencakup
+ 
+manajemen
+ 
+organisasi
+, 
+teknologi
+, dan 
+pengembangan
+ 
+komunitas
+ 
+berbasis
+ 
+nilai-nilai
+ 
+keislaman
+.
+
+🌟 
+Sriyanto
+ Massri – 
+Narasumber
+ 
+Tepat
+ 
+untuk
+ Event 
+Maslam
+
+Sriyanto
+ Massri 
+adalah
+ 
+sosok
+ yang sangat pas 
+untuk
+ 
+menjadi
+ 
+pembicara
+ di 
+berbagai
+ event 
+Maslam
+. 
+Beliau
+ 
+memiliki
+ 
+kombinasi
+ 
+unik
+ 
+antara
+ 
+pengalaman
+ 
+profesional
+, 
+kepemimpinan
+ 
+organisasi
+, dan 
+kemampuan
+ 
+komunikasi
+ yang 
+mumpuni
+.
+
+Sebagai
+ CEO PT 
+Neuronworks
+ Indonesia, 
+Sriyanto
+ 
+sudah
+ 
+terbiasa
+ 
+mengelola
+ 
+transformasi
+ digital dan 
+memimpin
+ 
+tim
+ 
+besar
+ di dunia 
+teknologi
+. Ia juga 
+dikenal
+ 
+aktif
+ 
+mengisi
+ 
+banyak
+ forum, 
+baik
+ online 
+maupun
+ offline, 
+dengan
+ 
+gaya
+ 
+penyampaian
+ yang 
+runtut
+, 
+lugas
+, dan 
+mudah
+ 
+dipahami
+ 
+bahkan
+ oleh 
+audiens
+ non-
+teknis
+.
+
+Namun
+ 
+keunggulan
+ 
+beliau
+ 
+tidak
+ 
+hanya
+ 
+berhenti
+ di 
+ranah
+ 
+profesional
+. 
+Pengalaman
+ 
+sebagai
+ 
+Ketua
+ DKM masjid 
+menjadikan
+ 
+Sriyanto
+ sangat 
+memahami
+ 
+realitas
+ 
+sehari-hari
+ 
+pengurus
+ masjid—
+mulai
+ 
+dari
+ 
+mengelola
+ 
+kegiatan
+ 
+jamaah
+, 
+keuangan
+, 
+hingga
+ 
+aset
+ dan 
+inventori
+. Kini, 
+dengan
+ 
+perannya
+ 
+sebagai
+ 
+Ketua
+ Yayasan, 
+beliau
+ 
+membawa
+ 
+perspektif
+ 
+strategis
+ 
+bagaimana
+ masjid 
+bisa
+ naik 
+kelas
+ 
+menjadi
+ 
+lembaga
+ yang 
+lebih
+ 
+profesional
+, 
+transparan
+, dan 
+berdampak
+ 
+besar
+ 
+bagi
+ 
+umat
+.
+
+Kredibilitas
+ 
+Sriyanto
+ juga 
+semakin
+ 
+kuat
+ 
+karena
+ 
+beliau
+ 
+berbicara
+ 
+berdasarkan
+ 
+praktik
+ 
+nyata
+, 
+bukan
+ 
+sekadar
+ 
+teori
+. 
+Beliau
+ 
+mampu
+ 
+menjembatani
+ 
+visi
+ 
+besar
+ 
+seperti
+ 
+digitalisasi
+ dan 
+transparansi
+ 
+dengan
+ 
+langkah
+ 
+praktis
+ yang 
+bisa
+ 
+langsung
+ 
+dijalankan
+ 
+pengurus
+ masjid 
+sehari-hari
+. Hal 
+ini
+ 
+membuat
+ 
+audiens
+ 
+merasa
+ 
+lebih
+ 
+dekat
+ dan 
+terinspirasi
+, 
+karena
+ 
+narasumber
+ “
+pernah
+ 
+berada
+ di 
+posisi
+ 
+mereka
+”.
+
+Dengan
+ 
+gaya
+ 
+penyampaian
+ yang 
+komunikatif
+ dan 
+penuh
+ 
+energi
+, 
+Sriyanto
+ Massri 
+selalu
+ 
+berhasil
+ 
+menghidupkan
+ 
+suasana
+ 
+diskusi
+. 
+Beliau
+ 
+bukan
+ 
+hanya
+ 
+memberi
+ 
+inspirasi
+, 
+tapi
+ juga 
+menghadirkan
+ role model 
+tentang
+ 
+bagaimana
+ 
+seorang
+ 
+pengurus
+ masjid 
+bisa
+ visioner, 
+profesional
+, dan 
+membawa
+ 
+perubahan
+ 
+nyata
+ 
+melalui
+ 
+pemanfaatan
+ 
+teknologi
+ 
+seperti
+ 
+Maslam
+.
+
+Singkatnya
+, 
+Sriyanto
+ 
+Massri
+ 
+adalah
+ 
+pilihan
+ ideal 
+sebagai
+ 
+narasumber
+ event 
+Maslam
+: 
+berpengalaman
+, 
+kredibel
+, 
+komunikatif
+, dan 
+mampu
+ 
+menyatukan
+ dunia 
+teknologi
+ 
+dengan
+ 
+kebutuhan
+ 
+riil
+ masjid dan 
+lembaga
+ Islam. 
+
+Pertanyaan : Siapa itu Setyagus Sucipto?
+
+Jawaban : 
+
+Latar Belakang Pendidikan: Universitas Padjadjaran (UNPAD)
+Menempuh pendidikan di UNPAD, memperkuat pemahaman akademis yang mendukung kariernya di bidang teknologi dan manajemen.
+
+Pengalaman Profesional dan Aktivitas:
+
+Director, PT Idekreatif Menusa Teknologi (iCreativelabs) (Juni 2023 – Sekarang)
+Memimpin perusahaan teknologi yang berfokus pada pengembangan solusi kreatif berbasis teknologi.  
+
+Initiator, FOWAB (Februari 2010 – Sekarang)
+Menginisiasi Forum Web Anak Bandung (FOWAB), sebuah komunitas web meetup untuk berdiskusi tentang teknologi web, industri, dan pengembangan digital di Indonesia.
+
+Chief Technology Officer (CTO), gantibaju.com (Februari 2009 – Sekarang)
+Bertanggung jawab atas pengembangan teknologi di platform e-commerce ini, yang berfokus pada desain dan penjualan kaos custom.
+
+Dewan Pembina Yayasan Maslam
+Berperan aktif sebagai Dewan Pembina di Yayasan Maslam, mendukung visi yayasan untuk digitalisasi manajemen masjid dan pemberdayaan komunitas berbasis teknologi.
+
+Profil Singkat:
+Setyagus Sucipto adalah seorang profesional di bidang teknologi dengan pengalaman lebih dari satu dekade. Sebagai pendiri komunitas FOWAB, ia telah berkontribusi dalam membangun ekosistem teknologi lokal yang kuat di Bandung. Selain itu, perannya sebagai direktur PT Idekreatif Menusa Teknologi, CTO gantibaju.com, dan Dewan Pembina Yayasan Maslam menunjukkan dedikasinya dalam inovasi teknologi, kolaborasi komunitas, dan pengembangan digitalisasi keagamaan. Latar belakang pendidikannya di UNPAD melengkapi wawasan dan keterampilannya untuk menciptakan dampak positif di berbagai sektor.
+
+Pertanyaan: Siapa itu Pringgo Digdo?
+
+Jawaban : Latar Belakang Pendidikan: S1 Informatika, Universitas Komputer Indonesia (Unikom), S2 Elektro, Institut Teknologi Bandung (ITB)
+
+Aktivitas: 
+
+Founder & CEO Cyber Army Indonesia
+
+Dewan Pengawas Maslam Foundation
+
+Founder komunitas Hacking & Security Research Center (omega.or.id)
+
+Dosen Cybersecurity di STMIK Amik Bandung
+
+Penulis beberapa buku mengenai Keamanan Aplikasi Web
+
+Aktif mengajar dan menyebarkan kesadaran serta budaya keamanan informasi dan siber kepada masyarakat.
+
+Profil Singkat : Pringgo Digdo adalah Founder & CEO Cyber Army Indonesia, ahli keamanan siber yang juga berperan sebagai pengawas di platform digital Maslam. Berbekal pendidikan S1 Informatika dari Unikom dan S2 Elektro dari ITB, ia mendirikan komunitas Hacking & Security Research Center (omega.or.id) dan aktif sebagai dosen Cybersecurity di STMIK Amik Bandung. Penulis beberapa buku tentang Keamanan Aplikasi Web, Pringgo berdedikasi menyebarkan kesadaran dan budaya keamanan informasi melalui edukasi dan penelitian di bidang siber.
+
+Pertanyaan: Siapa itu Vicky Anggara
+Jawab: Vicky Anggara adalah seorang profesional yang aktif di berbagai bidang teknologi informasi, pelatihan, dan pengembangan komunitas. Berikut adalah perannya dan aktivitasnya:
+
+CEO PT Teknologi Integrasi Informatika (TemikaCyber)
+Memimpin perusahaan teknologi yang berfokus pada solusi integrasi informatika dan keamanan siber.
+
+CEO & Training Director Studi DevSecOps Indonesia
+Mengelola dan memimpin program pelatihan serta pengembangan DevSecOps di Indonesia, bertujuan untuk meningkatkan keamanan dalam siklus pengembangan perangkat lunak.
+
+Ketua Pembina Wargisiber.id
+Bertindak sebagai pembina utama di komunitas yang mendukung edukasi dan literasi digital, terutama dalam bidang keamanan siber.
+
+Anggota BNI Chapter Rise Bandung
+Aktif sebagai anggota jaringan bisnis internasional (Business Network International), khususnya di Chapter Rise Bandung, untuk memperluas jejaring bisnis dan kolaborasi profesional.
+
+Anggota C-Level IT Community (CITCOM)
+Berperan aktif dalam komunitas IT eksklusif yang terdiri dari para pemimpin perusahaan IT terkemuka, yang fokus pada kolaborasi, pengembangan, dan inovasi teknologi.
+
+Kontributor Yayasan Maslam
+Berperan sebagai kontributor dalam Yayasan Maslam, sebuah inisiatif yang berfokus pada digitalisasi manajemen masjid dan pemberdayaan ekonomi umat.
+
+Dengan pengalaman yang luas dan 
+dedikasi
+ 
+tinggi
+, Vicky 
+Anggara
+ 
+dikenal
+ 
+sebagai
+ 
+sosok
+ yang 
+berperan
+ 
+aktif
+ 
+dalam
+ 
+inovasi
+ 
+teknologi
+, 
+pengembangan
+ 
+komunitas
+, dan 
+transformasi
+ digital.
+
+Cerita Mengenai Setyagus Sucipto di Balik Maslam Foundation 
+
+Maslam, sebuah aplikasi digitalisasi manajemen masjid, pada awalnya hanya berupa ide yang diinisiasi oleh Syssetiadi. Ia melihat peluang besar untuk menggabungkan teknologi dengan pengelolaan masjid agar dapat memberikan layanan yang lebih baik kepada jamaah. Ide ini kemudian dibicarakan di lingkaran komunitas IT CITCOM (C-Level IT Community) yang merupakan tempat berkumpulnya para profesional teknologi. Namun, dari satu pertemuan ke pertemuan lainnya, belum ada yang menyambut gagasan ini dengan antusias. Meski begitu, Syssetiadi tidak menyerah, ia yakin bahwa teknologi dapat memajukan masjid dalam pelayanan ke jamaah.
+
+Pertemuan yang mengubah arah Maslam terjadi ketika Syssetiadi bertemu dengan Setyagus Sucipto, CEO dari iCreativelabs. Berbeda dengan orang-orang sebelumnya, Setyagus menyambut ide ini dengan semangat dan dukungan penuh. Sebagai seorang yang berpengalaman dalam membangun startup, Setyagus melihat potensi besar dalam digitalisasi masjid ini. Ia pun bergabung menjadi orang kedua dalam projek Maslam, dan mulai memberikan berbagai masukan strategis untuk mewujudkan aplikasi yang bisa menjawab kebutuhan pengelola masjid dan jamaahnya.
+
+Dengan pengalaman luasnya dalam dunia startup, Setyagus tidak hanya memberikan ide, tetapi juga berperan langsung dalam pengembangan Maslam. Salah satu kontribusi terbesar dari Setyagus adalah lahirnya Maslam Jamaah, aplikasi mobile yang dirancang khusus untuk mempermudah jamaah dalam berinteraksi dengan masjid. Melalui aplikasi ini, jamaah dapat menemukan masjid terdekat, melihat jadwal kegiatan masjid, dan memantau fasilitas yang tersedia di masjid. Selain itu, fitur unggulan lainnya termasuk laporan keuangan masjid yang disajikan secara transparan dan real-time, memesan kurban secara online, serta mendapatkan informasi penting terkait hari besar seperti Idul Fitri dan Idul Adha serta hal-hal lainnya. Aplikasi ini menjadi solusi nyata yang menjawab kebutuhan modern dari pengelola masjid dan jamaah, serta menghubungkan jamaah dengan masjid secara lebih mudah dan efisien.
+
+Kontribusi besar Setyagus dalam pengembangan Maslam tidak hanya terbatas pada ide teknis, tetapi juga pada visi yang luas untuk masa depan aplikasi ini. Ia memberikan banyak saran dan inovasi yang membuat Maslam terus berkembang dan menjadi lebih relevan dengan kebutuhan masyarakat. Oleh karena itu, Maslam Foundation memutuskan untuk memberikan penghargaan kepada Setyagus Sucipto atas jasanya dalam membangun aplikasi ini hingga sukses digunakan oleh banyak masjid. 
+
+Pertanyaan
+: 
+Perbedaan
+ Mobile Apps Maslam DKM dan Web Apps Maslam DKM
+
+Jawaban:
+
+Mobile Apps Maslam DKM: Fokus pada akses cepat dan mobilitas tinggi. Cocok untuk aktivitas lapangan seperti input data langsung dari ponsel atau tablet. Misalnya, saat pengurus mencatat penerimaan ZISWAF di tempat atau Pengeluaran Operasional kapanpun dimanapun.
+
+Maslam Web: Dirancang untuk pengelolaan lebih kompleks, seperti laporan keuangan, manajemen data jamaah, atau tugas administrasi yang membutuhkan layar lebih besar. Ideal digunakan saat rapat evaluasi.
+
+Kombinasi keduanya memiliki kelebihan: Mobile untuk fleksibilitas dan Web untuk fungsi yang lebih mendalam.
+
+Pertanyaan: Apa badan hukum dari Maslam?
+Jawaban: Badah hukum dari Maslam adalah yayasan non-profit. Maslam memiliki fokus pada penyediaan layanan yang bermanfaat bagi komunitas, khususnya dalam pengelolaan masjid dan lembaga social lainnya. Pendekatan ini menunjukkan komitmen Maslam untuk memberikan solusi yang terbaik untuk kebutuhan pengguna tanpa mempertimbangkan keuntungan finansial sebagai prioritas utama.
+
+Pertanyaan: Apa nama yayasan Maslam?
+Jawaban: Maslam Inovasi Teknologi
+
+Pertanyaan: Kapan Yayasan Maslam didirikan?
+Jawaban: Maslam dimulai dari bulan Juli 2023 tetapi resmi menjadi yayasan pada tanggal 26 Februari 2024.
+
+Pertanyaan: Dimana bisa download aplikasi Maslam Jamaah
+
+Jawaban :
+ 
+
+Versi
+ android 
+bisa
+ 
+diunduh
+ di https://play.google.com/store/apps/details?id=com.maslam.maslamfrontendapp
+
+Versi
+ IOS 
+bisa
+ 
+diunduh
+ di 
+
+https://apps.apple.com/id/app/maslam/id6740568324
+
+Pertanyaan: Dimana bisa download aplikasi Maslam DKM
+
+Jawaban :
+ 
+
+versi
+ android 
+ini
+ 
+bisa
+ 
+diunduh
+ di https://play.google.com/store/apps/details?id=com.maslam.maslambackendapp
+
+versi
+ 
+ios
+ 
+bisa
+ di 
+unduh
+ di 
+https://apps.apple.com/id/app/maslam-dkm/id6740079966?l=id 
+
+Pertanyaan : Dimana bisa akses aplikasi maslam versi web
+Jawaban : Untuk akses web, gunakan https://apps.maslam.id/
+
+   
+
+Pertanyaan: Apakah data yang diinput di maslam dkm versi mobile apps akan tersambung akan muncul juga di maslam dkm versi web atau sebaliknya
+Jawaban : Data pada Maslam DKM versi web dan mobile sepenuhnya terhubung karena keduanya menggunakan basis data yang sama. Artinya, data yang diinput di web langsung tersedia di mobile, dan sebaliknya, tanpa proses sinkronisasi tambahan. Dengan satu sumber data, setiap informasi yang dimasukkan akan otomatis tercermin di kedua platform secara real-time. 
+Pendekatan ini memastikan pengelolaan data yang konsisten dan efisien. Pengurus masjid dapat menggunakan web untuk tugas-tugas administratif seperti pembuatan laporan, sementara versi mobile memudahkan pengelolaan cepat di lapangan. Dengan satu basis data, Maslam DKM memberikan pengalaman pengelolaan masjid yang modern, 
+transparan
+, dan 
+terintegrasi
+ di mana 
+saja
+.
+
+Hubungan antara Yayasan Masjid, Masjid di Bawah Yayasan, dan Yayasan Maslam dalam Penggunaan Aplikasi Maslam
+
+Aplikasi Maslam dirancang oleh Yayasan Maslam untuk mendukung digitalisasi manajemen masjid. Hubungan antara Yayasan Masjid, masjid yang berada di bawah naungannya, dan Yayasan Maslam melalui aplikasi Maslam dapat dijelaskan melalui analogi berikut:
+
+Yayasan Masjid dan Masjid di Bawahnya:
+
+Yayasan Masjid adalah badan yang mengelola berbagai masjid yang berada di bawah naungannya. Yayasan ini bertindak sebagai "payung" yang memberikan arahan, dukungan, dan kebijakan umum. Namun, setiap masjid tetap memiliki kebebasan tertentu dalam mengelola operasionalnya sesuai kebutuhan lokal dan karakter jamaahnya. Masjid dapat dianggap sebagai "rumah" yang dimiliki dan dikelola oleh pengurus masjid itu sendiri.
+
+Yayasan Maslam dan Perannya melalui Aplikasi Maslam:
+
+Yayasan Maslam menyediakan platform digital berupa aplikasi Maslam untuk membantu masjid dalam berbagai aspek manajemen, seperti:
+
+Pengelolaan Jamaah: Mencatat dan mengelola data jamaah untuk mempermudah komunikasi dan interaksi.
+
+Laporan Keuangan: Mempermudah pengelolaan keuangan, seperti pencatatan donasi, alokasi ZISWAF, dan transparansi keuangan.
+
+Pengelolaan Program: Memonitor dan mempublikasikan program masjid, seperti kegiatan sosial, penggalangan dana, atau pendidikan keagamaan.
+
+Namun, seperti halnya pemilik rumah yang memiliki wewenang penuh atas rumahnya, masjid memiliki kebebasan penuh untuk menentukan bagaimana aplikasi ini digunakan.
+
+Kebebasan dan Privasi dalam Pengelolaan Aplikasi Maslam
+
+Setiap masjid, melalui pengurusnya, berhak menentukan:
+
+Tingkat Transparansi Laporan Keuangan:
+
+Apakah hanya pengurus yang dapat melihat laporan keuangan?
+
+Apakah laporan ini juga dibuka kepada jamaah secara terbatas?
+
+Ataukah laporan tersebut dibuka ke publik demi akuntabilitas?
+
+Pengelolaan Data Jamaah:
+
+Masjid memutuskan bagaimana data jamaah dikelola dan digunakan.
+
+Data ini sepenuhnya milik masjid, dan masjid bertanggung jawab menjaga privasi jamaahnya.
+
+Fleksibilitas dalam Penggunaan:
+
+Aplikasi Maslam menawarkan alat yang fleksibel, tetapi penggunaannya tetap ditentukan oleh kebijakan masing-masing masjid. Sebagai contoh, masjid dapat memilih fitur mana yang akan dimanfaatkan, seperti laporan keuangan, program dakwah, atau sekadar jadwal shalat.
+
+Akses Data oleh Yayasan Maslam
+
+Sebagai pengembang aplikasi, Yayasan Maslam secara teknis memiliki akses terhadap data yang tersimpan di platform tersebut. Hal ini adalah konsekuensi logis dari posisi Yayasan Maslam sebagai pemilik dan pengelola aplikasi, seperti:
+
+Memantau performa sistem untuk memastikan aplikasi berjalan lancar.
+
+Melakukan pemeliharaan atau troubleshooting jika ada kendala teknis.
+
+Mengumpulkan insight (tanpa membocorkan privasi) untuk pengembangan fitur yang lebih baik.
+
+Namun, penting untuk dipahami bahwa:
+
+Data Masjid Tetap Milik Masjid:
+
+Yayasan Maslam tidak akan mengklaim kepemilikan atas data tersebut. Data seperti keuangan masjid, jadwal kegiatan, dan data jamaah sepenuhnya dimiliki oleh masjid.
+
+Etika dan Keamanan Data:
+
+Akses Yayasan Maslam terhadap data masjid hanya bersifat administratif atau teknis. Maslam tidak akan menggunakan data untuk kepentingan yang melanggar privasi atau merugikan masjid.
+
+Kerahasiaan Tetap Dijaga:
+
+Yayasan Maslam berkomitmen untuk menjaga kerahasiaan data sesuai dengan standar keamanan digital yang berlaku.
+
+Kesimpulan : Hubungan antara Yayasan Masjid, masjid di bawah yayasan, dan Yayasan Maslam adalah kemitraan berbasis kepercayaan. Yayasan Maslam menyediakan alat bantu berupa aplikasi digital yang mempermudah pengelolaan masjid, tetapi keputusan terkait bagaimana alat ini digunakan tetap sepenuhnya berada di tangan pengurus masjid.
+
+Sebagai perumpamaan, Yayasan Maslam menyediakan "arsitektur" rumah yang canggih, tetapi bagaimana rumah itu dihuni, diatur, dan digunakan sepenuhnya adalah hak dan kewajiban pemiliknya (masjid).
+
+Hubungan ini memastikan fleksibilitas dan otonomi setiap masjid sambil tetap memberikan dukungan teknologi yang relevan dan bermanfaat.
+
+Hubungan Maslam dengan Dewan Masjid Indonesia (DMI) dan Organisasi Lainnya
+
+Maslam adalah sebuah gerakan filantropi teknologi yang bertujuan untuk memajukan pengelolaan masjid melalui inovasi digital. Dalam misinya untuk membantu sebanyak mungkin masjid di Indonesia, Maslam terbuka untuk bekerja sama dengan berbagai pihak, termasuk Dewan Masjid Indonesia (DMI), kementerian, organisasi keagamaan, dan berbagai komunitas masjid. Hubungan ini didasarkan pada visi bersama untuk memperkuat peran masjid sebagai pusat peradaban umat.
+
+Prinsip Kolaborasi Maslam
+
+Maslam menjunjung tinggi prinsip inklusivitas dan kolaborasi dalam menjalin hubungan dengan berbagai pihak. Kolaborasi ini tidak didasarkan pada perbedaan organisasi, latar belakang, atau afiliasi, tetapi pada kesamaan akidah dan tujuan untuk memakmurkan masjid sebagai tempat ibadah, dakwah, dan kegiatan sosial.
+
+Maslam percaya bahwa dengan bekerja bersama, potensi digitalisasi masjid dapat dimaksimalkan untuk menghadirkan dampak positif yang lebih luas bagi umat Islam di Indonesia. Oleh karena itu, Maslam terbuka untuk menjalin hubungan dengan organisasi seperti:
+
+Dewan Masjid Indonesia (DMI):
+
+Sebagai organisasi yang menaungi masjid-masjid di Indonesia, DMI memiliki jaringan yang luas dan pengalaman dalam membina masjid. Maslam dapat bekerja sama dengan DMI dalam menyosialisasikan pentingnya digitalisasi manajemen masjid, mengadakan pelatihan, dan berbagi teknologi yang relevan untuk meningkatkan efisiensi pengelolaan masjid.
+
+Kerjasama ini juga bisa mencakup pendataan masjid secara nasional, penyusunan program-program edukasi berbasis digital, atau membantu masjid dalam implementasi teknologi untuk mempermudah administrasi dan pelaporan keuangan.
+
+Kementerian Agama (Kemenag):
+
+Sebagai institusi pemerintah yang memiliki peran strategis dalam pembinaan umat Islam, Kemenag dapat menjadi mitra strategis Maslam. Kerja sama ini dapat berupa pengembangan aplikasi sesuai standar yang ditetapkan Kemenag, dukungan regulasi, atau kampanye bersama untuk mendorong adopsi teknologi oleh masjid.
+
+Majelis Ulama Indonesia (MUI):
+
+Maslam dapat bekerja sama dengan MUI untuk memastikan bahwa fitur-fitur dalam aplikasi Maslam sesuai dengan syariat Islam dan mendukung nilai-nilai keislaman dalam pengelolaan masjid.
+
+Organisasi Keagamaan Besar:
+
+Muhammadiyah
+
+Sebagai organisasi Islam terbesar di Indonesia, Muhammadiyah memiliki banyak masjid yang dikelola secara profesional. Maslam dapat berperan sebagai mitra dalam mendukung pengelolaan masjid di bawah organisasi ini melalui teknologi.
+
+Nahdlatul Ulama (NU):
+
+Sebagai organisasi Islam terbesar di Indonesia, NU memiliki banyak masjid yang dikelola secara profesional. Maslam dapat berperan sebagai mitra dalam mendukung pengelolaan masjid di bawah organisasi ini melalui teknologi.
+
+Masjid Kapal Munzalan dan Masjid Enterprise-nya: 
+
+Maslam melihat Masjid Munzalan sebagai inspirasi dalam memadukan dakwah dengan kegiatan sosial dan ekonomi berbasis masjid. Maslam bisa berkolaborasi untuk memperluas dampak dakwah digital di jaringan masjid mereka.
+
+Masjid Jogokariyan: 
+
+Masjid ini dikenal dengan model pengelolaan yang transparan dan modern, yang sejalan dengan nilai-nilai yang diusung Maslam. Maslam dapat mengambil inspirasi dari Masjid Jogokariyan dan bekerja sama untuk memperkenalkan digitalisasi dalam laporan keuangan masjid.
+
+Masjid Daarut Tauhiid: 
+
+Sebagai masjid yang memadukan spiritualitas dan pendidikan, Daarut Tauhiid bisa menjadi mitra dalam mengembangkan fitur-fitur aplikasi yang mendukung pembelajaran dan manajemen berbasis nilai-nilai tauhid.
+
+Maslam tidak membedakan masjid berdasarkan afiliasi organisasi, madzhab, atau latar belakang selama memiliki akidah yang sama. Fokus Maslam adalah membantu masjid-masjid menjadi lebih efisien, transparan, dan berdampak melalui teknologi digital. Beberapa langkah yang dilakukan Maslam untuk mencapai misi ini meliputi:
+
+Penyediaan Platform Gratis:
+
+Maslam memberikan akses aplikasi kepada masjid tanpa biaya sebagai bentuk kontribusi filantropi kepada umat Islam.
+
+Pelatihan dan Edukasi:
+
+Maslam menyediakan pelatihan kepada pengurus masjid agar mereka mampu mengadopsi teknologi dengan mudah dan efektif. Pelatihan ini dapat dilakukan secara langsung maupun online, bekerja sama dengan organisasi seperti DMI atau komunitas masjid lainnya.
+
+Kolaborasi Lintas Organisasi:
+
+Maslam terus menjalin hubungan dengan berbagai organisasi untuk memaksimalkan jangkauan programnya. Kolaborasi ini memungkinkan Maslam menjangkau masjid-masjid kecil maupun besar di berbagai pelosok Indonesia.
+
+Peningkatan Transparansi dan Akuntabilitas:
+
+Dengan menyediakan fitur seperti pelaporan keuangan digital, Maslam membantu masjid meningkatkan transparansi kepada jamaahnya, sehingga dapat membangun kepercayaan dan meningkatkan partisipasi jamaah.
+
+Kesimpulan : Hubungan Maslam dengan DMI dan organisasi lainnya adalah bentuk dari semangat kolaborasi untuk mendukung pengelolaan masjid yang lebih baik. Dengan menjalin kerja sama ini, Maslam ingin memastikan bahwa teknologi menjadi alat yang bermanfaat bagi semua masjid, tanpa memandang afiliasi organisasi atau ukuran masjid. Kolaborasi ini bertujuan untuk mewujudkan visi bersama, yaitu menjadikan masjid sebagai pusat peradaban umat yang maju dan berdaya guna.
+
+Bagaimana status data masjid yaitu data jamaah yang berisi informasi sensitif, yang disimpan di aplikasi Maslam?
+
+Pertanyaan mengenai keamanan data sensitif, seperti data jamaah yang diakses melalui aplikasi Maslam, adalah hal yang sangat penting. Untuk menjawab ini secara rinci, mari kita bahas dari beberapa perspektif: opsionalitas dalam penggunaan data jamaah, tujuan penggunaan data jamaah, dan langkah-langkah keamanan yang diterapkan oleh Maslam.
+
+Opsionalitas: Tidak Wajib Memasukkan Data Jamaah
+
+Sebelum berbicara mengenai keamanan data, perlu dipahami bahwa Maslam tidak mewajibkan masjid untuk memasukkan data jamaah ke dalam aplikasi.
+
+Fleksibilitas Penggunaan: 
+
+Fitur seperti penerimaan dan distribusi ZISWAF (Zakat, Infaq, Shadaqah, dan Wakaf) dapat dijalankan tanpa perlu memasukkan informasi detail jamaah.
+
+Nama pemberi zakat atau penerima bantuan dapat ditulis secara manual, misalnya menggunakan istilah umum seperti "Hamba Allah" atau inisial, yang hanya dapat dipahami oleh pengurus masjid.
+
+Dengan ini, masjid tetap bisa mengelola administrasi dan laporan keuangan tanpa harus menyimpan informasi pribadi yang sensitif.
+
+Tujuan Memasukkan Data Jamaah: Untuk Kepentingan Masjid, Bukan Maslam
+
+Jika masjid memilih untuk memasukkan data jamaah ke dalam aplikasi Maslam, hal ini bukan karena kewajiban atau permintaan dari Maslam, melainkan untuk kepentingan strategis pengelolaan masjid itu sendiri.
+
+Manfaat Data Jamaah bagi Masjid
+
+Pemahaman Demografi Jamaah:
+
+Pengurus masjid dapat lebih memahami siapa saja yang menjadi bagian dari jamaah mereka. Data ini meliputi: 
+
+Status ekonomi: Apakah jamaah berada dalam kategori yang membutuhkan bantuan atau mampu menjadi donatur.
+
+Status pendidikan: Memetakan kebutuhan pendidikan agama, seperti tingkat literasi Al-Qur’an.
+
+Status kesehatan: Memonitor jamaah yang mungkin memerlukan bantuan kesehatan atau dukungan lainnya.
+
+Strategi Dakwah yang Tepat Sasaran:
+
+Dengan data ini, masjid dapat menyesuaikan program dakwah. Contoh: 
+
+Jika banyak jamaah yang belum memahami tajwid, masjid bisa menyelenggarakan kelas intensif membaca Al-Qur’an.
+
+Jika ada jamaah yang jarang shalat di masjid, pengurus dapat menjalin komunikasi yang lebih personal untuk mengajak mereka lebih aktif.
+
+Penyusunan Program Sosial:
+
+Masjid dapat menyusun program bantuan sosial atau pendidikan yang lebih sesuai dengan kebutuhan jamaah, seperti beasiswa bagi anak jamaah kurang mampu atau pengobatan gratis untuk jamaah yang membutuhkan.
+
+Evaluasi dan Perencanaan Jangka Panjang:
+
+Data ini membantu masjid mengevaluasi keberhasilan program dakwah dan sosial, serta merancang program yang lebih relevan di masa depan.
+
+Keamanan Data: Komitmen Maslam Melindungi Informasi Sensitif
+
+Sebagai penyedia aplikasi, Maslam sangat menyadari tanggung jawab besar dalam menjaga keamanan data masjid, termasuk data sensitif seperti data jamaah, jika memang dimasukkan ke dalam sistem. Berikut adalah langkah-langkah yang dilakukan Maslam untuk memastikan data ini tetap aman:
+
+1. Backup Data Harian ke Server Terpisah
+
+Maslam secara rutin melakukan backup data harian dan menyimpannya di server yang berbeda. Ini memastikan bahwa data tetap aman meskipun terjadi gangguan pada server utama, seperti kerusakan perangkat keras atau serangan siber.
+
+2. Bug Bounty Program
+
+Maslam mengadakan program bug bounty, di mana para profesional keamanan siber diundang untuk menguji aplikasi. Program ini membantu menemukan celah keamanan yang mungkin tidak terlihat selama pengembangan aplikasi.
+
+3. Penetration Testing (Pen Test)
+
+Maslam bekerja sama dengan perusahaan keamanan siber terkemuka, seperti Cyber Army dan Temika Cyber, untuk melakukan penetration testing. Pen Test ini mensimulasikan serangan siber untuk mengidentifikasi dan memperbaiki kelemahan sistem sebelum hal tersebut dieksploitasi. 
+
+Kesimpulan : Maslam memberikan fleksibilitas penuh kepada masjid dalam penggunaan data jamaah. Data jamaah tidak wajib dimasukkan ke dalam aplikasi, dan masjid dapat menggunakan Maslam tanpa mengelola data sensitif jika tidak diperlukan.
+
+Namun, jika masjid memutuskan untuk menginput data jamaah, itu sepenuhnya untuk kepentingan internal masjid, seperti memahami demografi jamaah, menyusun program dakwah yang tepat sasaran, dan memaksimalkan manfaat sosial.
+
+Di sisi lain, Maslam sangat berkomitmen untuk menjaga keamanan data ini melalui langkah-langkah proaktif, termasuk backup data, bug bounty, penetration testing. Dengan pendekatan ini, Maslam berusaha membangun kepercayaan dan memberikan rasa aman kepada masjid yang menjadi mitranya.
+
+ 
+
+ 
+
+Upload File / Document / Dokumen
+Maslam mempunyai kemampuan upload file atau melampirkan file (Attach/Upload File) di menu Penerimaan ZISWAF, Distribusi ZISWAF,  Pengeluaran Operasional.
+Sekarang, setiap transaksi yang diinput pada ketiga menu di atas dapat dilengkapi dengan file pendukung, seperti: Bukti transfer atau setoran,  Dokumen pendukung distribusi, Nota pengeluaran atau dokumen lainnya.  
+
+Ketentuan Upload File:
+Jenis file yang dapat diunggah  adalah format gambar: JPG, JPEG, PNG dan Dokumen: PDF. Jenis file ini dipilih untuk memastikan kompatibilitas dan kemudahan akses bagi semua pengguna.
+
+Maksimal 3 file per transaksi, setiap transaksi hanya dapat dilampirkan hingga 3 file pendukung untuk menjaga efisiensi dan relevansi dokumen.  
+
+Ukuran maksimum 1 MB per file, setiap file yang diunggah dibatasi ukurannya hingga 1 MB untuk memastikan performa aplikasi tetap optimal.  
+
+Mengapa Fitur Upload File Ini Penting?  
+
+1. Transparansi dan Akuntabilitas, dokumen pendukung memastikan setiap transaksi lebih transparan dan dapat dipertanggungjawabkan.  
+
+2. Pengelolaan Arsip yang Lebih Efisien, semua file pendukung disimpan secara digital, mempermudah pencarian kembali bila diperlukan.  
+
+3. Kesiapan Audit, dokumen yang terlampir membantu mempermudah proses audit keuangan dan operasional.  
+
+4. Meningkatkan Kepercayaan Donatur, dokumentasi yang jelas atas penerimaan dan penggunaan dana meningkatkan kepercayaan donatur.  
+
+Pertanyaan: Saya ingin mendapatkan pelatihan, training, atau pendampingan dari tim Maslam. Bagaimana caranya?
+Jawaban: untuk mendapatkan pelatihan atau pendampingan silakan menghubungi staf Maslam, Kang Ghifar, di nomor 085759265519 untuk informasi lebih lanjut.
+
+Pertanyaan: Bagaimana cara menggunakan Maslam di PC, komputer, atau laptop?
+Jawaban:Maslam dapat diakses melalui browser dengan membuka tautan https://apps.maslam.id. Pastikan perangkat Anda terhubung dengan internet untuk menggunakan aplikasi ini. Jika Anda mengalami kendala, silakan hubungi tim dukungan Maslam untuk bantuan lebih lanjut.
+
+Pertanyaan: Adakah tutorial YouTube mengenai daftar atau registrasi masjid ke aplikasi Maslam?
+Jawaban: Terdapat tutorial YouTube untuk mendaftarkan atau registrasi masjid ke aplikasi Maslam. Anda bisa melihatnya di tautan berikut ini:
+https://www.youtube.com/watch?v=WBJkvHlLKJk 
+
+Link canva ini merupakan contoh desain untuk flyer, banner, atau x-banner https://www.canva.com/design/DAGG3q6zT9Q/872zsHK5zPAEUjomDm7Wqg/edit desain ini cocok untuk menarik perhatian jamaah dan memberikan informasi terkait aplikasi maslam secara efektif.
+
+Pertanyaan: Apakah Maslam dapat digunakan untuk lembaga pendidikan?
+Jawaban: Maslam dapat digunakan untuk lembaga pendidikan dalam beberapa hal, seperti pengelolaan profil lembaga, pencatatan data aset, inventory, keuangan, serta ZISWAF. Namun, untuk 
+fitur-fitur
+ 
+khusus
+ 
+lembaga
+ 
+pendidikan
+ 
+seperti
+ data 
+siswa
+, data guru, 
+pengelolaan
+ 
+kelas
+, dan 
+mata
+ 
+pelajaran
+, 
+saat
+ 
+ini
+ 
+belum
+ 
+tersedia
+.
+
+Pertanyaan: Apa saja fitur Maslam yang dapat digunakan selama bulan Ramadhan?
+Jawaban: Selama bulan Ramadhan, Maslam menyediakan berbagai fitur yang dapat mendukung kegiatan masjid, antara lain:
+
+Menu Kegiatan:
+
+Digunakan untuk mempublikasikan berbagai kegiatan Ramadhan seperti buka puasa bersama, ceramah, dan lainnya.
+
+Jadwal Tarawih:
+
+Fitur ini memungkinkan pengelolaan jadwal shalat tarawih yang dapat diakses jamaah untuk mengetahui waktu pelaksanaan secara terstruktur.
+
+Penerimaan ZISWAF:
+
+Mendukung penerimaan zakat fitrah, baik dalam bentuk uang maupun beras.
+
+Aplikasi mobile memudahkan panitia untuk mendatangi rumah para muzakki, menginput data langsung di tempat, dan mencetak nota menggunakan printer mini Bluetooth, sehingga lebih praktis dan efisien.
+
+Distribusi ZISWAF:
+
+Mempermudah distribusi zakat fitrah kepada para mustahik.
+
+Dengan aplikasi mobile, panitia dapat mencatat distribusi secara langsung di lokasi, dan jika diperlukan, mencetak bukti distribusi dengan printer mini Bluetooth.
+
+Fitur-fitur 
+ini
+ 
+dirancang
+ 
+untuk
+ 
+mendukung
+ 
+kelancaran
+ 
+berbagai
+ 
+kegiatan
+ Ramadhan dan 
+memastikan
+ 
+pengelolaan
+ ZISWAF 
+lebih
+ 
+terstruktur
+ dan 
+mudah
+ 
+dilakukan
+.
+
+Pertanyaan: Bagaimana cara berdonasi ke Maslam
+Jawaban: Cara berdonasi ke Maslam silahkan transfer ke rekening 
+berikut :
+ Bank Syariah Indonesia7269183424 an Maslam Inovasi Teknologi dan silahkan lakukan konfirmasi donasi ke nomor 
+wa :
+ 085721982828 (Mbak Niken)  
+
+Peraturan WhatsApp Group MASLAM
+
+Tujuan Grup:
+
+WhatsApp Group "Maslam" adalah wadah komunikasi khusus bagi pengguna aplikasi Maslam yang bertujuan untuk membahas segala hal terkait dengan penggunaan, pembaruan, masalah teknis, dan saran terkait aplikasi Maslam.
+
+Fokus Pembicaraan:
+
+Harap menjaga fokus percakapan hanya pada topik terkait aplikasi Maslam. Diskusi mengenai topik lainnya yang tidak langsung terkait dengan aplikasi Maslam harus dihindarkan.
+
+Etika dan Sopan Santun:
+
+Berbicara dengan sopan dan menghormati pendapat anggota lainnya.
+
+Hindari penggunaan kata-kata kasar, vulgar, atau merendahkan.
+
+Tidak boleh melakukan tindakan bullying, pelecehan, atau diskriminasi terhadap anggota lain.
+
+Informasi yang Bermanfaat:
+
+Mohon berbagi informasi, tips, atau saran yang berguna terkait penggunaan aplikasi Maslam.
+
+Hindari berbagi konten yang tidak relevan atau tidak bermanfaat bagi anggota lainnya.
+
+Privasi dan Keamanan:
+
+Jangan membagikan informasi pribadi atau rahasia pengguna lainnya tanpa izin mereka.
+
+Hindari menyebarkan pesan yang tidak diverifikasi atau hoaks terkait aplikasi Maslam.
+
+Administrasi Grup:
+
+Hanya admin yang berwenang membuat perubahan pada grup atau memberikan pengumuman resmi terkait aplikasi Maslam.
+
+Anggota diharapkan untuk mengikuti petunjuk dari admin terkait aturan grup dan kebijakan aplikasi Maslam.
+
+Penegakan Aturan: 
+
+Admin berhak menghapus pesan yang melanggar aturan grup. 
+
+Terima kasih atas kerjasama dan partisipasinya dalam menjaga keberlangsungan dan kualitas percakapan di dalam grup.
+
+Salam Takzim,
+Maslam
+
+Cara Mendukung Maslam  
+
+1️. Mendoakan Maslam 
+   Doa Anda sangat berarti bagi kami. Mohon doakan agar Maslam dan seluruh tim selalu diberikan, kemudahan dan kelancaran dalam setiap usaha , keberkahan dalam setiap langkah  dan keselamatan di dunia dan akhirat  
+
+2️. Memberikan Donasi  
+   Dukung Maslam dengan memberikan donasi melalui rekening berikut:  
+
+     🏦 Bank Syariah Indonesia,  No. Rekening: 7269183424, a.n. Maslam Inovasi Teknologi 
+
+3. Membeli Produk Maslam  
+
+   Anda dapat mendukung Maslam dengan membeli berbagai produk seperti:  
+
+   - Kaos Maslam, Buku dan juga Qur'an dan Qur'an Custom  
+
+   Produk-produk ini tersedia di Shopee melalui link berikut:  
+
+   🔗 https://shopee.co.id/u.mart#product_list  
+
+4️. Menggunakan Produk IT Maslam  
+
+   Maslam menyediakan berbagai solusi teknologi, termasuk:  
+
+   - Maslam ERP: Sistem ERP untuk SMB & Enterprise (Small, Medium, and Large Businesses).  
+
+   - Aplikasi Monitoring Project: Untuk memantau proyek secara digital.  
+
+   - Software Development: Jasa pengembangan aplikasi sesuai kebutuhan bisnis Anda.  
+
+   - IT Security Services: Layanan keamanan digital untuk melindungi bisnis Anda dari ancaman siber
+
+📞 Informasi & Kontak  
+
+Hubungi Bu Cici di +6285294525682 untuk informasi lebih lanjut.  
+
+To Be Masjid Visioner: Membangun Sumber Daya Manusia Masjid yang Unggul dan Berdaya
+
+Dalam sejarah peradaban Islam, masjid bukan hanya tempat ibadah, tetapi juga pusat ilmu, ekonomi, sosial, dan peradaban. Namun, dalam era modern, banyak masjid masih tertinggal dalam hal pengelolaan, transparansi, dan inovasi. To Be Masjid Visioner hadir sebagai gerakan untuk membangkitkan kembali peran masjid dengan menitikberatkan pada pengembangan Sumber Daya Manusia (SDM) yang kompeten, berwawasan luas, dan mampu mengelola masjid secara profesional dan visioner.
+
+🔹 Mengapa SDM Masjid Harus Diperkuat?
+
+Banyak program digitalisasi masjid yang telah hadir, termasuk Maslam sebagai aplikasi manajemen masjid, yang membantu dalam pencatatan keuangan, transparansi donasi, dan administrasi jamaah. Namun, teknologi secanggih apa pun tidak akan berdampak besar tanpa SDM yang mampu memanfaatkannya.
+
+Banyak masjid yang menghadapi tantangan dalam hal:
+📌 Kepemimpinan dan Manajemen: Kurangnya pemahaman tentang bagaimana mengelola masjid secara profesional
+📌 Pemberdayaan Jamaah: Masih terbatasnya keterlibatan jamaah dalam aktivitas dan program masjid
+📌 Inovasi dan Adaptasi Teknologi: Minimnya pemanfaatan teknologi dalam tata kelola masjid
+📌 Keberlanjutan Program: Banyak program masjid yang bersifat sporadis tanpa strategi jangka panjang
+
+Untuk menjawab tantangan ini, To Be Masjid Visioner hadir dengan fokus utama: pembentukan SDM yang unggul, profesional, dan berdaya guna bagi masjid dan umat.
+
+🔹 Visi dan Misi To Be Masjid Visioner
+
+🛤️ Visi:
+
+Membentuk SDM masjid yang kompeten, inovatif, dan mampu mengelola masjid sebagai pusat peradaban modern.
+
+🎯 Misi:
+
+✅ Meningkatkan kapasitas dan kompetensi pengurus masjid dalam manajemen, kepemimpinan, dan pengelolaan keuangan
+✅ Mendorong keterlibatan jamaah dalam mendukung kemajuan masjid melalui pelatihan dan pembinaan
+✅ Mengajarkan pemanfaatan teknologi digital agar masjid lebih efektif dalam administrasi dan pelayanan jamaah
+✅ Membentuk komunitas penggerak masjid visioner yang dapat menjadi role model bagi masjid-masjid lainnya
+✅ Mewujudkan masjid sebagai pusat pembelajaran dan pemberdayaan ekonomi umat
+
+🔹 Program Utama To Be Masjid Visioner
+
+1️. Leadership Training for DKM
+
+Melatih para pengurus masjid agar memiliki kepemimpinan yang kuat, visi yang jelas, dan kemampuan mengelola masjid secara efektif. Pelatihan ini mencakup:
+✅ Manajemen masjid berbasis data
+✅ Strategi kepemimpinan dan komunikasi
+✅ Membangun program masjid yang berkelanjutan
+
+2️. Workshop Digitalisasi Masjid
+
+Membantu masjid memahami bagaimana teknologi dapat meningkatkan efektivitas dan transparansi pengelolaan masjid. Materi yang diberikan meliputi:
+✅ Pengenalan dan penerapan aplikasi manajemen masjid (seperti Maslam)
+✅ Tata kelola keuangan dan donasi berbasis digital
+✅ Strategi pemasaran digital untuk meningkatkan keterlibatan jamaah
+
+3️. Pemberdayaan Ekonomi Berbasis Masjid
+
+Masjid memiliki potensi besar dalam memberdayakan ekonomi umat. Program ini akan mengajarkan bagaimana masjid dapat:
+✅ Membangun unit usaha berbasis masjid
+✅ Mengelola zakat, infak, dan wakaf secara produktif
+✅ Menjalankan program pemberdayaan ekonomi berbasis komunitas
+
+4️. Komunitas Masjid Visioner
+
+Membentuk jaringan pengurus masjid yang memiliki semangat inovasi, berbagi pengalaman, dan saling mendukung dalam mengelola masjid secara profesional.
+
+🔹 Perbedaan Maslam dan To Be Masjid Visioner
+
+🔹 Maslam adalah tools (alat) berupa aplikasi digital yang membantu dalam manajemen masjid.
+🔹 To Be Masjid Visioner adalah gerakan pembentukan SDM masjid agar lebih kompeten dalam mengelola masjid dengan teknologi dan strategi yang tepat.
+
+Keduanya saling melengkapi: Maslam menyediakan teknologinya, sementara To Be Masjid Visioner menyiapkan orang-orang yang akan menggunakannya.
+
+🔹 Siapa yang Bisa Bergabung?
+
+🎯 Pengurus masjid (DKM) yang ingin meningkatkan kapasitas manajemen masjid
+🎯 Jamaah yang aktif dan peduli terhadap kemajuan masjidnya
+🎯 Profesional, akademisi, dan praktisi yang ingin berbagi ilmu dan pengalaman
+🎯 Komunitas dan organisasi Islam yang memiliki visi serupa
+
+🔹 Kesimpulan: Saatnya Masjid Bangkit!
+
+Masjid adalah pusat peradaban umat Islam. Untuk menjadikannya lebih relevan dan berdampak di era modern, kita tidak hanya butuh teknologi, tetapi juga SDM yang berkualitas dan visioner.
+
+🔹 To Be Masjid Visioner adalah langkah nyata untuk menciptakan pengurus masjid yang berdaya, inovatif, dan mampu mengelola masjid secara profesional. 🔹
+
+Saatnya kita bersama-sama membangun masjid yang lebih baik!  
+
+Mengapa Masjid Butuh Sistem Khusus, Bukan Aplikasi Akuntansi Biasa?
+
+Banyak masjid saat ini menghadapi tantangan dalam pengelolaan keuangan dan administrasi yang transparan serta akuntabel. Beberapa pengurus masjid mencoba menggunakan aplikasi akuntansi umum untuk membantu pencatatan keuangan mereka. Namun, pada kenyataannya, aplikasi tersebut sering kali tidak mampu mengakomodasi kebutuhan spesifik masjid.
+
+Salah satu permasalahan utama adalah bahwa aplikasi akuntansi umum dirancang untuk bisnis dan perusahaan, bukan untuk organisasi nirlaba seperti masjid. Dalam pengelolaan masjid, terdapat berbagai jenis dana seperti Zakat, Infak, Sedekah, dan Wakaf (ZISWAF) yang masing-masing memiliki aturan pengelolaan tersendiri. Sayangnya, aplikasi akuntansi konvensional sering kali hanya menyediakan kategori umum, sehingga menyulitkan bendahara masjid dalam mencatat dan memisahkan dana sesuai ketentuan yang berlaku.
+
+Selain itu, distribusi dana zakat juga menjadi tantangan tersendiri. Aplikasi akuntansi biasa tidak memiliki fitur otomatis untuk membagi dana zakat kepada amil dan mustahik sesuai syariat Islam. Akibatnya, proses ini harus dilakukan secara manual, yang meningkatkan risiko kesalahan dalam perhitungan dan distribusi.
+
+Masalah lainnya adalah pencatatan transaksi khusus masjid, seperti infak rutin dari jamaah atau tabungan kurban. Banyak jamaah yang secara berkala menyisihkan dana untuk kurban atau wakaf, namun sistem akuntansi konvensional tidak menyediakan fitur untuk mencatat transaksi ini secara khusus. Akibatnya, pengurus masjid harus menggunakan pencatatan manual di luar aplikasi, yang berisiko tidak sinkron atau bahkan hilang.
+
+Selain itu, laporan keuangan yang dihasilkan oleh aplikasi akuntansi umum sering kali menggunakan istilah bisnis seperti laba rugi dan neraca, yang kurang relevan dan sulit dipahami oleh jamaah. Masjid membutuhkan laporan keuangan yang sederhana, transparan, dan mudah dibaca, sehingga semua pihak dapat memahami penggunaan dana yang ada dengan jelas.
+
+Sebagai solusi, masjid memerlukan sistem yang dirancang khusus untuk kebutuhan mereka, seperti Maslam. Aplikasi ini menyediakan fitur-fitur yang sesuai dengan kebutuhan pengelolaan masjid, termasuk pencatatan dana ZISWAF yang terpisah, pembagian dana zakat secara otomatis, pencatatan jamaah dan infak rutin, serta fitur khusus untuk pengelolaan Idul Adha, termasuk tabungan kurban dan distribusi daging kurban.
+
+Selain itu, laporan keuangan yang dihasilkan oleh Maslam dirancang lebih sederhana dan mudah dipahami oleh jamaah. Dengan penyimpanan data berbasis cloud, keamanan dan aksesibilitas data juga lebih terjamin, sehingga pengurus masjid tidak perlu khawatir kehilangan data akibat kerusakan perangkat.
+
+Dengan menggunakan sistem yang sesuai dengan kebutuhan masjid, transparansi dan efisiensi pengelolaan keuangan dapat meningkat, sehingga pengurus masjid dapat lebih fokus pada pelayanan jamaah dan pengembangan program keagamaan. Implementasi sistem yang tepat, seperti Maslam, bukan hanya mempermudah administrasi, tetapi juga membantu membangun kepercayaan jamaah terhadap pengelolaan dana masjid.
+
+Bagi masjid yang ingin mulai menggunakan sistem pengelolaan digital, Maslam Mobile dapat diunduh langsung melalui Google Play Store di tautan berikut:
+Maslam Mobile di Google Play Store
+
+Dengan langkah ini, masjid dapat semakin profesional dalam mengelola keuangan dan meningkatkan transparansi kepada jamaah.
+
+Mengapa Google Sheet Bukan Pilihan Ideal untuk Administrasi Masjid?
+
+Dalam mengelola administrasi masjid, banyak pengurus yang mengandalkan Google Sheet untuk mencatat data keuangan, ZISWAF, dan informasi jamaah. Meskipun Google Sheet menawarkan fleksibilitas dalam pengolahan data, seiring dengan meningkatnya volume dan kompleksitas data masjid, beberapa kendala mulai muncul yang membuatnya kurang ideal sebagai solusi administrasi jangka panjang.
+
+Keterbatasan Google Sheet dalam Administrasi Masjid
+
+1. Kesulitan Menjaga Konsistensi Data
+
+Google Sheet memungkinkan banyak pengguna untuk mengedit secara bersamaan, tetapi hal ini juga berisiko merusak formula atau mengubah data secara tidak sengaja. Ketidakkonsistenan ini dapat menyebabkan laporan yang salah atau format data yang tidak seragam, sehingga memperumit proses evaluasi keuangan dan pelaporan.
+
+2. Tidak Terintegrasi dengan Kebutuhan Masjid
+
+Administrasi masjid mencakup berbagai aspek seperti pencatatan Zakat, Infak, Sedekah, Wakaf (ZISWAF), pengelolaan jamaah, aset masjid, dan keuangan secara keseluruhan. Google Sheet tidak memiliki fitur bawaan untuk menghubungkan data-data ini secara otomatis, sehingga pengurus harus membuat banyak file terpisah. Akibatnya, kesalahan pencatatan semakin sulit dikontrol dan proses administrasi menjadi lebih rumit.
+
+3. Risiko Kesalahan dan Kehilangan Data
+
+Dengan banyaknya file yang dikelola secara manual, ada kemungkinan data hilang, tertimpa, atau bahkan dihapus tanpa disengaja. Selain itu, karena Google Sheet berbasis cloud, aksesnya sangat bergantung pada koneksi internet. Jika koneksi lambat atau file terlalu besar, waktu akses bisa menjadi kendala tersendiri.
+
+4. Keamanan Data yang Terbatas
+
+Keamanan data adalah faktor penting dalam administrasi masjid, terutama dalam mengelola dana umat. Google Sheet memang menawarkan fitur berbagi akses, tetapi tidak memiliki sistem kontrol hak akses yang detail seperti aplikasi khusus. Siapa pun yang memiliki izin edit bisa mengubah data, yang meningkatkan risiko manipulasi atau kesalahan input tanpa bisa terlacak.
+
+Solusi 
+Alternatif
+: 
+Maslam
+, 
+Aplikasi
+ 
+Administrasi
+ Masjid
+
+Untuk mengatasi berbagai kendala yang ada pada Google Sheet, solusi yang lebih baik adalah menggunakan aplikasi yang memang dirancang khusus untuk masjid, seperti Maslam. Aplikasi ini menawarkan fitur-fitur yang sesuai dengan kebutuhan pengelolaan masjid, di antaranya:
+
+Integrasi Data: Semua informasi terkait ZISWAF, jamaah, aset, dan keuangan dapat dikelola dalam satu sistem, mengurangi risiko kesalahan pencatatan.
+
+Keamanan Tingkat Tinggi: Data disimpan di server cloud dengan proteksi ketat dan sistem audit log untuk melacak setiap perubahan.
+
+Akses Mudah dan Terkontrol: Pengurus dapat mengakses data dari mana saja melalui versi mobile, dengan hak akses yang lebih terstruktur.
+
+Laporan yang Lebih Relevan: Maslam menyediakan laporan yang disesuaikan dengan kebutuhan masjid, tanpa istilah bisnis yang membingungkan.
+
+Dengan berbagai keunggulan tersebut, Maslam menjadi pilihan yang lebih efisien, aman, dan mudah digunakan dibandingkan dengan Google Sheet. Masjid yang ingin meningkatkan efisiensi administrasinya dapat mulai menggunakan Maslam dengan mengunduh aplikasinya melalui Google Play Store.
+
+Dengan beralih ke sistem yang lebih modern dan aman, pengelolaan masjid dapat berjalan lebih transparan dan profesional, memberikan manfaat yang lebih besar bagi jamaah dan masyarakat luas.
+
+Aduh, Data Masjid Hilang: Pentingnya Digitalisasi Administrasi Masjid
+
+Administrasi masjid yang tertata rapi adalah kunci dalam pengelolaan dana dan kegiatan keagamaan. Namun, banyak masjid masih mengandalkan pencatatan manual menggunakan Microsoft Excel atau Word yang disimpan di satu komputer. Cara ini memang mudah dan familiar, tetapi memiliki risiko besar, seperti yang baru saja dialami oleh salah satu masjid.
+
+Ketika bendahara masjid hendak menyiapkan laporan keuangan bulanan, komputer yang menyimpan seluruh data keuangan, data jamaah, ZISWAF, dan aset masjid tiba-tiba rusak. Setelah dibawa ke teknisi, ternyata hard disk mengalami kerusakan parah, dan semua data yang tersimpan tidak bisa diselamatkan. Akibatnya, seluruh catatan transaksi, daftar donatur, serta pengelolaan dana masjid yang telah dikumpulkan selama bertahun-tahun hilang tanpa jejak.
+
+Kejadian ini menjadi pelajaran penting bahwa pencatatan menggunakan Excel atau Word tanpa sistem backup yang baik sangat berisiko. File yang tersimpan di satu perangkat dapat hilang sewaktu-waktu akibat kerusakan hardware, virus, atau kesalahan teknis lainnya. Selain itu, metode ini juga tidak efisien dalam berbagi data dengan sesama pengurus masjid, karena harus mengandalkan salinan file yang rentan mengalami perubahan atau kehilangan.
+
+Sebagai solusi, masjid sebaiknya beralih ke sistem digital berbasis cloud seperti aplikasi Maslam. Dengan menggunakan Maslam, data keuangan, ZISWAF, aset, dan daftar jamaah tersimpan secara aman di server cloud, sehingga tidak bergantung pada satu perangkat. Jika komputer rusak atau hilang, data tetap bisa diakses kapan saja dari perangkat lain, termasuk melalui aplikasi mobile. Selain itu, sistem ini memiliki fitur keamanan seperti hak akses khusus bagi pengurus tertentu dan audit log untuk melacak setiap perubahan data.
+
+Penggunaan aplikasi Maslam juga mempermudah akses dan pengelolaan administrasi masjid secara modern. Pengurus dapat mencatat transaksi keuangan, memantau donasi, serta menyusun laporan dengan lebih cepat dan akurat. Dengan demikian, risiko kehilangan data bisa diminimalkan, dan pengelolaan masjid menjadi lebih profesional serta transparan. 
+
+Digitalisasi administrasi masjid bukan hanya tentang kenyamanan, tetapi juga tentang keamanan dan efisiensi dalam pengelolaan dana serta kegiatan masjid. Dengan teknologi yang tepat, insyaAllah pengelolaan masjid menjadi lebih modern dan terpercaya.
+
+Solusi Sosial Dimulai dari Data: Mengoptimalkan Peran Masjid dalam Masyarakat
+
+Seberapa baik kita mengenal kondisi sosial di sekitar masjid? Berapa banyak anak yatim yang membutuhkan santunan? Berapa janda yang kesulitan memenuhi kebutuhan sehari-hari? Berapa warga yang putus sekolah atau menganggur karena keterbatasan ekonomi? Jika pengurus masjid tidak memiliki jawaban atas pertanyaan-pertanyaan ini, bagaimana masjid bisa benar-benar menjadi solusi bagi lingkungan sekitarnya?
+
+Masjid: Lebih dari Sekadar Tempat Ibadah
+
+Masjid bukan hanya tempat shalat dan pengajian. Sejak zaman Rasulullah ﷺ, masjid telah menjadi pusat pemberdayaan umat, tempat berkumpulnya solusi sosial, dan sumber kebangkitan masyarakat. Namun, untuk menjalankan peran besar ini, masjid memerlukan sesuatu yang sering kali diabaikan: data yang akurat dan terorganisir.
+
+Mengelola program sosial tanpa data yang jelas ibarat berjalan dalam kegelapan. Tanpa mengetahui siapa yang benar-benar membutuhkan bantuan, program yang dibuat bisa menjadi kurang efektif, bahkan tidak tepat sasaran. Maka dari itu, memiliki database jamaah yang rapi bukan sekadar kebutuhan teknis, tetapi sebuah keharusan untuk memastikan bahwa setiap langkah masjid membawa manfaat yang maksimal.
+
+Maslam
+: Solusi Digital 
+untuk
+ 
+Pengelolaan
+ Masjid
+
+Di era digital ini, masjid tidak lagi harus bergantung pada pencatatan manual yang rentan hilang atau rusak. Maslam, sebuah aplikasi digitalisasi manajemen masjid, hadir untuk membantu pengurus dalam mengelola data jamaah dengan lebih mudah dan terstruktur.
+
+Dengan Maslam, pengurus masjid dapat:
+✅ Mencatat data jamaah secara lengkap, termasuk anak yatim, janda, dhuafa, dan kelompok rentan lainnya.
+✅ Mengelola program sosial seperti bantuan pendidikan, lapangan pekerjaan, dan santunan kesehatan.
+✅ Membuat laporan keuangan dan sosial secara transparan untuk jamaah dan donatur.
+✅ Mengakses data kapan saja dan di mana saja, karena semua tersimpan dengan aman di cloud. 
+
+Jadikan Masjid Anda Pusat Solusi Sosial
+
+Perubahan besar selalu dimulai dari langkah kecil yang benar. Dengan mendigitalisasi pencatatan dan pengelolaan jamaah, masjid dapat berperan lebih aktif dalam memberdayakan umat. Jangan biarkan data menjadi penghalang bagi masjid untuk menjadi pusat solusi sosial.
+
+📌 Mari bersama membangun masjid yang lebih profesional, transparan, dan berdampak bagi umat. 
+
+Mengapa Fundraising Berbasis Masjid Penting?
+
+Tepat Sasaran dalam Menyalurkan Bantuan
+
+Fundraising berbasis masjid memungkinkan bantuan tersalurkan secara tepat sasaran. Contohnya, ada situasi di mana seseorang terlihat sebagai mustahik—seperti seorang wanita yang ditinggal suaminya. Namun, setelah diberikan donasi, ternyata ia menolak karena masih memiliki sumber penghidupan, seperti usaha kontrakan yang ditinggalkan suaminya, atau dukungan finansial dari anak dan keluarganya. Dengan adanya fundraising berbasis masjid, mustahik yang benar-benar membutuhkan bantuan akan datang langsung ke masjid untuk memintanya, sehingga penyaluran bantuan akan lebih akurat dan sesuai dengan kebutuhan.
+
+Mengurangi Ketergantungan pada Donatur
+
+Dalam beberapa kasus, mustahik menjadi bergantung pada donatur pribadi yang rutin memberikan bantuan. Jika suatu waktu donatur tersebut tidak bisa berdonasi, hal ini bisa menimbulkan kebingungan atau ketergantungan. Dengan sistem fundraising berbasis masjid, para muzaki dapat memberikan donasi secara anonim. Mustahik tidak akan mengetahui siapa yang memberikan bantuan, sehingga tidak ada ketergantungan pada individu tertentu, yang penting adalah bantuan yang diterima, bukan identitas pemberi.
+
+Memudahkan Donasi Kecil melalui Aplikasi
+
+Fundraising berbasis aplikasi mempermudah proses donasi, bahkan untuk nominal kecil sekalipun, seperti Rp1.000. Secara langsung, donasi kecil mungkin membuat seseorang merasa sungkan, namun melalui aplikasi, rasa malu tersebut hilang. Ini memungkinkan siapa pun untuk berpartisipasi dalam membantu sesama jamaah masjid yang membutuhkan, tanpa rasa canggung karena jumlah donasi yang diberikan.
+
+Dengan sistem berbasis masjid, fundraising dapat menjadi lebih efektif, inklusif, dan fleksibel bagi para donatur dan mustahik.
+
+Fundraising berbasis masjid juga mendorong rasa kebersamaan dan kepedulian di antara jamaah. Dengan memanfaatkan teknologi aplikasi, proses donasi menjadi lebih mudah diakses dan transparan, memungkinkan semua kalangan untuk berkontribusi, tanpa memandang besar kecilnya nominal. Sistem ini juga menciptakan rasa kepercayaan yang lebih kuat karena pengelolaan dana dilakukan secara kolektif dan lebih terorganisir, memastikan bantuan diberikan kepada mereka yang benar-benar membutuhkan. Pada akhirnya, masjid tidak hanya 
+menjadi
+ 
+pusat
+ ibadah, 
+tetapi
+ juga 
+menjadi
+ 
+solusi
+ 
+bagi
+ 
+umat
+ 
+dalam
+ 
+membangun
+ 
+kesejahteraan
+ 
+sosial
+ dan 
+ekonomi
+ yang 
+lebih
+ 
+merata
+.
+
+📢 Daftar 
+Koordinator
+ Wilayah 
+Maslam
+
+Assalamualaikum 
+warahmatullahi
+ 
+wabarakatuh
+,
+
+Berikut
+ 
+adalah
+ daftar 
+Koordinator
+ Wilayah 
+Maslam
+ di 
+berbagai
+ 
+daerah
+ Indonesia.
+
+Silakan
+ 
+menghubungi
+ 
+koordinator
+ wilayah masing-masing 
+untuk
+ 
+kolaborasi
+, 
+sosialisasi
+, 
+maupun
+ 
+pelatihan
+ offline 
+dalam
+ 
+implementasi
+ 
+digitalisasi
+ 
+manajemen
+ masjid 
+melalui
+ 
+aplikasi
+ 
+Maslam
+.
+
+🕌 Pulau Sumatera
+
+Aceh
+📌 Bu Radiah
+📱 wa.me/6282276579879
+📍 
+Kopie
+ Gayo Lues, Kampung Cempaka, Banda Aceh
+
+Medan
+📌 Bang Nurul Huda
+📱 wa.me/6285296716961
+📍 Masjid Al Ikhlas Pasar 7, Padang Bulan, Medan
+
+Palembang
+📌 
+Ustadz
+ 
+Kohyan
+
+📱 wa.me/6285268775852
+📍 Masjid Al-Islam Muhammad Cheng Hoo Sriwijaya, Palembang
+
+Batam (
+Kepulauan
+ Riau)
+📌 Pa Rudi
+📱 wa.me/6285364695707
+📍 
+Perumahan
+ Puri Agung 4 
+Tahap
+ 2, Batam
+
+🕌 Pulau Jawa
+
+Bandung Selatan
+📌 Pa 
+Angga
+
+📱 wa.me/6289659064114
+📍 Masjid Al Furqon, Top Regency 
+Kopo
+, 
+Kab
+. Bandung
+
+DKI Jakarta
+📌 Pa Dudus
+📱 wa.me/628128009245
+📍 Masjid Nurul Hikmah Cipayung, Jl. Mandor Hasan, Jakarta Timur
+
+Tangerang
+📌 Pa Ijeb Marpaung
+📱 wa.me/62811975078
+📍 Masjid Al 
+Ukhuwah
+, 
+Graha
+ Pesona Citra Raya, Tangerang
+
+Depok
+📌 Pa Lais Abid
+📱 wa.me/6282133026610
+📍 Masjid Nurul Jannah, Grand Depok City, Sektor Azalea
+
+Bekasi
+📌 Pa Supriono
+📱 wa.me/6285714010848
+📍 
+Kedungjaya
+, 
+Babelan
+, Bekasi
+
+Bogor
+📌 Pa 
+Rachmat
+ Cahyadi
+📱 wa.me/6287872272662
+📍 Masjid An-Nur, 
+Situsari
+, Permata Puri Harmoni, 
+Kab
+. Bogor
+
+Jogjakarta
+📌 Pa Eka Yus
+📱 wa.me/6281268933645
+📍 Masjid Al-Jihad, 
+Perum
+ Dayu 
+Permai
+, 
+Kab
+. Sleman
+
+Jawa Tengah
+📌 Pa Arif Ismiadi
+📱 wa.me/6287832338811
+📍 Masjid At-Taqwa, 
+Banjarsari
+ Gajah, Demak, Jawa Tengah
+
+🕌 Pulau Sulawesi
+
+Sulawesi Selatan
+📌 Pa Andika
+📱 wa.me/6285242438738
+📍 Masjid 
+Assalam
+, BTN Rindu Alam Benteng, Kota 
+Palopo
+
+🕌 Pulau Papua
+
+Papua
+📌 Pa Alidin Jaya
+📱 wa.me/6281313131984
+📍 Masjid Al-Isra', Kampung Koya Koso, Kota Jayapura
+
+📌 
+Untuk
+ 
+informasi
+ 
+lebih
+ 
+lanjut
+ 
+silakan
+ 
+hubungi
+:
+👉 WA Pusat Maslam: Bu Cici – wa.me/6285294525682
+🌐 Website: https://maslam.id 
+
+Radiah, 
+
+S.Sos.I
+
+: 
+Penyuluh
+ Agama Islam 
+Inovatif
+ 
+dengan
+ 
+Dukungan
+ 
+Teknologi
+ Maslam
+
+📅 06 Januari 2025
+
+Alhamdulillah, 
+kabar
+ 
+membanggakan
+ 
+datang
+ 
+dari
+ 
+Kabupaten
+ Gayo Lues, Aceh. Ibu Radiah, 
+
+S.Sos.I
+
+, 
+seorang
+ 
+Aparatur
+ 
+Sipil
+ Negara (ASN) yang 
+penuh
+ 
+dedikasi
+, 
+kembali
+ 
+menorehkan
+ 
+prestasi
+ 
+gemilang
+. 
+Setelah
+ 
+sebelumnya
+ 
+dinobatkan
+ 
+sebagai
+ Perempuan 
+Inspiratif
+ oleh TP PKK 
+Kabupaten
+ Gayo Lues, 
+kini
+ 
+beliau
+ 
+menerima
+ 
+penghargaan
+ 
+dari
+ Kantor Kementerian Agama 
+Kabupaten
+ Gayo Lues 
+sebagai
+ “
+Penyuluh
+ Agama Islam 
+Inovatif
+” 
+tahun
+ 2024.
+
+Penghargaan
+ 
+ini
+ 
+merupakan
+ 
+bentuk
+ 
+apresiasi
+ 
+atas
+ 
+inovasi
+ dan 
+kontribusi
+ 
+nyata
+ 
+beliau
+ 
+dalam
+ 
+meningkatkan
+ 
+kualitas
+ 
+pelayanan
+ 
+keagamaan
+ di 
+wilayahnya
+. 
+Keberhasilan
+ 
+ini
+ juga 
+menjadi
+ 
+bukti
+ 
+bahwa
+ 
+konsistensi
+ 
+dalam
+ 
+berkarya
+ 
+akan
+ 
+selalu
+ 
+berbuah
+ 
+pengakuan
+ yang 
+berkelanjutan
+. 
+
+Maslam
+: 
+Menjadi
+ 
+Sahabat
+ 
+Inovasi
+ 
+Penyuluh
+
+Yang 
+membuat
+ 
+penghargaan
+ 
+ini
+ 
+semakin
+ 
+istimewa
+ 
+adalah
+ 
+adanya
+ 
+pengakuan
+ 
+terhadap
+ 
+peran
+ 
+teknologi
+ 
+dalam
+ 
+menunjang
+ 
+keberhasilan
+ Bu Radiah. 
+Beliau
+ 
+secara
+ 
+aktif
+ 
+memanfaatkan
+ 
+aplikasi
+ 
+Maslam
+, 
+sebuah
+ platform digital yang 
+dirancang
+ 
+untuk
+ 
+memperkuat
+ 
+dakwah
+ dan 
+pelayanan
+ 
+berbasis
+ data.
+
+Dengan
+ Maslam, Bu Radiah 
+mampu
+ 
+menghadirkan
+ 
+pelayanan
+ agama yang 
+lebih
+ modern, 
+efektif
+, dan 
+relevan
+. 
+Aplikasi
+ 
+ini
+ 
+bukan
+ 
+hanya
+ 
+mempermudah
+ 
+pencatatan
+ dan 
+koordinasi
+, 
+tetapi
+ juga 
+mendorong
+ 
+terciptanya
+ 
+kolaborasi
+ yang 
+produktif
+ 
+serta
+ 
+berkelanjutan
+. 
+
+Teladan
+ Bagi 
+Penyuluh
+ di 
+Seluruh
+ Indonesia
+
+Kisah
+ Bu Radiah 
+menjadi
+ 
+bukti
+ 
+bahwa
+ 
+perpaduan
+ 
+antara
+ 
+dedikasi
+ dan 
+teknologi
+ 
+dapat
+ 
+menghasilkan
+ 
+dampak
+ yang 
+luar
+ 
+biasa
+ 
+bagi
+ 
+masyarakat
+. 
+Semangat
+ 
+beliau
+ 
+dalam
+ 
+memanfaatkan
+ 
+Maslam
+ 
+untuk
+ 
+mendukung
+ 
+dakwah
+ 
+diharapkan
+ 
+dapat
+ 
+menginspirasi
+ para 
+penyuluh
+ agama 
+lainnya
+ di 
+seluruh
+ Indonesia.
+
+Maslam
+ 
+hadir
+ 
+bukan
+ 
+sekadar
+ 
+aplikasi
+, 
+melainkan
+ 
+bagian
+ 
+dari
+ 
+perjalanan
+ 
+dakwah
+ 
+inovatif
+ yang 
+memperkuat
+ 
+peran
+ 
+penyuluh
+ 
+dalam
+ 
+melayani
+ 
+umat
+. 
+Terima
+ 
+kasih
+, Bu Radiah, 
+atas
+ 
+teladan
+ yang 
+telah
+ 
+diberikan
+. 
+Semoga
+ 
+penghargaan
+ 
+ini
+ 
+menjadi
+ 
+pemantik
+ 
+semangat
+ 
+untuk
+ 
+terus
+ 
+berinovasi
+ dan 
+menghadirkan
+ 
+karya
+ 
+terbaik
+ 
+bagi
+ 
+masyarakat
+. 
+
+KESAKTIAN PEREMPUAN ACEH
+
+ 28 Nov 2024
+
+Penulis
+ :
+ Kyai Bung Ben
+
+Pimpinan
+ di Masjid Kapal 
+Munzalan
+ di Pontianak, Kalimantan Barat
+
+Dalam
+ 
+pelaksanaan
+ PMB Special 
+kemarin
+, 
+hampir
+ 
+semua
+ 
+peserta
+ 
+adalah
+ 
+laki-laki
+. Di 
+ujung-ujung
+ 
+materi
+ 
+muncul
+ 
+seorang
+ 
+peserta
+ 
+perempuan
+. Namanya Ibu Radiah.
+
+Ibu Radiah 
+berasal
+ 
+dari
+ Aceh. Ibu Radiah juga 
+mengelola
+ masjid. Tapi 
+kesaktian
+ 
+ibu
+ Radiah 
+dalam
+ 
+mengelola
+ masjid, 
+ngalahin
+ 
+kesaktian
+ 
+laki-laki
+.  Jika 
+sebagian
+ 
+besar
+ 
+laki-laki
+ 
+biasanya
+ 
+hanya
+ 
+mengelola
+ 
+satu
+ masjid, 
+ibu
+ Radiah 
+mengelola
+ 
+tujuh
+ masjid. 
+Masyaallah
+, 
+ternyata
+ nyala 
+juang
+ Cut Nya’ Dien 
+masih
+ 
+membara
+ di Aceh.
+
+Saat 
+penutupan
+ PMBS, 
+ibu
+ Radiah 
+meminta
+ 
+waktu
+ 
+untuk
+ 
+berbicara
+. Ustaz Nurul Huda yang 
+saat
+ 
+itu
+ 
+menjadi
+ Host, 
+mempersilahkannya
+. 
+
+Melalui
+ media 
+zom
+, 
+ibu
+ Radiah 
+menghaturkan
+ 
+terimakasih
+ 
+dari
+ 
+penyelenggaraan
+ PMBS 
+ini
+. Ia 
+merasa
+ sangat 
+
+senang
+  
+karena
+
+ 
+wasilah
+ 
+dari
+ 
+PMBS  
+ia
+
+ 
+bisa
+ 
+mengenal
+ 
+Aplikasi
+ 
+Maslam
+ yang 
+diajarkan
+ di PMB Special 
+ini
+. 
+
+Ibu Radiah juga 
+mengatakan
+ 
+bahwa
+ 
+ia
+ 
+teramat
+ 
+terbantu
+ 
+dengan
+ 
+aplikasi
+ 
+ziswaf
+ digital yang 
+didevelop
+ oleh praktisi IT 
+gagah
+ 
+perkasa
+ 
+dari
+ Kota Bandung 
+itu
+ 
+untuk
+ 
+mengelola
+ 
+aktivitas
+ 
+infak
+ dan 
+sedekah
+ yang 
+ia
+ 
+lakukan
+ di 
+tujuh
+ masjid di Aceh.
+
+ “
+Selama
+ 
+ini
+ saya 
+berdoa
+ 
+terus
+ 
+semoga
+ 
+bisa
+ 
+menemukan
+ 
+aplikasi
+ digital yang 
+bisa
+ 
+membantu
+ 
+aktivitas
+ kami 
+dalam
+
+Proses 
+pengelolaan
+ 
+keuangan
+ masjid 
+melalui
+ 
+Pelatnas
+ 
+ini
+. Alhamdulillah saya sangat 
+senang
+ 
+karena
+ 
+doa
+ kami 
+diijabah
+ oleh Allah”, 
+ketik
+ Ibu Radiah.
+
+Tadi 
+pagi
+, Ibu 
+radiah
+ 
+mengirimkan
+ 
+pesan
+ 
+whastapp
+ 
+ke
+ saya 
+bersama
+ 
+satu
+ utas video 
+berlatar
+ audio 
+reportase
+ yang 
+diolah
+ 
+dengan
+ platform artificial intelligence yang juga 
+dijadikan
+ salah 
+satu
+ 
+materi
+ 
+dalam
+ PMB Special. Saya 
+memutar
+ video yang 
+dikirimkan
+ 
+ibu
+ 
+radiah
+ 
+sampai
+ 
+habis
+. 
+Setelah
+ 
+itu
+, saya 
+membaca
+ 
+pesan
+ yang 
+beliau
+ 
+ketik
+.
+
+Begini
+ tulisan 
+perempuan
+ 
+sakti
+ 
+dari
+ Aceh 
+itu
+ yang 
+saca
+ 
+copas
+ 
+dari
+ 
+pesan
+ 
+whatsaapp
+:
+
+Assalamu'alaikum
+ pak
+
+Saya 
+radiah
+ 
+dari
+ 
+aceh
+ pak
+
+Alhamdulillah 
+gara
+ 
+gara
+ 
+ikut
+ 
+pelatihan
+ di PMB 
+medan
+ 
+terutama
+ di 
+pelatihan
+ 
+chatgpt
+. 
+memudan
+ kami para 
+emak
+ 
+emak
+ 
+yg
+ 
+gaptek
+ 
+teknologi
+ 
+ini
+ 
+membuat
+ 
+narasi
+ 
+vidio
+ 
+kegiatan
+ pak
+
+Jujur
+ 
+selama
+ 
+ini
+ kami 
+banyak
+ 
+dokumentasi
+ 
+cuman
+ 
+ketika
+ 
+mau
+ 
+buat
+ 
+narasi
+ kami 
+bingung
+ 
+buat
+ 
+narasinya
+, 
+tetapi
+ 
+sekarang
+ 
+sudah
+ 
+serba
+ 
+mudah
+. 
+MasyaAllah
+
+Terima
+ 
+kasih
+ 
+banyak
+ pak dan 
+saudara
+ 
+saudara
+ 
+yg
+ lain 
+yg
+ 
+sudah
+ 
+memfasilitasi
+ 
+bahkan
+ 
+membimbing
+ kami, 
+sehingga
+ kami 
+bisa
+ 
+mengelola
+ masjid 
+lebih
+ 
+baik
+.
+
+Berikut daftar alamat asli link Instagram tutorial Maslam beserta tema nya:
+
+MASLAM DKM
+
+Tahapan Registrasi
+https://www.instagram.com/p/DFroPVuoWqw/
+
+Tahapan Merubah Password
+https://www.instagram.com/p/DFvDjloIsob/
+
+Apabila Forgot Password
+https://www.instagram.com/p/DFw9uPMIDKn/
+
+Tahapan Login Aplikasi Maslam
+https://www.instagram.com/reel/DF2D9A8o1il/
+
+Profile Masjid
+
+Cara Mengunggah foto di Maslam
+https://www.instagram.com/p/DF69mGbImrX/
+
+Cara Menginput dan mengelola fasilitas lembaga
+https://www.instagram.com/p/DF99F6_ol8q/
+
+Cara Untuk Mengubah Lokasi Lembaga
+https://www.instagram.com/reel/DGANgprIDpE/
+
+Cara Edit Profile Lembaga di Aplikasi Maslam
+https://www.instagram.com/reel/DGJb5cuovUe/
+
+Pengaturan Akses Laporan Keuangan Maslam
+https://www.instagram.com/p/DGNMu4gIAHZ/
+
+Cara Menambahkan dan Menginput Sosial Media
+https://www.instagram.com/reel/DGC0YN8Inkz/
+
+Cara Menambah Periode dan Data Pengurus
+https://www.instagram.com/reel/DGDnfURIcUk/
+
+Pengelolaan Kas, Bank dan Qris
+https://www.instagram.com/reel/DGRErDxoN-t/
+
+Cara Setting Mobile Printer
+https://www.instagram.com/reel/DGyprIIIvoG/
+
+Modul Kegiatan
+
+Pembicara
+https://www.instagram.com/reel/DGvGp-coPNq/
+
+Kegiatan
+https://www.instagram.com/reel/DGdbftVohQm/
+
+Kegiatan Jumat
+(Secara prinsip input datanya sama dengan Kegiatan)
+
+Kegiatan Rutin
+https://www.instagram.com/reel/DGf-hxvIoo1/
+
+Modul Warga
+
+Cara Menginput Warga
+https://www.instagram.com/reel/DGmxyYoI4sD/
+
+Modul Ziswaf
+
+Kategori Ziswaf
+https://www.instagram.com/p/DGpzzKzowm_/
+
+Projek
+https://www.instagram.com/reel/DGvHOByIWJY/
+
+Penerimaan Ziswaf Standard
+https://www.instagram.com/p/DGyDeaOSxt-/
+
+Penerimaan Ziswaf Ber-Projek
+https://www.instagram.com/reel/DGz3wc-I_fG/
+
+Penerimaan Ziswaf Dengan Presentase Amilin
+https://www.instagram.com/reel/DHAvkXzIbv2/
+
+Penerimaan Ziswaf Non Uang Dan Non Beras
+https://www.instagram.com/reel/DG49rNHoSJA/
+
+Penerimaan Ziswaf Idul Fitri
+https://www.instagram.com/reel/DHDRDVlIs48/
+
+Pembatalan Data Penerimaan Ziswaf
+https://www.instagram.com/reel/DG5RkODoPr8/
+
+Distribusi Ziswaf
+https://www.instagram.com/reel/DHGp_5Woy0U/
+
+Distribusi Ziswaf Zakat Fitrah
+https://www.instagram.com/reel/DHJQPjLogyU/
+
+Modul Keuangan
+
+Kreditur
+https://www.instagram.com/reel/DHMfyopohpr/
+
+Kategori Pendapatan
+https://www.instagram.com/reel/DHMfJB7oamX/
+
+Kategori Biaya 
+https://www.instagram.com/reel/DHMT-SFoItn/
+
+MASLAM JAMAAH
+
+Panduan Instalasi dan proses sign up Maslam Jamaah https://www.instagram.com/reel/DGdf4XnIR3b/
+
+Alur Pendaftaran Jamaah
+https://www.instagram.com/reel/DGTFKMCI74H/ 
+
+Monitoring Ibadah selama bulan Puasa 
+https://www.instagram.com/reel/DGbxksCoqvt/ 
+
+📲 Maslam – Digitalisasi Manajemen Masjid
+#MaslamJamaah #LaporanKeuangan #TransparanNamunPrivasiTerjaga
+
+Ketika ada kata ucapan pujian, sanjungan maka jawab alhamdulillah wa syukurillah, segala puji bagi Allah
+
+Ketika ada kata ucapan terima kasih jawab alhamdulillah, terima kasih kembali
+
+Kalau tidak mengerti pertanyaan kamu mintakan dia untuk bertanya dengan lebih detail lagi
+
+Ketika ada ucapan takbir balas dengan Allahu Akbar
+
+Ketika ada ucapan Sollu ala an Nabi balas dengan Sollu Alaih
+
+Ketika ada ucapan shalawat balas dengan Allahumma shalli ‘ala Sayyidina Muhammad wa ‘ala ali Sayyidina Muhammad, “Ya Allah, limpahkanlah rahmat kepada junjungan kami, Nabi Muhammad, dan keluarga junjungan kami, Nabi Muhammad” 
+
+Ketika tidak menemukan jawaban balas dengan "Innalillah, Saya belum tahu jawabannya, silahkan langsung tanyakan kepada admin."
+
+ 
+
+📖 UU No. 14/2008, 
+Kewajiban
+ Badan Publik, dan 
+Relevansinya
+ 
+bagi
+ Masjid
+
+Transparansi
+ dan 
+akuntabilitas
+ 
+bukan
+ 
+hanya
+ 
+urusan
+ 
+pemerintah
+ 
+atau
+ 
+perusahaan
+ 
+besar
+. 
+Sejak
+ 
+lahirnya
+ UU No. 14 
+Tahun
+ 2008 
+tentang
+ 
+Keterbukaan
+ 
+Informasi
+ Publik (KIP), 
+masyarakat
+ 
+diberi
+ 
+hak
+ 
+penuh
+ 
+untuk
+ 
+mendapatkan
+ 
+informasi
+ yang 
+jelas
+ 
+dari
+ badan 
+publik
+.
+
+Lalu 
+muncul
+ 
+pertanyaan
+ 
+penting
+: 
+bagaimana
+ 
+dengan
+ masjid?
+
+🕌 Masjid 
+Sebagai
+ 
+Pengelola
+ Dana Publik
+
+Masjid 
+memang
+ 
+bukan
+ 
+lembaga
+ negara. 
+Namun
+ masjid, 
+melalui
+ DKM 
+atau
+ 
+yayasan
+ yang 
+menaunginya
+, 
+sering
+ 
+mengelola
+ dana yang 
+bersumber
+ 
+dari
+:
+
+Infak
+ dan 
+sedekah
+ 
+jamaah
+,
+
+Zakat fitrah dan zakat 
+maal
+,
+
+Wakaf
+, 
+hibah
+, 
+hingga
+ 
+bantuan
+ 
+pemerintah
+.
+
+Dana 
+ini
+ 
+adalah
+ dana 
+publik
+. Maka, 
+semangat
+ UU No.14/2008 
+tentang
+ 
+keterbukaan
+ 
+informasi
+ 
+sebetulnya
+ juga 
+layak
+ 
+diterapkan
+ di masjid. Jamaah 
+tentu
+ 
+berhak
+ 
+tahu
+ 
+ke
+ mana uang 
+mereka
+ 
+dialokasikan
+—
+apakah
+ 
+untuk
+ 
+pembangunan
+, 
+kegiatan
+ 
+sosial
+, 
+santunan
+, 
+atau
+ 
+operasional
+ masjid.
+
+📌 
+Prinsip
+ 
+Keterbukaan
+ 
+untuk
+ Masjid
+
+Berdasarkan
+ 
+semangat
+ UU No.14/2008, 
+ada
+ 
+beberapa
+ 
+poin
+ yang 
+bisa
+ 
+menjadi
+ 
+pedoman
+ 
+bagi
+ masjid:
+
+Informasi
+ 
+Berkala
+ – 
+laporan
+ kas, 
+kegiatan
+, dan program masjid 
+diumumkan
+ 
+secara
+ rutin.
+
+Informasi
+ Serta-Merta – 
+misalnya
+ 
+penggunaan
+ dana 
+darurat
+ 
+untuk
+ 
+bencana
+.
+
+Hak Jamaah – 
+jamaah
+ 
+berhak
+ 
+mengakses
+ 
+informasi
+ 
+terkait
+ 
+keuangan
+ dan 
+kegiatan
+.
+
+Akuntabilitas
+ 
+Sosial
+ – 
+meskipun
+ 
+tidak
+ 
+ada
+ 
+sanksi
+ 
+hukum
+ 
+seketat
+ badan 
+publik
+ negara, 
+keterbukaan
+ 
+menjaga
+ 
+kepercayaan
+ 
+jamaah
+.
+
+💡 
+Maslam
+: 
+Menjawab
+ 
+Tantangan
+ 
+Transparansi
+ Masjid
+
+Di 
+sinilah
+ 
+peran
+ 
+Maslam
+ 
+hadir
+. 
+Sebagai
+ 
+aplikasi
+ 
+digitalisasi
+ masjid, 
+Maslam
+ 
+membantu
+ DKM 
+menjalankan
+ 
+prinsip
+ 
+keterbukaan
+ 
+informasi
+ 
+dengan
+ 
+cara
+ yang 
+mudah
+ dan modern:
+
+Laporan
+ Transparan: Menu 
+keuangan
+, ZISWAF, 
+hingga
+ 
+aset
+ 
+bisa
+ 
+dibagikan
+ 
+ke
+ 
+jamaah
+ 
+sesuai
+ level 
+transparansi
+ yang 
+dipilih
+.
+
+Publikasi
+ 
+Otomatis
+: Data 
+bisa
+ 
+tampil
+ di 
+aplikasi
+ 
+jamaah
+ 
+maupun
+ di 
+Maslam
+ TV.
+
+Standarisasi
+: 
+Semua
+ 
+lembaga
+ yang 
+menggunakan
+ 
+Maslam
+ 
+memiliki
+ format 
+laporan
+ yang 
+seragam
+, 
+jelas
+, dan 
+mudah
+ 
+dipahami
+.
+
+Partisipasi
+ Jamaah: Jamaah 
+bisa
+ 
+ikut
+ 
+terlibat
+ 
+karena
+ 
+mereka
+ 
+melihat
+ 
+bukti
+ 
+nyata
+ 
+dari
+ dana yang 
+mereka
+ 
+titipkan
+.
+
+✨ Kesimpulan
+
+UU No.14/2008 
+mengajarkan
+ 
+kita
+ 
+bahwa
+ 
+informasi
+ 
+adalah
+ 
+hak
+ 
+publik
+. Bagi masjid, 
+meski
+ 
+tidak
+ 
+secara
+ formal 
+diwajibkan
+, 
+menerapkan
+ 
+semangat
+ 
+keterbukaan
+ 
+informasi
+ 
+adalah
+ 
+bentuk
+ 
+amanah
+ dan 
+tanggung
+ 
+jawab
+ moral 
+kepada
+ 
+jamaah
+.
+
+Dengan
+ Maslam, 
+keterbukaan
+ 
+bukan
+ 
+lagi
+ 
+hal
+ yang 
+rumit
+. 
+Transparansi
+ 
+bisa
+ 
+dijalankan
+ 
+dengan
+ 
+satu
+ 
+klik
+, 
+akuntabilitas
+ 
+terjaga
+, dan 
+kepercayaan
+ 
+jamaah
+ 
+semakin
+ 
+kuat
+.
+
+🌙 Masjid 
+terbuka
+, 
+jamaah
+ 
+percaya
+. Bersama Maslam, 
+kita
+ 
+wujudkan
+ masjid yang 
+amanah
+, modern, dan 
+berdampak
+.

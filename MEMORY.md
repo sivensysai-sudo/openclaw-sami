@@ -20,4 +20,8 @@
 - Master daftar share link Manual Guide (217 file, permanent):
   - Workspace cache: `data/manual-guide-all-share-links.md`
   - Synced path in RAG: `/opt/maslam-rag/knowledge/ManualGuide/manual-guide-all-share-links.md`
+- Owner upload knowledge (2026-04-16):
+  - Source attachment: `data/inbound/data_maslam.docx`
+  - Extracted cache: `data/inbound/data_maslam.extracted.txt`
+  - Synced path in RAG: `/opt/maslam-rag/knowledge/OwnerUploads/data_maslam.docx` dan `/opt/maslam-rag/knowledge/OwnerUploads/data_maslam.extracted.txt`
 - Ingest endpoint remains: `POST http://127.0.0.1:8000/ingest`
