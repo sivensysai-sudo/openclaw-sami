@@ -17,4 +17,7 @@
   - `Jalan Magna Raya No.2, Rancabolang, Kec. Gedebage, Kota Bandung, Jawa Barat 40295`
   - Workspace cache: `data/maslam-office-address.md`
   - Synced path in RAG: `/opt/maslam-rag/knowledge/FAQ/maslam-office-address.md`
+- Master daftar share link Manual Guide (217 file, permanent):
+  - Workspace cache: `data/manual-guide-all-share-links.md`
+  - Synced path in RAG: `/opt/maslam-rag/knowledge/ManualGuide/manual-guide-all-share-links.md`
 - Ingest endpoint remains: `POST http://127.0.0.1:8000/ingest`
