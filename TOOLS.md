@@ -177,3 +177,4 @@ Sumber mapping permanen nama grup ↔ JID WhatsApp (trigger: `#MAPGROUP SAMI` / 
 - Siven - Sinta: `+6289666405975`
 - Siven - Wupi Ocktavia: `+6281383187956`
 - Siven - Putri (LID): `62672364126302@lid`
+- Family - Redi Rusdian: `+6285956667171`
