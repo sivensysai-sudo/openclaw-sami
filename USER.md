@@ -26,6 +26,7 @@ _Learn about the person you're helping. Update this as you go._
     - Endpoint referensi bersama: `POST http://127.0.0.1:8000/ask`.
     - Index knowledge/ingest dilakukan di sumber yang sama agar hasil jawaban konsisten di dua channel.
   - Rule grup WhatsApp (semua grup whitelist):
+    - Jika ada member baru join, SAMI wajib otomatis mengirim sambutan tanpa menunggu reminder dari owner.
     - Jika ada member baru join, SAMI mengirim sambutan otomatis dengan template berikut:
       - Assalamu’alaikum warahmatullahi wabarakatuh.
       - Selamat bergabung di grup ini, {nama}.
