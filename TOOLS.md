@@ -166,3 +166,13 @@ Sumber mapping permanen nama grup ↔ JID WhatsApp (trigger: `#MAPGROUP SAMI` / 
 - Koreksi mapping permanen:
   - Batam/Kepri — Pa Rudi (`+6285364695707`) → **MASLAM MADANI - RIAU** (`120363407403514533@g.us`)
 - Catatan: mapping sebelumnya ke `MASLAM MADANI - SUMATERA` dinyatakan tidak berlaku untuk Batam/Kepri.
+
+## Kontak Grup Siven (owner share, 2026-04-17)
+
+- Siven - Hendrik: `+6282126152633`
+- Siven - Marsha: `+62895337033147`
+- Siven - Niken: `+6285721982828`
+- Siven - Novi: `+6281296034209`
+- Siven - Sandhy Faqiha: `+6289652878044`
+- Siven - Sinta: `+6289666405975`
+- Siven - Wupi Ocktavia: `+6281383187956`
