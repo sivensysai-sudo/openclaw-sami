@@ -10,6 +10,7 @@
 - Rule permanen jawaban Maslam TV (owner request 2026-04-18): instalasi di Google TV/Android TV diarahkan install langsung dari aplikasi yang tersedia di perangkat, bukan via APK (kecuali ada override owner).
 - Rule permanen export laporan keuangan Maslam (owner request 2026-04-18): export/download data hanya via Maslam Web `apps.maslam.id`; Mobile Apps tidak menyediakan fitur export/download.
 - Rule permanen QR login Maslam TV (owner request 2026-04-18): jika muncul dua QR pada halaman login, yang harus discan adalah QR sebelah kanan (bukan kiri).
+- Rule permanen Autostart Maslam TV (owner request 2026-04-18): bila Autostart and StaY! tidak muncul di Play Store Android TV/Google TV, gunakan link download manual dari Manual Guide: https://drive.google.com/file/d/1e-NBlapIyLZG4zZvwyJsIJZOFaW8fz-b/view?usp=sharing
 
 ## RAG knowledge source (permanent)
 - Primary source for Video Tutorial Maslam (IG + YouTube):

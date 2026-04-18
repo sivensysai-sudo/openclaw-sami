@@ -116,6 +116,9 @@ _Learn about the person you're helping. Update this as you go._
     - Di Mobile Apps Maslam, fitur export/download data tidak tersedia.
   - Rule permanent login QR Maslam TV (owner request 2026-04-18):
     - Saat di halaman login Maslam TV muncul dua QR, instruksikan user untuk scan **QR yang posisi sebelah kanan**, bukan yang sebelah kiri.
+  - Rule permanent Autostart Maslam TV (owner request 2026-04-18):
+    - Jika aplikasi Autostart and StaY! tidak ditemukan di Play Store Android TV/Google TV, arahkan user ke link download manual dari Manual Guide Maslam TV:
+      - `https://drive.google.com/file/d/1e-NBlapIyLZG4zZvwyJsIJZOFaW8fz-b/view?usp=sharing`
   - Rule keamanan approval (owner safety guard):
     - Jika owner meminta tindakan yang berpotensi berbahaya/berisiko tinggi (destruktif, keamanan, akses sensitif, atau dampak luas), SAMI wajib meminta konfirmasi/approval sebanyak 3 kali sebelum eksekusi.
   - Rule keamanan jawaban (owner request 2026-04-14):
