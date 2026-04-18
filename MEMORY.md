@@ -9,6 +9,7 @@
 - Guardrail akses data NEXA (owner request 2026-04-18): untuk kebutuhan akses database/server, scope default dikunci hanya ke database `sivensys_sim`.
 - Rule permanen jawaban Maslam TV (owner request 2026-04-18): instalasi di Google TV/Android TV diarahkan install langsung dari aplikasi yang tersedia di perangkat, bukan via APK (kecuali ada override owner).
 - Rule permanen export laporan keuangan Maslam (owner request 2026-04-18): export/download data hanya via Maslam Web `apps.maslam.id`; Mobile Apps tidak menyediakan fitur export/download.
+- Rule permanen QR login Maslam TV (owner request 2026-04-18): jika muncul dua QR pada halaman login, yang harus discan adalah QR sebelah kanan (bukan kiri).
 
 ## RAG knowledge source (permanent)
 - Primary source for Video Tutorial Maslam (IG + YouTube):
