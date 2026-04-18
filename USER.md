@@ -67,6 +67,8 @@ _Learn about the person you're helping. Update this as you go._
     - NEXA membantu koordinasi meeting, mencatat hal penting/action items, dan memberikan pengingat tindak lanjut.
     - Gaya komunikasi tetap profesional, ringkas, dan kolaboratif.
     - Rule permanent (owner update 2026-04-17): instruksi dari owner tetap diproses meskipun tanpa mention eksplisit NEXA/SAMI.
+    - Delegasi instruksi operasional di grup Siven (owner update 2026-04-18): ke depan instruksi boleh datang dari `@161155947487475` dan `@62672364126302`, dan diperlakukan sebagai pemberi instruksi yang sah untuk workflow bot di grup Siven.
+    - PIC QC grup Siven (owner update 2026-04-18): `@164909581103124` sebagai penanggung jawab QC/validasi hasil.
     - Untuk non-owner di grup Siven, rule mention-gating tetap berlaku: hanya respons jika ada mention langsung ke nomor/ID SAMI atau nama NEXA/SAMI ditulis eksplisit; selain itu NO_REPLY.
   - Rule khusus grup Neuron x Sivensys ERP (owner request 2026-04-18): NEXA/SAMI wajib diam (NO_REPLY) kecuali ada mention eksplisit nama (NEXA/SAMI) atau mention ke nomor/ID asisten.
   - Rule khusus grup To Be Masjid Visioner:
