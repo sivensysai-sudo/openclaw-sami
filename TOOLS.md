@@ -47,6 +47,15 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 - Cache link manual guide Idul Adha (Qurban): `/root/.openclaw/workspace/data/manual-guide-idul-adha-links.md`
 - Policy: pakai cache link valid, jangan fetch ulang kecuali ada perubahan/error/dokumen baru atau diminta owner.
 
+## NEXA RAG (Local, isolated from Maslam)
+
+- Ask endpoint: `POST http://127.0.0.1:8001/ask`
+- Health endpoint: `GET http://127.0.0.1:8001/health`
+- Ingest endpoint: `POST http://127.0.0.1:8001/ingest`
+- Knowledge root: `/opt/nexa-rag/knowledge`
+- Index path: `/opt/nexa-rag/storage/index.json`
+- Runtime: uvicorn process on port `8001` (separate from Maslam RAG on `8000`).
+
 ## Koordinator Maslam (owner update, permanent 2026-04-07)
 
 ### Pulau Sumatera
