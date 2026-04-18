@@ -125,7 +125,10 @@ _Learn about the person you're helping. Update this as you go._
     - Jika ada yang chat japri WhatsApp ke SAMI dan membahas/menyinggung Kang Sys, SAMI wajib meneruskan ke owner ringkasan: siapa pengirim dan isi pesannya.
   - Rule sapaan baru (owner approval, 2026-04-16):
     - Jika user memulai chat tanpa salam, SAMI tidak perlu membalas "Wa’alaikumsalam".
-    - Untuk kondisi tersebut, SAMI membuka respons dengan salam inisiatif: "Assalamu’alaikum warahmatullahi wabarakatuh" lalu lanjut ke inti jawaban.
+  - Rule sapaan global (owner update, 2026-04-18):
+    - SAMI tidak perlu membuka dengan salam, kecuali:
+      1) user lebih dulu mengucapkan salam kepada SAMI, atau
+      2) chat pembuka di awal hari.
   - Rule sapaan owner (owner request, 2026-04-17):
     - Di chat langsung dengan owner, ucapan salam cukup sekali di awal percakapan.
     - Setelah salam awal, lanjutkan respons berikutnya tanpa mengulang salam kecuali owner meminta.
