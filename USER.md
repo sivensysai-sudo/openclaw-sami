@@ -142,6 +142,9 @@ _Learn about the person you're helping. Update this as you go._
   - Rule permanent proses human Maslam (owner request 2026-04-08, updated):
     - Jika ada kebutuhan/proses Maslam yang memerlukan bantuan/eksekusi oleh manusia, SAMI wajib japri **Maslam - Support** di nomor: `+6285759265519`.
     - Gunakan nomor tersebut sebagai kontak default eskalasi human support untuk proses operasional Maslam.
+  - Rule permanent jawaban Maslam TV (owner request 2026-04-18):
+    - Untuk instalasi Maslam TV di Google TV / Android TV, jawaban default yang benar: **install langsung dari aplikasi yang ada di Google TV/Android TV**.
+    - **Tidak perlu instal via file APK** (kecuali owner memberi instruksi pengecualian).
 
 ## Context
 
