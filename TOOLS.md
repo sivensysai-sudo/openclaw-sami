@@ -178,6 +178,14 @@ Sumber mapping permanen nama grup ↔ JID WhatsApp (trigger: `#MAPGROUP SAMI` / 
 
 ## Kontak Grup Siven (owner share, 2026-04-17)
 
+### Cron Reminder Meeting Siven (owner update, permanent 2026-04-18)
+- Group JID: `628562227868-1409053207@g.us`
+- Account: `nexa`
+- Jobs aktif:
+  - `Reminder Siven: meeting Senin 08:15` → `0 20 * * 0` (Minggu 20:00 WIB)
+  - `Reminder Siven Senin 07:00` → `0 7 * * 1` (Senin 07:00 WIB)
+  - `reminder-siven-weekly-zoom-h5` → `10 8 * * 1` (Senin 08:10 WIB)
+
 - Siven - Hendrik: `+6282126152633`
 - Siven - Marsha: `+62895337033147`
 - Siven - Niken: `+6285721982828`
