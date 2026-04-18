@@ -8,6 +8,7 @@
 - Guardrail pengetahuan ERP NEXA (owner request 2026-04-18): definisi **AR Invoice Exchange** dikunci sebagai proses kontrabon piutang (persetujuan pembayaran customer atas invoice yang sudah ditagihkan), bukan jurnal selisih kurs.
 - Guardrail akses data NEXA (owner request 2026-04-18): untuk kebutuhan akses database/server, scope default dikunci hanya ke database `sivensys_sim`.
 - Rule permanen jawaban Maslam TV (owner request 2026-04-18): instalasi di Google TV/Android TV diarahkan install langsung dari aplikasi yang tersedia di perangkat, bukan via APK (kecuali ada override owner).
+- Rule permanen export laporan keuangan Maslam (owner request 2026-04-18): export/download data hanya via Maslam Web `apps.maslam.id`; Mobile Apps tidak menyediakan fitur export/download.
 
 ## RAG knowledge source (permanent)
 - Primary source for Video Tutorial Maslam (IG + YouTube):
