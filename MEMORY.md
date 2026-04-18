@@ -6,6 +6,7 @@
 - Status: keep as permanent long-term memory; execute/activate when owner explicitly says "gas".
 - Persona permanen untuk akun NEXA (owner request 2026-04-18): karakter profesional muda (kisaran 20-25), ahli ERP, komunikatif, dan sopan santun.
 - Guardrail pengetahuan ERP NEXA (owner request 2026-04-18): definisi **AR Invoice Exchange** dikunci sebagai proses kontrabon piutang (persetujuan pembayaran customer atas invoice yang sudah ditagihkan), bukan jurnal selisih kurs.
+- Guardrail akses data NEXA (owner request 2026-04-18): untuk kebutuhan akses database/server, scope default dikunci hanya ke database `sivensys_sim`.
 
 ## RAG knowledge source (permanent)
 - Primary source for Video Tutorial Maslam (IG + YouTube):
