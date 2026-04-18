@@ -1,0 +1,571 @@
+﻿Bisnis Proses Procure To Pay
+BOQ
+Pengertian BOQ
+Dalam konteks SIVENSYS ERP, BOQ (Bill of Quantity) adalah dokumen perencanaan kebutuhan yang merujuk ke suatu project. BOQ menjadi pusat informasi dan kontrol untuk melihat kebutuhan barang jadi, bahan baku, maupun jasa yang dibutuhkan dalam suatu project.
+Project yang menjadi acuan BOQ dapat berasal dari dua sumber:
+1. Dibuat manual melalui menu:
+Financial → General Ledger → Project Account
+2. Ter-generate otomatis saat membuat Sales Order
+Dengan demikian, BOQ selalu terkait dengan suatu project, sehingga seluruh kebutuhan, realisasi, dan pengendalian biaya dapat dipantau dalam satu konteks yang sama.
+________________
+
+
+Fungsi Utama BOQ
+BOQ berfungsi sebagai dokumen yang membantu perusahaan untuk:
+   * merencanakan kebutuhan project secara rinci
+   * mengetahui kebutuhan finish goods
+   * mengetahui kebutuhan raw material dan jasa
+   * memantau progres produksi
+   * memantau progres pengadaan
+   * mengontrol realisasi terhadap rencana
+   * menjadi acuan biaya standar, khususnya untuk raw material atau jasa
+   * menjadi alat kontrol agar pembelian tetap sesuai kebutuhan yang telah disetujui
+Dengan kata lain, BOQ bukan hanya daftar kebutuhan, tetapi juga menjadi titik awal integrasi antara project, produksi, pembelian, dan pengendalian biaya.
+________________
+
+
+Struktur BOQ
+Di dalam BOQ, secara umum terdapat dua bagian utama:
+1. Detail Finish Goods (FG)
+Bagian ini memuat informasi mengenai barang jadi atau finish goods yang dibutuhkan oleh project.
+Informasi yang dapat dilihat antara lain:
+   * item finish goods apa saja yang dibutuhkan
+   * quantity finish goods yang diperlukan
+   * quantity yang sudah dibuat dalam Work Order
+   * quantity yang sudah menjadi WO Receipt
+Penjelasan informasi FG
+   * Qty Required FG
+Menunjukkan jumlah finish goods yang dibutuhkan oleh project.
+   * Qty WO
+Menunjukkan jumlah finish goods yang sudah dibuatkan perintah kerja melalui Work Order.
+   * Qty WO Receipt
+Menunjukkan jumlah finish goods yang sudah selesai diproduksi dan sudah diterima sebagai hasil produksi.
+________________
+
+
+Keterhubungan FG dengan Work Order
+Detail FG di dalam BOQ akan terhubung ke menu Work Order, karena apabila finish goods yang dibutuhkan belum tersedia, maka perlu dilakukan proses produksi melalui perintah kerja / Work Order.
+Artinya, BOQ pada sisi FG bukan hanya menunjukkan kebutuhan barang jadi, tetapi juga menjadi acuan untuk melihat apakah kebutuhan tersebut:
+      * masih dalam tahap perencanaan
+      * sudah dibuatkan Work Order
+      * sudah selesai diproduksi
+      * sudah diterima melalui WO Receipt
+Dengan hubungan ini, user dapat langsung mengetahui apakah kebutuhan finish goods untuk project sudah tersedia, atau masih harus diproduksi terlebih dahulu.
+Jadi, dari sisi FG, BOQ berfungsi sebagai jembatan antara kebutuhan project dan proses produksi.
+________________
+
+
+2. Detail Raw Material (RM)
+Bagian ini memuat kebutuhan raw material yang diperlukan untuk mendukung finish goods dalam project.
+Raw material di BOQ dapat diperoleh melalui dua cara:
+a. Input manual
+User dapat menginput langsung item raw material sesuai kebutuhan project.
+b. Generate otomatis dari sistem
+Sistem dapat menghasilkan kebutuhan raw material secara otomatis berdasarkan product structure dari finish goods yang ada di BOQ.
+Jika BOQ berisi beberapa finish goods, maka sistem akan membaca struktur produk dari masing-masing FG, lalu menghitung total kebutuhan raw material. Dengan demikian, raw material yang muncul merupakan akumulasi kebutuhan raw material dari beberapa finish goods yang ada di BOQ.
+________________
+
+
+Tab RM bukan hanya bahan baku
+Walaupun disebut Raw Material, pada praktiknya tab ini tidak hanya berisi bahan baku fisik, tetapi juga dapat berisi:
+      * bahan baku
+      * bahan penolong
+      * komponen
+      * item jasa
+Hal ini penting karena dalam pelaksanaan project atau produksi, kebutuhan tidak selalu berupa material. Ada juga kebutuhan jasa tertentu yang tetap harus direncanakan dan dikendalikan melalui BOQ.
+________________
+
+
+Informasi yang dimonitor pada sisi RM
+Pada tab RM, BOQ dapat digunakan untuk melihat dan mengontrol beberapa hal penting berikut:
+      * standard cost
+      * qty RM yang dibutuhkan
+      * qty yang sudah dibuat Purchase Requisition
+      * qty yang sudah dibuat Work Order
+      * qty yang sudah di WO Issue
+      * kebutuhan yang masih outstanding
+Penjelasannya
+      * Standard Cost
+Di sisi RM dapat ditentukan standard cost dari item tersebut. Nilai ini menjadi acuan biaya standar, terutama ketika masuk ke proses pembelian.
+      * Qty Required
+Menunjukkan total kebutuhan raw material atau jasa untuk project.
+      * Qty PR
+Menunjukkan quantity yang sudah dibuatkan Purchase Requisition.
+      * Qty WO
+Menunjukkan quantity raw material yang diperlukan oleh proses Work Order.
+      * Qty WO Issue
+Menunjukkan quantity raw material yang sudah di-issue ke produksi, artinya material tersebut sudah benar-benar dikeluarkan untuk dipakai dalam proses produksi.
+Dari informasi ini, user dapat mengetahui apakah kebutuhan material masih berupa rencana, sudah diajukan, sudah masuk proses produksi, atau sudah benar-benar dipakai.
+________________
+
+
+Keterhubungan RM dengan proses pembelian
+Detail RM di dalam BOQ akan terhubung ke proses pembelian, karena kebutuhan raw material atau jasa yang belum tersedia perlu dipenuhi melalui proses procurement.
+Secara umum alurnya adalah:
+BOQ → Bill Of Quantity Generate PR → Purchase Requisition → Purchase Order → Purchase Receipt → AP Invoice → AR Invoice Exchange → AR Payment - AR Payment Giro Confirm
+Dalam konteks ini, BOQ menjadi acuan awal untuk proses pengadaan. Dari kebutuhan raw material yang tercatat di BOQ, perusahaan dapat melihat:
+         * berapa quantity yang dibutuhkan
+         * berapa yang sudah diajukan pembeliannya
+         * berapa yang sudah dipesan ke supplier
+         * berapa yang sudah dipakai untuk produksi
+         * berapa nilai biaya yang menjadi acuan project
+Karena itu, dari sisi RM, BOQ berfungsi sebagai jembatan antara kebutuhan project dan proses pembelian.
+________________
+
+
+Keterhubungan RM sampai ke AP Invoice
+Tidak berhenti di proses pembelian saja, detail RM dalam BOQ juga berkaitan sampai ke tahap pembayaran hutang usaha, yaitu melalui AP Invoice.
+Artinya, kebutuhan raw material atau jasa yang berasal dari BOQ pada akhirnya akan mengalir ke proses berikut:
+         1. kebutuhan dicatat di BOQ
+         2. kebutuhan diajukan melalui PR
+         3. purchasing membuat Purchase Order
+         4. supplier mengirim barang atau jasa
+         5. tagihan supplier dicatat dalam AP Invoice
+         6. dilakukan proses pembayaran sesuai jatuh tempo
+Dengan alur ini, BOQ bukan hanya dokumen kebutuhan, tetapi juga menjadi dasar kontrol dari sisi:
+         * kebutuhan project
+         * realisasi pembelian
+         * realisasi produksi
+         * hingga kewajiban pembayaran ke supplier
+________________
+
+
+Kontrol Budget pada BOQ
+Selain sebagai dokumen kebutuhan, BOQ juga dapat berfungsi sebagai alat kontrol budget, khususnya apabila menu Budget diaktifkan dalam sistem.
+Dalam kondisi ini, pembelian atas item raw material atau jasa tidak boleh melebihi quantity yang sudah diinputkan dan disetujui pada detail RM di BOQ.
+Artinya, quantity yang tercantum pada BOQ menjadi batas kendali pembelian.
+Aturan kontrolnya
+         * Selama menu budget aktif, proses pembelian harus mengikuti quantity pada BOQ.
+         * Jika quantity pembelian masih dalam batas quantity BOQ, maka proses dapat dilanjutkan.
+         * Jika quantity pembelian melebihi quantity yang sudah ditetapkan pada detail RM BOQ, maka sistem tidak boleh langsung melanjutkan proses pembelian.
+         * Dalam kondisi tersebut, BOQ harus direvisi terlebih dahulu.
+         * Setelah direvisi, BOQ harus melalui proses approval ulang.
+         * Setelah revisi disetujui, barulah proses pembelian dapat dilanjutkan kembali.
+________________
+
+
+Fungsi bisnis dari kontrol budget ini
+Dengan mekanisme ini, perusahaan mendapatkan beberapa manfaat penting:
+         * mencegah pembelian melebihi kebutuhan yang sudah direncanakan
+         * menjaga disiplin antara perencanaan dan realisasi
+         * memastikan perubahan kebutuhan tetap terkontrol
+         * memaksa adanya persetujuan ulang jika terjadi penambahan kebutuhan
+         * meminimalkan risiko over budget atau pembelian tanpa kontrol
+Jadi, BOQ bukan hanya menjadi dokumen referensi, tetapi juga menjadi dokumen pengendali quantity pembelian apabila fitur budget diaktifkan.
+________________
+
+
+Contoh logika kontrol budget
+Misalnya pada detail RM di BOQ tercantum kebutuhan bahan baku 100 pcs.
+Lalu dalam proses pembelian, total quantity yang akan diajukan atau dipesan sudah mencapai 100 pcs, maka proses masih sesuai BOQ.
+Namun jika user ingin melakukan pembelian tambahan sehingga total menjadi 120 pcs, maka kondisi ini berarti melebihi quantity yang telah disetujui di BOQ.
+Dalam kasus ini:
+         * BOQ harus direvisi terlebih dahulu menjadi 120 pcs
+         * revisi tersebut harus melalui approval ulang
+         * setelah disetujui, proses pembelian dapat dilanjutkan kembali
+Dengan demikian, penambahan kebutuhan tidak bisa dilakukan secara langsung tanpa pembaruan perencanaan dan persetujuan ulang.
+________________
+
+
+Peran BOQ sebagai penghubung antar proses
+Secara keseluruhan, BOQ dalam SIVENSYS ERP menjadi penghubung utama antara beberapa area berikut:
+         * Project
+         * Finish Goods
+         * Work Order / Produksi
+         * Raw Material / Jasa
+         * Purchase
+         * AP Invoice
+         * Budget Control
+         * Cost Control
+Hubungannya dapat dipahami seperti ini:
+Dari sisi FG
+Jika finish goods yang dibutuhkan belum tersedia, maka BOQ akan terhubung ke Work Order agar dilakukan proses produksi.
+Dari sisi RM
+Jika raw material atau jasa yang dibutuhkan belum tersedia, maka BOQ akan terhubung ke proses Purchase Requisition, Purchase Order, sampai ke AP Invoice dan pembayaran.
+Dari sisi budget
+Jika menu budget aktif, maka pembelian tidak boleh melebihi quantity yang telah ditetapkan pada detail RM BOQ. Jika melebihi, BOQ harus direvisi dan di-approval ulang terlebih dahulu.
+Dengan demikian, satu BOQ dapat menjadi pusat pantauan untuk melihat:
+         * apa kebutuhan project
+         * apa yang harus diproduksi
+         * apa yang harus dibeli
+         * apa yang sudah dipakai produksi
+         * apa yang sudah menjadi hutang ke supplier
+         * apakah realisasi pembelian masih sesuai dengan quantity yang telah disetujui
+________________
+
+
+Kesimpulan
+BOQ dalam SIVENSYS ERP adalah dokumen kebutuhan berbasis project yang menjadi fondasi awal pengendalian kebutuhan, produksi, pembelian, budget, dan biaya.
+BOQ ini merujuk ke project yang bisa:
+         * dibuat manual melalui Project Account
+         * atau ter-generate otomatis dari Sales Order
+Di dalam BOQ terdapat dua sisi utama:
+Sisi FG
+Berisi kebutuhan finish goods untuk project, serta monitoring:
+         * qty yang dibutuhkan
+         * qty yang sudah dibuat Work Order
+         * qty yang sudah menjadi WO Receipt
+Bagian ini terhubung ke menu Work Order, karena apabila finish goods belum tersedia, maka harus diproduksi melalui perintah kerja.
+Sisi RM
+Berisi kebutuhan raw material atau jasa, baik yang diinput manual maupun yang dihasilkan otomatis dari product structure finish goods. Jika dihasilkan sistem, maka nilainya merupakan akumulasi kebutuhan RM dari beberapa FG.
+Pada sisi ini dapat dipantau:
+         * standard cost
+         * qty required
+         * qty PR
+         * qty WO
+         * qty WO Issue
+Bagian RM ini terhubung ke proses pembelian, mulai dari Purchase Requisition, Purchase Order, sampai ke tahap AP Invoice dan pembayaran supplier.
+Sisi kontrol budget
+Apabila menu budget diaktifkan, maka pembelian item pada detail RM tidak boleh melebihi qty yang telah ditetapkan pada BOQ. Jika melebihi, BOQ wajib direvisi dan melalui approval ulang sebelum proses pembelian dapat dilanjutkan.
+Karena itu, BOQ dapat dipandang sebagai dokumen penghubung antara kebutuhan project, proses produksi, proses pembelian, kontrol budget, dan pengendalian biaya.  
+Bill of Quantity Generate PR (BOQ Generate PR)
+Pengertian
+Menu Bill of Quantity Generate PR atau BOQ Generate PR digunakan untuk menghasilkan dokumen Purchase Requisition (PR) secara otomatis berdasarkan data Bill of Quantity (BOQ) yang sudah dibuat sebelumnya.
+Melalui menu ini, sistem akan mengambil kebutuhan yang ada pada detail RM di BOQ, lalu membentuk dokumen Purchase Requisition tanpa pengguna harus menginput ulang item satu per satu.
+Dengan demikian, menu ini menjadi penghubung langsung antara:
+perencanaan kebutuhan di BOQ dan proses permintaan pembelian di PR.
+________________
+
+
+Fungsi utama menu BOQ Generate PR
+Fungsi utama dari menu ini adalah untuk mempermudah dan mempercepat proses pembuatan Purchase Requisition, sekaligus menjaga agar permintaan pembelian tetap sesuai dengan perencanaan yang sudah ditetapkan di BOQ.
+Secara bisnis, menu ini berfungsi untuk:
+         * menarik kebutuhan material atau jasa dari BOQ
+         * menghindari input manual berulang
+         * mengurangi risiko salah input item, qty, atau deskripsi
+         * memastikan PR mengikuti kebutuhan project yang sudah direncanakan
+         * menjaga konsistensi data antara BOQ dan proses pembelian
+________________
+
+
+Sumber data yang digunakan
+Data yang digunakan oleh menu ini berasal dari Bill of Quantity, khususnya dari bagian:
+         * detail RM
+         * item bahan baku
+         * item jasa
+         * quantity kebutuhan yang masih perlu diproses ke pembelian
+Artinya, sistem akan membaca kebutuhan pada BOQ yang memang relevan untuk proses procurement.
+Biasanya data yang ikut terbawa meliputi:
+         * project
+         * kode item
+         * nama / deskripsi item
+         * satuan
+         * quantity
+         * referensi BOQ
+         * informasi lain yang diperlukan dalam pembentukan PR
+________________
+
+
+Tujuan penggunaan menu ini
+Menu ini digunakan agar proses pembelian tidak dimulai dari nol.
+Karena sebelumnya kebutuhan sudah direncanakan di BOQ, maka pada saat masuk ke tahap procurement, user cukup melakukan proses generate PR dari BOQ. Dengan cara ini:
+         * kebutuhan yang sudah direncanakan tidak perlu diketik ulang
+         * purchasing menerima data yang lebih rapi dan konsisten
+         * project control menjadi lebih kuat
+         * keterlacakan dokumen menjadi lebih baik
+Menu ini sangat penting terutama pada project yang memiliki banyak item RM, karena akan sangat merepotkan jika semua harus diinput manual ke PR. 
+Purchase Requisition
+Pengertian
+Purchase Requisition adalah dokumen permintaan pembelian yang digunakan untuk mencatat kebutuhan pengadaan barang atau jasa di dalam perusahaan. Dokumen ini menjadi dasar bagi bagian Purchasing untuk melakukan proses penyediaan atas kebutuhan yang diajukan.
+Menu ini berada di:
+Distribution → Purchase Requisition → Purchase Requisition
+Dalam SIVENSYS ERP, data Purchase Requisition dapat berasal dari dua cara:
+         1. Dihasilkan dari proses BOQ Generate PR
+PR terbentuk dari kebutuhan yang sebelumnya sudah direncanakan di BOQ.
+         2. Diinput manual langsung di menu Purchase Requisition
+PR dibuat langsung tanpa referensi ke BOQ.
+Jadi, Purchase Requisition dapat berasal dari kebutuhan yang sudah direncanakan maupun kebutuhan operasional yang diajukan langsung.
+________________
+
+
+Fungsi utama Purchase Requisition
+Menu ini digunakan untuk:
+            * mencatat permintaan pembelian barang atau jasa
+            * meneruskan kebutuhan dari user atau departemen ke bagian purchasing
+            * menjadi dasar proses pengadaan selanjutnya
+            * mendokumentasikan kebutuhan pembelian secara formal di dalam sistem
+            * membantu pengendalian dan pelacakan proses pembelian
+Dengan adanya PR, proses pembelian menjadi lebih tertib karena purchasing bekerja berdasarkan dokumen resmi di sistem, bukan sekadar instruksi lisan atau komunikasi informal.
+________________
+
+
+Jenis kebutuhan yang diakomodir
+1. Material
+Permintaan pembelian material pada umumnya dicatat oleh bagian PPIC.
+Contohnya:
+            * bahan baku utama
+            * bahan baku pembantu
+            * bahan baku penolong
+            * komponen produksi
+2. Jasa
+Permintaan pembelian jasa pada umumnya dicatat oleh departemen yang membutuhkan jasa tersebut, misalnya:
+            * Engineering
+            * Delivery
+            * IT
+            * departemen operasional lainnya
+Contohnya:
+            * jasa ekspedisi
+            * jasa maintenance
+            * jasa perbaikan
+            * jasa teknis
+3. Asset
+Permintaan pembelian asset pada umumnya dicatat melalui bagian General Affair atau Umum.
+Contohnya:
+            * kendaraan operasional
+            * komputer atau laptop
+            * meja dan kursi
+            * mesin
+            * peralatan kantor
+________________
+
+
+Dua proses utama Purchase Requisition
+1. Permintaan pembelian selain asset
+Mencakup material, jasa, dan kebutuhan operasional non-asset lainnya.
+PR dapat:
+            * dihasilkan dari BOQ Generate PR
+            * atau diinput manual langsung oleh user atau departemen terkait
+2. Permintaan pembelian asset
+Untuk asset, prosesnya biasanya berbeda. User dapat mengajukan kebutuhan melalui form manual permintaan barang asset kepada bagian General Affair atau Umum. Setelah itu, bagian General Affair yang menginput Purchase Requisition ke sistem dan meneruskannya ke Purchasing.
+Hal ini dilakukan karena pembelian asset umumnya memerlukan kontrol administrasi yang lebih ketat.
+________________
+
+
+Informasi penting pada header PR
+Pada bagian header Purchase Requisition terdapat kolom Supplier.
+Walaupun namanya kolom supplier, pada konteks ini kolom tersebut dapat digunakan sebagai indikasi vendor yang diperkirakan akan menjadi supplier untuk kebutuhan tersebut.
+Artinya ada dua kemungkinan penggunaan:
+1. Kolom Supplier diisi
+Jika kolom ini diisi, berarti bagian pembuat PR sudah memiliki gambaran atau usulan bahwa kebutuhan tersebut kira-kira akan dibeli dari vendor tertentu.
+Dengan kata lain, pembuat PR sudah memberi arahan awal kepada bagian Purchasing mengenai calon supplier yang disarankan.
+2. Kolom Supplier dikosongkan
+Jika kolom ini dikosongkan, berarti penentuan supplier sepenuhnya diserahkan kepada bagian Purchasing.
+Dalam kondisi ini, Purchasing memiliki keleluasaan untuk menentukan supplier yang paling sesuai berdasarkan harga, ketersediaan, kualitas, atau pertimbangan lainnya.
+Jadi, kolom ini bersifat sebagai opsi referensi supplier awal, bukan selalu berarti supplier sudah final.
+________________
+
+
+Informasi penting pada detail PR
+Pada bagian detail Purchase Requisition terdapat beberapa informasi penting yang berfungsi untuk memantau realisasi proses pembelian.
+1. Qty Processed
+Kolom Qty Processed menunjukkan berapa quantity dari item PR yang sudah diproses ke Purchase Order.
+Artinya, kolom ini memberi informasi apakah item yang diminta pada PR tersebut sudah ditindaklanjuti oleh Purchasing atau belum.
+Jika qty processed sudah terisi, berarti sebagian atau seluruh quantity PR sudah di-PO-kan.
+2. Qty Outstanding
+Kolom Qty Outstanding menunjukkan quantity PR yang belum di-PO-kan.
+Kolom ini sangat penting untuk melihat sisa kebutuhan yang masih harus diproses oleh Purchasing.
+Secara sederhana:
+            * Qty Processed = quantity yang sudah dibuatkan PO
+            * Qty Outstanding = quantity yang masih tersisa dan belum dibuatkan PO
+Dengan adanya dua kolom ini, user dapat memantau progres tindak lanjut PR langsung dari detail dokumen.
+________________
+
+
+3. Cost
+Pada bagian detail juga terdapat kolom Cost.
+Kolom ini berisi harga acuan yang akan menjadi referensi pada saat membuat Purchase Order.
+Sumber data cost ini tergantung asal PR:
+Jika PR dibuat manual
+Maka nilai Cost diambil dari menu:
+Financial → Cost Management → Item Cost
+Artinya, cost pada PR menjadi harga referensi standar berdasarkan data master cost item yang sudah ada di sistem.
+Jika PR berasal dari BOQ
+Maka nilai Cost pada PR bukan diambil dari Item Cost, tetapi mengacu ke harga pada BOQ.
+Jadi, jika PR referensi dari BOQ, maka sistem mengikuti cost atau harga yang sudah direncanakan di BOQ sebagai dasar acuan.
+________________
+
+
+Fungsi bisnis kolom Cost
+Kolom cost pada PR sangat penting karena berfungsi sebagai harga acuan pembelian.
+Secara ideal, bagian Purchasing seharusnya melakukan pembelian dengan harga yang tidak lebih mahal dari cost yang tercantum di PR.
+Dengan demikian, cost pada PR berfungsi untuk:
+            * menjadi referensi harga saat membuat PO
+            * membantu pengendalian harga pembelian
+            * menjaga agar harga beli tetap sesuai rencana atau standar
+            * meminimalkan risiko pembelian di atas harga acuan
+Jadi walaupun Purchasing tetap menjalankan negosiasi dan pemilihan supplier, harga pada PR tetap menjadi patokan awal agar pembelian lebih terkontrol.
+ Baik, berikut penjelasan mengenai Purchase Order dalam konteks bispro SIVENSYS ERP, saya susun agar nyambung dengan pembahasan sebelumnya.
+Purchase Order
+Pengertian
+Purchase Order (PO) adalah dokumen yang dibuat oleh pihak pembeli untuk menunjukkan barang atau jasa yang ingin dibeli dari pihak penjual atau supplier. Dalam praktik bisnis, Purchase Order juga berfungsi sebagai bentuk kesepakatan awal antara pembeli dan penjual mengenai item yang dibeli, quantity, harga, serta ketentuan pembelian lainnya.
+Dengan kata lain, PO adalah dokumen resmi dari perusahaan kepada supplier sebagai dasar pelaksanaan pembelian.
+Menu ini berada di:
+Distribution → Purchase Order → Purchase Order
+________________
+
+
+Fungsi utama Purchase Order
+Menu Purchase Order digunakan untuk:
+            * mencatat transaksi pembelian barang atau jasa
+            * meneruskan kebutuhan yang sebelumnya diajukan melalui PR menjadi pesanan resmi ke supplier
+            * menjadi dokumen acuan supplier dalam melakukan pengiriman barang atau pelaksanaan jasa
+            * menjadi dasar proses penerimaan barang/jasa
+            * menjadi dasar proses hutang usaha sampai pembayaran
+Jadi, jika Purchase Requisition adalah dokumen permintaan pembelian secara internal, maka Purchase Order adalah dokumen pembelian resmi yang ditujukan ke pihak luar, yaitu supplier.
+________________
+
+
+Jenis transaksi yang diakomodir
+Menu Purchase Order mengakomodir pencatatan transaksi pembelian untuk beberapa jenis kebutuhan berikut:
+1. Material
+Pembelian material atau bahan baku pada umumnya dicatat atau diinput oleh bagian/departemen PPIC (Production Planning Inventory Control).
+Contohnya:
+            * bahan baku utama
+            * bahan baku pembantu
+            * bahan baku penolong
+            * komponen produksi
+            * material pendukung lainnya
+________________
+
+
+2. Jasa
+Pembelian jasa pada umumnya dicatat atau diinput oleh bagian/departemen yang berkaitan dengan jasa tersebut, misalnya:
+            * Engineering
+            * Delivery
+            * IT
+            * departemen operasional lainnya
+Contohnya:
+            * jasa ekspedisi untuk pengiriman barang jadi ke customer
+            * jasa maintenance
+            * jasa instalasi
+            * jasa perbaikan
+            * jasa teknis lainnya
+________________
+
+
+3. Asset
+Pembelian aset pada umumnya dicatat atau diinput oleh bagian/departemen General Affair.
+Contohnya:
+            * kendaraan operasional
+            * komputer
+            * laptop
+            * mesin
+            * peralatan kantor
+            * asset tetap lainnya
+Sebagai contoh, bagian General Affair melakukan pembelian 1 unit mobil untuk kebutuhan operasional perusahaan.
+________________
+
+
+Sumber data Purchase Order
+Dalam SIVENSYS ERP, Purchase Order dapat dibuat dengan dua cara:
+1. Merefer ke Purchase Requisition
+PO dapat dibuat berdasarkan Purchase Requisition yang sudah dibuat sebelumnya.
+Pada kondisi ini:
+            * item mengikuti PR
+            * quantity dapat mengikuti PR secara penuh atau parsial
+            * cost mengikuti cost yang ada di PR
+2. Berdiri sendiri tanpa referensi PR
+PO juga dapat dibuat langsung tanpa referensi ke Purchase Requisition.
+Pada kondisi ini:
+            * item diinput langsung pada PO
+            * cost mengacu ke Item Cost
+Jadi, sistem tetap fleksibel untuk mengakomodir pembelian yang formal berbasis PR maupun pembelian langsung tanpa PR.
+________________
+
+
+Hubungan PO dengan PR
+Purchase Order dapat terhubung ke Purchase Requisition, tetapi hubungan ini tidak selalu wajib.
+Jika PO merefer ke PR
+Maka PO mengambil dasar dari permintaan pembelian yang sudah lebih dulu diajukan. Ini membuat proses lebih terkontrol karena pembelian mengikuti kebutuhan yang sudah diminta dan disetujui.
+Selain itu, PO yang merefer ke PR dapat dibuat secara parsial.
+Contoh:
+Jika pada PR terdapat:
+            * Item A = 100 qty
+Maka pada PO bisa saja dibuat:
+            * PO 1 = 50 qty
+            * PO 2 = 50 qty berikutnya
+Artinya, satu PR dapat direalisasikan ke beberapa PO sesuai kebutuhan, waktu, atau strategi pembelian.
+Jika PO tidak merefer ke PR
+Maka PO berdiri sendiri, tanpa hubungan ke dokumen PR. Ini biasanya digunakan untuk pembelian langsung yang memang tidak melalui proses PR.
+________________
+
+
+Acuan cost pada Purchase Order
+Cost pada Purchase Order tergantung dari sumber pembentukannya:
+Jika PO merefer ke PR
+Maka cost mengikuti cost dari PR.
+Dan seperti yang sudah kita catat sebelumnya:
+            * jika PR dibuat manual, maka cost PR berasal dari Item Cost
+            * jika PR berasal dari BOQ, maka cost PR mengacu ke harga pada BOQ
+Jadi ketika PO merefer ke PR, secara tidak langsung cost PO bisa berasal dari:
+            * Item Cost
+            * atau harga BOQ
+tergantung asal PR-nya.
+Jika PO dibuat tanpa PR
+Maka cost pada PO mengikuti Item Cost.
+Dengan demikian, Purchase Order tetap memiliki acuan harga pembelian, walaupun tidak dibuat dari PR.
+________________
+
+
+Proses Purchase Order Credit
+Pengertian singkat
+Purchase Order Credit digunakan pada pembelian yang pembayarannya tidak langsung tunai, melainkan akan menjadi hutang terlebih dahulu dan dibayar pada tahap berikutnya.
+Alur bisnisnya
+Proses penginputan Purchase Order credit dilakukan ketika bagian Purchasing menerima permintaan pembelian atau Purchase Requisition dari user, departemen, atau bagian lain yang sudah disetujui oleh atasan.
+Persetujuan ini bisa dilakukan melalui:
+               * dokumen fisik yang ditandatangani
+               * atau proses E-Approval
+Setelah itu, bagian Purchasing membuat dan melakukan print dokumen PO untuk diberikan kepada supplier sebagai permintaan pembelian resmi.
+Kemudian alurnya berlanjut sebagai berikut:
+               1. Supplier menerima PO
+               2. Supplier melakukan pengiriman barang atau pelaksanaan jasa
+               3. Barang diterima oleh bagian gudang
+               4. Gudang melakukan penginputan penerimaan barang
+               5. Jika barang, maka stok inventory atau asset akan bertambah
+               6. Jika jasa, maka berarti jasa tersebut sudah selesai dikerjakan dan diterima
+Dalam alur credit, proses penerimaan ini menjadi dasar untuk lanjut ke proses:
+               * Purchase Receipt
+               * AP Invoice
+               * AP Invoice Exchange
+               * AP Payment
+               * AP Giro Confirm (jika pembayaran menggunakan giro)
+________________
+
+
+Proses Purchase Order Cash
+Pengertian singkat
+Berbeda dengan pembelian credit, pembelian Cash / Tunai diawali dari adanya proses pencairan dana terlebih dahulu, biasanya dalam bentuk cash advance / kasbon.
+Alur bisnisnya
+Prosesnya secara umum seperti ini:
+               1. Bagian kasir atau finance mencairkan cash advance / kasbon dari modul Cash Management
+               2. Dana tersebut diberikan kepada bagian Purchasing
+               3. Purchasing melakukan pembelian langsung ke supplier atau penjual
+               4. Dari transaksi pembelian tersebut, Purchasing menerima struk pembelian
+               5. Struk pembelian ini menjadi referensi penginputan ke menu Purchase Order
+               6. Setelah PO diinput, dokumen struk pembelian dan print out PO dilampirkan sebagai bukti realisasi biaya untuk diserahkan ke kasir atau finance
+Pada pembelian cash, ada karakteristik penting di sistem:
+               * setelah penginputan PO, inventory langsung bertambah secara otomatis
+               * menu PO Receipt juga langsung terbentuk otomatis
+Karena itu, bagian Purchasing tetap perlu melakukan konfirmasi ke bagian gudang dengan menyertakan dokumen print out PO, agar bagian gudang mengetahui bahwa barang tersebut sudah masuk dan sudah tercatat di sistem.
+Jadi, pada pembelian cash, prosesnya lebih cepat dari sisi pencatatan sistem karena tidak menunggu proses penerimaan terpisah seperti pada pembelian credit.
+________________
+
+
+Perbedaan PO Credit dan PO Cash
+PO Credit
+               * berdasarkan PR yang sudah disetujui atau kebutuhan pembelian credit
+               * supplier mengirim barang atau jasa
+               * gudang melakukan penerimaan
+               * stok bertambah setelah proses penerimaan
+               * lanjut ke hutang usaha dan pembayaran
+PO Cash
+               * diawali dari pencairan cash advance / kasbon
+               * purchasing melakukan pembelian langsung
+               * ada struk pembelian sebagai bukti transaksi
+               * setelah input PO, inventory langsung bertambah otomatis
+               * PO Receipt langsung terbentuk otomatis
+               * perlu konfirmasi ke gudang dengan lampiran print out PO
+________________
+
+
+Hubungan Purchase Order dengan penerimaan barang / jasa
+Purchase Order menjadi dasar bagi supplier untuk melakukan pengiriman barang atau melaksanakan jasa.
+Setelah itu:
+Jika barang
+Barang diterima oleh bagian gudang, lalu diinput ke proses penerimaan agar:
+               * inventory bertambah
+               * asset bertambah jika item tersebut asset
+               * status pembelian bergerak ke tahap berikutnya
+Jika jasa
+Maka penerimaan pada dasarnya menunjukkan bahwa jasa tersebut sudah selesai dilakukan dan diterima oleh perusahaan.
+Jadi, PO bukan hanya dokumen pesanan, tetapi juga menjadi penghubung ke tahap realisasi pengadaan.
