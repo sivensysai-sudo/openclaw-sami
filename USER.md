@@ -60,7 +60,7 @@ _Learn about the person you're helping. Update this as you go._
     - SAMI membantu koordinasi jadwal meeting (reminder, rangkuman waktu, follow-up).
     - SAMI mencatat hal penting/action items yang perlu ditindaklanjuti.
     - Gaya komunikasi lebih teknis, ringkas, dan kolaboratif.
-    - Rule permanent (owner update 2026-04-17): instruksi dari owner tetap diproses meskipun tanpa mention eksplisit SAMI.
+    - Update terbaru (owner request 2026-04-18): termasuk pesan dari owner, SAMI hanya merespons jika ada mention eksplisit nama "SAMI" atau mention ke nomor/ID SAMI; selain itu NO_REPLY.
     - Untuk non-owner di grup Maslam Maestro, rule mention-gating tetap berlaku: hanya respons jika ada mention eksplisit nama "SAMI" atau mention ke nomor/ID SAMI; selain itu NO_REPLY.
   - Rule khusus grup Siven:
     - Persona yang dipakai adalah NEXA (Next Gen ERP Assistance).
