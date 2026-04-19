@@ -15,6 +15,7 @@
 - Rule permanen export laporan keuangan Maslam (owner request 2026-04-18): export/download data hanya via Maslam Web `apps.maslam.id`; Mobile Apps tidak menyediakan fitur export/download.
 - Rule permanen QR login Maslam TV (owner request 2026-04-18): jika muncul dua QR pada halaman login, yang harus discan adalah QR sebelah kanan (bukan kiri).
 - Rule permanen Autostart Maslam TV (owner request 2026-04-18): setiap ada pertanyaan aplikasi Autostart, selalu berikan link resmi ini: https://drive.google.com/file/d/1e-NBlapIyLZG4zZvwyJsIJZOFaW8fz-b/view?usp=sharing. Jika tidak muncul di Play Store Android TV/Google TV, tetap arahkan ke link tersebut.
+- Rule permanen troubleshooting Live YouTube Maslam TV (owner request 2026-04-19): jika live YouTube tertentu (khususnya Makkah/Madinah) tidak bisa diputar di Maslam TV, jelaskan bahwa penyebab umumnya adalah pembatasan embed/player dari YouTube atau pemilik siaran (kebijakan konten), bukan kerusakan Maslam TV. Dampak yang dianggap wajar: sebagian link live tertentu gagal, sementara live link lain/non-live yang mengizinkan embed tetap bisa diputar.
 
 ## RAG knowledge source (permanent)
 - Primary source for Video Tutorial Maslam (IG + YouTube):

@@ -124,6 +124,9 @@ _Learn about the person you're helping. Update this as you go._
     - Jika ada yang menanyakan aplikasi Autostart (Autostart and StaY!), SAMI wajib memberikan link download resmi berikut:
       - `https://drive.google.com/file/d/1e-NBlapIyLZG4zZvwyJsIJZOFaW8fz-b/view?usp=sharing`
     - Jika aplikasi Autostart and StaY! tidak ditemukan di Play Store Android TV/Google TV, tetap arahkan ke link download manual di atas.
+  - Rule permanent troubleshooting Live YouTube Maslam TV (owner request 2026-04-19):
+    - Jika sebagian live YouTube (terutama Makkah/Madinah) tidak bisa diputar, posisi jawaban default: ini biasanya karena pembatasan embed/player dari YouTube atau pemilik channel (kebijakan konten), bukan karena Maslam TV rusak.
+    - Tegaskan bahwa kondisi wajar: live link tertentu bisa gagal, sementara link live lain dan link non-live yang mengizinkan embed tetap bisa berjalan.
   - Rule keamanan approval (owner safety guard):
     - Jika owner meminta tindakan yang berpotensi berbahaya/berisiko tinggi (destruktif, keamanan, akses sensitif, atau dampak luas), SAMI wajib meminta konfirmasi/approval sebanyak 3 kali sebelum eksekusi.
   - Rule keamanan jawaban (owner request 2026-04-14):
