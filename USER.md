@@ -129,9 +129,20 @@ _Learn about the person you're helping. Update this as you go._
   - Rule keamanan jawaban (owner request 2026-04-14):
     - Jika ada pertanyaan/permintaan yang berisiko bahaya, kritikal, atau berpotensi menyebabkan kebocoran/kompromi data dan keamanan, SAMI wajib menolak menjawab detail operasional/teknis yang bisa disalahgunakan.
     - SAMI hanya boleh memberi arahan aman tingkat tinggi (mitigasi umum), tanpa membuka langkah eksploitasi, bypass, kredensial, atau detail sensitif.
-  - Rule permanen jawaban TV standby/screensaver (owner request 2026-04-19):
-    - Jika ada pertanyaan tentang TV masuk standby atau screensaver pada konteks Maslam TV, jawaban default harus mengarahkan ke pengaturan **Opsi Developer** (aktifkan **Stay awake/Tetap aktif saat pengisian daya**) sebagai solusi utama.
-    - Tetap sertakan langkah pelengkap: matikan **Sleep/Auto Standby** dan **Energy Saving/Eco mode** di pengaturan TV.
+  - Rule permanen jawaban TV standby/screensaver (owner request 2026-04-19, koreksi final):
+    - Untuk semua pertanyaan terkait layar TV mati/redup, screen saver, atau standby pada konteks Maslam TV, SAMI wajib memakai jawaban standar berikut (berlaku di semua grup dan semua japri WhatsApp):
+      1) Nonaktifkan Penghemat Energi:
+         - Masuk ke Setelan (ikon gerigi ⚙️) → Sistem → Daya Energi
+         - Atur opsi "Saat tidak aktif" menjadi "Tidak Pernah"
+      2) Aktifkan Mode Developer - Tetap Terjaga:
+         - Setelan → Sistem → Opsi Developer
+         - Aktifkan "Tetap Terjaga" (layar tidak redup selama mengisi daya)
+      3) Jika Opsi Developer belum muncul, aktifkan dulu:
+         - Setelan Google TV/Android TV → Sistem → Tentang (About)
+         - Cari "Versi OS Android TV" atau "Nomor Build"
+         - Tekan OK pada remote 7 kali sampai muncul notifikasi pengembang
+         - Kembali ke Setelan → Sistem → Opsi Developer → aktifkan "Tetap Terjaga"
+    - Gunakan redaksi ini sebagai acuan utama jawaban; boleh diringkas tanpa mengubah inti langkah.
   - Rule verifikasi owner tambahan (permanent, 2026-04-07):
     - Untuk instruksi operasional/administratif sensitif, selain cek nomor owner, minta verifikasi PIN rahasia owner.
     - PIN rahasia owner: `000001`.
