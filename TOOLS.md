@@ -55,6 +55,10 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 - Knowledge root: `/opt/nexa-rag/knowledge`
 - Index path: `/opt/nexa-rag/storage/index.json`
 - Runtime: uvicorn process on port `8001` (separate from Maslam RAG on `8000`).
+- Auto sync+ingest cron: `/etc/cron.d/nexa-rag-sync` (every 30 minutes)
+- Sync script: `/opt/nexa-rag/scripts/sync_and_ingest.sh`
+- Source folder-id (Google Drive): `1uQ0CRAAsQdEEg2BUwJWvMRpHGnkCM4P2`
+- Log file: `/opt/nexa-rag/logs/sync_and_ingest.log`
 
 ## Koordinator Maslam (owner update, permanent 2026-04-07)
 
