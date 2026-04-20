@@ -1,0 +1,97 @@
+file,lines,sha16,first_line,last_line,hit_wf_mstr,hit_glt_det,hit_insert_log,hit_MessageBox.Show,hit_TODO
+Duta Solution/Duta.Project/Module/Distribution/Inventory/XRTransferIssuesPrint.designer.vb,955,0ab86618be3d874f,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/Module/Distribution/Inventory/XRTransferIssuesPrint.resx,594,55e98389d12a0060,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/Module/Distribution/Inventory/XRTransferIssuesPrint.vb,107,dddac1a80c46b75c,Imports Devart.Data.PostgreSql,End Class,0,0,1,4,0
+Duta Solution/Duta.Project/Module/Distribution/Inventory/XRTransferIssuesPrint_LOT.designer.vb,974,94d2f1abaa3e294f,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/Module/Distribution/Inventory/XRTransferIssuesPrint_LOT.resx,600,fc245e50b3dcfc2e,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/Module/Distribution/Inventory/XRTransferIssuesPrint_LOT.vb,107,68665f74cd017d5a,Imports Devart.Data.PostgreSql,End Class,0,0,1,4,0
+Duta Solution/Duta.Project/Module/Financial/account receiveable/print out/XRInvoiceDisc2.designer.vb,1551,17d9e9f65eef1866,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/Module/Financial/account receiveable/print out/XRInvoiceDisc2.resx,753,9b271dbff3dec502,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/Module/Financial/account receiveable/print out/XRInvoiceDisc2.vb,168,a1d02bb2533b1428,Imports Devart.Data.PostgreSql,End Class,0,0,1,4,0
+Duta Solution/Duta.Project/Module/Master Data/Company/FZEmployee.designer.vb,658,da8f4b056f92be5f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/Module/Master Data/Company/FZEmployee.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/Module/Master Data/Company/FZEmployee.vb,482,09bb666b59954927,﻿Imports Devart.Data.PostgreSql,End Class,0,0,5,14,0
+Duta Solution/Duta.Project/Module/Sales Order/Transaction/FPOCustomer.designer.vb,1800,11574583a84ced24,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/Module/Sales Order/Transaction/FPOCustomer.resx,135,6c4156810b0671a5,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/Module/Sales Order/Transaction/FPOCustomer.vb,3389,b9376b2b5135b6bf,﻿Imports Devart.Data.PostgreSql,,10,0,7,65,0
+Duta Solution/Duta.Project/Module/___Function Helper/Cls_Bilangan.vb,340,a9e56ba4e47285b4,﻿Public Class Cls_Bilangan,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/Module/___Function Helper/ModFunctionSpecial.vb,1695,860b7b5ef41e1f74,﻿Imports master_new.ModFunction,End Module,0,2,0,2,0
+Duta Solution/Duta.Project/Module/___Function Helper/function_collection.vb,9954,0e69ed9422f71148,﻿Imports System.Net.Mail,,3,106,0,264,0
+Duta Solution/Duta.Project/Module/___Function Helper/function_data.vb,6011,9cda5983b5feaf89,﻿Imports master_new.ModFunction,End Class,0,0,0,239,0
+Duta Solution/Duta.Project/My Project/Application.Designer.vb,13,4dd7045513941609,﻿'------------------------------------------------------------------------------,,0,0,0,0,0
+Duta Solution/Duta.Project/My Project/AssemblyInfo.vb,35,8821e0f1b5f4f2d2,﻿Imports System,"<Assembly: AssemblyFileVersion(""1.0.0.0"")>",0,0,0,0,0
+Duta Solution/Duta.Project/My Project/Resources.Designer.vb,63,1cfdf2e2a46698b2,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Duta Solution/Duta.Project/My Project/Resources.resx,127,2cd041a031a7b528,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/My Project/Settings.Designer.vb,171,7c59cec53fde11ef,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FAccountSearch.Designer.vb,122,168550da8a29cc4a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FAccountSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FAccountSearch.vb,485,97ef3dd2f2d49f20,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FCostCenterSearch.Designer.vb,122,26f4c6432dae0e27,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FCostCenterSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FCostCenterSearch.vb,113,3ec08eabcd297290,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FCustomerGroupSearch.Designer.vb,86,f82f9d4160f6fad3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FCustomerGroupSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FCustomerGroupSearch.vb,67,5f9bc5cb8f8ffe78,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FLocationSearch.Designer.vb,122,443f32b00c3a5730,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FLocationSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FLocationSearch.vb,669,c91946c0d3237fe9,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FLotSerialSearch.designer.vb,136,b9699d35165e79fa,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FLotSerialSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FLotSerialSearch.vb,182,e01c0c9e8a4b90e8,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FPackagingSearch.designer.vb,122,4f56d5945a4ef853,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FPackagingSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FPackagingSearch.vb,111,9c890b52e203ef22,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FPartNumberSearch.Designer.vb,123,b4370e2fb1b188ef,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FPartNumberSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FPartNumberSearch.vb,2096,0d3c279c7452c00a,﻿Imports master_new.ModFunction,End Class,0,0,0,2,0
+Duta Solution/Duta.Project/__Browse References/FPartnerSearch.Designer.vb,132,4ae37ddc0589c337,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FPartnerSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FPartnerSearch.vb,475,3776ae37755568b7,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Duta Solution/Duta.Project/__Browse References/FPaymentTypeSearch.Designer.vb,94,89cdd980254f5c82,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FPaymentTypeSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FPaymentTypeSearch.vb,60,12c2b337069af72d,﻿Public Class FPaymentTypeSearch,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FPriceListSearch.Designer.vb,121,374977e84365402f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FPriceListSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FPriceListSearch.vb,174,50fa53b084113669,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FProdStrucSearch.designer.vb,121,5e6e77e6da487778,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FProdStrucSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FProdStrucSearch.vb,277,905dd90e86b4fa29,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FProjectAccountSearch.Designer.vb,156,8c4abd56303e2255,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FProjectAccountSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FProjectAccountSearch.vb,229,5311daaed7cf6d10,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FRoutingSearch.designer.vb,122,7bc352f4f88ef0ce,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FRoutingSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FRoutingSearch.vb,60,a9d12dbdcf472a35,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FSalesOrderDetailSearch.designer.vb,166,f72ca6b80745a9b5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FSalesOrderDetailSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FSalesOrderDetailSearch.vb,143,6efd14d66e9d588d,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FSalesOrderSearch.Designer.vb,166,ec4367238b252be3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FSalesOrderSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FSalesOrderSearch.vb,2263,e2af83e044a33e7f,﻿Imports master_new.ModFunction,End Class,0,0,0,11,0
+Duta Solution/Duta.Project/__Browse References/FSalesPersonSearch.designer.vb,87,3a37a866d6b7548d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FSalesPersonSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FSalesPersonSearch.vb,73,1009912dcecc864e,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FTaxClassSearch.Designer.vb,130,cada8d3058c6a84f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FTaxClassSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FTaxClassSearch.vb,89,fee2d79c8db6eb87,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FUMSearch.Designer.vb,122,6d466c0c903e0e0c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FUMSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FUMSearch.vb,212,b4e3ed22bdfc0e72,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Duta Solution/Duta.Project/__Browse References/FWCSearch.designer.vb,122,b8405d2c75786e83,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FWCSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FWCSearch.vb,93,955be5c894c30d5c,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FWOSearch.designer.vb,153,3843fa5f8cf6240a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FWOSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__Browse References/FWOSearch.vb,853,5154131cbdc9ffba,﻿Imports master_new.ModFunction,End Class,0,0,0,7,0
+Duta Solution/Duta.Project/__General Form/CustomDesignForm.resx,632,d13f29c53c9caaf6,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__General Form/CustomDesignForm.vb,1229,d4adbb8adc1b39ea,Public Class CustomDesignForm,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__General Form/FCodeMstr.Designer.vb,600,982b99a574b03902,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__General Form/FCodeMstr.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__General Form/FCodeMstr.vb,358,ba0ab9eb5c77ff13,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+Duta Solution/Duta.Project/__General Form/frmPrintDialog.Designer.vb,170,6b6178b15ee6767e,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__General Form/frmPrintDialog.resx,440,caabe7620bd14448,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__General Form/frmPrintDialog.vb,194,9c02836973d527ec,Imports master_new.PGSqlConn,End Class,0,0,0,1,0
+Duta Solution/Duta.Project/__General Form/frmPrintDialogReport.Designer.vb,1406,43c5bd402f5977d5,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Duta Solution/Duta.Project/__General Form/frmPrintDialogReport.resx,446,0bde7817e885efc1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Duta Solution/Duta.Project/__General Form/frmPrintDialogReport.vb,48,150408c4f7e7463c,Imports master_new.PGSqlConn,End Class,0,0,1,0,0
+Duta Solution/Duta.Project/app.config,52,f8431d7c60940a9c,"<?xml version=""1.0""?>","<startup><supportedRuntime version=""v4.0"" sku="".NETFramework,Version=v4.6""/></startup></configuration>",0,0,0,0,0
