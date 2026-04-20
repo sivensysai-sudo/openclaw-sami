@@ -1,0 +1,746 @@
+file,line_count,sha16,first_line,last_line,wf_mstr_hits,glt_det_hits,insert_log_hits,messagebox_hits,todo_hits
+Alfa Solution/Alfa.Project/Module/Administrative Tools/FUserGroup.designer.vb,2179,997793b844a97a04,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Administrative Tools/FUserGroup.resx,531,3ee8cc14e25cba0a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Administrative Tools/FUserGroup.vb,1996,56d48685d452c8d5,﻿Imports master_new.ModFunction,,0,0,4,93,0
+Alfa Solution/Alfa.Project/Module/Administrative Tools/w_reset_password.Designer.vb,75,392959eb8f54461d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Administrative Tools/w_reset_password.resx,120,f601cd30780a3718,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Administrative Tools/w_reset_password.vb,64,2bd33b37219dfe91,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,3,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInvReportByDate.designer.vb,931,1a8bc701e8a07f9c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInvReportByDate.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInvReportByDate.vb,1093,dd7de291558824df,﻿Imports master_new.ModFunction,End Class,0,0,0,4,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemAVGCost.designer.vb,859,cc25f1b3a5da1862,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemAVGCost.resx,129,2514c8f50c975d4a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemAVGCost.vb,1721,4975fbcbeffa4a1b,﻿Imports Devart.Data.PostgreSql,,0,0,1,36,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemAVGCostReport.designer.vb,253,31f3c018a149fb3b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemAVGCostReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemAVGCostReport.vb,267,794e0e8704864966,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemCopyCost.designer.vb,860,b37a7d28c944593d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemCopyCost.resx,129,2514c8f50c975d4a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemCopyCost.vb,1348,8468fe742eaccdd2,﻿Imports Devart.Data.PostgreSql,,0,0,1,35,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssues.designer.vb,1060,935195fb9e5d1821,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssues.resx,132,9f5ec3d5d62a83b1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssues.vb,2699,d39c9a2a09dfdde1,﻿Imports Devart.Data.PostgreSql,End Class,0,4,2,47,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssuesLimit.Designer.vb,1084,be027c791cc1652b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssuesLimit.resx,132,9f5ec3d5d62a83b1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssuesLimit.vb,2259,cecdc8bc6faf41ba,﻿Imports Devart.Data.PostgreSql,End Class,0,4,2,46,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssuesReportLimit.designer.vb,254,ca810da54cfd91a5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssuesReportLimit.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssuesReportLimit.vb,237,cea1b87f0d388146,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryLastCostReport.designer.vb,112,ad5338198351c087,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryLastCostReport.resx,126,f108bc6c4576d3b7,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryLastCostReport.vb,204,6513d409747e7184,﻿Imports master_new.PGSqlConn,End Class,0,0,0,5,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceipts.designer.vb,1040,4412888c78b8dff7,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceipts.resx,129,2514c8f50c975d4a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceipts.vb,2547,32ca5669e5296291,﻿Imports Devart.Data.PostgreSql,,0,4,2,46,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceiptsLimit.designer.vb,1065,897b8378ae1f1bc5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceiptsLimit.resx,129,2514c8f50c975d4a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceiptsLimit.vb,2180,f568c9bcaea7c7c9,﻿Imports Devart.Data.PostgreSql,,0,4,2,44,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceiptsReportLimit.designer.vb,253,e1706b69faf6be58,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceiptsReportLimit.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceiptsReportLimit.vb,219,f9de941573b6459e,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryRequest.Designer.vb,1072,a82caa4c60e8c880,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryRequest.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryRequest.vb,2319,d2371b621fb4450a,﻿Imports Devart.Data.PostgreSql,End Class,10,0,7,66,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryWIPCost.designer.vb,587,9586141da7f26961,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryWIPCost.resx,129,e6b7d88b9418fffc,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryWIPCost.vb,348,c2173c91a1707233,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,5,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvIssue.designer.vb,940,00e6ed91978b474c,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvIssue.resx,609,d5ff46bb01425265,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvIssue.vb,109,bc15d515aa10981c,Imports DevExpress.XtraPrinting.XtraPageSettings,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvIssue_LOT.designer.vb,957,95112eda0f480582,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvIssue_LOT.resx,615,ae0d4ad7d5ea7adb,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvIssue_LOT.vb,107,07fed7665109db2a,Imports Devart.Data.PostgreSql,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvRec.designer.vb,928,e28fb6e3f8828480,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvRec.resx,606,782cf9ffdcc53095,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvRec.vb,108,c4015073a4b0e7b9,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvRec_LOT.designer.vb,949,4257b6716d04919c,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvRec_LOT.resx,612,d182119358d79023,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvRec_LOT.vb,109,eb2bf3da49748e90,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInventoryReqPrint.designer.vb,959,e849edfd8a50b877,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInventoryReqPrint.resx,627,fba4a32aa06be947,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInventoryReqPrint.vb,108,50941085b7f4e312,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/DS_POReceiptScale.Designer.vb,1433,70554d14c778f599,﻿'------------------------------------------------------------------------------,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPOReceiptScaleReleasePrint.designer.vb,79,1314e22b38be9978,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPOReceiptScaleReleasePrint.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPOReceiptScaleReleasePrint.vb,74,a4218db3e0e18cfe,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,6,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrder.Designer.vb,2041,1f3ee29138e75a35,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrder.resx,132,5ef9cebd1e310deb,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrder.vb,6182,cb07a567eb961d88,﻿Imports DevExpress.XtraExport,,13,5,9,107,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrderApproval.designer.vb,1114,4e4f5f593b4b9874,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrderApproval.resx,138,ccd6028516e1132e,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrderApproval.vb,1715,8fda4f40ae81bb78,﻿Imports Devart.Data.PostgreSql,End Class,14,0,2,21,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrderReport.Designer.vb,194,68a61566c290b139,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrderReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrderReport.vb,244,dc9c9bc777a8623e,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchasePackaging.designer.vb,119,4857709faf8d1b31,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchasePackaging.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchasePackaging.vb,361,32b842163bce4759,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceipt.designer.vb,1107,8935e14d4fd91315,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceipt.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceipt.vb,2261,abad3430e5d9a46f,﻿Imports Devart.Data.PostgreSql,End Class,0,1,6,42,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptReport.Designer.vb,318,b873a457d1d1cdcf,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptReport.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptReport.vb,343,db8aebb0242355f1,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptReturnReport.Designer.vb,223,c7f77be0a8d37872,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptReturnReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptReturnReport.vb,294,d17f0100a3e6f1d3,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptScale.Designer.vb,1024,03a6666042a06259,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptScale.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptScale.vb,1347,c2656cc15ef48c8d,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,25,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptScaleComparison.Designer.vb,270,b241e2843a50ddf2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptScaleComparison.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptScaleComparison.vb,199,8ee7211ef9f28ba7,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptScaleReport.Designer.vb,195,b2533263540f9057,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptScaleReport.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptScaleReport.vb,141,b6616b751823b938,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReturn.Designer.vb,979,023c9f9879088155,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReturn.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReturn.vb,2139,ce20b4537a70d7ec,﻿Imports Devart.Data.PostgreSql,End Class,0,4,2,36,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReturnReport.Designer.vb,223,6f45557b49c03109,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReturnReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReturnReport.vb,267,12b383043b35e75f,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseOrderPrintOut.Designer.vb,1402,be3cc3af68b7fb33,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseOrderPrintOut.resx,123,310fd7a8db612c5e,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseOrderPrintOut.vb,168,6448b4bf8a937aff,﻿Imports System.ComponentModel,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseReceiptPrint.designer.vb,707,6f58d33f7d429755,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseReceiptPrint.resx,555,685ce24055bb9ba9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseReceiptPrint.vb,108,1245744be9d46947,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseReceiptScalePrint.Designer.vb,813,538f0206cd635875,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseReceiptScalePrint.resx,549,66dcd6eb66079050,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseReceiptScalePrint.vb,108,3ca757d887bfd6f9,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseReturnPrint.designer.vb,971,2a84e9f0b87303f0,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseReturnPrint.resx,615,a1672af25c63cc0f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseReturnPrint.vb,108,f4923e097bc91ac0,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/ds_po_printout.designer.vb,3546,a71f2770ec77f81a,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/ds_po_printout.vb,3,2f7c71473b48a64b,﻿Partial Class ds_po_printout,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/ds_rcv_printout.Designer.vb,3211,95b24bdebae1bff8,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotRoutingApprovalImport.designer.vb,190,dd089cd28dfb4807,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotRoutingApprovalImport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotRoutingApprovalImport.vb,195,59e516c0ca3042bf,﻿Imports master_new.PGSqlConn,End Class,0,0,0,4,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotation.designer.vb,1383,d72fd844faad753a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotation.resx,132,a0caf6ab3bd288c5,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotation.vb,2754,8a6808fbbc725a73,﻿Imports DevExpress.XtraExport,,9,0,6,61,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationApproval.designer.vb,1029,91f43219675ca597,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationApproval.resx,138,ccd6028516e1132e,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationApproval.vb,1058,07204ba7b8d74514,﻿Imports Devart.Data.PostgreSql,End Class,12,0,2,20,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationReason.Designer.vb,77,2ab49f8b5aff2a15,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationReason.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationReason.vb,7,8f0a71d1ba682f9e,﻿Public Class FQuotationReason,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationReport.Designer.vb,195,23e1290465ab2a4e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationReport.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationReport.vb,143,e3233c2503a8d18f,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationRoutingApproval.designer.vb,472,faee434377497117,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationRoutingApproval.resx,129,284079fbcb8ace1c,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationRoutingApproval.vb,386,3c4ed4d21db31803,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,9,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/XRQuotationPrint.designer.vb,930,4abab9142a47abfb,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/XRQuotationPrint.resx,600,0faeb3ac4236b529,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Quotation/XRQuotationPrint.vb,52,d26017fecd46ae4d,Imports DevExpress.XtraPrinting,End Class,0,0,0,2,0
+Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockFinishGoods.designer.vb,367,1189c5b14a13b9ac,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockFinishGoods.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockFinishGoods.vb,539,c980ffba3031d225,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,6,0
+Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockItem.designer.vb,526,26fe9df78d6bf0f0,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockItem.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockItem.vb,402,23aeda37e0c2b916,﻿Imports Devart.Data.PostgreSql,,0,0,0,9,0
+Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockItemGroup.designer.vb,126,bca4f0c28c4e6a87,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockItemGroup.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockItemGroup.vb,6,54c28793ecbeb277,﻿Public Class FValidityStockItemGroup,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockItemImport.designer.vb,207,299dcbcae3485c39,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockItemImport.resx,129,86b0d583c00fc960,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockItemImport.vb,224,0f8a208ff7bdefd1,﻿Imports Devart.Data.PostgreSql,,0,0,0,7,0
+Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockLocation.designer.vb,401,758751961b503eb9,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockLocation.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockLocation.vb,331,66dd2838026208de,﻿Imports Devart.Data.PostgreSql,,0,0,0,8,0
+Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockRawMaterial.designer.vb,366,d6015d2e88c5d924,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockRawMaterial.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockRawMaterial.vb,538,0cb817a3a4001981,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,5,0
+Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/FAPInvoiceReportTax.Designer.vb,294,7d19744a4dba5ef6,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/FAPInvoiceReportTax.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/FAPInvoiceReportTax.vb,389,6efa14973bc431bd,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/FAPInvoiceReportTaxOutstanding.designer.vb,200,8226113321ba8240,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/FAPInvoiceReportTaxOutstanding.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/FAPInvoiceReportTaxOutstanding.vb,426,555cf6d30b50b793,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/FVoucherTax.designer.vb,1807,3bbb7985cfa7dd51,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/FVoucherTax.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/FVoucherTax.vb,3552,682ced4717278f32,﻿Imports Devart.Data.PostgreSql,End Class,0,12,4,43,0
+Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/XRAPInvoice.designer.vb,1340,5101493837c19d7e,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/XRAPInvoice.resx,842,2f63c942d84e4cf6,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/XRAPInvoice.vb,125,917d3799006ebd51,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/XRAPInvoiceNoPO.designer.vb,1230,e8265be23709946a,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/XRAPInvoiceNoPO.resx,815,3de2e0e195d0a5b0,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/XRAPInvoiceNoPO.vb,114,e38c9f02f71859fd,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARNota.designer.vb,911,0458f585c49a73e8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARNota.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARNota.vb,1072,619b773df77415a8,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,21,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARReportTax.designer.vb,581,b6ecfb7bde21deba,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARReportTax.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARReportTax.vb,983,648a63339c936a0b,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,5,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARReportTaxOutstanding.designer.vb,182,0aeccfb83beefb89,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARReportTaxOutstanding.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARReportTaxOutstanding.vb,640,2ced4706fe373b26,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,2,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FDRCRMemoTax.designer.vb,2069,39b7690fa189154d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FDRCRMemoTax.resx,129,f4a1f5efea31259f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FDRCRMemoTax.vb,4438,4cf593c275600690,﻿Imports Devart.Data.PostgreSql,End Class,0,12,5,53,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FListAR.designer.vb,805,07768f4f27e660b6,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FListAR.resx,132,aeae8f625b6a89ed,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FListAR.vb,614,1c20e6ac6ceba73f,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,13,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/XRInvoiceNew.designer.vb,1581,b89824bb9733fadd,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/XRInvoiceNew.resx,765,5829da7fad87337d,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/XRInvoiceNew.vb,189,7fa658bce98bb728,Imports DevExpress.XtraPrinting,End Class,0,0,1,5,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/XRKwitansiNotaTagih.designer.vb,929,28e6d6601c483432,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/XRKwitansiNotaTagih.resx,585,a510e584e54ff328,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/XRKwitansiNotaTagih.vb,64,a2587b846d83a796,Imports master_new.PGSqlConn,End Class,0,0,0,2,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/XRNotaTagih.designer.vb,1078,c64304233030e794,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/XRNotaTagih.resx,633,4ec954b9d0d05860,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/XRNotaTagih.vb,52,64fafe592ffcf716,Imports DevExpress.XtraPrinting,End Class,0,0,0,2,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/ds_ar_nota.Designer.vb,2901,33f8f7343a4cdad4,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/ds_invoice.designer.vb,3789,bac573bc3c1a3c5a,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/ds_invoice.vb,2,441dae5c376984d5,﻿Partial Class ds_invoice,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FCOGSGenerateNew.designer.vb,465,9932bbfdd5dfbfa9,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FCOGSGenerateNew.resx,129,1b4e84721299c608,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FCOGSGenerateNew.vb,1160,d4edcc6bc0cadf15,﻿Imports Devart.Data.PostgreSql,End Class,0,0,2,19,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FComparisonCostReport.designer.vb,145,5f7bc6912425202c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FComparisonCostReport.resx,129,17588638b0c8d14c,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FComparisonCostReport.vb,80,a3a6ce66d0e5111f,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FFGFromPurchaseReport.Designer.vb,211,88024a5778d17d57,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FFGFromPurchaseReport.resx,129,1b4e84721299c608,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FFGFromPurchaseReport.vb,177,c642ccf1367642e8,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostDelivery.designer.vb,437,952b1968a20e4302,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostDelivery.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostDelivery.vb,368,4276c246df6ddaa0,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,8,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostDeliveryImport.designer.vb,138,1f2a9b4b36fb6475,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostDeliveryImport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostDeliveryImport.vb,160,925ad97bea628622,﻿Imports master_new.PGSqlConn,End Class,0,0,0,5,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostOtherImport.designer.vb,138,7a1da511826eb991,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostOtherImport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostOtherImport.vb,149,b033abf437109a2a,﻿Imports master_new.PGSqlConn,End Class,0,0,0,3,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostPackaging.Designer.vb,541,5fb944a209c2d935,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostPackaging.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostPackaging.vb,449,60e40286fa9cfe36,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,9,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostPackagingImport.designer.vb,138,eff8ebf1fa859d73,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostPackagingImport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostPackagingImport.vb,180,b9c793909a0e4c74,﻿Imports master_new.PGSqlConn,End Class,0,0,0,6,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FPartNumberCostOther.designer.vb,584,bf9eb1edbd6418a7,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FPartNumberCostOther.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FPartNumberCostOther.vb,202,3d01299e135babcb,﻿Imports Devart.Data.PostgreSql,,0,0,0,4,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FRelable.designer.vb,514,e0c0ed93e9000981,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FRelable.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FRelable.vb,499,9e71d648f52ec6af,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,15,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FRelableImport.designer.vb,219,68dc584dd85451dd,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FRelableImport.resx,129,86b0d583c00fc960,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FRelableImport.vb,229,281f7abe9eb9d5eb,﻿Imports Devart.Data.PostgreSql,,0,0,0,6,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FSiteCost.designer.vb,1010,c00e0f670b0e2ecd,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FSiteCost.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FSiteCost.vb,640,728025a60f281453,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,5,0
+Alfa Solution/Alfa.Project/Module/Financial/General Ledger/FCategoryJournal.Designer.vb,44,7eae85bbb5b1a013,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/General Ledger/FCategoryJournal.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/General Ledger/FCategoryJournal.vb,7,fe8d7192894208f5,﻿Public Class FCategoryJournal,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/General Ledger/FTransactionPost.Designer.vb,667,51201ff8479d05c5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/General Ledger/FTransactionPost.resx,129,39f3e4cc215a5ea0,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/General Ledger/FTransactionPost.vb,2580,166db10ed8f653ba,﻿Imports Devart.Data.PostgreSql,End Class,0,140,7,42,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajak.designer.vb,985,5e6260b5a3885dae,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajak.resx,129,f4a1f5efea31259f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajak.vb,1561,3acf6ee3b5b23717,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,32,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajakCoreTax.Designer.vb,961,5f8e81bff81dc926,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajakCoreTax.resx,129,f4a1f5efea31259f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajakCoreTax.vb,2013,156777d006cdd617,﻿Imports System.Collections.Generic,End Class,0,0,4,34,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajakPrint.Designer.vb,458,5ebad8ca08b57706,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajakPrint.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajakPrint.vb,217,c8039a25eddb93fe,﻿Public Class FFakturPajakPrint,End Class,0,0,0,3,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajakReport.Designer.vb,194,eff67b26f4788c29,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajakReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajakReport.vb,162,d9a881bcf7f14668,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FInputVatReport.designer.vb,212,11d6b9b5feee7b03,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FInputVatReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FInputVatReport.vb,113,b12c356faceccd55,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlain.designer.vb,3015,7b0a0f70c8acb06a,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlain.resx,783,f0d580a159168270,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlain.vb,251,8f4449a2b7fe47c5,,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlainIDR.designer.vb,2658,2c2998f71fb9e352,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlainIDR.resx,726,a8ae68d46d165c60,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlainIDR.vb,197,13482ef15e22e962,,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Import Data/FCategoryJournalImport.designer.vb,218,c664ea86ce779250,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Import Data/FCategoryJournalImport.resx,129,86b0d583c00fc960,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Import Data/FCategoryJournalImport.vb,215,e8ccfabc856abc38,﻿Imports Devart.Data.PostgreSql,,0,2,0,7,0
+Alfa Solution/Alfa.Project/Module/Import Data/FNoBuktiPotongARImport.designer.vb,218,c86d0da0c75e6204,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Import Data/FNoBuktiPotongARImport.resx,129,86b0d583c00fc960,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Import Data/FNoBuktiPotongARImport.vb,194,8350e98c8f32cbc7,﻿Imports Devart.Data.PostgreSql,,0,0,0,5,0
+Alfa Solution/Alfa.Project/Module/Import Data/FPriceListQtyImport.designer.vb,205,f48d7b43701fc19c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Import Data/FPriceListQtyImport.resx,129,86b0d583c00fc960,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Import Data/FPriceListQtyImport.vb,503,acdf55a24545c684,﻿Imports Devart.Data.PostgreSql,,0,0,0,10,0
+Alfa Solution/Alfa.Project/Module/Import Data/FStandartTransactionImport.designer.vb,217,c800a7e1874d5703,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Import Data/FStandartTransactionImport.resx,129,86b0d583c00fc960,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Import Data/FStandartTransactionImport.vb,530,38fbce7bdc64d821,﻿Imports Devart.Data.PostgreSql,,0,2,0,20,0
+Alfa Solution/Alfa.Project/Module/Import Data/FWorkOrderImport.designer.vb,218,d56357cff893eab5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Import Data/FWorkOrderImport.resx,129,cb1527b4b6c6ae68,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Import Data/FWorkOrderImport.vb,619,57c91829007616e6,﻿Imports Devart.Data.PostgreSql,,0,0,0,20,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Printout/XRWOIssuePrint.designer.vb,903,c75c68a4b4278fac,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Printout/XRWOIssuePrint.resx,588,974e4aea99197331,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Printout/XRWOIssuePrint.vb,131,959dea01841110a9,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Printout/ds_wo_issue.Designer.vb,2843,9fbfc3c7ab79da16,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Product Structure/FProductStructure.designer.vb,843,961aa02b0c6a63fd,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Product Structure/FProductStructure.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Product Structure/FProductStructure.vb,1363,e905dd622431940e,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,22,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Product Structure/FSimulatedPickListGroup.designer.vb,295,5114bc6b354db457,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Product Structure/FSimulatedPickListGroup.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Product Structure/FSimulatedPickListGroup.vb,340,e12b1adcfe7bb88d,﻿Imports master_new.PGSqlConn,End Class,0,0,0,2,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/XRWOReceiptPrintLotSerial.designer.vb,1113,612e689b4be1faf7,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/XRWOReceiptPrintLotSerial.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/XRWOReceiptPrintLotSerial.vb,119,f392592216cb2c5d,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/XRWOReceiptPrintNon.designer.vb,820,079183023c9cd314,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/XRWOReceiptPrintNon.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/XRWOReceiptPrintNon.vb,118,9ff6343e394a854f,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/ds_wo_release.Designer.vb,2803,1739d70fce2a30e5,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/ds_wo_release.vb,2,f42c7c5f66e8bbe6,﻿Partial Class ds_wo_release,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/rptRouting.designer.vb,281,0e4c1c56a53ba7d3,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/rptRouting.resx,151,ab76f44e53e4f6e9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/rptRouting.vb,10,27e105a4b7e8484c,Public Class rptRouting,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/rptWOPickList.designer.vb,1009,ec70b2e240080f6e,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/rptWOPickList.resx,135,6c563240c6937ee8,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/rptWOPickList.vb,164,9082da2d72d8caf7,Imports Devart.Data.PostgreSql,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/rptWOPickList2.designer.vb,887,f428b47f4bd52adf,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/rptWOPickList2.resx,135,6c563240c6937ee8,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/rptWOPickList2.vb,105,31f22f192dc528fb,Imports master_new.ModFunction,End Class,0,0,0,2,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWOCompIssueReturnReport.designer.vb,352,aee025308f5129fd,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWOCompIssueReturnReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWOCompIssueReturnReport.vb,397,8137eb23f3932f46,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderIssueReport.designer.vb,366,3c4b7a795889f305,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderIssueReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderIssueReport.vb,396,e6ee4c88178c31c8,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderReceiptReport.designer.vb,559,89fccf7c0badde20,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderReceiptReport.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderReceiptReport.vb,1067,fb1445c2bd586f91,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderReport.Designer.vb,447,2d791b4c527f1ee8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderReport.vb,675,27ad5da5ce4d3a69,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOBillMaintenance.designer.vb,842,c362ef2eaf44d69d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOBillMaintenance.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOBillMaintenance.vb,545,134b67ef75ad0a84,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,7,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOItemSubtitute.designer.vb,859,9747807cd536b457,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOItemSubtitute.resx,129,f4a1f5efea31259f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOItemSubtitute.vb,459,9df54c6aa47a6ed0,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,11,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOReceipt.designer.vb,1773,3479d4c749ca3258,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOReceipt.resx,129,f4a1f5efea31259f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOReceipt.vb,4459,95a0c8e82f4c472d,﻿Imports Devart.Data.PostgreSql,End Class,0,14,3,59,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOReceiptWithGrade.designer.vb,2153,121ce861b2c6262e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOReceiptWithGrade.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOReceiptWithGrade.vb,4715,5b3a3d7d2c53f9f8,﻿Imports Devart.Data.PostgreSql,End Class,0,14,3,58,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWORelease.designer.vb,809,cd76ba075dde96a5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWORelease.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWORelease.vb,654,cbb38effaf2e9ae6,﻿Imports master_new.PGSqlConn,End Class,0,0,0,3,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWORouteMaintenance.designer.vb,890,63f4cf6550033308,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWORouteMaintenance.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWORouteMaintenance.vb,682,8f57cf738dfd7ac9,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,8,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOTypeMaster.Designer.vb,135,f1d3b3c88b804c8d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOTypeMaster.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOTypeMaster.vb,286,6011bc9a21d60c27,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,6,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrder.designer.vb,1518,4e909da4429b01e9,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrder.resx,129,f4a1f5efea31259f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrder.vb,2395,b5c4dfac3b47289e,﻿Imports Devart.Data.PostgreSql,End Class,0,0,6,49,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrderIssue.designer.vb,1574,86a61c183647e8f1,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrderIssue.resx,246,39eade572994c544,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrderIssue.vb,1952,8cd00b9b84958f4c,﻿Imports master_new.PGSqlConn,End Class,0,0,2,34,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrderIssueReturn.designer.vb,1584,21ebadf0e42cbcea,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrderIssueReturn.resx,246,39eade572994c544,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrderIssueReturn.vb,2030,8c2aebfa943f20cb,﻿Imports master_new.PGSqlConn,End Class,0,0,2,36,0
+Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FCustomer.designer.vb,1842,51d1da7f5caddb0e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FCustomer.resx,132,50f5f03414585a0e,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FCustomer.vb,2153,cd1364e22dd3fa5a,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,25,0
+Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FSalesPerson.designer.vb,604,b3659ee3a1770d27,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FSalesPerson.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FSalesPerson.vb,524,abb03f381dfd4974,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,14,0
+Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FSegmentCustomer.designer.vb,105,9ce3cfff974acbfa,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FSegmentCustomer.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FSegmentCustomer.vb,21,d0f262e24ed42f02,﻿Public Class FSegmentCustomer,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Master Data/Company/FCodeSetting.designer.vb,731,80db0da43b6befa9,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Master Data/Company/FCodeSetting.resx,126,bebf819a92130eed,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Master Data/Company/FCodeSetting.vb,551,b385e1beccd3221e,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,15,0
+Alfa Solution/Alfa.Project/Module/Master Data/Company/FHelpUpdate.designer.vb,131,409b4f42d3ab0967,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Master Data/Company/FHelpUpdate.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Master Data/Company/FHelpUpdate.vb,76,e9b51f5379294cfc,﻿Imports master_new.PGSqlConn,End Class,0,0,0,5,0
+Alfa Solution/Alfa.Project/Module/Master Data/Item Sites/FPNClass.Designer.vb,148,5851324a7c267336,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Master Data/Item Sites/FPNClass.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Master Data/Item Sites/FPNClass.vb,56,4cb070df0e58d048,﻿Public Class FPNClass,End Class,0,0,0,2,0
+Alfa Solution/Alfa.Project/Module/Master Data/Item Sites/FPartNumberGroup.designer.vb,503,06317b6929d08be9,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Master Data/Item Sites/FPartNumberGroup.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Master Data/Item Sites/FPartNumberGroup.vb,335,520d8c1f6aca2634,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmpRule.designer.vb,457,ef1c05c9e20cd7c4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmpRule.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmpRule.vb,396,d6fea9da71da4200,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,12,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmployee.designer.vb,897,0f9807def0ff780d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmployee.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmployee.vb,909,c36388a026ed3cd0,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,21,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmployeeReport.designer.vb,271,eb7f90d812c0855a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmployeeReport.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmployeeReport.vb,255,f5efc3e34a05d36f,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExchangeRate.designer.vb,635,666a178efadfd853,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExchangeRate.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExchangeRate.vb,445,8582dd5f0a9371a3,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,17,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRule.designer.vb,1054,156fdf0b1a936558,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRule.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRule.vb,1204,389f3055522a3be3,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,24,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleCG.designer.vb,1098,129cadf880c7eb9c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleCG.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleCG.vb,1231,bf44977bcfee9ab8,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,24,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleCGImport.designer.vb,219,191012787112a128,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleCGImport.resx,129,86b0d583c00fc960,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleCGImport.vb,533,f24d04faf6db641d,﻿Imports Devart.Data.PostgreSql,,0,0,0,16,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleReport.Designer.vb,101,de99486657f60029,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleReport.vb,123,7ed40a1e53f0ccfc,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleReportCG.Designer.vb,101,471a7deedbf048d5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleReportCG.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleReportCG.vb,120,e2a31434b578660d,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternal.designer.vb,1164,1b7005eae03b5f5d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternal.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternal.vb,1681,13b0f2114ce25523,﻿Imports Devart.Data.PostgreSql,End Class,0,0,5,25,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalCG.designer.vb,1205,224ced14a76a4fd8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalCG.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalCG.vb,3277,15d45d43ef9864c8,﻿Imports Devart.Data.PostgreSql,End Class,0,0,5,28,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalCG2.designer.vb,945,cbd40b674aa5fc52,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalCG2.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalCG2.vb,1782,152715229e851bfc,﻿Imports Devart.Data.PostgreSql,End Class,0,0,5,32,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalReport.designer.vb,271,878d41b6c5a85236,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalReport.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalReport.vb,326,1a68a2557dd7874b,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalReportCG.designer.vb,271,2684395018aa5944,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalReportCG.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalReportCG.vb,331,fcb77a27994a03f1,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComInternalRule.designer.vb,398,03eb5d0a3c5800c1,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComInternalRule.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComInternalRule.vb,373,02cc74581fae8dce,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,12,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCList.designer.vb,779,42fb5d6efb3dd8e8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCList.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCList.vb,1026,b822e67850a083bd,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,27,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListCG.designer.vb,861,9e7f7a0d69c66d2f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListCG.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListCG.vb,1070,079cce435a39be22,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,27,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListCG2020.designer.vb,861,da24d36262766cca,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListCG2020.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListCG2020.vb,1097,8d5a960ad035233e,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,28,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListPayment.designer.vb,398,7ba409c2efdaaa4e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListPayment.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListPayment.vb,387,4d15b351ca38eee4,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListPaymentCG.designer.vb,470,787ebf7bb4b0e495,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListPaymentCG.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListPaymentCG.vb,414,a299ac9058cb7e34,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCRule.designer.vb,531,dca5fe53cbf3ed51,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCRule.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCRule.vb,434,b794d2babef85cc3,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,13,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomer.designer.vb,811,856b286bc585d591,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomer.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomer.vb,850,64840c219845fcd1,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,16,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerCG.designer.vb,812,6971f6514919fdf2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerCG.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerCG.vb,874,443eff6a34c45385,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,16,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenalty.designer.vb,811,5f66101755853776,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenalty.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenalty.vb,822,f66f0e2571f706bb,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,16,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenaltyCG.designer.vb,812,5b2a8fec80f3cd6a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenaltyCG.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenaltyCG.vb,844,959e1e415a993319,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,16,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenaltyReport.designer.vb,271,352dd0e8829b7984,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenaltyReport.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenaltyReport.vb,253,458b8a1488878702,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenaltyReportCG.designer.vb,271,c24c47fb416eb510,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenaltyReportCG.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenaltyReportCG.vb,263,decf799ba6b36b0a,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerReport.designer.vb,271,0404c1162720a8db,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerReport.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerReport.vb,256,6cf5f296bba75d28,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerReportCG.designer.vb,271,1f6d323a4d50c065,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerReportCG.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerReportCG.vb,262,3ebdd361050e8819,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComPartNumberSearch.Designer.vb,157,1226818c2b49631d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComPartNumberSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComPartNumberSearch.vb,111,4eab0c7c65edc288,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComsInternal.designer.vb,1088,936e29965f6ee3a2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComsInternal.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComsInternal.vb,1417,1f3f4a08f5d59da4,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,25,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComsInternalReport.designer.vb,271,9cd8aea98104576e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComsInternalReport.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComsInternalReport.vb,285,8494740c76ab5e82,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComsPayType.designer.vb,67,eda2391dff81d442,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComsPayType.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComsPayType.vb,25,47acdd6ce8abbffc,﻿Public Class FComsPayType,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomer.designer.vb,811,dd5d3aa410b74b61,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomer.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomer.vb,1174,67098c92d764a95d,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,17,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomerReport.designer.vb,233,3677349d4bd0ea1a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomerReport.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomerReport.vb,192,d484ffc68610fb3c,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomerRule.designer.vb,1055,0a2482ea11336f04,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomerRule.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomerRule.vb,1216,306db542c0842285,﻿Imports DevExpress.XtraExport,,0,0,4,26,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplier.designer.vb,824,16d760f37168c867,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplier.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplier.vb,1144,033ebc2d331e947e,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,17,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplierReport.designer.vb,233,cf1c3a5d3fbc9844,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplierReport.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplierReport.vb,196,bc93125b036be0b1,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplierRule.designer.vb,969,ead4331132a29bf3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplierRule.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplierRule.vb,1069,be87fc80d0cfd944,﻿Imports DevExpress.XtraExport,,0,0,4,25,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FSalesPersonExternal.designer.vb,476,03d3307be2547f60,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FSalesPersonExternal.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FSalesPersonExternal.vb,410,c84050698de6876f,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,13,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/DS_DeliveryScale.Designer.vb,1351,2abcc4ae929ec833,﻿'------------------------------------------------------------------------------,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScale.designer.vb,977,bd9a47cf48ca4b08,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScale.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScale.vb,1287,c352f81fd13cadc3,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,27,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScaleComparison.Designer.vb,431,4eae74daffa16748,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScaleComparison.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScaleComparison.vb,400,39acad87b3bf3e45,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScaleReleasePrint.designer.vb,79,5c360b8704a3d4f5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScaleReleasePrint.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScaleReleasePrint.vb,74,e9a575b3c0d24966,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,6,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScaleReport.Designer.vb,195,36efe44a3f63ff0a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScaleReport.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScaleReport.vb,143,1f9810ffdbcbe67d,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/XRDeliveryScalePrint.designer.vb,721,7f8a36a741447692,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/XRDeliveryScalePrint.resx,525,5101b91cd17fc164,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/XRDeliveryScalePrint.vb,108,2a4a0dc9b964308d,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecasReporttAlfa.designer.vb,422,9225cbed57cdbc1d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecasReporttAlfa.resx,126,9948247e243420c6,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecasReporttAlfa.vb,365,6ab5a4aa45bc8d87,﻿Imports master_new.ModFunction,End Class,0,0,0,2,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecastAlfa.designer.vb,867,f90fb10776f1cca8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecastAlfa.resx,132,ed706e6023ee3fd5,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecastAlfa.vb,1275,c8fae513bfa4ba57,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,29,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecastPeriode.designer.vb,435,d748a79841cb18a2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecastPeriode.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecastPeriode.vb,343,d3ad1dd43eebdfce,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,9,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FItemGroupFC.Designer.vb,466,b721f8ed787a2784,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FItemGroupFC.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FItemGroupFC.vb,350,7d810d748506f766,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FItemGroupFCImport.designer.vb,218,53e441e72c1df21e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FItemGroupFCImport.resx,129,86b0d583c00fc960,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FItemGroupFCImport.vb,246,788cb7af4f3984c6,﻿Imports Devart.Data.PostgreSql,,0,0,0,4,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FPartNumberGroupFC.designer.vb,399,aace0c17f8658041,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FPartNumberGroupFC.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FPartNumberGroupFC.vb,155,5723268a8e7f7076,﻿Imports Devart.Data.PostgreSql,,0,0,0,4,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSO.designer.vb,855,0aafecae38db3c41,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSO.resx,573,5fda09c84c9dd626,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSO.vb,111,f21431021a315b85,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOGift.designer.vb,957,3f964a64d797c458,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOGift.resx,594,e1e920b9b6621ebd,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOGift.vb,108,55f88389ea42d525,Imports Devart.Data.PostgreSql,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOGiftCost.designer.vb,1023,fbf8f5040cdee93e,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOGiftCost.resx,606,80a03304499b1e78,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOGiftCost.vb,108,c7590ce560736690,Imports Devart.Data.PostgreSql,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOGift_LOT.designer.vb,1002,2f120961748dd88e,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOGift_LOT.resx,609,3b4cc7bcd20b0a51,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOGift_LOT.vb,107,a994b1ab83431c24,Imports Devart.Data.PostgreSql,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOPrice.designer.vb,1136,dbca130b5b2c4963,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOPrice.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOPrice.vb,110,06bf25021ae5d2ed,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSO_LOT.designer.vb,879,8d4387058673a272,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSO_LOT.resx,585,2a2fe8ad90363931,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSO_LOT.vb,111,7657c283a1b50dbe,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.designer.vb,1004,d5b0ae4cbf126520,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.vb,108,1199ca89d2377715,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint_LOT.designer.vb,1037,cb1bceb04ef55e8b,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint_LOT.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint_LOT.vb,108,68dc8791415a4b83,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/ds_so.Designer.vb,2517,44859d43d4711421,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/ds_so.vb,12,b522553746c879e4,﻿Partial Class ds_so,End Namespace,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Report/FSalesOrderShipmentReport_custom_api.designer.vb,206,4eab7798025c722f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Report/FSalesOrderShipmentReport_custom_api.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Report/FSalesOrderShipmentReport_custom_api.vb,297,e7e349dbda2e5c0b,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Report/FSalesOrderShipmentReturnCOGSReport_Alfa.designer.vb,560,cb46e6c4709cd992,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Report/FSalesOrderShipmentReturnCOGSReport_Alfa.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Report/FSalesOrderShipmentReturnCOGSReport_Alfa.vb,626,617452f1783dc2cd,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,11,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Report/FSalesOrderShipmentReturnCommissionReport_Alfa.designer.vb,216,87c4eafd2e968980,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Report/FSalesOrderShipmentReturnCommissionReport_Alfa.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Report/FSalesOrderShipmentReturnCommissionReport_Alfa.vb,173,aa24ebfe14607188,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FFinCSDShareData.designer.vb,869,4010be0650f8690e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FFinCSDShareData.resx,132,9f5ec3d5d62a83b1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FFinCSDShareData.vb,1465,9427d63593f4c752,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,34,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrder.designer.vb,2227,75b3cbd40103090f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrder.resx,135,241c8fb61eb4e2a3,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrder.vb,8840,a3ec4bea9e79592d,﻿Imports Devart.Data.PostgreSql,,13,12,7,137,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrderGift.Designer.vb,1369,5a8bd613918e0661,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrderGift.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrderGift.vb,5250,9123406fc7ae46c9,﻿Imports Devart.Data.PostgreSql,End Class,13,9,5,90,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrderShipment.designer.vb,1585,189a00a81787377a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrderShipment.resx,135,2e6ea8baba05aef9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrderShipment.vb,4669,2cf38d7c4d198c9b,﻿Imports master_new.PGSqlConn,End Class,0,14,4,72,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FUpdateSO.designer.vb,103,f47694ac80efd8aa,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FUpdateSO.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FUpdateSO.vb,79,0b852fb723ec476f,﻿Imports master_new.PGSqlConn,End Class,0,0,1,5,0
+Alfa Solution/Alfa.Project/Module/Smart Report/FCashInSmartReport.designer.vb,1043,76b6d79ebd989970,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Smart Report/FCashInSmartReport.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Smart Report/FCashInSmartReport.vb,2579,68bfc918b3557a21,﻿Imports DevExpress.XtraCharts,,0,0,0,11,0
+Alfa Solution/Alfa.Project/Module/Smart Report/FSalesSmartReport_API.designer.vb,1146,53fbd22daae1d9ae,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Smart Report/FSalesSmartReport_API.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/Smart Report/FSalesSmartReport_API.vb,2305,2b7f60b84c1c62dd,﻿Imports DevExpress.XtraCharts,,0,0,0,11,0
+Alfa Solution/Alfa.Project/Module/___Function Helper/Cls_Bilangan.vb,340,454cda98f8a2eee0,﻿Public Class Cls_Bilangan,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/Module/___Function Helper/ModFunctionSpecial.vb,1695,ddb6b36c645ae9d5,﻿Imports master_new.ModFunction,End Module,0,2,0,2,0
+Alfa Solution/Alfa.Project/Module/___Function Helper/function_collection.vb,10375,3c9e46f187bc511c,﻿Imports System.Net.Mail,,3,73,0,263,0
+Alfa Solution/Alfa.Project/Module/___Function Helper/function_data.vb,6035,cbc6b5e2cd81d7d5,﻿Imports master_new.ModFunction,End Class,0,0,0,240,0
+Alfa Solution/Alfa.Project/My Project/Application.Designer.vb,13,02f379d5724be98e,﻿'------------------------------------------------------------------------------,,0,0,0,0,0
+Alfa Solution/Alfa.Project/My Project/AssemblyInfo.vb,35,57e75595d0a881c9,﻿Imports System,"<Assembly: AssemblyFileVersion(""1.0.0.0"")>",0,0,0,0,0
+Alfa Solution/Alfa.Project/My Project/Resources.Designer.vb,63,ea8b56befa82024f,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Alfa Solution/Alfa.Project/My Project/Resources.resx,127,2cd041a031a7b528,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/My Project/Settings.Designer.vb,171,ba5764a03d6bc9d2,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FAccountSearch.Designer.vb,122,ada1ee880cfab68e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FAccountSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FAccountSearch.vb,495,a1dff99e5d50ff67,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FAddressTypeSearch.Designer.vb,86,255e6e5d06b69804,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FAddressTypeSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FAddressTypeSearch.vb,59,19e24d9622c66706,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FBranchSearch.Designer.vb,154,d78235b2bae731b2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FBranchSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FBranchSearch.vb,91,a762e43c1382c80a,﻿Public Class FBranchSearch,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FCodeSearch.designer.vb,122,75ed6a7a624cbc64,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FCodeSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FCodeSearch.vb,146,4cc73032fe194a5d,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FComCurrencySearch.designer.vb,123,af5f16eb7c02dfd0,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FComCurrencySearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FComCurrencySearch.vb,78,8f9609f4e6837218,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FCostCenterSearch.Designer.vb,156,2481db428c41e261,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FCostCenterSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FCostCenterSearch.vb,117,702b2b3269ac521f,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FCustomerGroupSearch.Designer.vb,86,6cf25313b8914f0c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FCustomerGroupSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FCustomerGroupSearch.vb,70,3d31e958219776fc,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FDeliverySearch.Designer.vb,192,43e990386e01a9d2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FDeliverySearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FDeliverySearch.vb,111,e977fe666e083bd9,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FEntitySearch.Designer.vb,122,ea41fa8b98b07cd8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FEntitySearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FEntitySearch.vb,93,76e6434a7ac339cb,﻿Public Class FEntitySearch,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FFakturPajakSearch.Designer.vb,188,e0e2a8cfd02fed7c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FFakturPajakSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FFakturPajakSearch.vb,203,f3c41d1102a9721f,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FFinCSDSearch.designer.vb,164,f6cf5b9114e8661c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FFinCSDSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FFinCSDSearch.vb,101,de3a59fe7c3b55e7,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FFunctionCPSearch.Designer.vb,86,3c7b7b7573a88d6f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FFunctionCPSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FFunctionCPSearch.vb,59,ff9d5ca47e4ee126,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FInstitutionSearch.Designer.vb,165,8d12f90346394370,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FInstitutionSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FInstitutionSearch.vb,74,4a317e41ab328941,﻿Public Class FInstitutionSearch,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FInventoryRequestSearch.Designer.vb,192,ea577585f13fb128,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FInventoryRequestSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FInventoryRequestSearch.vb,558,58a78ec6f990978a,﻿Imports master_new.ModFunction,End Class,0,0,0,4,0
+Alfa Solution/Alfa.Project/__Browse References/FInvoiceSearch.designer.vb,214,707fbb59e82a3b7a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FInvoiceSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FInvoiceSearch.vb,280,2fd4cd5aafe130d1,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FItemSubsSearch.designer.vb,154,7cf7ca6c074cd980,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FItemSubsSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FItemSubsSearch.vb,84,76b92b72fe575c72,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FListARInvoiceSearch.designer.vb,91,d58cc9ad19754700,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FListARInvoiceSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FListARInvoiceSearch.vb,58,c66b2e9efa3900d2,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FLocationSearch.Designer.vb,122,17cdd0aab4c8075a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FLocationSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FLocationSearch.vb,753,0c5af79e7efb3fd0,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FLotSerialSearch.designer.vb,136,de8082f4548ec88c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FLotSerialSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FLotSerialSearch.vb,149,882403e9f326621e,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPOCustomerSearch.designer.vb,188,49fa3c94d7e74953,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPOCustomerSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPOCustomerSearch.vb,364,7edfc2a241883bea,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPPNTypeSearch.Designer.vb,94,1582fbd6b99e1126,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPPNTypeSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPPNTypeSearch.vb,50,afa39eae25a27662,﻿Public Class FPPNTypeSearch,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPTBOMSrch.Designer.vb,126,3431452eccdfcd0f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPTBOMSrch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPTBOMSrch.vb,213,c773356c68a48af4,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPackagingSearch.designer.vb,122,c056b4b092903f71,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPackagingSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPackagingSearch.vb,126,2620c8b0af55be8c,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPartNumberSearch.Designer.vb,123,88c35df9e2fa7966,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPartNumberSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPartNumberSearch.vb,2555,1c446b601b99a6dd,﻿Imports master_new.ModFunction,End Class,0,0,0,2,0
+Alfa Solution/Alfa.Project/__Browse References/FPartnerSearch.Designer.vb,166,9a1c8d3eeba8c039,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPartnerSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPartnerSearch.vb,478,4e9589a2e73ec629,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/__Browse References/FProdStrucSearch.designer.vb,154,4f8dc88aaf7a5bd8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FProdStrucSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FProdStrucSearch.vb,277,52dd6e94b71ab057,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FProjectAccountSearch.Designer.vb,156,7121773863d97ac2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FProjectAccountSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FProjectAccountSearch.vb,237,e3ad3d882bc69ad9,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPurchaseOrderSearch.designer.vb,187,5af563410f52cc47,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPurchaseOrderSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPurchaseOrderSearch.vb,1040,d712c97ccfce51e5,﻿Imports master_new.ModFunction,End Class,0,0,0,5,0
+Alfa Solution/Alfa.Project/__Browse References/FPurchaseReceiptScaleSearch.Designer.vb,192,b790d8e010ef603a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPurchaseReceiptScaleSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPurchaseReceiptScaleSearch.vb,74,91fc9da6cfcb2be4,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPurchaseReceiptSearch.Designer.vb,192,2f74308e70b0ddd9,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPurchaseReceiptSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FPurchaseReceiptSearch.vb,118,bfca18242b59f52e,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FQuotationSearch.Designer.vb,125,8247910b87e1ec9a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FQuotationSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FQuotationSearch.vb,304,b3a0f5dc6618a8cb,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/__Browse References/FReasonCodeReturnSearch.Designer.vb,155,455b40729e8619a5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FReasonCodeReturnSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FReasonCodeReturnSearch.vb,66,374da6583f6d34fd,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FRequisitionSearch.Designer.vb,228,e62f7c5bfd254da8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FRequisitionSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FRequisitionSearch.vb,772,bee4667c344260a6,﻿Imports master_new.ModFunction,,0,0,0,2,0
+Alfa Solution/Alfa.Project/__Browse References/FRoutingSearch.designer.vb,122,58549f9584926874,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FRoutingSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FRoutingSearch.vb,60,e8d0adb64b593abf,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FSOGiftRequestSearch.designer.vb,192,f5b2a93982b89c73,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FSOGiftRequestSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FSOGiftRequestSearch.vb,255,e872e07881f2c487,﻿Imports master_new.ModFunction,End Class,0,0,0,2,0
+Alfa Solution/Alfa.Project/__Browse References/FSalesOrderDetailSearch.designer.vb,204,08a0e37354a7f4e6,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FSalesOrderDetailSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FSalesOrderDetailSearch.vb,143,666316522d6f65b2,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FSalesOrderRecapSearch.designer.vb,192,bb2250c25eb7f530,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FSalesOrderRecapSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FSalesOrderRecapSearch.vb,418,68aa7ac74cc375e0,﻿Imports master_new.ModFunction,End Class,0,0,0,3,0
+Alfa Solution/Alfa.Project/__Browse References/FSalesOrderSearch.Designer.vb,204,28e0b02190a6aad3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FSalesOrderSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FSalesOrderSearch.vb,2255,a7b51342be311312,﻿Imports master_new.ModFunction,End Class,0,0,0,11,0
+Alfa Solution/Alfa.Project/__Browse References/FSalesOrderShipmentSearch.Designer.vb,192,9a600ba33eec8446,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FSalesOrderShipmentSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FSalesOrderShipmentSearch.vb,156,3e0471033dc5bf02,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FSalesPersonSearch.designer.vb,87,413b22676b413692,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FSalesPersonSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FSalesPersonSearch.vb,72,86124913497305c4,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FTaxClassSearch.Designer.vb,157,d7f25f97a39feb57,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FTaxClassSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FTaxClassSearch.vb,93,7b807599220d83c6,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FTaxInvoiceNumberSearch.designer.vb,88,32e94e0148c68f81,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FTaxInvoiceNumberSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FTaxInvoiceNumberSearch.vb,77,de1e364bc63c7928,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FUMSearch.Designer.vb,156,fec90f99872df376,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FUMSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FUMSearch.vb,217,f4a97d77b260acb5,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/__Browse References/FWCSearch.designer.vb,122,c7a57c233591e408,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FWCSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FWCSearch.vb,93,00a255b52974df32,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FWOMaterialRequestSearch.designer.vb,188,5a54def658358964,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FWOMaterialRequestSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FWOMaterialRequestSearch.vb,373,4d03be63f18dc257,﻿Imports master_new.ModFunction,End Class,0,0,0,5,0
+Alfa Solution/Alfa.Project/__Browse References/FWOSearch.designer.vb,188,8f49d172e5340d68,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FWOSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__Browse References/FWOSearch.vb,833,644714820ee51cfa,﻿Imports master_new.ModFunction,End Class,0,0,0,8,0
+Alfa Solution/Alfa.Project/__General Form/CustomDesignForm.resx,632,d13f29c53c9caaf6,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__General Form/CustomDesignForm.vb,1229,0919ed3c6c2e39a5,Public Class CustomDesignForm,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__General Form/FCodeMstr.Designer.vb,628,3d59b6e9540b0268,﻿,,0,0,0,0,0
+Alfa Solution/Alfa.Project/__General Form/FCodeMstr.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__General Form/FCodeMstr.vb,359,0e6066b46022d1a5,﻿,End Class,0,0,0,8,0
+Alfa Solution/Alfa.Project/__General Form/FCodeMstr0.designer.vb,421,326cfa2fea856d48,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__General Form/FCodeMstr0.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__General Form/FCodeMstr0.vb,322,1cd84b768c8a5db5,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+Alfa Solution/Alfa.Project/__General Form/FCodeMstr1.designer.vb,462,840f928b3e0683dc,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__General Form/FCodeMstr1.resx,126,bebf819a92130eed,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__General Form/FCodeMstr1.vb,333,ab35bb603197295f,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+Alfa Solution/Alfa.Project/__General Form/FProgress.Designer.vb,54,de669af26b58bc2a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__General Form/FProgress.resx,120,f601cd30780a3718,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__General Form/FProgress.vb,16,dc3631c1f0d5fa98,﻿Public Class FProgress,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__General Form/frmExport.Designer.vb,61,3de3c9e2a13c8b40,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__General Form/frmExport.resx,120,f601cd30780a3718,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__General Form/frmExport.vb,3,45f406382ddae28b,﻿Public Class frmExport,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__General Form/frmPrintDialog.Designer.vb,170,edbb8f5cf1ee5234,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__General Form/frmPrintDialog.resx,440,caabe7620bd14448,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__General Form/frmPrintDialog.vb,194,fd7b786458a074f0,Imports master_new.PGSqlConn,End Class,0,0,0,1,0
+Alfa Solution/Alfa.Project/__General Form/frmPrintDialogReport.Designer.vb,1406,1b742cfa219c53b4,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alfa Solution/Alfa.Project/__General Form/frmPrintDialogReport.resx,446,0bde7817e885efc1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alfa Solution/Alfa.Project/__General Form/frmPrintDialogReport.vb,48,150408c4f7e7463c,Imports master_new.PGSqlConn,End Class,0,0,1,0,0
+Alfa Solution/Alfa.Project/app.config,52,f9813d4f10c9da95,"<?xml version=""1.0""?>","<startup><supportedRuntime version=""v4.0"" sku="".NETFramework,Version=v4.6""/></startup></configuration>",0,0,0,0,0
