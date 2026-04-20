@@ -59,6 +59,10 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 - Sync script: `/opt/nexa-rag/scripts/sync_and_ingest.sh`
 - Source folder-id (Google Drive): `1uQ0CRAAsQdEEg2BUwJWvMRpHGnkCM4P2`
 - Log file: `/opt/nexa-rag/logs/sync_and_ingest.log`
+- Segregasi knowledge SIVENSYS (owner request 2026-04-20):
+  - Desktop v2019: `/opt/nexa-rag/knowledge/sivensys-desktop-v2019`
+  - Blazor/web: `/opt/nexa-rag/knowledge/sivensys-blazor`
+  - Prinsip: pisahkan sumber per platform agar jawaban tidak tercampur.
 
 ## Koordinator Maslam (owner update, permanent 2026-04-07)
 
