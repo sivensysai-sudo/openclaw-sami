@@ -1,0 +1,408 @@
+file,lines,sha16,first_line,last_line,hit_wf_mstr,hit_glt_det,hit_insert_log,hit_MessageBox.Show,hit_TODO
+Alkindo Solution/AlkindoPT.Project/Module/Distribution/Transaction/FInventorySlitting_new_WIP2.designer.vb,2161,639002a41b44c1c5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Distribution/Transaction/FInventorySlitting_new_WIP2.resx,132,cf07601346e896aa,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Distribution/Transaction/FInventorySlitting_new_WIP2.vb,4711,c32d7ba46f1bdf1d,﻿Imports Devart.Data.PostgreSql,End Class,0,8,2,91,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRGatepassSub.designer.vb,324,86d08391bdc3d110,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRGatepassSub.resx,219,2a21f7424d73dfdf,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRGatepassSub.vb,8,f101db7ccd963b92,Imports DevExpress.XtraPrinting,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRInventorySlitting.designer.vb,952,23f39e3838eac29c,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRInventorySlitting.resx,585,d90612c47c5ae4d2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRInventorySlitting.vb,108,dc5ce6b5a1ccf545,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRInventorySlitting_LOT.designer.vb,970,a2b36e6f115b6a79,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRInventorySlitting_LOT.resx,591,a569326ab48852a9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRInventorySlitting_LOT.vb,108,5083b50f1005650b,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelHCPB.designer.vb,88,6c6cc3481c7074bf,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelHCPB.resx,144,b4e7c7c0cdc9112e,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelHCPB.vb,63,b8348e749ae6cae6,Imports DevExpress.XtraPrinting,End Class,0,0,1,2,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelHCPBGSub.designer.vb,492,da8fa7ca0c1ef03c,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelHCPBGSub.resx,255,63c7ed228424cecd,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelHCPBGSub.vb,71,8c6ddf84bf52881a,Imports DevExpress.XtraPrinting,End Class,0,0,1,2,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelHCPBSub.designer.vb,824,617100f250843e8f,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelHCPBSub.resx,354,7182911ac2a84079,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelHCPBSub.vb,69,28a3da7a3c6d8d94,Imports DevExpress.XtraPrinting,End Class,0,0,1,2,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPC.designer.vb,88,6855a5541c46a300,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPC.resx,144,b4e7c7c0cdc9112e,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPC.vb,64,4474c3f7f16312f8,Imports DevExpress.XtraPrinting,End Class,0,0,1,2,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPCSub.designer.vb,1031,e447ec6c18380d2a,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPCSub.resx,387,27cdabaa07d5147f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPCSub.vb,106,fae22ade8547c9ab,Imports DevExpress.XtraPrinting,End Class,0,0,1,2,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPT.designer.vb,90,061be9ff7c84db2e,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPT.resx,144,2b5e80e4cd0bc487,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPT.vb,64,26f38424927e80db,Imports DevExpress.XtraPrinting,End Class,0,0,1,2,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPTSub.designer.vb,743,dd44eb621c91c912,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPTSub.resx,321,424fb886915dbd47,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPTSub.vb,91,a5b9becb3cc92251,Imports DevExpress.XtraPrinting,End Class,0,0,1,2,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelRodaPT.designer.vb,88,2d39238cb9fcf010,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelRodaPT.resx,144,23e594eea971139d,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelRodaPT.vb,63,21da3bce8112b346,Imports DevExpress.XtraPrinting,End Class,0,0,1,2,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelRodaPTSub.designer.vb,556,9263a2ac55c8808b,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelRodaPTSub.resx,270,6cbde5715d162988,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelRodaPTSub.vb,115,050511928d264a66,Imports DevExpress.XtraPrinting,End Class,0,0,1,3,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelRodaPTSub2.designer.vb,192,4cd2011b649665dd,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelRodaPTSub2.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelRodaPTSub2.vb,8,5ff27c5ea2a1251c,Imports DevExpress.XtraPrinting,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelSerahTerimaPT.designer.vb,1124,23b1fdb4e4accb39,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelSerahTerimaPT.resx,432,0d7d86567871da13,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelSerahTerimaPT.vb,35,5e1ffa474112975d,Imports DevExpress.XtraPrinting,End Class,0,0,0,2,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelWOPT.designer.vb,813,1673e4d3f1e9c979,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelWOPT.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelWOPT.vb,13,9f15c680cb2a5f70,Imports DevExpress.XtraPrinting,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPSSub.designer.vb,413,fd2c8922444dc62b,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPSSub.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPSSub.vb,7,57e8257d072a6a95,Imports DevExpress.XtraPrinting,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPalletID.designer.vb,103,e706fc7ee9f5f437,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPalletID.resx,123,e414e562022959ce,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPalletID.vb,10,7b84548ef8e05c23,Imports DevExpress.XtraPrinting,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPalletIDSub.designer.vb,354,584022c59dd114bd,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPalletIDSub.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPalletIDSub.vb,12,63f3657f15e8b42e,Imports DevExpress.XtraPrinting,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPalletIDSubNew.designer.vb,354,2e84f0b49522f703,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPalletIDSubNew.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPalletIDSubNew.vb,13,3dc716b52bd8b54e,Imports DevExpress.XtraPrinting,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcode.designer.vb,340,d78bb49f6c057424,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcode.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcode.vb,31,48fb9e005ad4f98a,Imports DevExpress.XtraPrinting,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcodeDouble.designer.vb,416,79b7acc74d31961b,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcodeDouble.resx,204,dac722d9920d6a4f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcodeDouble.vb,89,0de5e574a3324e5b,Imports DevExpress.XtraPrinting,End Class,0,0,1,2,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcodeDoubleColor.designer.vb,463,82dd2d8277d30ce7,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcodeDoubleColor.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcodeDoubleColor.vb,89,429fc9f1b6831880,Imports DevExpress.XtraPrinting,End Class,0,0,1,2,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcodeSingle.designer.vb,1891,ad266a496d2cdc67,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcodeSingle.resx,483,28a72c74a37b92e9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcodeSingle.vb,153,8697e0eaea09ce17,Imports DevExpress.XtraPrinting,End Class,0,0,2,2,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintQRCode.designer.vb,247,d26c07800a4286da,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintQRCode.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintQRCode.vb,28,390ec46da3caa353,Imports DevExpress.XtraPrinting,End Class,0,0,0,1,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintQRCode_WO.designer.vb,230,78e18de54204b3b7,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintQRCode_WO.resx,174,3553b0ed5722e44f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintQRCode_WO.vb,29,fee534032a1708a3,Imports DevExpress.XtraPrinting,End Class,0,0,0,1,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintQRCode_new.designer.vb,275,57de8d8213d52d83,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintQRCode_new.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintQRCode_new.vb,28,0d45a061b7089774,Imports DevExpress.XtraPrinting,End Class,0,0,0,1,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRRoutingSub.designer.vb,318,519c0ee00efe0339,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRRoutingSub.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRRoutingSub.vb,7,42a75db8d3c6c6a2,Imports DevExpress.XtraPrinting,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRWOListPrint.designer.vb,1071,b3db4e4ac6efeacd,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRWOListPrint.resx,123,310fd7a8db612c5e,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRWOListPrint.vb,116,2c0c49dc8e7ea121,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRWOReceiptPrintLotSerial.designer.vb,1129,6fcc6287493ae8f5,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRWOReceiptPrintLotSerial.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRWOReceiptPrintLotSerial.vb,119,f392592216cb2c5d,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRWOReceiptPrintNon.designer.vb,836,a05ac573bc97326f,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRWOReceiptPrintNon.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRWOReceiptPrintNon.vb,118,9ff6343e394a854f,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/ds_barcode_double.Designer.vb,1511,c60f7da4cb8fac44,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/ds_barcode_double.xsd,140,103177a26c69938c,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/ds_label.Designer.vb,688,4d0b406aeb58093c,﻿'------------------------------------------------------------------------------,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/ds_label.xsd,27,d03900835689ce81,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/ds_wo_receipt.Designer.vb,2556,c004dcb4a1fe39ef,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/ds_wo_receipt.xsd,331,51f470eb951e21fb,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FConsumeWIPReport.designer.vb,268,8418ac767bd508d8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FConsumeWIPReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FConsumeWIPReport.vb,386,160ebbf6ac297e73,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FJumboPrintingReport.designer.vb,371,65da7e5e609cd7da,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FJumboPrintingReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FJumboPrintingReport.vb,890,bec5b8d0d637271d,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FWOLaborFeedbackReport.designer.vb,502,6bb6059083822d26,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FWOLaborFeedbackReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FWOLaborFeedbackReport.vb,1456,112b450021382539,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FWorkOrderReceiptReport.designer.vb,271,1f382044d7bb3a55,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FWorkOrderReceiptReport.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FWorkOrderReceiptReport.vb,458,fafabe69dc61ca23,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FWorkOrderReport.Designer.vb,447,d81c26f758751527,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FWorkOrderReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FWorkOrderReport.vb,728,45b8af7e8c96478b,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,3,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FConsumeWIP.designer.vb,1470,520797ab0472a53e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FConsumeWIP.resx,132,dcfa501f73db879e,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FConsumeWIP.vb,3945,665be2c369844402,﻿Imports Devart.Data.PostgreSql,End Class,0,27,2,66,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FConsumeWIP2.designer.vb,1465,b127744b78bbbe81,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FConsumeWIP2.resx,132,dcfa501f73db879e,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FConsumeWIP2.vb,4031,8674cd2b6a7fe8f3,﻿Imports Devart.Data.PostgreSql,End Class,0,27,2,73,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FJumboPrinting.designer.vb,2091,1a692603b81dcf34,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FJumboPrinting.resx,132,cf07601346e896aa,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FJumboPrinting.vb,5047,932a0849aad6e888,﻿Imports Devart.Data.PostgreSql,,0,8,2,98,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FJumboPrintingTinta.designer.vb,1796,2b055a982512c6f9,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FJumboPrintingTinta.resx,132,58b39dc3af0ae0da,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FJumboPrintingTinta.vb,5044,9ac3fee3eaccd8aa,﻿Imports Devart.Data.PostgreSql,,0,8,2,89,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FPalletID.designer.vb,847,99d8e2a56091f8cb,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FPalletID.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FPalletID.vb,765,f024c078e77b49e2,﻿Imports Devart.Data.PostgreSql,End Class,0,0,2,21,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FPalletIDImport.designer.vb,235,4c041d492b823fc1,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FPalletIDImport.resx,129,cb1527b4b6c6ae68,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FPalletIDImport.vb,266,f02d1a56446175df,﻿Imports Devart.Data.PostgreSql,,0,0,0,6,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FRouting.designer.vb,594,464f32286b8da579,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FRouting.resx,129,76e4fb1b162582d1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FRouting.vb,1281,18ddc0a234c77956,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,23,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FSOContractImport.designer.vb,235,9a83c92fe7f58915,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FSOContractImport.resx,129,cb1527b4b6c6ae68,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FSOContractImport.vb,472,97fe81cc98722193,﻿Imports System.Runtime.Remoting.Metadata.W3cXsd2001,,0,0,0,11,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWOLaborFeedback.designer.vb,2201,e831af48034351ce,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWOLaborFeedback.resx,132,dcfa501f73db879e,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWOLaborFeedback.vb,5510,617247eaf1b86101,﻿Imports Devart.Data.PostgreSql,End Class,0,27,2,97,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWOReceipt.designer.vb,1819,e593c7957f90aeb1,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWOReceipt.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWOReceipt.vb,5651,e3a507fa8cb00116,﻿Imports Devart.Data.PostgreSql,End Class,0,24,3,87,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWOReceipt_old.designer.vb,1494,163a82f655676b80,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWOReceipt_old.resx,129,76e4fb1b162582d1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWOReceipt_old.vb,4556,d2713612c69665f9,﻿Imports Devart.Data.PostgreSql,End Class,0,24,3,58,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWORouteMaintenance.designer.vb,909,db6516ec9d4ba2e0,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWORouteMaintenance.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWORouteMaintenance.vb,777,5bc18bdcc93faa19,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,10,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWorkOrder.designer.vb,2611,668283ac5e403567,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWorkOrder.resx,129,f4a1f5efea31259f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWorkOrder.vb,3930,597c05e84a64cd4b,﻿Imports Devart.Data.PostgreSql,End Class,0,0,6,61,0
+Alkindo Solution/AlkindoPT.Project/Module/Master Data/Company/FZEmployeImport.designer.vb,218,70aa9fe84649dbd3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Master Data/Company/FZEmployeImport.resx,129,86b0d583c00fc960,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Master Data/Company/FZEmployeImport.vb,334,443b76ec567f91c2,﻿Imports Devart.Data.PostgreSql,,0,0,0,11,0
+Alkindo Solution/AlkindoPT.Project/Module/Master Data/Company/FZEmployee.designer.vb,628,ca2bb2c8e17be58e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Master Data/Company/FZEmployee.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Master Data/Company/FZEmployee.vb,531,f0bd024c0185fd7b,﻿Imports Devart.Data.PostgreSql,End Class,0,0,5,16,0
+Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FColor.Designer.vb,423,20e06a6fff08290d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FColor.resx,126,a375937078f29107,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FColor.vb,382,54e10f62ad5c7458,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,9,0
+Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FColorImport.designer.vb,176,c497a12d93b30bed,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FColorImport.resx,129,90f596608a4f388a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FColorImport.vb,243,462c026f3d0c6845,﻿Imports Devart.Data.PostgreSql,,0,0,0,6,0
+Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FColorRemarks.Designer.vb,91,4547c4992b8a6325,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FColorRemarks.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FColorRemarks.vb,28,4e4add27e3478746,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FPartNumber.designer.vb,1690,2c2ca65ea63fb74b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FPartNumber.resx,126,bebf819a92130eed,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FPartNumber.vb,1379,c92f97ac7b6ff52d,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,27,0
+Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Print Out/XRSO.designer.vb,856,6beba7020f95a2f7,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Print Out/XRSO.resx,573,5fda09c84c9dd626,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Print Out/XRSO.vb,111,f21431021a315b85,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Print Out/XRSOPriceDisc2.designer.vb,1150,0cb90f8a0ddf27e8,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Print Out/XRSOPriceDisc2.resx,660,0850d1d5cb8e1638,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Print Out/XRSOPriceDisc2.vb,110,d720fc63c934f3ca,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Transaction/FSOContract.designer.vb,830,f1048251b0525e3a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Transaction/FSOContract.resx,135,401834228c86d3c1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Transaction/FSOContract.vb,1222,94c8cd81a60ff670,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,27,0
+Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Transaction/FSalesOrder.designer.vb,2238,2eecdc0a056be92c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Transaction/FSalesOrder.resx,135,6c4156810b0671a5,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Transaction/FSalesOrder.vb,9330,5ce969f763ea69c3,﻿Imports Devart.Data.PostgreSql,End Class,12,18,8,154,0
+Alkindo Solution/AlkindoPT.Project/Module/___Function Helper/Cls_Bilangan.vb,340,a9e56ba4e47285b4,﻿Public Class Cls_Bilangan,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/___Function Helper/Cls_Bilangan_Eng.vb,184,acccb1fe6c6d2a99,﻿Public Class Cls_Bilangan_Eng,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/Module/___Function Helper/ModFunctionSpecial.vb,1695,f5908ef360a84bde,﻿Imports master_new.ModFunction,End Module,0,2,0,2,0
+Alkindo Solution/AlkindoPT.Project/Module/___Function Helper/function_collection.vb,11213,a3ed2d154b946294,﻿Imports System.Net.Mail,,3,106,0,310,0
+Alkindo Solution/AlkindoPT.Project/Module/___Function Helper/function_data.vb,6082,bd0f3932bdaad442,﻿Imports master_new.ModFunction,End Class,0,0,0,242,0
+Alkindo Solution/AlkindoPT.Project/My Project/Application.Designer.vb,13,4dd7045513941609,﻿'------------------------------------------------------------------------------,,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/My Project/AssemblyInfo.vb,35,8821e0f1b5f4f2d2,﻿Imports System,"<Assembly: AssemblyFileVersion(""1.0.0.0"")>",0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/My Project/Resources.Designer.vb,63,1d054bb2756f30e2,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/My Project/Resources.resx,127,2cd041a031a7b528,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/My Project/Settings.Designer.vb,171,c340dd4c679bed30,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FAccountSearch.Designer.vb,122,168550da8a29cc4a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FAccountSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FAccountSearch.vb,490,97fd147b0ee6dffe,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FAddressTypeSearch.Designer.vb,86,a45b85a2fad61f57,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FAddressTypeSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FAddressTypeSearch.vb,59,31c4fede86619dea,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FAssetRequestSearch.designer.vb,130,6fa072fcfb763d32,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FAssetRequestSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FAssetRequestSearch.vb,171,3076a93f142fc8de,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FAssetSearch.designer.vb,121,ebba59fcea9ee5cf,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FAssetSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FAssetSearch.vb,788,ef5300e541b20582,﻿Imports master_new.ModFunction,End Class,0,0,0,3,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FBranchSearch.Designer.vb,121,a984eebb24637ee2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FBranchSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FBranchSearch.vb,88,b5c871584231742e,﻿Public Class FBranchSearch,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FCodeSearch.designer.vb,122,42ead250e3f1710e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FCodeSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FCodeSearch.vb,66,4e5241d40b52a1e7,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FCostCenterSearch.Designer.vb,122,26f4c6432dae0e27,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FCostCenterSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FCostCenterSearch.vb,164,913e53d2ee514d65,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FCustomerSearch.designer.vb,140,3bf13d5a1e29f244,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FCustomerSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FCustomerSearch.vb,103,69e61e6277bb22b4,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FDRCRMemoSearch.Designer.vb,256,76fa872cbd0f5d0e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FDRCRMemoSearch.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FDRCRMemoSearch.vb,624,04d109720c337dc5,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FEmpSearch.Designer.vb,122,941bbd93cdd3ffa0,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FEmpSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FEmpSearch.vb,106,cd68b95cf8bee9fd,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FEntitySearch.Designer.vb,122,b590e0decb6c3ee6,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FEntitySearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FEntitySearch.vb,93,9f1465371806f5fa,﻿Public Class FEntitySearch,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FFixAssetBookSearch.Designer.vb,88,9f2bb677b9e8026c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FFixAssetBookSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FFixAssetBookSearch.vb,68,8f49a9f644231feb,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FFixAssetMethodeSearch.Designer.vb,88,349d49f9b2de0b71,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FFixAssetMethodeSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FFixAssetMethodeSearch.vb,80,9d45634678f686f6,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FFunctionCPSearch.Designer.vb,86,92459c005fc0840c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FFunctionCPSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FFunctionCPSearch.vb,59,816d3c717990f44b,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInspectionSearch.designer.vb,199,5949404faa4b59dc,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInspectionSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInspectionSearch.vb,209,569ff5c46303ee61,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryIssueSearch.designer.vb,174,ad0e82bec1ef0147,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryIssueSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryIssueSearch.vb,342,f0074fe985f5e5cf,﻿Imports master_new.ModFunction,End Class,0,0,0,4,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryLendRequestSearch.Designer.vb,158,de1afa09fb62779b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryLendRequestSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryLendRequestSearch.vb,299,4bf1775382616bcb,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryRequestSearch.Designer.vb,155,558f4e15d4925f52,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryRequestSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryRequestSearch.vb,604,2e2b65cbd5c5e2d1,﻿Imports master_new.ModFunction,End Class,0,0,0,4,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryRewindingSearch.Designer.vb,155,1cdfd87f6ba2b320,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryRewindingSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryRewindingSearch.vb,270,86cfc4af71c89342,﻿Imports master_new.ModFunction,End Class,0,0,0,3,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInventorySearch.designer.vb,140,927b20fe3159e857,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInventorySearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInventorySearch.vb,176,e66a9e16fda1081e,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInventorySlittingSearch.Designer.vb,155,033caec8ffed61f8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInventorySlittingSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInventorySlittingSearch.vb,275,372149d677f13cd6,﻿Imports master_new.ModFunction,End Class,0,0,0,3,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInvoiceSearch.designer.vb,177,01b0f2fe06dd26c8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInvoiceSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FInvoiceSearch.vb,229,ee0060ef0e87009d,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FItemGroupSearch.designer.vb,125,fe7a62fba5ac50da,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FItemGroupSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FItemGroupSearch.vb,58,218b7772129b19c2,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FItemStatusSearch.designer.vb,122,78a598f3ae2e75ea,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FItemStatusSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FItemStatusSearch.vb,71,dd89686e5e1f1237,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FLaborFeedbackSearch.designer.vb,186,b3d892eb822f1ab3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FLaborFeedbackSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FLaborFeedbackSearch.vb,485,ce430d7c9c770c5b,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FLocationSearch.designer.vb,143,cb925cd87fd3cc39,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FLocationSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FLocationSearch.vb,1463,d033e521ea31c51e,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FLotSerialSearch.designer.vb,136,b9699d35165e79fa,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FLotSerialSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FLotSerialSearch.vb,524,b6121e90e558dd59,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FMachineSearch.designer.vb,133,93ff8a502732ca45,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FMachineSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FMachineSearch.vb,175,ef1a572368100210,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPOCustomerSearch.designer.vb,153,9a3490838d3409aa,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPOCustomerSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPOCustomerSearch.vb,364,887f3301a95560cc,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPPNTypeSearch.Designer.vb,94,179c7c25eddfcc07,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPPNTypeSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPPNTypeSearch.vb,50,ab8af456f7acbd12,﻿Public Class FPPNTypeSearch,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPTBOMSrch.Designer.vb,126,4d4bb22089335bae,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPTBOMSrch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPTBOMSrch.vb,211,ba439cbe27366abf,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPackagingSearch.designer.vb,122,4f56d5945a4ef853,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPackagingSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPackagingSearch.vb,115,7aba289d4431cbef,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPartNumberSearch.designer.vb,180,e2cf73a105e38104,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPartNumberSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPartNumberSearch.vb,3769,94b24623995720d6,﻿Imports master_new.ModFunction,End Class,0,0,0,4,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPartnerSearch.Designer.vb,132,4ae37ddc0589c337,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPartnerSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPartnerSearch.vb,478,f2475a22e8c4b5e7,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FProdStrucSearch.designer.vb,124,ea5ce320c1814be3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FProdStrucSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FProdStrucSearch.vb,364,d6c815405148797b,﻿Imports master_new.ModFunction,End Class,0,0,0,2,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FProjectAccountSearch.Designer.vb,156,8c4abd56303e2255,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FProjectAccountSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FProjectAccountSearch.vb,233,c274c5b86581286d,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPurchaseOrderSearch.Designer.vb,155,77028578c6d79188,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPurchaseOrderSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPurchaseOrderSearch.vb,1166,02397f8b8b201312,﻿Imports master_new.ModFunction,End Class,0,0,0,6,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPurchaseReceiptSearch.Designer.vb,155,1f782dc1e881e689,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPurchaseReceiptSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FPurchaseReceiptSearch.vb,118,948e0b9aa872a2b1,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FReasonCodeQCSearch.Designer.vb,121,f560c46e5fa07017,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FReasonCodeQCSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FReasonCodeQCSearch.vb,68,71eb4dce34426ee2,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FReasonCodeReturnSearch.Designer.vb,129,5a332e7b28c79522,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FReasonCodeReturnSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FReasonCodeReturnSearch.vb,66,72567aaa4a53b8b3,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FReasonCodeSOSearch.Designer.vb,121,a8558d40a43d173f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FReasonCodeSOSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FReasonCodeSOSearch.vb,95,3aa486169adf1073,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FRequisitionSearch.Designer.vb,228,67e4b2b98f92b2e7,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FRequisitionSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FRequisitionSearch.vb,816,e060195210b96b6a,﻿Imports master_new.ModFunction,End Class,0,0,0,2,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FRoutingSearch.designer.vb,122,7bc352f4f88ef0ce,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FRoutingSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FRoutingSearch.vb,324,5a9db004a67b3c5f,﻿Imports master_new.ModFunction,End Class,0,0,0,3,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSOGiftRequestSearch.designer.vb,155,b6a09b344f363085,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSOGiftRequestSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSOGiftRequestSearch.vb,261,dc56a4ea334b9dd9,﻿Imports master_new.ModFunction,End Class,0,0,0,2,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSOGiftSearch.designer.vb,174,32db5b4e882cee75,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSOGiftSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSOGiftSearch.vb,355,7e5b699976386e93,﻿Imports master_new.ModFunction,End Class,0,0,0,4,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSOGlobalSearch.designer.vb,158,f345267faa05d40f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSOGlobalSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSOGlobalSearch.vb,166,86d0c26ee5192123,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSOInternalSearch.designer.vb,156,59105a2fab611d71,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSOInternalSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSOInternalSearch.vb,205,e2f80a009d5c76dd,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderDetailSearch.designer.vb,166,f72ca6b80745a9b5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderDetailSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderDetailSearch.vb,219,fd7b4680aa893236,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderRecapSearch.designer.vb,169,43c5322bd5785aed,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderRecapSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderRecapSearch.vb,699,e0a3e4f4791acfb2,﻿Imports master_new.ModFunction,End Class,0,0,0,6,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderSearch.Designer.vb,166,ec4367238b252be3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderSearch.vb,2297,6272c5ea6371978c,﻿Imports master_new.ModFunction,End Class,0,0,0,11,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderShipmentSearch.Designer.vb,174,b53c5f1358728127,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderShipmentSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderShipmentSearch.vb,419,c592a2d6e53f6041,﻿Imports master_new.ModFunction,End Class,0,0,0,4,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSpacerSearch.designer.vb,130,bfdddc550f3e428c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSpacerSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FSpacerSearch.vb,84,160e23f35e73226a,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FStockOpnameSearch.designer.vb,163,a39a3585506d9962,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FStockOpnameSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FStockOpnameSearch.vb,249,aae9bcdabd1d3ad1,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FTaxClassSearch.Designer.vb,130,cada8d3058c6a84f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FTaxClassSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FTaxClassSearch.vb,89,fee2d79c8db6eb87,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FToolSearch.Designer.vb,122,3a9f21d4240bf3e8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FToolSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FToolSearch.vb,58,19805dc966145380,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FTransferSearch.Designer.vb,174,444ab4a4ebdcccdf,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FTransferSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FTransferSearch.vb,562,21ba72f1b5498e3d,﻿Imports master_new.ModFunction,End Class,0,0,0,6,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FUMSearch.Designer.vb,122,6d466c0c903e0e0c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FUMSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FUMSearch.vb,225,853f96c7c797265b,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FUserApprovalSearch.Designer.vb,86,932c1b89dd627c56,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FUserApprovalSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FUserApprovalSearch.vb,55,eae5e387d79ed24a,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FVoucherSearch.designer.vb,288,562f1358a1d408d2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FVoucherSearch.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FVoucherSearch.vb,398,a1df7092f482c66e,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FWCSearch.designer.vb,122,b8405d2c75786e83,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FWCSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FWCSearch.vb,140,410506b1ce3bcea7,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FWIPPartNumberSearch.Designer.vb,123,803d03ca35006f84,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FWIPPartNumberSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FWIPPartNumberSearch.vb,161,b1bb89dd43bbb490,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FWOReceiptSearch.designer.vb,153,2bfcb773e09909e0,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FWOReceiptSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FWOReceiptSearch.vb,262,6d120aa8bd762c38,﻿Imports master_new.ModFunction,End Class,0,0,0,2,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FWORoutingSearch.designer.vb,195,99840a1532f01feb,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FWORoutingSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FWORoutingSearch.vb,1838,65b07f99745a3ff9,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,15,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FWOSearch.designer.vb,153,3843fa5f8cf6240a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FWOSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FWOSearch.vb,950,50e290d37aa89d33,﻿Imports master_new.ModFunction,End Class,0,0,0,5,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FWasteSearch.designer.vb,158,ee4956b0348b38ba,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FWasteSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__Browse References/FWasteSearch.vb,105,1c545f28cf56eca8,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Alkindo Solution/AlkindoPT.Project/__General Form/CustomDesignForm.resx,640,db615f6583fe6dfb,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__General Form/CustomDesignForm.vb,1188,912a9789e89510d7,Public Class CustomDesignForm,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__General Form/FCodeMstr.Designer.vb,600,982b99a574b03902,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__General Form/FCodeMstr.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__General Form/FCodeMstr.vb,358,ff08805729d94e32,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+Alkindo Solution/AlkindoPT.Project/__General Form/FCodeMstr0.designer.vb,400,1bb3989a0259cc12,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__General Form/FCodeMstr0.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__General Form/FCodeMstr0.vb,322,ef12a71eecbd7ed1,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+Alkindo Solution/AlkindoPT.Project/__General Form/frmExport.Designer.vb,61,6f1eafce3a4851d8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__General Form/frmExport.resx,120,f601cd30780a3718,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__General Form/frmExport.vb,3,45f406382ddae28b,﻿Public Class frmExport,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__General Form/frmPrintDialog.Designer.vb,170,6b6178b15ee6767e,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__General Form/frmPrintDialog.resx,440,caabe7620bd14448,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__General Form/frmPrintDialog.vb,194,e1b945f1713d9791,Imports master_new.PGSqlConn,End Class,0,0,0,1,0
+Alkindo Solution/AlkindoPT.Project/__General Form/frmPrintDialogReport.Designer.vb,1406,43c5bd402f5977d5,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__General Form/frmPrintDialogReport.resx,446,0bde7817e885efc1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/__General Form/frmPrintDialogReport.vb,48,150408c4f7e7463c,Imports master_new.PGSqlConn,End Class,0,0,1,0,0
+Alkindo Solution/AlkindoPT.Project/app.config,52,de6e4222e494d890,"<?xml version=""1.0""?>",<startup/></configuration>,0,0,0,0,0
+Alkindo Solution/AlkindoPT.Project/packages.config,4,7e4cc428d01e3ec6,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</packages>,0,0,0,0,0

@@ -1,0 +1,691 @@
+file,lines,sha16,first_line,last_line,hit_wf_mstr,hit_glt_det,hit_insert_log,hit_MessageBox.Show,hit_TODO
+Grafindo Solution/Grafindo.Project/Module/Administrative Tools/FUserGroup.designer.vb,1992,d7b935e7031b31eb,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Administrative Tools/FUserGroup.resx,479,1de4dafacad879ac,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Administrative Tools/FUserGroup.vb,1808,c4c7416649c8bbd6,﻿Imports Devart.Data.PostgreSql,,0,0,4,85,0
+Grafindo Solution/Grafindo.Project/Module/Administrative Tools/w_reset_password.Designer.vb,75,5daab902da284a8d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Administrative Tools/w_reset_password.resx,120,f601cd30780a3718,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Administrative Tools/w_reset_password.vb,64,2bd33b37219dfe91,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,3,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FBookSize.Designer.vb,332,b7f423c0f778a166,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FBookSize.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FBookSize.vb,281,4cc3a0c0acfc862c,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FGeneratePackingList.designer.vb,926,1dbf2aa17d97c4b4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FGeneratePackingList.resx,135,422378f1878b300d,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FGeneratePackingList.vb,2682,b5d695f71c2894a6,﻿Imports master_new.PGSqlConn,,0,0,2,28,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FInventoryRequest.Designer.vb,1089,2bbef2bae8b0e941,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FInventoryRequest.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FInventoryRequest.vb,2349,0e69e53b23667a60,﻿Imports Devart.Data.PostgreSql,End Class,10,0,7,61,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FInventoryRequestReport.Designer.vb,199,e4c451137d647211,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FInventoryRequestReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FInventoryRequestReport.vb,160,c10aee2e6fa69913,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FInventoryTransferReport.Designer.vb,232,8fbcb7ebb2479e7b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FInventoryTransferReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FInventoryTransferReport.vb,301,176a69036bac970b,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FPackingList.designer.vb,788,14b41e9db05cd3c1,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FPackingList.resx,132,4f5871986056ccab,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FPackingList.vb,1809,c4de4c32577fe290,﻿Imports master_new.PGSqlConn,,0,0,2,16,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FTransferIssues.Designer.vb,1604,6e2f7697d7a6f527,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FTransferIssues.resx,129,e6b7d88b9418fffc,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FTransferIssues.vb,4102,a4b84d9e9696538e,﻿Imports master_new.PGSqlConn,End Class,8,23,6,80,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FTransferIssuesPackingList.Designer.vb,1676,37cfba96f050a336,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FTransferIssuesPackingList.resx,129,0e13711fc768c8e0,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FTransferIssuesPackingList.vb,4511,ac7d7000d4d7c28a,﻿Imports master_new.PGSqlConn,End Class,8,23,6,83,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRBoxLabelPackingList.designer.vb,131,24d03e960fdd4c49,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRBoxLabelPackingList.resx,155,d91e5dfd020a164a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRBoxLabelPackingList.vb,31,33d0d56590fcb014,Imports DevExpress.XtraPrinting,End Class,0,0,0,2,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRCheckPackingList.designer.vb,746,921f79767db2f0df,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRCheckPackingList.resx,552,acb4cbab274adeaa,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRCheckPackingList.vb,44,ca9068164d750682,Imports DevExpress.XtraPrinting,End Class,0,0,0,2,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRInventoryReqPrint.designer.vb,1020,c220b18b5e7cd581,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRInventoryReqPrint.resx,642,750ecacc49aace60,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRInventoryReqPrint.vb,108,50941085b7f4e312,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRPreparationPackingList.designer.vb,806,9438e81795db6b5c,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRPreparationPackingList.resx,570,a76c444d33dc8e20,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRPreparationPackingList.vb,47,aa5d048f5710b0e4,Imports DevExpress.XtraPrinting,End Class,0,0,0,2,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRPreparationPackingList2.designer.vb,820,f13fe3dfdaa63cd4,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRPreparationPackingList2.resx,126,72d3064f6eb8c773,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRPreparationPackingList2.vb,50,b5c0dcbedb8be1ee,Imports DevExpress.XtraPrinting,End Class,0,0,0,2,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSubBoxLabel.designer.vb,765,e63e1adf2ef5db41,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSubBoxLabel.resx,534,953d849f244a8933,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSubBoxLabel.vb,31,f5d62f1ce9c812ab,Imports DevExpress.XtraPrinting,End Class,0,0,0,2,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSubTransferIssuesPacklist.Designer.vb,125,7ba5ecaa5e8b7609,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSubTransferIssuesPacklist.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSubTransferIssuesPacklist.vb,3,f2fe849e54696fe0,Public Class XRSubTransferIssuesPacklist,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSummaryPrepPackList.designer.vb,751,32a4dd6be4fe71d1,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSummaryPrepPackList.resx,555,e104e354028677cd,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSummaryPrepPackList.vb,30,171dd39fd9349f1d,Imports DevExpress.XtraPrinting,End Class,0,0,0,2,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSuratJalan.designer.vb,1157,18e975cc1539ff74,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSuratJalan.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSuratJalan.vb,161,73dff514d11c6834,Imports Devart.Data.PostgreSql,End Class,0,0,1,6,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPackingList.Designer.vb,1390,8c967c9263bc5dd4,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPackingList.resx,726,817b2e263a6b9436,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPackingList.vb,93,ab8542174d31a474,Imports DevExpress.XtraPrinting,End Class,0,0,0,4,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPackingList_2.Designer.vb,1434,9cc645b5bab685e3,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPackingList_2.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPackingList_2.vb,93,e8fcf3407c014a50,Imports DevExpress.XtraPrinting,End Class,0,0,0,4,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPrint.designer.vb,947,fcc74c34bf5c2fce,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPrint.resx,600,4f03091fc1b550df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPrint.vb,127,d6674d0679e69518,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPrint_LOT.designer.vb,980,467746fab8aa0533,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPrint_LOT.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPrint_LOT.vb,127,4adac5bb2d1a681a,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/ds_pack.Designer.vb,1306,bee5f2f606b033bc,﻿'------------------------------------------------------------------------------,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/ds_pack.xsd,42,baa01985e98f395e,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/ds_transfer_printout_sys.Designer.vb,3706,3a5642e019a956be,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/ds_transfer_printout_sys.xsd,489,b70477bbca17a68d,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/FRequisition.designer.vb,1637,13eb57e9d231299f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/FRequisition.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/FRequisition.vb,3186,18c5d2bd0c5cb08d,﻿Imports Devart.Data.PostgreSql,End Class,10,0,7,73,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/FRequisitionApproval.designer.vb,826,90de37a4fb6bda72,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/FRequisitionApproval.resx,138,d2cb34d61e359e92,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/FRequisitionApproval.vb,1268,bb9fa28517948d5e,﻿Imports Devart.Data.PostgreSql,End Class,13,0,2,17,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/XRRequisition.designer.vb,680,b444a6c1e26617fd,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/XRRequisition.resx,534,aa8597d37fb1f562,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/XRRequisition.vb,137,a2a0c3f91d6596b6,Imports DevExpress.XtraPrinting,End Class,1,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/XRRequisitionCost.designer.vb,754,3a2d19f0abf3dcc5,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/XRRequisitionCost.resx,564,f4d38a1668aa6188,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/XRRequisitionCost.vb,125,3084c3a847dd7bc4,Imports DevExpress.XtraPrinting,End Class,1,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AP Invoice/FPaymentManualChecks.designer.vb,1184,df0c246b48f3c4c0,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AP Invoice/FPaymentManualChecks.resx,129,936ef3b69c7845c4,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AP Invoice/FPaymentManualChecks.vb,2571,d89f7f39bbdc3ffe,﻿Imports Devart.Data.PostgreSql,End Class,0,25,3,40,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AP Invoice/FVoucher.Designer.vb,1740,0968c88742c69d9d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AP Invoice/FVoucher.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AP Invoice/FVoucher.vb,3754,b6e3963d0ca0d6c0,﻿Imports Devart.Data.PostgreSql,End Class,0,22,4,41,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARBillStatement.designer.vb,908,1ccdc75cb915f505,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARBillStatement.resx,129,f4a1f5efea31259f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARBillStatement.vb,669,a7562a9aef91f751,﻿Imports Devart.Data.PostgreSql,End Class,0,0,2,9,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARBillStatementWizard.designer.vb,471,040c12c01c1f6896,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARBillStatementWizard.resx,135,91efeca6c08f0669,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARBillStatementWizard.vb,638,4207248fffbed371,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,14,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARCardPrint.Designer.vb,312,c0b6cb42f1382fa6,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARCardPrint.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARCardPrint.vb,279,3bd3fcb20e93c50b,﻿Imports DevExpress.XtraReports.UI,End Class,0,0,0,2,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARPaymentNoOtherAmount.designer.vb,1100,ca78034e1b663451,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARPaymentNoOtherAmount.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARPaymentNoOtherAmount.vb,2752,3398910d71524e6a,﻿Imports Devart.Data.PostgreSql,End Class,0,27,2,44,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARReport.designer.vb,567,f3886a6b434d25f5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARReport.vb,1154,a1a7dbf456ae22e9,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,4,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARReportByDate.designer.vb,243,b252fa2e42e5c9d6,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARReportByDate.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARReportByDate.vb,255,b31b9a40828d8a5f,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,2,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARReportWithUnapprovalSOReturn.designer.vb,263,6f4009a3a35f8fc7,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARReportWithUnapprovalSOReturn.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARReportWithUnapprovalSOReturn.vb,550,1b6538f64dad4aea,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FBillBank.designer.vb,425,2af1abb39c510d0f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FBillBank.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FBillBank.vb,321,fb5980cdfd7dcfa7,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,11,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FBillSignature.designer.vb,425,41ce64e1175047dd,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FBillSignature.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FBillSignature.vb,347,6cdc032d2aa37b9b,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,11,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FDRCRMemo.Designer.vb,1879,69586bf1ecdadc9e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FDRCRMemo.resx,129,0eb3fd187ec337a0,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FDRCRMemo.vb,4521,07a7fd57eedd17db,﻿Imports Devart.Data.PostgreSql,End Class,0,24,5,53,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FReceiptNotes.designer.vb,734,a5d0b064c3b4f322,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FReceiptNotes.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FReceiptNotes.vb,745,7b8e60c783aa730b,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,23,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FReceiptNotesReason.Designer.vb,64,cc420babd0480922,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FReceiptNotesReason.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FReceiptNotesReason.vb,7,48e967788adda143,﻿Public Class FReceiptNotesReason,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRARCards.designer.vb,1038,c07e931491aef8a4,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRARCards.resx,153,6d3d23550e450aff,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRARCards.vb,173,f4885aab32efd2a7,Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRARCardsSub.designer.vb,433,f9afad727897f217,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRARCardsSub.resx,147,66c56047f86a6fd0,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRARCardsSub.vb,3,b3642b7497077d94,Public Class XRARCardsSub,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRBillStatement.Designer.vb,1140,e2cf464df1db7585,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRBillStatement.resx,1181,0210708452076aef,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRBillStatement.vb,158,68ef1d24df86ea03,Imports master_new.PGSqlConn,End Class,0,0,1,5,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRBillStatementAddress.Designer.vb,693,4581c1ada1864e0a,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRBillStatementAddress.resx,618,c1a678c331b2867f,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRBillStatementAddress.vb,8,6cb1d0437d1a2b76,Imports master_new.PGSqlConn,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRBillStatementSubReport.Designer.vb,127,4b1bcf8dc452cc2d,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRBillStatementSubReport.resx,153,43bfc72238469df7,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRBillStatementSubReport.vb,13,fb2af0b7a220af40,Public Class XRBillStatementSubReport,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRCashInARPrint.designer.vb,1094,4cb43432c093408d,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRCashInARPrint.resx,606,0c95dd9471412a34,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRCashInARPrint.vb,108,5b1ba678b0a3f2ec,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRInvoice.designer.vb,1283,670f7e0236223a53,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRInvoice.resx,732,2166da821b6991e4,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRInvoice.vb,125,ee42156849cf2f8d,Imports DevExpress.XtraPrinting,End Class,0,0,1,5,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRInvoiceDistLine2.designer.vb,1138,ecbc11d25ed1ca2b,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRInvoiceDistLine2.resx,651,d02837daded01a2f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRInvoiceDistLine2.vb,120,fa9f7ee773abccd9,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRReceiptNotesPrint.designer.vb,1235,f4a8f562c2812879,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRReceiptNotesPrint.resx,126,57ebcf08c00b34af,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRReceiptNotesPrint.vb,32,223991e3c5715959,Imports DevExpress.XtraPrinting,End Class,0,0,0,2,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRReceiptNotesPrint_2.designer.vb,1242,13c486f809db8cdf,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRReceiptNotesPrint_2.resx,126,57ebcf08c00b34af,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRReceiptNotesPrint_2.vb,32,ea422a3a2e403f50,Imports DevExpress.XtraPrinting,End Class,0,0,0,2,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FBankCreditLimit.designer.vb,423,c82f6cd25a13f329,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FBankCreditLimit.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FBankCreditLimit.vb,627,77ca83294c172aa7,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,13,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FBankLoanInterestRate.designer.vb,423,79538dfe29303b2e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FBankLoanInterestRate.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FBankLoanInterestRate.vb,502,6fecad7a4d6b049d,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,11,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FBankLoanType.Designer.vb,423,1e48ca20ec0c3d42,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FBankLoanType.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FBankLoanType.vb,359,e930a67997129f21,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FCreditor.Designer.vb,147,7cf6062101b868c5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FCreditor.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FCreditor.vb,25,19ed190cf4bd1934,﻿Public Class FCreditor,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FDaysOff.designer.vb,690,525b8c1187695b04,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FDaysOff.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FDaysOff.vb,424,f0b1e4e1742ca915,﻿Imports Devart.Data.PostgreSql,,0,0,0,13,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FDaysOffImport.designer.vb,191,a2c110f1ca788141,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FDaysOffImport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FDaysOffImport.vb,278,5b52106a889e7035,﻿Imports master_new.PGSqlConn,End Class,0,0,0,6,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FPRKAccountSetting.designer.vb,343,5ae1b8b8ba03266a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FPRKAccountSetting.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FPRKAccountSetting.vb,428,c5dcb36594427c73,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,11,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FPRKMaster.designer.vb,427,20e333f782f5b96a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FPRKMaster.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FPRKMaster.vb,442,60108138bef96c00,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,11,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankCreditLimitHistory.Designer.vb,267,484a9424a9a3f104,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankCreditLimitHistory.resx,126,dd5cae257b69f12b,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankCreditLimitHistory.vb,82,f0ac3dd99da0f10c,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanDisbursementReport.Designer.vb,166,2a9fabc362292fd4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanDisbursementReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanDisbursementReport.vb,111,b7a1ee28b229db4e,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanInterestHistory.Designer.vb,267,f41caac006e77e07,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanInterestHistory.resx,126,dd5cae257b69f12b,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanInterestHistory.vb,86,abc838652136fda7,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanPayInterestReport.Designer.vb,166,a29ac80bc8789430,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanPayInterestReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanPayInterestReport.vb,95,8f8510153d00b36a,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanPaymentReport.Designer.vb,166,cfc3d8120ac72abf,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanPaymentReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanPaymentReport.vb,96,cf8a144c22f008ad,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FCreditLimitReport.Designer.vb,109,a6a564be78d71656,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FCreditLimitReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FCreditLimitReport.vb,158,6e9599ae40967a98,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,2,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FViewInterestPRKReport.designer.vb,644,7713a45045d518f0,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FViewInterestPRKReport.resx,129,4019b410b4f220b6,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FViewInterestPRKReport.vb,781,b34fbe5415d1c4d0,﻿Imports master_new.ModFunction,End Class,0,1,0,4,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FViewInterestReport.Designer.vb,565,2876b41de5314986,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FViewInterestReport.resx,126,02582bd7242a2857,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FViewInterestReport.vb,423,6fcac28be5203b3b,﻿Imports master_new.ModFunction,End Class,0,0,0,5,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Transaction/FBankLoanDisbursement.designer.vb,910,cb3910ce4d643b64,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Transaction/FBankLoanDisbursement.resx,129,936ef3b69c7845c4,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Transaction/FBankLoanDisbursement.vb,1641,7c63378a68e86fdf,﻿Imports Devart.Data.PostgreSql,End Class,0,18,3,39,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Transaction/FBankLoanPayInterest.designer.vb,788,39058b310260d698,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Transaction/FBankLoanPayInterest.resx,129,936ef3b69c7845c4,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Transaction/FBankLoanPayInterest.vb,1234,d647bbc793c6d320,﻿Imports Devart.Data.PostgreSql,End Class,0,18,2,32,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Transaction/FBankLoanPayment.designer.vb,788,f56c8b782865ce67,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Transaction/FBankLoanPayment.resx,129,936ef3b69c7845c4,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Transaction/FBankLoanPayment.vb,1269,f54f9345049a8dea,﻿Imports Devart.Data.PostgreSql,End Class,0,18,2,32,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementLoanPrint.designer.vb,1249,2aeb1c8552b7c56e,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementLoanPrint.resx,126,f42324e93d507389,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementLoanPrint.vb,92,40fbf1d47b9d3f40,Imports master_new.PGSqlConn,End Class,0,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementPromotionPrint.designer.vb,1505,24f54238f7b6a91b,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementPromotionPrint.resx,126,f42324e93d507389,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementPromotionPrint.vb,96,b17ebaaeca062882,Imports master_new.PGSqlConn,End Class,0,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrint.designer.vb,978,598cd4bce7d0ebca,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrint.resx,594,2065517ee9b96242,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrint.vb,287,235877c952346113,Imports master_new.PGSqlConn,End Class,0,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrintPng.designer.vb,509,7a9ddad5359f97e2,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrintPng.resx,234,9086b685e4066596,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrintPng.vb,219,e86ca7bd9e8f869c,Imports master_new.PGSqlConn,End Class,1,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRefundPrint.designer.vb,645,4aa3372946edc7ec,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRefundPrint.resx,123,310fd7a8db612c5e,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRefundPrint.vb,89,cd50087f5720e625,Imports master_new.PGSqlConn,End Class,0,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrint.designer.vb,806,fb41a5bf59398234,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrint.resx,570,0afc9c9d4d5a86b1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrint.vb,286,6c6f2fea613092ef,Imports master_new.PGSqlConn,End Class,0,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrintPng.designer.vb,666,52dbc51ce1ef3e97,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrintPng.resx,522,93e30a224a0620bb,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrintPng.vb,254,20444e5f26f19643,Imports master_new.PGSqlConn,End Class,1,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementVoucherPrint.designer.vb,918,48d84e48b96845dd,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementVoucherPrint.resx,579,a8aa99f7d18341ce,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementVoucherPrint.vb,314,22ce1c37bcff4598,Imports master_new.ModFunction,End Class,0,0,1,5,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XROverBookingPrint.designer.vb,896,2b08b72d3f7150d4,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XROverBookingPrint.resx,561,dd211ee07515a2a3,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XROverBookingPrint.vb,108,3000e61a2a26ce8c,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FDisbursementRealizationReport.designer.vb,181,fc845a9536f74c15,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FDisbursementRealizationReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FDisbursementRealizationReport.vb,157,5718efd6135d0eb1,﻿Imports Devart.Data.PostgreSql,End Class,1,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FDisbursementRequestReport.designer.vb,156,6b64509b4ad0d548,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FDisbursementRequestReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FDisbursementRequestReport.vb,177,9de79604b0de4a29,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FDisbursementVoucherReport.designer.vb,223,5010e2fa66456df2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FDisbursementVoucherReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FDisbursementVoucherReport.vb,296,0e494fc76e71b6fa,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FOverBookingReport.Designer.vb,156,13bacd0b86c3e57d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FOverBookingReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FOverBookingReport.vb,119,9ac9f2d063c38dc4,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementApproval.designer.vb,944,1d3ee186a5649963,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementApproval.resx,138,d258bd554edb8a71,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementApproval.vb,1187,e2044e0397026a97,﻿Imports Devart.Data.PostgreSql,End Class,12,2,3,26,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementApproval_Spv.designer.vb,996,fde4c04a30064cbd,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementApproval_Spv.resx,138,4cd74ab6caa0dbc1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementApproval_Spv.vb,1487,4393846a38e51266,﻿Imports Devart.Data.PostgreSql,End Class,16,2,5,32,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementLoan.designer.vb,1124,9bcc8f6dfcdadeb1,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementLoan.resx,132,282609c90dfb55e4,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementLoan.vb,1522,b404d18537e0839e,﻿Imports Devart.Data.PostgreSql,,0,19,5,36,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementLoanReleasePrint.designer.vb,79,f288d37d455855d3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementLoanReleasePrint.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementLoanReleasePrint.vb,74,c4586832d23a7ffb,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,6,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementPromotion.designer.vb,1033,9eb0124ac5f79c13,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementPromotion.resx,135,184a177bc3277cc9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementPromotion.vb,1602,c2b107355dee0d5a,﻿Imports Devart.Data.PostgreSql,,0,20,6,40,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementPromotionReleasePrint.designer.vb,79,8233e9d89b0f3aea,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementPromotionReleasePrint.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementPromotionReleasePrint.vb,74,eb47fcd54ec73885,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,6,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealization.designer.vb,1418,274fc112964296d8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealization.resx,132,ce6d859b3bbfeb73,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealization.vb,3653,3b91124b67141ab7,﻿Imports Devart.Data.PostgreSql,,14,1,6,81,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealizationApproval.designer.vb,941,4242037066c3dd06,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealizationApproval.resx,138,d258bd554edb8a71,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealizationApproval.vb,1812,8cb6bcfd6398e777,﻿Imports Devart.Data.PostgreSql,End Class,16,9,3,30,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRefund.designer.vb,1023,528bea183e0ce047,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRefund.resx,132,282609c90dfb55e4,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRefund.vb,1485,ac0820ba017b49b5,﻿Imports Devart.Data.PostgreSql,,0,20,5,33,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRefundReleasePrint.designer.vb,79,55ecd255b2feaf5a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRefundReleasePrint.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRefundReleasePrint.vb,74,5b8ecbbc3235d7ad,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,6,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRequest.designer.vb,1975,c9eb6e29839d4e42,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRequest.resx,132,282609c90dfb55e4,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRequest.vb,3934,713174be32f002e5,﻿Imports Devart.Data.PostgreSql,,14,1,10,109,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementVoucher.designer.vb,1564,64b8ac6e9c08f367,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementVoucher.resx,132,e11c5ae33d98a0ce,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementVoucher.vb,3166,4aa6f03f031c9d36,﻿Imports Devart.Data.PostgreSql,,0,12,3,49,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FOverBooking.designer.vb,1032,c90825efe96792b3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FOverBooking.resx,132,e11c5ae33d98a0ce,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FOverBooking.vb,1723,3f608446c24ec436,﻿Imports Devart.Data.PostgreSql,,0,10,3,39,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FOverBookingAdjustment.designer.vb,647,8092b8ddb4ecc835,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FOverBookingAdjustment.resx,132,aca5d9dffe1065e2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FOverBookingAdjustment.vb,479,fbac927ad3756d7c,﻿Imports Devart.Data.PostgreSql,,0,0,1,8,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FPOCustPosition.designer.vb,114,bda6eed0275ea241,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FPOCustPosition.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FPOCustPosition.vb,7,83fe111bdf0110ea,﻿Public Class FPOCustPosition,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FAccount.designer.vb,823,be6d62bbfcc69a17,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FAccount.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FAccount.vb,634,8c7a2626545eb52c,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,17,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FBank.designer.vb,693,68ff5b624931a28d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FBank.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FBank.vb,455,6e3ccf120f9e5d47,﻿Imports Devart.Data.PostgreSql,,0,0,1,13,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCFSetting.designer.vb,406,02f384959195eb6d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCFSetting.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCFSetting.vb,451,54466fb7bcb0ad5e,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,5,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashFlowAdjustment.designer.vb,333,d4194bbf737df3c8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashFlowAdjustment.resx,126,9e6a597670891408,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashFlowAdjustment.vb,343,d3ab9d8af196c611,﻿Imports master_new.ModFunction,End Class,0,0,1,8,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashInBranch.designer.vb,708,6dfac8200dad21bd,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashInBranch.resx,132,0114199cf95ea194,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashInBranch.vb,572,d71bcb22b62a4f56,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,12,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashInBranchReport.Designer.vb,335,f063e4ee057b6fa6,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashInBranchReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashInBranchReport.vb,118,401f8d3fc9ae54dd,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashflowReport.designer.vb,507,4aba88e7dd340135,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashflowReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashflowReport.vb,744,73984fc275c58552,﻿Imports Devart.Data.PostgreSql,End Class,1,0,0,2,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashflowReportBank.designer.vb,397,19ab82ba325982f5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashflowReportBank.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashflowReportBank.vb,586,6b5665adc9cbbcc7,﻿Imports Devart.Data.PostgreSql,End Class,1,0,0,3,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashflowWeek.designer.vb,546,8376e265e90bc27a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashflowWeek.resx,132,e11c5ae33d98a0ce,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashflowWeek.vb,575,f6b980198195ebdb,﻿Imports Devart.Data.PostgreSql,,0,0,3,12,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FLoanFund.designer.vb,553,649b94e42366e9b9,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FLoanFund.resx,132,0114199cf95ea194,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FLoanFund.vb,499,d749017401d0caa7,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,11,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FLoanFundReport.Designer.vb,265,910cb385ae073a91,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FLoanFundReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FLoanFundReport.vb,110,3f70c53a8264ee52,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Financial/General Ledger/FOpeningBalance.Designer.vb,460,9b5de4d11e7c4e10,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/General Ledger/FOpeningBalance.resx,129,225e8e5279f663f9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/General Ledger/FOpeningBalance.vb,733,a42ea3d16c0d2805,﻿Imports Devart.Data.PostgreSql,End Class,0,3,1,21,0
+Grafindo Solution/Grafindo.Project/Module/Financial/General Ledger Report/FGeneralLedgerReportGridMulti.designer.vb,580,dfaee20b6d803f94,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/General Ledger Report/FGeneralLedgerReportGridMulti.resx,126,9e6a597670891408,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/General Ledger Report/FGeneralLedgerReportGridMulti.vb,670,6d8f4acee9941992,﻿Imports master_new.ModFunction,End Class,0,3,0,3,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/FDROpenException.designer.vb,228,669d2279955e88f0,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/FDROpenException.resx,135,6b5cc725d1182506,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/FDROpenException.vb,79,542212675652d9f6,﻿Imports master_new.PGSqlConn,End Class,0,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/FPaymentRecap.Designer.vb,1128,c31028e4a0133316,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/FPaymentRecap.resx,132,71150e95ba42ae8b,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/FPaymentRecap.vb,3142,24c891afeb057189,﻿Imports Devart.Data.PostgreSql,End Class,9,0,5,61,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/FPaymentRecapApproval.designer.vb,1226,321a35348894017c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/FPaymentRecapApproval.resx,282,51c967c8d2c69e68,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/FPaymentRecapApproval.vb,1596,d1ba5cbfe4cac7e1,﻿Imports Devart.Data.PostgreSql,End Class,10,0,2,44,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/XRPaymentRecap.designer.vb,844,c6dc5121f09eed63,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/XRPaymentRecap.resx,336,0a10b9eaa7255f85,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/XRPaymentRecap.vb,52,ba5517eb027cc6df,Imports DevExpress.XtraPrinting,End Class,0,0,0,2,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/XRSubRepCetak.designer.vb,279,9755c0c3ddf13632,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/XRSubRepCetak.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/XRSubRepCetak.vb,3,c0db8d8eb4787051,Public Class XRSubRepCetak,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Address Taxes/FCustomerBillHold.designer.vb,765,86e139bd52fc9b67,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Address Taxes/FCustomerBillHold.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Address Taxes/FCustomerBillHold.vb,411,17f5077e7619a347,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Address Taxes/FSalesPerson.designer.vb,603,c4c53461e1be3767,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Address Taxes/FSalesPerson.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Address Taxes/FSalesPerson.vb,524,0d5920cb2425c4d7,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,14,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FBranch.designer.vb,1062,70de30863e308fe4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FBranch.resx,126,dd5cae257b69f12b,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FBranch.vb,835,fdaebc24d2b1e475,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,13,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FOutstandingMove.designer.vb,794,2b9b3b1ed1d035c6,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FOutstandingMove.resx,129,76e4fb1b162582d1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FOutstandingMove.vb,819,2c6f0a9f1082864d,﻿Imports Devart.Data.PostgreSql,,0,0,0,8,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FRoutingApproval.designer.vb,918,f707206b54a00be9,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FRoutingApproval.resx,129,c64556071ff720d6,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FRoutingApproval.vb,1060,4984091aed751309,﻿Imports Devart.Data.PostgreSql,End Class,1,0,4,21,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FSalesMove.designer.vb,987,78e8a5e34ffee093,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FSalesMove.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FSalesMove.vb,982,ca7d3e2f66d80f42,﻿Imports Devart.Data.PostgreSql,,4,0,0,10,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FSettingReportNote.designer.vb,287,342ba2889c2f6602,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FSettingReportNote.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FSettingReportNote.vb,253,0632598fc9aa6f9e,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/XRDocumentApprovalSub.designer.vb,230,4f654bf9bb47e57f,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/XRDocumentApprovalSub.resx,202,e7cc93451b321ac5,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,1,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/XRDocumentApprovalSub.vb,28,2a15aa902d2b737c,Public Class XRDocumentApprovalSub,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/XRRoutingApproval.designer.vb,196,9db6cd06223f9ced,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/XRRoutingApproval.resx,139,20ad99964313ed82,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,1,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Company/XRRoutingApproval.vb,3,6e988e86f2a2a897,Public Class XRRoutingApproval,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Item Sites/FPartNumber.designer.vb,1155,25847643da5e2df8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Item Sites/FPartNumber.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Item Sites/FPartNumber.vb,1166,181ed42045241b6b,﻿Imports Devart.Data.PostgreSql,,0,0,4,24,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Item Sites/FPartNumberImport.designer.vb,1094,164bebd884aef083,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Item Sites/FPartNumberImport.resx,129,6f53f800622a44c4,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Master Data/Item Sites/FPartNumberImport.vb,913,de6c10c546f8e76d,﻿Imports Devart.Data.PostgreSql,,0,0,0,33,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapAmount.designer.vb,418,92c475a934df3aa6,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapAmount.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapAmount.vb,372,ba39b5e5a8e61de0,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,12,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapAmountImport.designer.vb,179,633c80e3611c45a6,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapAmountImport.resx,129,90f596608a4f388a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapAmountImport.vb,212,387e857a6a438daa,﻿Imports Devart.Data.PostgreSql,,0,0,0,5,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCreditTerms.designer.vb,401,9f091eed0005d806,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCreditTerms.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCreditTerms.vb,372,e5c3fb12c7f6701b,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,12,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCreditTermsImport.designer.vb,179,98fa4d0505d9b078,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCreditTermsImport.resx,129,90f596608a4f388a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCreditTermsImport.vb,212,7e448d51d846b2f7,﻿Imports Devart.Data.PostgreSql,,0,0,0,5,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCustType.designer.vb,413,2681151bca07aa73,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCustType.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCustType.vb,383,dd05cbdef0d36a7f,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,12,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCustTypeImport.designer.vb,179,b0a4489b84982fbf,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCustTypeImport.resx,129,90f596608a4f388a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCustTypeImport.vb,222,25721e722d4676d5,﻿Imports Devart.Data.PostgreSql,,0,0,0,6,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapDisc.designer.vb,462,de669c716fb295df,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapDisc.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapDisc.vb,390,4103abd82955b6f4,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,12,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapDiscountImport.designer.vb,179,626e6c7694aee251,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapDiscountImport.resx,129,90f596608a4f388a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapDiscountImport.vb,225,a650fb528a24a3af,﻿Imports Devart.Data.PostgreSql,,0,0,0,6,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLevel.designer.vb,377,3f25bde2d3b7a18d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLevel.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLevel.vb,386,7207b27ad35865c9,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,13,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLevelImport.designer.vb,179,7d5f2ed6251cf2d2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLevelImport.resx,129,90f596608a4f388a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLevelImport.vb,206,0cf263458fcf6c0d,﻿Imports Devart.Data.PostgreSql,,0,0,0,5,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLoan.designer.vb,418,67b894ac9a460eff,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLoan.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLoan.vb,372,37e5c8c891125f6d,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,12,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLoanImport.designer.vb,179,12d11ceb0c2e7539,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLoanImport.resx,129,90f596608a4f388a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLoanImport.vb,212,7e7f1acd2e4afa9d,﻿Imports Devart.Data.PostgreSql,,0,0,0,5,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapPromotion.designer.vb,418,18491b945e31d94e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapPromotion.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapPromotion.vb,372,70556c362f0e2ba6,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,12,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapPromotionImport.designer.vb,179,b24a217562b0a4b8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapPromotionImport.resx,129,90f596608a4f388a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapPromotionImport.vb,212,1a188257c3830893,﻿Imports Devart.Data.PostgreSql,,0,0,0,5,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FOutstandingPOCustMove.designer.vb,838,0f679a809bd3cf4b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FOutstandingPOCustMove.resx,129,76e4fb1b162582d1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FOutstandingPOCustMove.vb,1374,ee4542ca649b75a1,﻿Imports Devart.Data.PostgreSql,,2,0,1,10,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustMassCancel.designer.vb,874,e42fc364a526fce8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustMassCancel.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustMassCancel.vb,956,421c51242346de85,﻿Imports Devart.Data.PostgreSql,,2,0,1,6,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustMassCancelReport.designer.vb,329,d67687eafee7eb97,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustMassCancelReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustMassCancelReport.vb,194,29e18e9bb896a393,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustMove.designer.vb,1111,f907b2a9317b6a3b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustMove.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustMove.vb,766,74a906ae5686e3a6,﻿Imports Devart.Data.PostgreSql,,0,0,1,6,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerGMP.designer.vb,2108,3a72d5a0a2904a2e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerGMP.resx,135,6c4156810b0671a5,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerGMP.vb,4951,92634848d851e2ba,﻿Imports Devart.Data.PostgreSql,,14,0,7,84,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerGMPApproval.designer.vb,1178,da5d732e6dbb109b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerGMPApproval.resx,141,f5977efba51510e9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerGMPApproval.vb,2154,bdd0239126988d04,﻿Imports Devart.Data.PostgreSql,End Class,37,0,6,41,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerGMPReleasePrint.designer.vb,79,23f8ebfff8750be4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerGMPReleasePrint.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerGMPReleasePrint.vb,74,f7e40f6dd52b7d98,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,6,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerReport.designer.vb,341,bf057659d46c52a8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerReport.resx,126,6875e3aafa94c2ee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerReport.vb,289,81316223b3074ed5,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPartnerTypeGMP.designer.vb,91,06c0174f30880493,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPartnerTypeGMP.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPartnerTypeGMP.vb,30,d98e40b69a09e221,﻿Public Class FPartnerTypeGMP,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/XRPOCustomerPrintOut.designer.vb,1537,da2bc8cdaadab2e4,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/XRPOCustomerPrintOut.resx,759,2da92adcdbbcdb86,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/XRPOCustomerPrintOut.vb,123,b1f534bd5acfeccc,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Price List/FPriceListQty.Designer.vb,616,47174a5fe2f2513f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Price List/FPriceListQty.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Price List/FPriceListQty.vb,939,6ab3afb91ec87520,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,18,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Price List/Report/FPriceListReport.Designer.vb,215,dcdbe4beee10a94c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Price List/Report/FPriceListReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Price List/Report/FPriceListReport.vb,216,b4ff048932d157be,﻿Imports master_new.ModFunction,,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSO.designer.vb,859,f4c05d779ff9c451,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSO.resx,573,5fda09c84c9dd626,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSO.vb,111,f21431021a315b85,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSalesOrderReturPrint.designer.vb,760,7368acb9a1a820c0,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSalesOrderReturPrint.resx,537,6af4558f145ead99,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSalesOrderReturPrint.vb,108,044d4fb9213b56bc,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSalesOrderReturPrint_LOT.designer.vb,820,c7ea6f2f9406af6f,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSalesOrderReturPrint_LOT.resx,555,d35719ced648082f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSalesOrderReturPrint_LOT.vb,108,d5a498f9351c374c,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.designer.vb,1006,44e9151b5769ae75,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.resx,597,7cb8c76535173bf1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.vb,116,8e09465c4b0b9b82,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/ds_soship.Designer.vb,530,dbbb6c764f7dbe27,﻿'------------------------------------------------------------------------------,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/ds_soship.xsd,22,ca925f19e3af91be,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Report/FSOShipmentReturnReport.Designer.vb,834,5f7f0c81563bafd9,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Report/FSOShipmentReturnReport.resx,126,9948247e243420c6,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Report/FSOShipmentReturnReport.vb,584,4e2cacc44bebb463,﻿Imports master_new.ModFunction,End Class,0,0,0,3,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Report/FSOShipmentReturnTopReport.Designer.vb,652,40b0ecb9c3926fef,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Report/FSOShipmentReturnTopReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Report/FSOShipmentReturnTopReport.vb,196,ea47dfc31f0b52e1,﻿Imports master_new.ModFunction,End Class,0,0,0,2,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Report/FSalesOrderReturnReport.Designer.vb,343,af1054c9dca7dbe0,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Report/FSalesOrderReturnReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Report/FSalesOrderReturnReport.vb,542,d0b66e22972db492,﻿Imports Devart.Data.PostgreSql,,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FCopyData3.designer.vb,508,064af26d71586a69,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FCopyData3.resx,129,8073ae7b5c177331,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FCopyData3.vb,3617,14cd8b6be2292938,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,99,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FLimapSOReturn.designer.vb,467,0cbf692c9d24ce01,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FLimapSOReturn.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FLimapSOReturn.vb,379,e137967e05ccb36f,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,12,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FLimapSOReturnImport.designer.vb,219,abf8f448c246cf7d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FLimapSOReturnImport.resx,129,cb1527b4b6c6ae68,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FLimapSOReturnImport.vb,215,4448054aef189d90,﻿Imports Devart.Data.PostgreSql,,0,0,0,5,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSOShipmentReceive.Designer.vb,1400,2061f2719b6e17fd,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSOShipmentReceive.resx,135,c5266c599058c279,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSOShipmentReceive.vb,1351,0e87c6676556553e,﻿Imports master_new.PGSqlConn,End Class,0,0,3,16,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrder.Designer.vb,2157,13319fb7c41dda26,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrder.resx,135,6c4156810b0671a5,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrder.vb,8661,84b607e431837f78,﻿Imports Devart.Data.PostgreSql,,12,18,7,141,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderReturn.designer.vb,1589,249b2c6c196b1528,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderReturn.resx,129,e6b7d88b9418fffc,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderReturn.vb,6239,eb02e8447fb9f395,﻿Imports Devart.Data.PostgreSql,End Class,9,30,6,95,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderReturnApproval.designer.vb,835,d2807a5014120d61,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderReturnApproval.resx,138,4cd74ab6caa0dbc1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderReturnApproval.vb,2345,f0de714489c98f09,﻿Imports Devart.Data.PostgreSql,End Class,17,9,3,26,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderShipment.Designer.vb,1584,fa316879722a35dd,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderShipment.resx,135,2e6ea8baba05aef9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderShipment.vb,4570,8a89b7949213669d,﻿Imports master_new.PGSqlConn,End Class,0,25,4,67,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderShipmentReport.designer.vb,268,8cf8d25f699c5b12,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderShipmentReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderShipmentReport.vb,382,e978d1e3293c22a0,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/Module/Smart Report/FARSmartReport.designer.vb,1106,d159877a1c2d40f7,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Smart Report/FARSmartReport.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Smart Report/FARSmartReport.vb,2285,69bf2faca74dadce,﻿Imports DevExpress.XtraCharts,,0,0,0,11,0
+Grafindo Solution/Grafindo.Project/Module/Smart Report/FSalesSmartReport.designer.vb,1143,aa0b9af99c606ce4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Smart Report/FSalesSmartReport.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/Smart Report/FSalesSmartReport.vb,2350,b616f51542dd43df,﻿Imports DevExpress.XtraCharts,,0,0,0,11,0
+Grafindo Solution/Grafindo.Project/Module/___Function Helper/Cls_Bilangan.vb,388,380e0c03f961a2e6,﻿Public Class Cls_Bilangan,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/Module/___Function Helper/ModFunctionSpecial.vb,1695,f5908ef360a84bde,﻿Imports master_new.ModFunction,End Module,0,2,0,2,0
+Grafindo Solution/Grafindo.Project/Module/___Function Helper/function_collection.vb,9499,b591ea82cffa468b,﻿Imports System.Net.Mail,,3,106,0,257,0
+Grafindo Solution/Grafindo.Project/Module/___Function Helper/function_data.vb,6193,e1d024724d4a49b5,﻿Imports master_new.ModFunction,End Class,0,0,0,245,0
+Grafindo Solution/Grafindo.Project/My Project/Application.Designer.vb,13,4dd7045513941609,﻿'------------------------------------------------------------------------------,,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/My Project/AssemblyInfo.vb,35,8821e0f1b5f4f2d2,﻿Imports System,"<Assembly: AssemblyFileVersion(""1.0.0.0"")>",0,0,0,0,0
+Grafindo Solution/Grafindo.Project/My Project/Resources.Designer.vb,63,7e185ce1b404eaac,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/My Project/Resources.resx,127,2cd041a031a7b528,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/My Project/Settings.Designer.vb,171,be6e68bddbe3976d,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FARPaymentSearch.designer.vb,154,c05e79926a44d1fe,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FARPaymentSearch.resx,126,f108bc6c4576d3b7,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FARPaymentSearch.vb,123,e4c854e800aa688d,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FAccountCashFlowSearch.Designer.vb,125,77f5d1a175a2d2a8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FAccountCashFlowSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FAccountCashFlowSearch.vb,136,e0a210d6c7a61b7f,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FAccountSearch.Designer.vb,122,168550da8a29cc4a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FAccountSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FAccountSearch.vb,659,9c9c52499bb66fe0,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FBGSearch.designer.vb,88,ce6baf2d406b8d47,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FBGSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FBGSearch.vb,104,86c4a5a7c65bb2f2,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FBranchSearch.Designer.vb,121,a984eebb24637ee2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FBranchSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FBranchSearch.vb,88,b5c871584231742e,﻿Public Class FBranchSearch,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FCashInBranchSearch.designer.vb,159,2b06318baeff108b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FCashInBranchSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FCashInBranchSearch.vb,123,30f71262e781e488,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FCashInSearch.designer.vb,156,043bafb62ec83166,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FCashInSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FCashInSearch.vb,84,f47f1bcd4f581bfd,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FContractSearch.designer.vb,125,686e91a3fb487bed,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FContractSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FContractSearch.vb,88,001589c6c658aa88,﻿Imports master_new.ModFunction,,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FCostCenterSearch.Designer.vb,122,26f4c6432dae0e27,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FCostCenterSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FCostCenterSearch.vb,113,3ec08eabcd297290,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FDRCRMemoSearch.Designer.vb,155,cb8c1fdae966e338,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FDRCRMemoSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FDRCRMemoSearch.vb,585,2e7419ed4511132a,﻿Imports System.Collections.Generic,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/__Browse References/FDVSearch.designer.vb,156,52b28598b7b5bc77,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FDVSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FDVSearch.vb,181,d9820caac225f7a3,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FDisbRequestDetailSearch.designer.vb,87,774ba054eb10544e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FDisbRequestDetailSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FDisbRequestDetailSearch.vb,92,0d292dec4ea505cb,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FDisbursementRealizationSearch.designer.vb,153,aa499d698e9f0e7a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FDisbursementRealizationSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FDisbursementRealizationSearch.vb,262,7dd15b54cc664187,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FDisbursementRequestSearch.designer.vb,185,76cb46b8cb06736f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FDisbursementRequestSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FDisbursementRequestSearch.vb,552,fcbfafba6c2676a3,﻿Imports master_new,End Class,0,0,0,3,0
+Grafindo Solution/Grafindo.Project/__Browse References/FEmpSearch.Designer.vb,122,941bbd93cdd3ffa0,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FEmpSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FEmpSearch.vb,102,06e7ddac9c19e25e,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FEntitySearch.Designer.vb,122,b590e0decb6c3ee6,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FEntitySearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FEntitySearch.vb,93,9f1465371806f5fa,﻿Public Class FEntitySearch,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FInstitutionSearch.Designer.vb,131,37e5617fd43d3f74,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FInstitutionSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FInstitutionSearch.vb,74,ad3044cc414884e5,﻿Public Class FInstitutionSearch,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FInventoryRequestSearch.Designer.vb,155,558f4e15d4925f52,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FInventoryRequestSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FInventoryRequestSearch.vb,768,8158968d50e955a2,﻿Imports master_new.ModFunction,End Class,0,0,0,5,0
+Grafindo Solution/Grafindo.Project/__Browse References/FLoanAccountNumberSearch.designer.vb,125,757d7a4b2f647f4c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FLoanAccountNumberSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FLoanAccountNumberSearch.vb,148,ea7699d1ffcf3b8b,﻿Imports master_new.ModFunction,,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FLoanFundSearch.designer.vb,164,3c1fd64ec4b854f4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FLoanFundSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FLoanFundSearch.vb,120,ef92fcee882d5cce,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FLocationSearch.Designer.vb,122,443f32b00c3a5730,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FLocationSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FLocationSearch.vb,692,5441737dc9fa05f3,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FLotSerialSearch.designer.vb,136,b9699d35165e79fa,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FLotSerialSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FLotSerialSearch.vb,189,f9dbc84937dab9e3,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FMemoSearch.designer.vb,130,b02181e508f6ef72,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FMemoSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FMemoSearch.vb,85,eda2c19adf437f58,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FOverbookingSearch.designer.vb,159,d2de23993585588e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FOverbookingSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FOverbookingSearch.vb,194,735525a6cb94d930,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPOCustomerSearch.designer.vb,153,9a3490838d3409aa,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPOCustomerSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPOCustomerSearch.vb,564,b9868238af65acae,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPPNTypeSearch.Designer.vb,94,179c7c25eddfcc07,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPPNTypeSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPPNTypeSearch.vb,50,ab8af456f7acbd12,﻿Public Class FPPNTypeSearch,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPRKCodeSearch.designer.vb,122,2958aebe01b9040c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPRKCodeSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPRKCodeSearch.vb,121,3575f15eeb8da129,﻿Imports master_new.ModFunction,,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPackagingGMPSearch.designer.vb,122,1f72aeda96079880,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPackagingGMPSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPackagingGMPSearch.vb,63,c69204af193c7ce8,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPackagingSearch.designer.vb,122,4f56d5945a4ef853,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPackagingSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPackagingSearch.vb,111,9c890b52e203ef22,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPartNumberGMPSearch.designer.vb,123,079eb45e06ef31a9,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPartNumberGMPSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPartNumberGMPSearch.vb,240,49c4510c46fd448d,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPartNumberSearch.Designer.vb,123,b4370e2fb1b188ef,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPartNumberSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPartNumberSearch.vb,2464,1461ec6d2c7584b1,﻿Imports master_new.ModFunction,End Class,0,0,0,2,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPartnerGMPSearch.designer.vb,132,5ec917456f22a758,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPartnerGMPSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPartnerGMPSearch.vb,123,f6a136330fcd4a45,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPartnerSearch.Designer.vb,132,4ae37ddc0589c337,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPartnerSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPartnerSearch.vb,456,a1a39279751d1bc8,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPaymentRecapSearch.Designer.vb,259,70d4b6ee7e8af85d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPaymentRecapSearch.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPaymentRecapSearch.vb,427,285e7957d2e7d6e7,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPaymentTypeSearch.Designer.vb,94,89cdd980254f5c82,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPaymentTypeSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPaymentTypeSearch.vb,60,12c2b337069af72d,﻿Public Class FPaymentTypeSearch,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPriceListSearch.Designer.vb,154,b3d642e2b6f8c1bb,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPriceListSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPriceListSearch.vb,174,50fa53b084113669,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FProjectAccountSearch.Designer.vb,156,8c4abd56303e2255,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FProjectAccountSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FProjectAccountSearch.vb,229,5311daaed7cf6d10,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPurchaseOrderSearch.Designer.vb,155,77028578c6d79188,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPurchaseOrderSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FPurchaseOrderSearch.vb,1034,a9b2961b3e1523e7,﻿Imports master_new.ModFunction,End Class,0,0,0,5,0
+Grafindo Solution/Grafindo.Project/__Browse References/FReasonCodeSOSearch.Designer.vb,121,a8558d40a43d173f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FReasonCodeSOSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FReasonCodeSOSearch.vb,95,3aa486169adf1073,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FSalesOrderRecapSearch.designer.vb,155,34f444da291d8c50,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FSalesOrderRecapSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FSalesOrderRecapSearch.vb,418,71f49973f184ac69,﻿Imports master_new.ModFunction,End Class,0,0,0,3,0
+Grafindo Solution/Grafindo.Project/__Browse References/FSalesOrderSearch.Designer.vb,166,ec4367238b252be3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FSalesOrderSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FSalesOrderSearch.vb,2284,1f525fd464059f9e,﻿Imports master_new.ModFunction,End Class,0,0,0,12,0
+Grafindo Solution/Grafindo.Project/__Browse References/FSalesOrderShipmentSearch.Designer.vb,155,dc81b0c03f810984,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FSalesOrderShipmentSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FSalesOrderShipmentSearch.vb,319,d6edeb93389d073d,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/__Browse References/FSalesPersonGMPSearch.designer.vb,87,7a5d95f8d8dc3f31,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FSalesPersonGMPSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FSalesPersonGMPSearch.vb,75,b408b116ea4b9c25,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FTaxClassGMPSearch.Designer.vb,130,e5996cf78b91c2cb,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FTaxClassGMPSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FTaxClassGMPSearch.vb,62,c72b1912a348487f,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FTaxClassSearch.Designer.vb,130,cada8d3058c6a84f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FTaxClassSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FTaxClassSearch.vb,89,fee2d79c8db6eb87,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FUMGMPSearch.designer.vb,122,cfff73761d465cfa,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FUMGMPSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FUMGMPSearch.vb,106,f9163905ad16750c,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/__Browse References/FUMSearch.Designer.vb,122,6d466c0c903e0e0c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FUMSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FUMSearch.vb,220,f931c1ed63e450aa,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/__Browse References/FUserApprovalSearch.Designer.vb,86,932c1b89dd627c56,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FUserApprovalSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FUserApprovalSearch.vb,55,eae5e387d79ed24a,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FVoucherSearch.Designer.vb,288,562f1358a1d408d2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FVoucherSearch.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__Browse References/FVoucherSearch.vb,511,2bbbab6ea36f3ef5,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/__General Form/CustomDesignForm.resx,640,db615f6583fe6dfb,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__General Form/CustomDesignForm.vb,1188,aec0f37981d5a803,Public Class CustomDesignForm,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__General Form/FCodeMstr.Designer.vb,600,982b99a574b03902,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__General Form/FCodeMstr.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__General Form/FCodeMstr.vb,358,07ecd96169f6f618,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+Grafindo Solution/Grafindo.Project/__General Form/frmExport.Designer.vb,61,6f1eafce3a4851d8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__General Form/frmExport.resx,120,f601cd30780a3718,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__General Form/frmExport.vb,3,45f406382ddae28b,﻿Public Class frmExport,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__General Form/frmPrintDialog.Designer.vb,170,6b6178b15ee6767e,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__General Form/frmPrintDialog.resx,440,caabe7620bd14448,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__General Form/frmPrintDialog.vb,194,6e2a57b25b056107,Imports master_new.PGSqlConn,End Class,0,0,0,1,0
+Grafindo Solution/Grafindo.Project/__General Form/frmPrintDialogReport.Designer.vb,1406,43c5bd402f5977d5,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__General Form/frmPrintDialogReport.resx,446,0bde7817e885efc1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Grafindo Solution/Grafindo.Project/__General Form/frmPrintDialogReport.vb,48,150408c4f7e7463c,Imports master_new.PGSqlConn,End Class,0,0,1,0,0
+Grafindo Solution/Grafindo.Project/app.config,52,5359c7c4d5068d88,"<?xml version=""1.0""?>","<startup><supportedRuntime version=""v4.0"" sku="".NETFramework,Version=v4.6""/></startup></configuration>",0,0,0,0,0
