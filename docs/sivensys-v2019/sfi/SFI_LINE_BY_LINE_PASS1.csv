@@ -1,0 +1,401 @@
+file,lines,sha16,first_line,last_line,hit_wf_mstr,hit_glt_det,hit_insert_log,hit_MessageBox.Show,hit_TODO
+SFI Solution/SFI.Project/Module/Distribution/Inventory/Report/FInvReportByDate.designer.vb,905,8b056990d3280c1a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Distribution/Inventory/Report/FInvReportByDate.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Distribution/Inventory/Report/FInvReportByDate.vb,1093,15789b9ef9f94afc,﻿Imports master_new.ModFunction,End Class,0,0,0,4,0
+SFI Solution/SFI.Project/Module/Distribution/Purchase Order/FPurchaseOrder.Designer.vb,1965,e78f539ad7f8dec9,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Distribution/Purchase Order/FPurchaseOrder.resx,132,e4ca043a832d7bcb,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Distribution/Purchase Order/FPurchaseOrder.vb,6437,8f4da8ea5552573a,﻿Imports DevExpress.XtraExport,,13,8,9,117,0
+SFI Solution/SFI.Project/Module/Distribution/Purchase Order/FPurchaseOrderApproval.designer.vb,1029,6e1afd2d9a3e689d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Distribution/Purchase Order/FPurchaseOrderApproval.resx,138,ccd6028516e1132e,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Distribution/Purchase Order/FPurchaseOrderApproval.vb,1517,c6bfe88258923df2,﻿Imports Devart.Data.PostgreSql,End Class,14,0,2,20,0
+SFI Solution/SFI.Project/Module/Distribution/Purchase Order/FPurchaseReturn.Designer.vb,979,20a683914aa1e112,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Distribution/Purchase Order/FPurchaseReturn.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Distribution/Purchase Order/FPurchaseReturn.vb,1945,f38dbc949782c957,﻿Imports Devart.Data.PostgreSql,End Class,0,7,3,33,0
+SFI Solution/SFI.Project/Module/Distribution/Purchase Order/XRPurchaseOrderPrintOut.designer.vb,1387,05a43295fbd9c323,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Distribution/Purchase Order/XRPurchaseOrderPrintOut.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Distribution/Purchase Order/XRPurchaseOrderPrintOut.vb,158,bb9bf171132c3a53,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+SFI Solution/SFI.Project/Module/Distribution/Purchase Order/XRPurchaseReturnPrint.designer.vb,969,3c84b160e6547834,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Distribution/Purchase Order/XRPurchaseReturnPrint.resx,615,a1672af25c63cc0f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Distribution/Purchase Order/XRPurchaseReturnPrint.vb,108,e519c68632fe67d6,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+SFI Solution/SFI.Project/Module/Distribution/Qc/FQualityControl.designer.vb,1318,65831a47683a01a1,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Distribution/Qc/FQualityControl.resx,129,21f04bb96ca2099d,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Distribution/Qc/FQualityControl.vb,3335,9d076e1fa5ae6746,﻿Imports master_new.PGSqlConn,End Class,0,19,3,46,0
+SFI Solution/SFI.Project/Module/Distribution/Qc/XRInspectionPrint.designer.vb,1048,e2cd5ac98aa7a05d,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Distribution/Qc/XRInspectionPrint.resx,609,5a0563f79ad4be92,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Distribution/Qc/XRInspectionPrint.vb,108,4c30e14874175d23,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Print Out/FDRCRMemoPrint.designer.vb,341,95abd94c5bb1191b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Print Out/FDRCRMemoPrint.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Print Out/FDRCRMemoPrint.vb,219,0a26446ff4e01de8,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Print Out/XRCashInARPrint.designer.vb,1094,4cb43432c093408d,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Print Out/XRCashInARPrint.resx,606,0c95dd9471412a34,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Print Out/XRCashInARPrint.vb,108,5b1ba678b0a3f2ec,Imports master_new.ModFunction,End Class,0,0,1,4,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Print Out/XRInvoiceDisc2.designer.vb,1645,bf61ba245edb6f07,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Print Out/XRInvoiceDisc2.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Print Out/XRInvoiceDisc2.vb,183,b1bd3f13ef598759,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Print Out/XRInvoiceDisc2_a5.designer.vb,1615,4f244363aaabe30f,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Print Out/XRInvoiceDisc2_a5.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Print Out/XRInvoiceDisc2_a5.vb,169,ba99ad3a0d0889eb,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Print Out/XRInvoiceDistLine2.designer.vb,1166,ef16f52031ac039f,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Print Out/XRInvoiceDistLine2.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Print Out/XRInvoiceDistLine2.vb,120,fa9f7ee773abccd9,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Print Out/ds_invoice.vb,2,a22e12b61e34c029,﻿Partial Class ds_invoice,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Print Out/ds_invoice.xsd,514,2eb7d58e3e526e38,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Print Out/ds_invoice2.Designer.vb,608,7263a1d45d9571e1,﻿'------------------------------------------------------------------------------,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Print Out/ds_invoice2.xsd,25,4f378a407b12d123,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Transaction/FARPayment.Designer.vb,1386,469a0dedd816d2da,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Transaction/FARPayment.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Transaction/FARPayment.vb,3087,26d9035cb0dae065,﻿Imports Devart.Data.PostgreSql,End Class,0,25,3,52,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Transaction/FDRCRMemo.Designer.vb,2088,016d2227a7582ce7,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Transaction/FDRCRMemo.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/AR Invoice/Transaction/FDRCRMemo.vb,4681,253be25bce0c9f78,﻿Imports Devart.Data.PostgreSql,End Class,0,24,5,54,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrint.designer.vb,998,a198db81eafda2c4,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrint.resx,594,2065517ee9b96242,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrint.vb,314,40923ea850ca41fd,Imports master_new.PGSqlConn,End Class,0,0,1,4,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrintPng.designer.vb,509,fb72a25e4c0f5716,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrintPng.resx,234,9086b685e4066596,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrintPng.vb,219,e86ca7bd9e8f869c,Imports master_new.PGSqlConn,End Class,1,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrint.designer.vb,820,aba6a4bbd24a6a1a,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrint.resx,570,0afc9c9d4d5a86b1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrint.vb,286,6c6f2fea613092ef,Imports master_new.PGSqlConn,End Class,0,0,1,4,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrintPng.designer.vb,666,875da6244fad7f92,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrintPng.resx,522,93e30a224a0620bb,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrintPng.vb,254,20444e5f26f19643,Imports master_new.PGSqlConn,End Class,1,0,0,1,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Print Out/XRDisbursementVoucherPrint.designer.vb,918,48d84e48b96845dd,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Print Out/XRDisbursementVoucherPrint.resx,579,a8aa99f7d18341ce,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Print Out/XRDisbursementVoucherPrint.vb,332,5458ee0f1b664335,Imports master_new.ModFunction,End Class,0,0,1,5,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Report/Grid/FGeneralLedgerCashReportPerUserBank.designer.vb,452,f5bc2b6c0897b4cd,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Report/Grid/FGeneralLedgerCashReportPerUserBank.resx,126,854f573badcd3e0d,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Report/Grid/FGeneralLedgerCashReportPerUserBank.vb,742,79f88c808654ac56,﻿Imports master_new.ModFunction,End Class,0,4,0,5,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Report/Grid/XRCashBalance.designer.vb,909,87ff95dfbc19fbd5,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Report/Grid/XRCashBalance.resx,561,9d25e826bc6e57c6,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Report/Grid/XRCashBalance.vb,42,44f5e016f9f2f32a,Imports DevExpress.XtraPrinting,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealization.designer.vb,1462,d0ab80c37666fd79,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealization.resx,132,387d7667fceb3418,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealization.vb,3356,b938850c20687e81,﻿Imports Devart.Data.PostgreSql,,10,1,6,78,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealizationApproval.designer.vb,940,b202bc95f34fd4ec,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealizationApproval.resx,138,ccd6028516e1132e,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealizationApproval.vb,1741,bd3e1505d340f331,﻿Imports Devart.Data.PostgreSql,End Class,16,9,3,28,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Transaction/FDisbursementRequest.designer.vb,1464,a83e5090995189fa,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Transaction/FDisbursementRequest.resx,132,b557f833e1ea67e9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Transaction/FDisbursementRequest.vb,2839,ad432b2321ccb7a1,﻿Imports Devart.Data.PostgreSql,,10,1,7,78,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Transaction/FDisbursementVoucher.designer.vb,1440,d85a903d6d085c35,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Transaction/FDisbursementVoucher.resx,132,b709a38c7be8db62,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Cash Management/Transaction/FDisbursementVoucher.vb,2058,3f11065239ea0447,﻿Imports Devart.Data.PostgreSql,,0,2,3,38,0
+SFI Solution/SFI.Project/Module/Financial/General Ledger/FGenerateJournalSOShipment.designer.vb,206,37d681a2b955d059,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/General Ledger/FGenerateJournalSOShipment.resx,129,86b0d583c00fc960,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/General Ledger/FGenerateJournalSOShipment.vb,787,ec30bb698469078a,﻿Imports Devart.Data.PostgreSql,,0,11,0,9,0
+SFI Solution/SFI.Project/Module/Financial/General Ledger/FGenerateJournalWOCompIssues.designer.vb,207,88fe4bee37e25ec5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/General Ledger/FGenerateJournalWOCompIssues.resx,129,86b0d583c00fc960,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/General Ledger/FGenerateJournalWOCompIssues.vb,1235,724049ceb4a5b4fc,﻿Imports Devart.Data.PostgreSql,,0,17,0,9,0
+SFI Solution/SFI.Project/Module/Financial/General Ledger/FGenerateJournalWOReceipt.designer.vb,207,fdf373c60e68647f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/General Ledger/FGenerateJournalWOReceipt.resx,129,86b0d583c00fc960,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/General Ledger/FGenerateJournalWOReceipt.vb,875,f412ae24828f05a1,﻿Imports Devart.Data.PostgreSql,,0,13,0,10,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/FFakturPajak.designer.vb,928,69eded6e2d0a2324,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/FFakturPajak.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/FFakturPajak.vb,1630,5a001be52b50233e,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,33,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/FFakturPajakPrint.Designer.vb,458,067c29a408a2f9e8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/FFakturPajakPrint.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/FFakturPajakPrint.vb,217,24084abbc4d792d6,﻿Public Class FFakturPajakPrint,End Class,0,0,0,3,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/FFakturPajakReport.designer.vb,194,4d7b32501c7d53d4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/FFakturPajakReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/FFakturPajakReport.vb,160,04766df045d2e234,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/FFakturPajak_v1.designer.vb,686,aacee66814affe30,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/FFakturPajak_v1.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/FFakturPajak_v1.vb,1593,30bd35ec9e039aac,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,43,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlain.designer.vb,3053,7fa04ddda1f2df7b,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlain.resx,789,2b3643d11617bb59,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlain.vb,251,8f4449a2b7fe47c5,,End Class,0,0,0,1,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlainIDR.designer.vb,2696,37d09c833c4e03af,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlainIDR.resx,732,1e0dbb67e42035ad,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlainIDR.vb,197,13482ef15e22e962,,End Class,0,0,0,1,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/ds_ti.Designer.vb,3597,abb98419ee177597,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Financial/Tax Invoice/ds_ti.xsd,475,df3fd7215f6a584e,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/Control File/FControlFileManufacture.designer.vb,1362,7cab663dd5122a8b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/Control File/FControlFileManufacture.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/Control File/FControlFileManufacture.vb,3042,522ec753098b512a,﻿Imports master_new.PGSqlConn,End Class,0,0,33,94,0
+SFI Solution/SFI.Project/Module/Manufacture/FMaterialUsageStandar.designer.vb,760,a3c2fe8be2df0ffb,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FMaterialUsageStandar.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FMaterialUsageStandar.vb,1169,6612a67d8ac237d2,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,24,0
+SFI Solution/SFI.Project/Module/Manufacture/FUpdateCOGSWIPWOReceipt.designer.vb,206,582fd6c055bceaee,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FUpdateCOGSWIPWOReceipt.resx,129,86b0d583c00fc960,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FUpdateCOGSWIPWOReceipt.vb,375,8518d3dfd4f41e8d,﻿Imports Devart.Data.PostgreSql,,0,0,0,6,0
+SFI Solution/SFI.Project/Module/Manufacture/FUpdateCOGSWOIssues.designer.vb,207,c925dcf6fc7f2b1d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FUpdateCOGSWOIssues.resx,129,86b0d583c00fc960,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FUpdateCOGSWOIssues.vb,327,466a24e68d14512d,﻿Imports Devart.Data.PostgreSql,,0,0,0,6,0
+SFI Solution/SFI.Project/Module/Manufacture/FUpdateCOGSWOReceipt.designer.vb,206,b37c49a14d2eb658,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FUpdateCOGSWOReceipt.resx,129,86b0d583c00fc960,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FUpdateCOGSWOReceipt.vb,175,1f89f72ba6a6345a,﻿Imports Devart.Data.PostgreSql,,0,0,0,5,0
+SFI Solution/SFI.Project/Module/Manufacture/FWIPInventoryIssues.designer.vb,973,1601689bebc739e0,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWIPInventoryIssues.resx,132,9f5ec3d5d62a83b1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWIPInventoryIssues.vb,2367,3207246992c17af0,﻿Imports Devart.Data.PostgreSql,End Class,0,10,2,39,0
+SFI Solution/SFI.Project/Module/Manufacture/FWIPInventoryReceipts.designer.vb,951,f92706945bbcfe46,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWIPInventoryReceipts.resx,129,2514c8f50c975d4a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWIPInventoryReceipts.vb,2561,eee35cbca7fd07d0,﻿Imports Devart.Data.PostgreSql,,0,15,2,39,0
+SFI Solution/SFI.Project/Module/Manufacture/FWIPReturn.designer.vb,833,3cc2ed5598846ec5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWIPReturn.resx,129,2514c8f50c975d4a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWIPReturn.vb,2612,56006578a2aa8e19,﻿Imports master_new.PGSqlConn,End Class,0,24,3,34,0
+SFI Solution/SFI.Project/Module/Manufacture/FWOLaborFeedbackAll.designer.vb,1069,14fc87004a742cfc,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWOLaborFeedbackAll.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWOLaborFeedbackAll.vb,1699,0b341a741cf9c2a5,﻿Imports Devart.Data.PostgreSql,End Class,0,28,3,31,0
+SFI Solution/SFI.Project/Module/Manufacture/FWOMaterialRequest.designer.vb,818,a5e2534d0c6b2c0f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWOMaterialRequest.resx,126,e99f9da1e93d2bb9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWOMaterialRequest.vb,1146,e89f1f470929cda7,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,22,0
+SFI Solution/SFI.Project/Module/Manufacture/FWOReceipt.designer.vb,1772,2618d6902767def1,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWOReceipt.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWOReceipt.vb,4566,38e6af895fb6092c,﻿Imports Devart.Data.PostgreSql,End Class,0,24,3,62,0
+SFI Solution/SFI.Project/Module/Manufacture/FWOReceiptGrade.designer.vb,781,ad9378fc8695652b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWOReceiptGrade.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWOReceiptGrade.vb,251,fc29d5ac0e17ae2e,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,5,0
+SFI Solution/SFI.Project/Module/Manufacture/FWORouteMaintenance.designer.vb,880,6d02b858e939d93b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWORouteMaintenance.resx,129,0eb3fd187ec337a0,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWORouteMaintenance.vb,686,c828edbc3f46a61d,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,8,0
+SFI Solution/SFI.Project/Module/Manufacture/FWorkOrder.designer.vb,1495,624ce847e1302db1,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWorkOrder.resx,129,f4a1f5efea31259f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWorkOrder.vb,2267,9a821ab248a287e8,﻿Imports Devart.Data.PostgreSql,End Class,0,0,6,50,0
+SFI Solution/SFI.Project/Module/Manufacture/FWorkOrderIssue.designer.vb,1577,5a1aec99837a289e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWorkOrderIssue.resx,246,117abb154fdb6a97,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWorkOrderIssue.vb,1943,7f45eb812fb9eda3,﻿Imports master_new.PGSqlConn,End Class,0,1,2,34,0
+SFI Solution/SFI.Project/Module/Manufacture/FWorkOrderIssueReportRounding.designer.vb,291,a8de0a3c7af91829,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWorkOrderIssueReportRounding.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWorkOrderIssueReportRounding.vb,365,79dd4c91551b6328,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+SFI Solution/SFI.Project/Module/Manufacture/FWorkOrderReceiptReport.designer.vb,355,0a23395d18b8fb8a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWorkOrderReceiptReport.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWorkOrderReceiptReport.vb,185,3f5058be0517ade1,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+SFI Solution/SFI.Project/Module/Manufacture/FWorkOrderReceiptReportRounding.designer.vb,491,9480aabde7b33123,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWorkOrderReceiptReportRounding.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/FWorkOrderReceiptReportRounding.vb,821,7583b3b42667b6a4,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+SFI Solution/SFI.Project/Module/Manufacture/Routing and Work Center/FRouting.designer.vb,777,39fcae2d428d1883,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/Routing and Work Center/FRouting.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/Routing and Work Center/FRouting.vb,1334,0757f478fcd19931,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,23,0
+SFI Solution/SFI.Project/Module/Manufacture/XRWOIssuePrint.designer.vb,901,90bc5abee0f5645e,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/XRWOIssuePrint.resx,588,974e4aea99197331,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/XRWOIssuePrint.vb,131,959dea01841110a9,Imports master_new.ModFunction,End Class,0,0,1,4,0
+SFI Solution/SFI.Project/Module/Manufacture/XRWOMRPrint.designer.vb,808,88f436b3a23ee83b,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/XRWOMRPrint.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/XRWOMRPrint.vb,114,9229a5afaa69b8d1,Imports master_new.PGSqlConn,End Class,0,0,1,4,0
+SFI Solution/SFI.Project/Module/Manufacture/XRWOReceiptPrintLotSerial.designer.vb,1109,3ea26855c97e721b,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/XRWOReceiptPrintLotSerial.resx,630,9c284f7dad84ca58,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/XRWOReceiptPrintLotSerial.vb,119,f392592216cb2c5d,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+SFI Solution/SFI.Project/Module/Manufacture/XRWOReceiptPrintNon.designer.vb,818,4c88fb32cbd0632d,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/XRWOReceiptPrintNon.resx,552,3a535d5e0f5c3dfb,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Manufacture/XRWOReceiptPrintNon.vb,118,9ff6343e394a854f,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+SFI Solution/SFI.Project/Module/Master Data/FChangeStatusCustomer.designer.vb,169,a49a2e80364abfc2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Master Data/FChangeStatusCustomer.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Master Data/FChangeStatusCustomer.vb,331,e3c16af4ac802e4a,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,8,0
+SFI Solution/SFI.Project/Module/Master Data/FCustomer.designer.vb,1850,a00a65f799244e65,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Master Data/FCustomer.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Master Data/FCustomer.vb,2675,7e980b7c3b6491f8,﻿Imports Devart.Data.PostgreSql,End Class,8,0,6,44,0
+SFI Solution/SFI.Project/Module/Master Data/FCustomerApproval.Designer.vb,701,31a2c8f20293a039,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Master Data/FCustomerApproval.resx,138,ccd6028516e1132e,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Master Data/FCustomerApproval.vb,996,2db8bede028fa5fb,﻿Imports Devart.Data.PostgreSql,End Class,13,0,4,21,0
+SFI Solution/SFI.Project/Module/Master Data/FLocation.designer.vb,806,d795ed5df33c0e34,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Master Data/FLocation.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Master Data/FLocation.vb,602,f7892d3bedac2599,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,13,0
+SFI Solution/SFI.Project/Module/Master Data/Item Sites/FPartNumber.designer.vb,1111,e3fb2bfd3a8aa8dd,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Master Data/Item Sites/FPartNumber.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Master Data/Item Sites/FPartNumber.vb,1125,0c2187f8e2d6545c,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,24,0
+SFI Solution/SFI.Project/Module/Master Data/Item Sites/FPartNumberImport.designer.vb,1093,7680012da56267c2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Master Data/Item Sites/FPartNumberImport.resx,129,92835f53a0ec0c20,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Master Data/Item Sites/FPartNumberImport.vb,819,c92af8c169c9511f,﻿Imports Devart.Data.PostgreSql,,0,0,0,30,0
+SFI Solution/SFI.Project/Module/Master Data/XRRoutingApproval.designer.vb,184,636db256e91e7888,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Master Data/XRRoutingApproval.resx,199,88bbee0db9904d62,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,1,0,0,0,0
+SFI Solution/SFI.Project/Module/Master Data/XRRoutingApproval.vb,3,6e988e86f2a2a897,Public Class XRRoutingApproval,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/FSOGiftReport_old.designer.vb,330,4ef01af6b51f8bd4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/FSOGiftReport_old.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/FSOGiftReport_old.vb,430,1b69bb36bba658db,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+SFI Solution/SFI.Project/Module/Sales Order/FSOTypeMaklon.Designer.vb,91,5cb77d892c36a6fd,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/FSOTypeMaklon.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/FSOTypeMaklon.vb,22,bfa024aaf345555d,﻿Public Class FSOTypeMaklon,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/FSalesOrder.Designer.vb,2345,0854d4b1cd676278,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/FSalesOrder.resx,135,2805f4c57f7bb8f0,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/FSalesOrder.vb,9292,262a8998c41736e6,﻿Imports Devart.Data.PostgreSql,,12,18,7,146,0
+SFI Solution/SFI.Project/Module/Sales Order/FSalesOrderShipment.Designer.vb,1604,77cbed8d8f4a666d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/FSalesOrderShipment.resx,135,63c5490e0f2c3e29,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/FSalesOrderShipment.vb,4567,5f7eb99e8b335882,﻿Imports master_new.PGSqlConn,End Class,0,25,4,66,0
+SFI Solution/SFI.Project/Module/Sales Order/FSalesOrderShipmentCOGSReport_2.designer.vb,229,b232795026ce63e8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/FSalesOrderShipmentCOGSReport_2.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/FSalesOrderShipmentCOGSReport_2.vb,304,29e5fb3fae010b79,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+SFI Solution/SFI.Project/Module/Sales Order/FUpdateCOGSSOShipment.designer.vb,206,c652f38291be388b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/FUpdateCOGSSOShipment.resx,129,86b0d583c00fc960,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/FUpdateCOGSSOShipment.vb,578,d83949127daa3a34,﻿Imports Devart.Data.PostgreSql,,0,0,0,11,0
+SFI Solution/SFI.Project/Module/Sales Order/Print Out/XRSO.designer.vb,873,a9c00c3752aab3f0,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/Print Out/XRSO.resx,573,5fda09c84c9dd626,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/Print Out/XRSO.vb,110,b4341826831a82a1,Imports master_new.ModFunction,End Class,0,0,1,4,0
+SFI Solution/SFI.Project/Module/Sales Order/Print Out/XRSO_LOT.designer.vb,896,17ef787fdf271260,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/Print Out/XRSO_LOT.resx,585,2a2fe8ad90363931,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/Print Out/XRSO_LOT.vb,128,6448803cf1935913,Imports master_new.ModFunction,End Class,0,0,1,4,0
+SFI Solution/SFI.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.Designer.vb,1008,75749d51430844f3,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.resx,603,ce98fb1717b6358c,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.vb,127,cd6af34734042668,Imports master_new.ModFunction,End Class,0,0,1,4,0
+SFI Solution/SFI.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint_LOT.designer.vb,1040,379e8864e8d7e0b8,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint_LOT.resx,609,0bee7af131515285,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint_LOT.vb,127,3e12f794ca214427,Imports master_new.ModFunction,End Class,0,0,1,4,0
+SFI Solution/SFI.Project/Module/Sales Order/Report/FSalesOrderReport.Designer.vb,301,71ff878531900404,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/Report/FSalesOrderReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/Sales Order/Report/FSalesOrderReport.vb,536,c90900322a967533,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+SFI Solution/SFI.Project/Module/___Function Helper/Cls_Bilangan_new.vb,716,5fbe892040465787,﻿Public Class Cls_Bilangan_new,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/___Function Helper/FCodeMstr2.Designer.vb,480,831d1caa26c80c9d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/Module/___Function Helper/FCodeMstr2.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/Module/___Function Helper/FCodeMstr2.vb,340,8eb25dbc03d2af43,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+SFI Solution/SFI.Project/Module/___Function Helper/ModFunctionSpecial.vb,1695,f5908ef360a84bde,﻿Imports master_new.ModFunction,End Module,0,2,0,2,0
+SFI Solution/SFI.Project/Module/___Function Helper/function_collection.vb,10501,1b50f270084a46a9,﻿Imports System.Net.Mail,,3,114,0,270,0
+SFI Solution/SFI.Project/Module/___Function Helper/function_data.vb,6034,ca6ab3a6beaa184a,﻿Imports master_new.ModFunction,End Class,0,0,0,240,0
+SFI Solution/SFI.Project/My Project/Application.Designer.vb,13,4dd7045513941609,﻿'------------------------------------------------------------------------------,,0,0,0,0,0
+SFI Solution/SFI.Project/My Project/AssemblyInfo.vb,35,8821e0f1b5f4f2d2,﻿Imports System,"<Assembly: AssemblyFileVersion(""1.0.0.0"")>",0,0,0,0,0
+SFI Solution/SFI.Project/My Project/Resources.Designer.vb,63,0ad4020c21879508,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+SFI Solution/SFI.Project/My Project/Resources.resx,127,2cd041a031a7b528,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/My Project/Settings.Designer.vb,171,ddac876702417548,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FAccountSearch.Designer.vb,156,4c27ad01214e9571,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FAccountSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FAccountSearch.vb,526,06022c31800b3c59,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FAddressTypeSearch.Designer.vb,86,a45b85a2fad61f57,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FAddressTypeSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FAddressTypeSearch.vb,59,31c4fede86619dea,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FBGSearch.designer.vb,88,ce6baf2d406b8d47,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FBGSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FBGSearch.vb,104,86c4a5a7c65bb2f2,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FBranchSearch.Designer.vb,154,bb731656dd40cddc,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FBranchSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FBranchSearch.vb,88,b5c871584231742e,﻿Public Class FBranchSearch,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FCodeSearch.designer.vb,156,d11ddfd0a03da150,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FCodeSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FCodeSearch.vb,111,52c1ef1894b6134f,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FCostCenterSearch.designer.vb,156,c5bed4632d4ee766,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FCostCenterSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FCostCenterSearch.vb,117,a95fee966b59c3e1,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FCustomerSearch.designer.vb,87,0be7f6eb8e5a2d87,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FCustomerSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FCustomerSearch.vb,337,233ef00904df900e,﻿Imports master_new.ModFunction,End Class,0,0,0,3,0
+SFI Solution/SFI.Project/__Browse References/FDRCRMemoSearch.Designer.vb,256,76fa872cbd0f5d0e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FDRCRMemoSearch.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FDRCRMemoSearch.vb,746,efabe8815a43765f,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FDisbRequestDetailSearch.designer.vb,87,774ba054eb10544e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FDisbRequestDetailSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FDisbRequestDetailSearch.vb,92,0d292dec4ea505cb,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FDisbursementRequestSearch.designer.vb,223,c365bdd9c824a25f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FDisbursementRequestSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FDisbursementRequestSearch.vb,384,6c83c3d8bc93117d,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FEmpSearch.Designer.vb,156,4a486e2737fa4d48,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FEmpSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FEmpSearch.vb,102,06e7ddac9c19e25e,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FFakturPajakSearch.designer.vb,188,ce533287e40cf9a3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FFakturPajakSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FFakturPajakSearch.vb,203,564331dee64d715b,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FFunctionCPSearch.Designer.vb,86,92459c005fc0840c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FFunctionCPSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FFunctionCPSearch.vb,59,816d3c717990f44b,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FInvoiceSearch.designer.vb,228,fe27a8c2f91fee74,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FInvoiceSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FInvoiceSearch.vb,346,991731c48f4c0d50,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FItemSubsSearch.designer.vb,154,0393bd5304b277c7,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FItemSubsSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FItemSubsSearch.vb,84,22992e47997067ff,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FLocationSearch.Designer.vb,156,fa4d992a9a3ddbb8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FLocationSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FLocationSearch.vb,725,989af72504a60427,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FLotSerialSearch.designer.vb,171,f3dda9e7345a08de,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FLotSerialSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FLotSerialSearch.vb,244,14eed205ebda3789,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FNotaSearch.designer.vb,188,f3c4322886d5c871,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FNotaSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FNotaSearch.vb,210,6f0bbb0ebd43d012,﻿Imports master_new.ModFunction,,0,0,0,1,0
+SFI Solution/SFI.Project/__Browse References/FPOCustomerSearch.designer.vb,188,13b9ab4efde94c7d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPOCustomerSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPOCustomerSearch.vb,380,3cf43618348af89e,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPPNTypeSearch.Designer.vb,94,179c7c25eddfcc07,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPPNTypeSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPPNTypeSearch.vb,50,ab8af456f7acbd12,﻿Public Class FPPNTypeSearch,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPTBOMSrch.Designer.vb,126,4d4bb22089335bae,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPTBOMSrch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPTBOMSrch.vb,231,4bd7e368e03a3467,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPackagingSearch.designer.vb,156,2f6d60a6e10b11af,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPackagingSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPackagingSearch.vb,111,9c890b52e203ef22,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPartNumberSearch.Designer.vb,169,4abea48de3d6bf93,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPartNumberSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPartNumberSearch.vb,2480,d32540cc05499d67,﻿Imports master_new.ModFunction,End Class,0,0,0,2,0
+SFI Solution/SFI.Project/__Browse References/FPartnerSearch.Designer.vb,166,f9d46371c548f14b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPartnerSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPartnerSearch.vb,495,178b8c7baa720531,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+SFI Solution/SFI.Project/__Browse References/FProdStrucSearch.designer.vb,154,c4f54c1d04c9c5b7,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FProdStrucSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FProdStrucSearch.vb,279,56e347cfe8f0a4f3,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FProducerSearch.designer.vb,154,75f58ac170e9396c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FProducerSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FProducerSearch.vb,62,76069fb0ec569471,﻿Public Class FProducerSearch,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FProjectAccountSearch.Designer.vb,194,b3fae3553b1487f0,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FProjectAccountSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FProjectAccountSearch.vb,229,5311daaed7cf6d10,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPurchaseOrderSearch.Designer.vb,192,a31d61951c1de571,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPurchaseOrderSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPurchaseOrderSearch.vb,1036,22458ca6bef1113c,﻿Imports master_new.ModFunction,End Class,0,0,0,5,0
+SFI Solution/SFI.Project/__Browse References/FPurchaseReceiptSearch.Designer.vb,192,2208c20980df730d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPurchaseReceiptSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FPurchaseReceiptSearch.vb,118,948e0b9aa872a2b1,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FReasonCodeQCSearch.Designer.vb,154,56bf1d36e879d2c9,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FReasonCodeQCSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FReasonCodeQCSearch.vb,68,10474b9b1e343428,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FReasonCodeReturnSearch.Designer.vb,155,172696eb7873d873,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FReasonCodeReturnSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FReasonCodeReturnSearch.vb,66,72567aaa4a53b8b3,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FRequisitionSearch.Designer.vb,228,67e4b2b98f92b2e7,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FRequisitionSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FRequisitionSearch.vb,693,c2c85621e30440c5,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+SFI Solution/SFI.Project/__Browse References/FRoutingSearch.designer.vb,156,ad8b4289c571d148,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FRoutingSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FRoutingSearch.vb,60,a9d12dbdcf472a35,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FSalesOrderDetailSearch.designer.vb,204,f8afd1fae93ff73f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FSalesOrderDetailSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FSalesOrderDetailSearch.vb,176,bcf18a21e4399fdc,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FSalesOrderRecapSearch.designer.vb,192,d5feff29d188d39b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FSalesOrderRecapSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FSalesOrderRecapSearch.vb,439,5df48f411bda35bf,﻿Imports master_new.ModFunction,End Class,0,0,0,3,0
+SFI Solution/SFI.Project/__Browse References/FSalesOrderSearch.Designer.vb,229,cd986a961429e498,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FSalesOrderSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FSalesOrderSearch.vb,2347,5153216a744752f4,﻿Imports master_new.ModFunction,End Class,0,0,0,12,0
+SFI Solution/SFI.Project/__Browse References/FTaxClassSearch.Designer.vb,157,f7d600f704de54cf,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FTaxClassSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FTaxClassSearch.vb,89,fee2d79c8db6eb87,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FTaxInvoiceNumberSearch.designer.vb,88,a45f00b394b6722d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FTaxInvoiceNumberSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FTaxInvoiceNumberSearch.vb,68,e9d661424190a6ca,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FToolSearch.Designer.vb,156,ad02776f0043baba,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FToolSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FToolSearch.vb,58,19805dc966145380,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FUMSearch.Designer.vb,156,1e3bbe029716de08,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FUMSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FUMSearch.vb,217,b9a2a04b73720e9d,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+SFI Solution/SFI.Project/__Browse References/FWCSearch.designer.vb,156,af8b8f8b5c7c5170,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FWCSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FWCSearch.vb,93,955be5c894c30d5c,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FWIPPartNumberSearch.Designer.vb,123,803d03ca35006f84,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FWIPPartNumberSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FWIPPartNumberSearch.vb,147,e78feb1ce26d5e7e,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FWOMaterialRequestSearch.designer.vb,188,d62398f86bdd8327,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FWOMaterialRequestSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FWOMaterialRequestSearch.vb,370,24795d42cdddbedf,﻿Imports master_new.ModFunction,End Class,0,0,0,5,0
+SFI Solution/SFI.Project/__Browse References/FWOReceiptSearch.designer.vb,188,3d92870574c934a3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FWOReceiptSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FWOReceiptSearch.vb,262,7b168bd0d153771a,﻿Imports master_new.ModFunction,End Class,0,0,0,2,0
+SFI Solution/SFI.Project/__Browse References/FWORoutingSearch.designer.vb,154,9162c726ec8aeca7,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FWORoutingSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FWORoutingSearch.vb,359,574b317af7cb4aeb,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+SFI Solution/SFI.Project/__Browse References/FWOSearch.designer.vb,188,994284151e62c2f2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FWOSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__Browse References/FWOSearch.vb,768,8d8d3b9f2716b917,﻿Imports master_new.ModFunction,End Class,0,0,0,7,0
+SFI Solution/SFI.Project/__General Form/Cls_Bilangan.vb,532,aee266657b051ce3,﻿Public Class Cls_Bilangan,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__General Form/CustomDesignForm.resx,640,db615f6583fe6dfb,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__General Form/CustomDesignForm.vb,1188,912a9789e89510d7,Public Class CustomDesignForm,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__General Form/FCodeMstr.Designer.vb,626,70e2f8ec789a2258,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__General Form/FCodeMstr.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__General Form/FCodeMstr.vb,358,07ecd96169f6f618,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+SFI Solution/SFI.Project/__General Form/frmExport.designer.vb,61,6f1eafce3a4851d8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__General Form/frmExport.resx,120,f601cd30780a3718,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__General Form/frmExport.vb,3,45f406382ddae28b,﻿Public Class frmExport,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__General Form/frmPrintDialog.Designer.vb,170,6b6178b15ee6767e,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__General Form/frmPrintDialog.resx,440,caabe7620bd14448,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__General Form/frmPrintDialog.vb,194,1439b91d1f0f5bb0,Imports master_new.PGSqlConn,End Class,0,0,0,1,0
+SFI Solution/SFI.Project/__General Form/frmPrintDialogReport.Designer.vb,1406,43c5bd402f5977d5,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+SFI Solution/SFI.Project/__General Form/frmPrintDialogReport.resx,446,0bde7817e885efc1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+SFI Solution/SFI.Project/__General Form/frmPrintDialogReport.vb,48,150408c4f7e7463c,Imports master_new.PGSqlConn,End Class,0,0,1,0,0
+SFI Solution/SFI.Project/app.config,52,faf0c6cf86f9ae1c,"<?xml version=""1.0""?>","<startup><supportedRuntime version=""v4.0"" sku="".NETFramework,Version=v4.6""/></startup></configuration>",0,0,0,0,0
