@@ -1,0 +1,1766 @@
+file,line_count,method_count
+"Alkindo Solution/Alkindo.Project/Module/Administrative Tools/FCorrectionData.designer.vb",728,3
+"Alkindo Solution/Alkindo.Project/Module/Administrative Tools/FCorrectionData.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Administrative Tools/FCorrectionData.vb",1761,20
+"Alkindo Solution/Alkindo.Project/Module/Administrative Tools/FUserGroup.designer.vb",2068,3
+"Alkindo Solution/Alkindo.Project/Module/Administrative Tools/FUserGroup.resx",528,0
+"Alkindo Solution/Alkindo.Project/Module/Administrative Tools/FUserGroup.vb",1950,47
+"Alkindo Solution/Alkindo.Project/Module/Administrative Tools/w_reset_password.Designer.vb",76,3
+"Alkindo Solution/Alkindo.Project/Module/Administrative Tools/w_reset_password.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Administrative Tools/w_reset_password.vb",57,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Document/FDocumentIssues.designer.vb",876,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Document/FDocumentIssues.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Document/FDocumentIssues.vb",1307,36
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Document/FDocumentReceipt.designer.vb",1025,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Document/FDocumentReceipt.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Document/FDocumentReceipt.vb",626,21
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Document/FDocumentType.designer.vb",414,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Document/FDocumentType.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Document/FDocumentType.vb",360,18
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Document/XRDocumentIssuesPrint.designer.vb",734,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Document/XRDocumentIssuesPrint.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Document/XRDocumentIssuesPrint.vb",95,5
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Document/XRDocumentReceiptPrint.designer.vb",767,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Document/XRDocumentReceiptPrint.resx",552,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Document/XRDocumentReceiptPrint.vb",85,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/FControlFileDistribution.designer.vb",1788,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/FControlFileDistribution.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/FControlFileDistribution.vb",4793,95
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Packaging/FInventoryPackaging.designer.vb",1586,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Packaging/FInventoryPackaging.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Packaging/FInventoryPackaging.vb",2508,59
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Packaging/FPallet.designer.vb",409,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Packaging/FPallet.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Packaging/FPallet.vb",350,17
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/FInvLendReqReleasePrint.Designer.vb",80,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/FInvLendReqReleasePrint.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/FInvLendReqReleasePrint.vb",75,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/FInventoryRewindingReleasePrint.designer.vb",92,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/FInventoryRewindingReleasePrint.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/FInventoryRewindingReleasePrint.vb",76,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/FInventorySlittingReleasePrint.designer.vb",92,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/FInventorySlittingReleasePrint.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/FInventorySlittingReleasePrint.vb",76,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInvIssue.designer.vb",979,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInvIssue.resx",612,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInvIssue.vb",109,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInvIssue_LOT.designer.vb",998,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInvIssue_LOT.resx",630,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInvIssue_LOT.vb",107,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInvRec.designer.vb",973,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInvRec.resx",621,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInvRec.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInvRec_LOT.designer.vb",989,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInvRec_LOT.resx",627,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInvRec_LOT.vb",109,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryAssemble.designer.vb",833,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryAssemble.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryAssemble.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryAssemble_LOT.designer.vb",852,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryAssemble_LOT.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryAssemble_LOT.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryDisassemble.designer.vb",835,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryDisassemble.resx",558,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryDisassemble.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryDisassemble_LOT.designer.vb",854,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryDisassemble_LOT.resx",564,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryDisassemble_LOT.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryLend.designer.vb",1206,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryLend.resx",447,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryLend.vb",53,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryLendReq.designer.vb",941,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryLendReq.resx",360,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryLendReq.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryLendReturn.designer.vb",1211,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryLendReturn.resx",447,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryLendReturn.vb",53,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryLendReturn_Lot.designer.vb",1238,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryLendReturn_Lot.resx",453,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryLendReturn_Lot.vb",53,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryLend_Lot.designer.vb",1237,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryLend_Lot.resx",453,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryLend_Lot.vb",53,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryReqPrint.designer.vb",866,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryReqPrint.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryReqPrint.vb",125,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryRewinding.designer.vb",835,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryRewinding.resx",558,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryRewinding.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryRewinding_LOT.designer.vb",854,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryRewinding_LOT.resx",564,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventoryRewinding_LOT.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventorySlitting.designer.vb",952,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventorySlitting.resx",585,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventorySlitting.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventorySlitting_LOT.designer.vb",971,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventorySlitting_LOT.resx",591,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRInventorySlitting_LOT.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRJumboCoilDetail.designer.vb",331,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRJumboCoilDetail.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRJumboCoilDetail.vb",33,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRJumboCoilDetail_Portrait.designer.vb",306,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRJumboCoilDetail_Portrait.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRJumboCoilDetail_Portrait.vb",34,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRJumboCoilReport.designer.vb",460,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRJumboCoilReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRJumboCoilReport.vb",33,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRPurchaseReceiptScaleReport.designer.vb",710,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRPurchaseReceiptScaleReport.resx",270,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRPurchaseReceiptScaleReport.vb",11,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRSparepartIssue.Designer.vb",1004,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRSparepartIssue.resx",621,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRSparepartIssue.vb",119,6
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRSparepartIssueReport.designer.vb",648,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRSparepartIssueReport.resx",3974,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRSparepartIssueReport.vb",34,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRSparepartIssue_LOT.designer.vb",1048,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRSparepartIssue_LOT.resx",636,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRSparepartIssue_LOT.vb",118,6
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRSubJumboCoil.designer.vb",724,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRSubJumboCoil.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRSubJumboCoil.vb",11,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRSubJumboCoilDetail.designer.vb",553,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRSubJumboCoilDetail.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRSubJumboCoilDetail.vb",11,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRSubJumboCoilDetail_Portrait.designer.vb",527,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRSubJumboCoilDetail_Portrait.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRSubJumboCoilDetail_Portrait.vb",11,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRTransferIssuesPrint.designer.vb",930,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRTransferIssuesPrint.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRTransferIssuesPrint.vb",110,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRTransferIssuesPrint_LOT.designer.vb",883,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRTransferIssuesPrint_LOT.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRTransferIssuesPrint_LOT.vb",110,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRTransferReceiptPrint.designer.vb",645,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRTransferReceiptPrint.resx",534,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/XRTransferReceiptPrint.vb",52,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/ds_inventory_request.Designer.vb",3085,123
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/ds_jumbo_coil.Designer.vb",729,33
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/ds_jumbo_coil.vb",3,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/ds_slitting.Designer.vb",2824,109
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/ds_slitting_lot.Designer.vb",2956,115
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/ds_ti.Designer.vb",809,37
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Print Out/ds_ti.vb",5,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInvReportByDate.designer.vb",1522,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInvReportByDate.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInvReportByDate.vb",2250,32
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInvReportByDateNoCost.designer.vb",954,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInvReportByDateNoCost.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInvReportByDateNoCost.vb",1834,22
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInvReportByDate_2.Designer.vb",941,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInvReportByDate_2.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInvReportByDate_2.vb",730,19
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryAssembleReport.designer.vb",331,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryAssembleReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryAssembleReport.vb",461,6
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryAssembleReport2.designer.vb",287,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryAssembleReport2.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryAssembleReport2.vb",468,6
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryAssembleReport3.designer.vb",315,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryAssembleReport3.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryAssembleReport3.vb",387,6
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryChangeStatusReport.designer.vb",160,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryChangeStatusReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryChangeStatusReport.vb",107,7
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryDisassembleReport.designer.vb",333,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryDisassembleReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryDisassembleReport.vb",528,6
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryDisassembleReport2.designer.vb",330,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryDisassembleReport2.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryDisassembleReport2.vb",380,6
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryHistory.Designer.vb",362,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryHistory.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryHistory.vb",366,12
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryIssuesReport.designer.vb",255,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryIssuesReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryIssuesReport.vb",267,9
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryLendReport.Designer.vb",203,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryLendReport.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryLendReport.vb",206,8
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryLendReqReport.Designer.vb",167,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryLendReqReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryLendReqReport.vb",122,5
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryLendReturnReport.Designer.vb",203,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryLendReturnReport.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryLendReturnReport.vb",206,8
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryPackagingReport.designer.vb",233,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryPackagingReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryPackagingReport.vb",271,8
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReceiptsReport.designer.vb",255,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReceiptsReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReceiptsReport.vb",235,6
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReportDetail.Designer.vb",430,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReportDetail.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReportDetail.vb",768,17
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReportDetailLog.Designer.vb",284,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReportDetailLog.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReportDetailLog.vb",481,14
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReportDetailSelectCost.designer.vb",356,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReportDetailSelectCost.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReportDetailSelectCost.vb",536,16
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReportDetailSelection.designer.vb",242,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReportDetailSelection.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReportDetailSelection.vb",324,12
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReportDetailWIP.designer.vb",372,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReportDetailWIP.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReportDetailWIP.vb",525,15
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReportPalletSummary.designer.vb",329,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReportPalletSummary.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryReportPalletSummary.vb",359,15
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryRequestReport.Designer.vb",233,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryRequestReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryRequestReport.vb",173,8
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryTransferReport.Designer.vb",270,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryTransferReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FInventoryTransferReport.vb",348,9
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FJumboCoilReport.Designer.vb",383,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FJumboCoilReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FJumboCoilReport.vb",940,18
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FSparepartIssuesReport.designer.vb",255,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FSparepartIssuesReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FSparepartIssuesReport.vb",297,10
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FWarehouseSummaryReport.Designer.vb",342,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FWarehouseSummaryReport.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FWarehouseSummaryReport.vb",389,18
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FWarehouseSummaryReport2.designer.vb",833,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FWarehouseSummaryReport2.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Report/FWarehouseSummaryReport2.vb",1855,22
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/CloseInventoryLendRequest.designer.vb",383,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/CloseInventoryLendRequest.resx",153,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/CloseInventoryLendRequest.vb",262,10
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryAssemble.designer.vb",1388,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryAssemble.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryAssemble.vb",2653,45
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryAssemble2.designer.vb",1542,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryAssemble2.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryAssemble2.vb",3912,59
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryBalanceReport.designer.vb",451,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryBalanceReport.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryBalanceReport.vb",465,13
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryChangeStatus.designer.vb",859,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryChangeStatus.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryChangeStatus.vb",700,28
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryDisassemble.designer.vb",1204,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryDisassemble.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryDisassemble.vb",2902,41
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryDisposition.designer.vb",637,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryDisposition.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryDisposition.vb",314,16
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryIssues.Designer.vb",1231,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryIssues.resx",135,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryIssues.vb",3457,60
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryLend.Designer.vb",1410,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryLend.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryLend.vb",2199,51
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryLendRequest.Designer.vb",1188,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryLendRequest.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryLendRequest.vb",2009,48
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryLendRequestApproval.Designer.vb",627,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryLendRequestApproval.resx",138,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryLendRequestApproval.vb",694,16
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryLendReturn.Designer.vb",1416,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryLendReturn.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryLendReturn.vb",2212,51
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryReceipts.designer.vb",1235,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryReceipts.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryReceipts.vb",3499,62
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryRequest.designer.vb",1090,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryRequest.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryRequest.vb",2449,48
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryRewinding.designer.vb",1940,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryRewinding.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryRewinding.vb",3812,65
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryRewinding2.designer.vb",1719,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryRewinding2.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventoryRewinding2.vb",3891,65
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventorySlitting.designer.vb",2161,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventorySlitting.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventorySlitting.vb",4231,69
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventorySlitting_Seq.designer.vb",313,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventorySlitting_Seq.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventorySlitting_Seq.vb",287,13
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventorySlitting_WIP.designer.vb",2158,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventorySlitting_WIP.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventorySlitting_WIP.vb",4321,69
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventorySlitting_new.designer.vb",2145,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventorySlitting_new.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventorySlitting_new.vb",4452,70
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventorySlitting_new_WIP.designer.vb",2153,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventorySlitting_new_WIP.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FInventorySlitting_new_WIP.vb",4704,71
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FPrintPallet.designer.vb",756,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FPrintPallet.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FPrintPallet.vb",767,28
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FReprintBarcode.designer.vb",732,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FReprintBarcode.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FReprintBarcode.vb",1016,34
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FReprintBarcode_Generate.designer.vb",867,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FReprintBarcode_Generate.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FReprintBarcode_Generate.vb",1248,39
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FSparepartIssues.designer.vb",1222,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FSparepartIssues.resx",141,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FSparepartIssues.vb",2903,55
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FTransferIssueApproval.Designer.vb",740,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FTransferIssueApproval.resx",138,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FTransferIssueApproval.vb",1652,20
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FTransferIssues.designer.vb",1908,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FTransferIssues.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FTransferIssues.vb",5404,70
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FTransferReceipts.designer.vb",1430,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FTransferReceipts.resx",135,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Inventory/Transaction/FTransferReceipts.vb",2633,45
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRDocConfirmOrderSub.designer.vb",223,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRDocConfirmOrderSub.resx",202,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRDocConfirmOrderSub.vb",64,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintBarcode.designer.vb",341,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintBarcode.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintBarcode.vb",31,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintBarcodeDouble.designer.vb",434,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintBarcodeDouble.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintBarcodeDouble.vb",89,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintBarcodeDoubleColor.designer.vb",464,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintBarcodeDoubleColor.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintBarcodeDoubleColor.vb",89,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintBarcodeSingle.designer.vb",1936,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintBarcodeSingle.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintBarcodeSingle.vb",153,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintQRCode.designer.vb",248,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintQRCode.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintQRCode.vb",28,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintQRCode_WO.designer.vb",248,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintQRCode_WO.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintQRCode_WO.vb",29,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintQRCode_new.designer.vb",276,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintQRCode_new.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPrintQRCode_new.vb",28,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseOrderPrintOut.designer.vb",1255,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseOrderPrintOut.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseOrderPrintOut.vb",322,7
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseReceiptPrint.designer.vb",710,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseReceiptPrint.resx",555,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseReceiptPrint.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseReceiptPrintWithSerial.designer.vb",848,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseReceiptPrintWithSerial.resx",582,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseReceiptPrintWithSerial.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseReturnPrint.designer.vb",958,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseReturnPrint.resx",615,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseReturnPrint.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseReturnPrint_detail.designer.vb",940,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseReturnPrint_detail.resx",588,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseReturnPrint_detail.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseReturnPrint_summary.designer.vb",900,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseReturnPrint_summary.resx",585,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseReturnPrint_summary.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/ds_barcode_double.Designer.vb",1512,54
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Print Out/ds_po_return.Designer.vb",689,31
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Report/FAlkindoReport.designer.vb",260,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Report/FAlkindoReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Report/FAlkindoReport.vb",1137,12
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Report/FPurchaseOrderReport.Designer.vb",263,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Report/FPurchaseOrderReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Report/FPurchaseOrderReport.vb",706,5
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Report/FPurchaseReceiptReport.Designer.vb",319,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Report/FPurchaseReceiptReport.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Report/FPurchaseReceiptReport.vb",352,11
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Report/FPurchaseReturnReport.Designer.vb",193,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Report/FPurchaseReturnReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Report/FPurchaseReturnReport.vb",271,8
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseOrder.designer.vb",2250,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseOrder.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseOrder.vb",6568,81
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseOrderPrint.Designer.vb",283,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseOrderPrint.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseOrderPrint.vb",161,8
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseReceipt.designer.vb",1206,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseReceipt.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseReceipt.vb",3306,49
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseReceiptSeqImport.designer.vb",177,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseReceiptSeqImport.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseReceiptSeqImport.vb",261,11
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseReceipt_Seq.designer.vb",371,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseReceipt_Seq.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseReceipt_Seq.vb",320,16
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseReceipt_new.designer.vb",1205,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseReceipt_new.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseReceipt_new.vb",3487,51
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseReturn.designer.vb",1075,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseReturn.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseReturn.vb",2182,41
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FUnclosePO.designer.vb",817,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FUnclosePO.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Purchase Order/Transaction/FUnclosePO.vb",854,34
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/FInspectionTrashReport.Designer.vb",242,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/FInspectionTrashReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/FInspectionTrashReport.vb",280,12
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/FQualityControl.designer.vb",1073,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/FQualityControl.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/FQualityControl.vb",3134,47
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/FQualityControlReport.designer.vb",192,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/FQualityControlReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/FQualityControlReport.vb",244,5
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/XRInspectionPrint.designer.vb",854,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/XRInspectionPrint.resx",564,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/XRInspectionPrint.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/XRTrashReportCode.designer.vb",659,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/XRTrashReportCode.resx",267,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/XRTrashReportCode.vb",16,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/XRTrashReportCodeSerial.designer.vb",690,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/XRTrashReportCodeSerial.resx",273,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/XRTrashReportCodeSerial.vb",16,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/XRTrashReportDesc.designer.vb",659,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/XRTrashReportDesc.resx",267,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/XRTrashReportDesc.vb",16,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/XRTrashReportDescSerial.designer.vb",690,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/XRTrashReportDescSerial.resx",273,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/QC/XRTrashReportDescSerial.vb",16,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/FApprovalTransactionReport.Designer.vb",181,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/FApprovalTransactionReport.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/FApprovalTransactionReport.vb",222,5
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/FRequisition.Designer.vb",1417,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/FRequisition.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/FRequisition.vb",3287,51
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/FRequisitionApproval.designer.vb",740,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/FRequisitionApproval.resx",138,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/FRequisitionApproval.vb",1791,21
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/FRequisitionReport.designer.vb",171,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/FRequisitionReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/FRequisitionReport.vb",225,5
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/XRBoxLabelPackingList.designer.vb",132,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/XRBoxLabelPackingList.resx",155,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/XRBoxLabelPackingList.vb",31,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/XRRequisition.designer.vb",719,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/XRRequisition.resx",294,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/XRRequisition.vb",124,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/XRRequisitionCost.designer.vb",772,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/XRRequisitionCost.resx",552,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/XRRequisitionCost.vb",127,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/XRRequisitionMany.designer.vb",80,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/XRRequisitionMany.resx",138,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/XRRequisitionMany.vb",72,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/XRRequisitionManySub.designer.vb",744,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/XRRequisitionManySub.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/XRRequisitionManySub.vb",131,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/XRSubBoxLabel.designer.vb",568,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/XRSubBoxLabel.resx",261,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/Requisition/XRSubBoxLabel.vb",31,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FCOStockOpname.Designer.vb",897,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FCOStockOpname.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FCOStockOpname.vb",1981,39
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FCOStockOpname2.Designer.vb",775,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FCOStockOpname2.resx",138,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FCOStockOpname2.vb",1698,38
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FCOStockOpname_WIP.Designer.vb",897,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FCOStockOpname_WIP.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FCOStockOpname_WIP.vb",1922,38
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FCOStockOpname_new.Designer.vb",1020,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FCOStockOpname_new.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FCOStockOpname_new.vb",2388,50
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FEntryStockOpname.designer.vb",782,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FEntryStockOpname.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FEntryStockOpname.vb",1518,34
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FEntryStockOpname_new.designer.vb",816,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FEntryStockOpname_new.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FEntryStockOpname_new.vb",1530,34
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FStockOpnameApproval.designer.vb",777,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FStockOpnameApproval.resx",135,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FStockOpnameApproval.vb",1181,23
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FStockOpnameApproval_new.Designer.vb",778,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FStockOpnameApproval_new.resx",135,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FStockOpnameApproval_new.vb",1267,23
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FStockOpnameProductType.Designer.vb",62,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FStockOpnameProductType.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FStockOpnameProductType.vb",8,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FStockOpnameReport.designer.vb",242,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FStockOpnameReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FStockOpnameReport.vb",403,13
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FStockOpnameReport_new.Designer.vb",242,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FStockOpnameReport_new.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/FStockOpnameReport_new.vb",412,13
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRAdjustmentReport.designer.vb",824,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRAdjustmentReport.resx",4016,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRAdjustmentReport.vb",37,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRAdjustmentReportSparepart.designer.vb",824,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRAdjustmentReportSparepart.resx",4016,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRAdjustmentReportSparepart.vb",41,5
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRStockOpname.designer.vb",419,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRStockOpname.resx",201,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRStockOpname.vb",89,5
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRStockOpnameDetailPrint.designer.vb",837,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRStockOpnameDetailPrint.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRStockOpnameDetailPrint.vb",89,5
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRStockOpnamePrint.designer.vb",571,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRStockOpnamePrint.resx",249,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRStockOpnamePrint.vb",85,4
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRStockOpname_landscape.designer.vb",419,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRStockOpname_landscape.resx",201,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRStockOpname_landscape.vb",89,5
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRStockOpname_portrait.designer.vb",325,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRStockOpname_portrait.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRStockOpname_portrait.vb",89,5
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRSubOpname.designer.vb",536,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRSubOpname.resx",216,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRSubOpname.vb",12,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRSubOpname2.designer.vb",494,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRSubOpname2.resx",210,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRSubOpname2.vb",11,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRSubOpname3.designer.vb",464,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRSubOpname3.resx",204,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/StockOpname/XRSubOpname3.vb",11,2
+"Alkindo Solution/Alkindo.Project/Module/Distribution/control file/FConfigReport.designer.vb",739,3
+"Alkindo Solution/Alkindo.Project/Module/Distribution/control file/FConfigReport.resx",135,0
+"Alkindo Solution/Alkindo.Project/Module/Distribution/control file/FConfigReport.vb",908,32
+"Alkindo Solution/Alkindo.Project/Module/FSalesOrderInternal.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/FAPInvoiceReport.Designer.vb",498,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/FAPInvoiceReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/FAPInvoiceReport.vb",639,10
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/FAPNota.designer.vb",813,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/FAPNota.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/FAPNota.vb",991,29
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/FVoucherTax.designer.vb",1796,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/FVoucherTax.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/FVoucherTax.vb",3781,52
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/XRAPInvoice.designer.vb",1345,4
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/XRAPInvoice.resx",842,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/XRAPInvoice.vb",125,4
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/XRAPInvoiceNoPO.designer.vb",1233,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/XRAPInvoiceNoPO.resx",815,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/XRAPInvoiceNoPO.vb",114,4
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/XRAPNotaTagih.designer.vb",840,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/XRAPNotaTagih.resx",561,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/XRAPNotaTagih.vb",47,2
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/XRAPNotaTagihA4.designer.vb",910,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/XRAPNotaTagihA4.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/XRAPNotaTagihA4.vb",47,2
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/XRAPNotaTagihA4_2.designer.vb",958,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/XRAPNotaTagihA4_2.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/XRAPNotaTagihA4_2.vb",47,2
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/ds_ap.Designer.vb",4934,201
+"Alkindo Solution/Alkindo.Project/Module/Financial/AP Invoice/ds_apnota.Designer.vb",3086,123
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/FARPaymentTax.Designer.vb",1259,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/FARPaymentTax.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/FARPaymentTax.vb",3177,51
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/FARReportTax.designer.vb",588,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/FARReportTax.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/FARReportTax.vb",951,14
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/FDRCRBankMaster.Designer.vb",537,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/FDRCRBankMaster.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/FDRCRBankMaster.vb",781,29
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/FDRCRMemoReceipt.designer.vb",947,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/FDRCRMemoReceipt.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/FDRCRMemoReceipt.vb",1194,35
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/FDRCRMemoTax.designer.vb",2242,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/FDRCRMemoTax.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/FDRCRMemoTax.vb",4692,64
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceDisc2.designer.vb",1405,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceDisc2.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceDisc2.vb",169,4
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceReceipt.designer.vb",469,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceReceipt.resx",127,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceReceipt.vb",114,6
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceReceiptMulti.designer.vb",456,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceReceiptMulti.resx",127,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceReceiptMulti.vb",132,6
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceReceiptSub.designer.vb",118,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceReceiptSub.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceReceiptSub.vb",8,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceStandard.designer.vb",937,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceStandard.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceStandard.vb",170,11
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceStandardBlanko.designer.vb",794,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceStandardBlanko.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceStandardBlanko.vb",168,13
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceStandardSub.designer.vb",84,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceStandardSub.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/AR Invoice/XRInvoiceStandardSub.vb",8,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetAssemblyReport.Designer.vb",228,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetAssemblyReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetAssemblyReport.vb",286,5
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetCapitalization.designer.vb",1714,4
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetCapitalization.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetCapitalization.vb",1279,34
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetConfirm.designer.vb",964,4
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetConfirm.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetConfirm.vb",579,17
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetImport.designer.vb",188,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetImport.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetImport.vb",618,13
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetMasterAssemblyReport.Designer.vb",171,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetMasterAssemblyReport.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetMasterAssemblyReport.vb",146,5
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetMasterFinancial.designer.vb",1595,4
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetMasterFinancial.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetMasterFinancial.vb",1302,34
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetRegister.Designer.vb",1082,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetRegister.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetRegister.vb",1133,28
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetRequest.designer.vb",1238,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetRequest.resx",135,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetRequest.vb",1908,38
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetRequestApproval.designer.vb",686,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetRequestApproval.resx",138,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetRequestApproval.vb",833,17
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetTransactionPost.designer.vb",216,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetTransactionPost.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FAssetTransactionPost.vb",1872,24
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FGenerateDepreciation.designer.vb",907,4
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FGenerateDepreciation.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FGenerateDepreciation.vb",797,14
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FViewDepresiasi.Designer.vb",506,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FViewDepresiasi.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/FViewDepresiasi.vb",418,7
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/XRAssetRequest.designer.vb",620,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/XRAssetRequest.resx",267,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Fix Assets/XRAssetRequest.vb",212,4
+"Alkindo Solution/Alkindo.Project/Module/Financial/Multiple Currency/FBank.designer.vb",616,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/Multiple Currency/FBank.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Multiple Currency/FBank.vb",464,17
+"Alkindo Solution/Alkindo.Project/Module/Financial/Multiple Currency/FGenerateBG.Designer.vb",720,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/Multiple Currency/FGenerateBG.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Multiple Currency/FGenerateBG.vb",831,26
+"Alkindo Solution/Alkindo.Project/Module/Financial/Tax Invoice/FEnofa.designer.vb",904,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/Tax Invoice/FEnofa.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Tax Invoice/FEnofa.vb",675,28
+"Alkindo Solution/Alkindo.Project/Module/Financial/Tax Invoice/FEnofaReport.designer.vb",217,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/Tax Invoice/FEnofaReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Tax Invoice/FEnofaReport.vb",107,8
+"Alkindo Solution/Alkindo.Project/Module/Financial/Tax Invoice/FFakturPajak.Designer.vb",929,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/Tax Invoice/FFakturPajak.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Tax Invoice/FFakturPajak.vb",2093,35
+"Alkindo Solution/Alkindo.Project/Module/Financial/Tax Invoice/FFakturPajakPrint.Designer.vb",459,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/Tax Invoice/FFakturPajakPrint.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Tax Invoice/FFakturPajakPrint.vb",218,9
+"Alkindo Solution/Alkindo.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlain.designer.vb",3072,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlain.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlain.vb",251,5
+"Alkindo Solution/Alkindo.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlainIDR.designer.vb",2716,3
+"Alkindo Solution/Alkindo.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlainIDR.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlainIDR.vb",197,5
+"Alkindo Solution/Alkindo.Project/Module/Import Data/FLocationImport.designer.vb",208,3
+"Alkindo Solution/Alkindo.Project/Module/Import Data/FLocationImport.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Import Data/FLocationImport.vb",360,11
+"Alkindo Solution/Alkindo.Project/Module/Import Data/FPaperTypeImport.designer.vb",209,3
+"Alkindo Solution/Alkindo.Project/Module/Import Data/FPaperTypeImport.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Import Data/FPaperTypeImport.vb",257,11
+"Alkindo Solution/Alkindo.Project/Module/Import Data/FSODetailImport.designer.vb",1017,3
+"Alkindo Solution/Alkindo.Project/Module/Import Data/FSODetailImport.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Import Data/FSODetailImport.vb",1279,14
+"Alkindo Solution/Alkindo.Project/Module/Import Data/FSOHeaderImport.designer.vb",1078,3
+"Alkindo Solution/Alkindo.Project/Module/Import Data/FSOHeaderImport.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Import Data/FSOHeaderImport.vb",685,9
+"Alkindo Solution/Alkindo.Project/Module/Import Data/FSalesOrderInternalImport.designer.vb",209,3
+"Alkindo Solution/Alkindo.Project/Module/Import Data/FSalesOrderInternalImport.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Import Data/FSalesOrderInternalImport.vb",440,11
+"Alkindo Solution/Alkindo.Project/Module/Import Data/FSpekBBImport.designer.vb",209,3
+"Alkindo Solution/Alkindo.Project/Module/Import Data/FSpekBBImport.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Import Data/FSpekBBImport.vb",450,12
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/FComponentIssueReleasePrint.designer.vb",82,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/FComponentIssueReleasePrint.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/FComponentIssueReleasePrint.vb",75,2
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRComponentIssuePrint.designer.vb",740,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRComponentIssuePrint.resx",537,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRComponentIssuePrint.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRComponentIssuePrint_LOT.designer.vb",761,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRComponentIssuePrint_LOT.resx",543,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRComponentIssuePrint_LOT.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelHCPB.designer.vb",89,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelHCPB.resx",144,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelHCPB.vb",63,2
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelHCPBGSub.designer.vb",513,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelHCPBGSub.resx",261,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelHCPBGSub.vb",71,4
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelHCPBSub.designer.vb",825,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelHCPBSub.resx",354,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelHCPBSub.vb",69,4
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelPC.designer.vb",89,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelPC.resx",144,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelPC.vb",64,2
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelPCSub.designer.vb",1052,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelPCSub.resx",393,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelPCSub.vb",106,7
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelPT.designer.vb",91,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelPT.resx",144,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelPT.vb",64,2
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelPTSub.designer.vb",764,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelPTSub.resx",327,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRLabelPTSub.vb",91,6
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRPSSub.designer.vb",412,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRPSSub.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRPSSub.vb",7,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRPalletID.designer.vb",113,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRPalletID.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRPalletID.vb",67,2
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRPalletIDSubNew.designer.vb",360,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRPalletIDSubNew.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRPalletIDSubNew.vb",32,2
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRRoutingSub.designer.vb",319,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRRoutingSub.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRRoutingSub.vb",7,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRWIPReturn.designer.vb",737,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRWIPReturn.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRWIPReturn.vb",111,4
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRWOListPrint.designer.vb",1157,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRWOListPrint.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRWOListPrint.vb",134,4
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRWOReceiptPrintLotSerial.designer.vb",1130,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRWOReceiptPrintLotSerial.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRWOReceiptPrintLotSerial.vb",119,4
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRWOReceiptPrintNon.designer.vb",837,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRWOReceiptPrintNon.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/XRWOReceiptPrintNon.vb",118,4
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/ds_cids.Designer.vb",2391,91
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/ds_wipreturn.Designer.vb",2518,97
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/ds_wo_receipt.Designer.vb",2557,97
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/ds_wo_release.Designer.vb",2804,109
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/rptRouting.designer.vb",284,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/rptRouting.resx",142,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/rptRouting.vb",10,2
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/rptWOPickList.designer.vb",1035,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/rptWOPickList.resx",633,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Print Out/rptWOPickList.vb",107,4
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Product Structure/FProductStructure.designer.vb",833,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Product Structure/FProductStructure.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Product Structure/FProductStructure.vb",1430,38
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Product Structure/FProductStructureImport.designer.vb",1042,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Product Structure/FProductStructureImport.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Product Structure/FProductStructureImport.vb",669,10
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FComponentIssueReport.designer.vb",194,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FComponentIssueReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FComponentIssueReport.vb",262,8
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FProdStrucTree.designer.vb",614,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FProdStrucTree.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FProdStrucTree.vb",196,14
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FWIPInventoryIssuesReport.designer.vb",194,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FWIPInventoryIssuesReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FWIPInventoryIssuesReport.vb",223,8
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FWIPInventoryReceiptsReport.designer.vb",255,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FWIPInventoryReceiptsReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FWIPInventoryReceiptsReport.vb",234,6
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FWIPReturnReport.designer.vb",159,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FWIPReturnReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FWIPReturnReport.vb",143,7
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FWOLaborFeedbackReport.designer.vb",383,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FWOLaborFeedbackReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FWOLaborFeedbackReport.vb",992,13
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FWorkOrderReceiptReport.designer.vb",272,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FWorkOrderReceiptReport.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FWorkOrderReceiptReport.vb",456,10
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FWorkOrderReport.Designer.vb",448,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FWorkOrderReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Report/FWorkOrderReport.vb",774,13
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FComponentIssue.designer.vb",1266,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FComponentIssue.resx",183,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FComponentIssue.vb",2193,46
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FJumboPrinting.vb",4681,72
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FJumboPrinting_Seq.designer.vb",313,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FJumboPrinting_Seq.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FJumboPrinting_Seq.vb",287,13
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FLabelLayoutMaster.designer.vb",344,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FLabelLayoutMaster.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FLabelLayoutMaster.vb",361,14
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FMachine.designer.vb",859,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FMachine.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FMachine.vb",709,26
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FMultiWOLaborFeedback.designer.vb",2070,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FMultiWOLaborFeedback.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FMultiWOLaborFeedback.vb",4951,84
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FPaperType.Designer.vb",458,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FPaperType.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FPaperType.vb",330,12
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FQRLotMaster.designer.vb",414,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FQRLotMaster.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FQRLotMaster.vb",395,14
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FQRTypeMaster.designer.vb",343,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FQRTypeMaster.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FQRTypeMaster.vb",325,13
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FRouting.designer.vb",766,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FRouting.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FRouting.vb",1318,32
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FSpekBB.Designer.vb",988,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FSpekBB.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FSpekBB.vb",574,16
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FTypeWorkOrder.Designer.vb",63,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FTypeWorkOrder.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FTypeWorkOrder.vb",30,4
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FUncloseWorkOrder.designer.vb",721,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FUncloseWorkOrder.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FUncloseWorkOrder.vb",602,26
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWCParameterImport.designer.vb",163,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWCParameterImport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWCParameterImport.vb",139,10
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWIPInventoryIssues.designer.vb",1054,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWIPInventoryIssues.resx",138,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWIPInventoryIssues.vb",2961,54
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWIPInventoryReceipts.designer.vb",964,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWIPInventoryReceipts.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWIPInventoryReceipts.vb",3184,51
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWIPReturn.designer.vb",1204,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWIPReturn.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWIPReturn.vb",3173,47
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOBillMaintenance.designer.vb",802,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOBillMaintenance.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOBillMaintenance.vb",642,25
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOLabel.designer.vb",1219,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOLabel.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOLabel.vb",1201,28
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOLaborFeedback.designer.vb",2560,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOLaborFeedback.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOLaborFeedback.vb",5469,87
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOLaborFeedbackMulti.designer.vb",1973,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOLaborFeedbackMulti.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOLaborFeedbackMulti.vb",3986,68
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOReceipt.designer.vb",1674,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOReceipt.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOReceipt.vb",4720,56
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOReceiptMulti.designer.vb",1224,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOReceiptMulti.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOReceiptMulti.vb",4086,55
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOReceiptSeqImport.designer.vb",177,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOReceiptSeqImport.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOReceiptSeqImport.vb",261,11
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOReceipt_Seq.designer.vb",370,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOReceipt_Seq.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWOReceipt_Seq.vb",320,16
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWasteReceipts.designer.vb",836,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWasteReceipts.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWasteReceipts.vb",1179,26
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWcDetail.designer.vb",1102,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWcDetail.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWcDetail.vb",1071,29
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWorkCenterCompIssueWIPLoc.designer.vb",531,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWorkCenterCompIssueWIPLoc.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWorkCenterCompIssueWIPLoc.vb",631,28
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWorkOrder.designer.vb",2474,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWorkOrder.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWorkOrder.vb",3763,68
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWorkOrderLabelReleasePrint.designer.vb",80,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWorkOrderLabelReleasePrint.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWorkOrderLabelReleasePrint.vb",75,2
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWorkOrderMulti.designer.vb",1267,3
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWorkOrderMulti.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Manufacture/Transaction/FWorkOrderMulti.vb",2051,46
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FCodeSetting.designer.vb",730,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FCodeSetting.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FCodeSetting.vb",552,29
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FCostCenter.designer.vb",605,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FCostCenter.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FCostCenter.vb",440,16
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FCustomer.designer.vb",1788,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FCustomer.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FCustomer.vb",2215,38
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FCustomerImport.designer.vb",219,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FCustomerImport.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FCustomerImport.vb",709,12
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FDocumentApproval.designer.vb",713,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FDocumentApproval.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FDocumentApproval.vb",404,15
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FPalletReceipts.Designer.vb",1020,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FPalletReceipts.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FPalletReceipts.vb",1291,40
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FRoutingApproval.designer.vb",744,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FRoutingApproval.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FRoutingApproval.vb",950,27
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FSparepartDivision.designer.vb",404,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FSparepartDivision.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FSparepartDivision.vb",361,18
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FSupplier.designer.vb",1450,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FSupplier.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FSupplier.vb",1596,34
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FUserLocationSlitting.designer.vb",897,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FUserLocationSlitting.resx",179,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/FUserLocationSlitting.vb",309,17
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/XRDocumentApprovalSub.designer.vb",231,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/XRDocumentApprovalSub.resx",202,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/XRDocumentApprovalSub.vb",28,2
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/XRDocumentApprovalSubCustom.designer.vb",248,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/XRDocumentApprovalSubCustom.resx",139,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/XRDocumentApprovalSubCustom.vb",28,2
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/XRRoutingApproval.designer.vb",150,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/XRRoutingApproval.resx",139,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/XRRoutingApproval.vb",3,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/XRRoutingApprovalCustom.designer.vb",151,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/XRRoutingApprovalCustom.resx",139,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Company/XRRoutingApprovalCustom.vb",3,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FFinalItemImport.designer.vb",163,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FFinalItemImport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FFinalItemImport.vb",187,10
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FFinalItemReport.designer.vb",102,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FFinalItemReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FFinalItemReport.vb",99,7
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FFinalItemSetting.designer.vb",607,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FFinalItemSetting.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FFinalItemSetting.vb",824,33
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FItemStatus.designer.vb",602,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FItemStatus.resx",277,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FItemStatus.vb",658,22
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FJumboSlittedGroup.designer.vb",565,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FJumboSlittedGroup.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FJumboSlittedGroup.vb",394,21
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FJumboSlittedGroupImport.designer.vb",188,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FJumboSlittedGroupImport.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FJumboSlittedGroupImport.vb",289,11
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FLocation.designer.vb",825,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FLocation.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FLocation.vb",669,19
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FLocationGroup.designer.vb",403,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FLocationGroup.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FLocationGroup.vb",361,18
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FMasterSpacer.designer.vb",534,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FMasterSpacer.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FMasterSpacer.vb",691,23
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FMasterSpacerImport.designer.vb",163,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FMasterSpacerImport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FMasterSpacerImport.vb",153,10
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FPackaging.designer.vb",731,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FPackaging.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FPackaging.vb",802,32
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FPartNumber.designer.vb",1360,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FPartNumber.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FPartNumber.vb",1198,22
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FPartNumberImport.designer.vb",1093,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FPartNumberImport.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FPartNumberImport.vb",982,13
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FSlittingProductLine.designer.vb",294,3
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FSlittingProductLine.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Master Data/Item Sites/FSlittingProductLine.vb",317,18
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDO_SJ.designer.vb",910,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDO_SJ.resx",606,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDO_SJ.vb",90,7
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDO_SPP.designer.vb",1198,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDO_SPP.resx",125,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDO_SPP.vb",146,5
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDO_SPP_Blank.designer.vb",611,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDO_SPP_Blank.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDO_SPP_Blank.vb",152,5
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDeliveryPrint.designer.vb",810,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDeliveryPrint.resx",543,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDeliveryPrint.vb",85,4
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDeliveryPrint_LOT.designer.vb",844,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDeliveryPrint_LOT.resx",555,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDeliveryPrint_LOT.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDeliverySparepartPrint.designer.vb",784,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDeliverySparepartPrint.resx",537,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDeliverySparepartPrint.vb",85,4
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDeliveryWithSummaryPrint.designer.vb",804,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDeliveryWithSummaryPrint.resx",549,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDeliveryWithSummaryPrint.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDeliveryWithSummarySparepartPrint.designer.vb",804,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDeliveryWithSummarySparepartPrint.resx",549,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRDeliveryWithSummarySparepartPrint.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRGatepass.designer.vb",740,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRGatepass.resx",342,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRGatepass.vb",12,2
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRGatepassSub.designer.vb",325,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRGatepassSub.resx",219,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRGatepassSub.vb",7,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSO.designer.vb",857,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSO.resx",573,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSO.vb",111,4
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOGift.designer.vb",977,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOGift.resx",594,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOGift.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOGift_LOT.designer.vb",1024,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOGift_LOT.resx",609,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOGift_LOT.vb",107,4
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOPaperbox.designer.vb",911,4
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOPaperbox.resx",582,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOPaperbox.vb",98,4
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOPaperboxnew.designer.vb",896,4
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOPaperboxnew.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOPaperboxnew.vb",107,7
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOPaperboxnewSub.designer.vb",108,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOPaperboxnewSub.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOPaperboxnewSub.vb",8,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOPriceDisc2.designer.vb",1151,4
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOPriceDisc2.resx",660,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOPriceDisc2.vb",110,4
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSORecap.designer.vb",891,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSORecap.resx",582,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSORecap.vb",120,4
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSORecap_LOT.designer.vb",898,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSORecap_LOT.resx",573,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSORecap_LOT.vb",120,4
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSCore.designer.vb",454,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSCore.resx",243,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSCore.vb",101,6
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSHPCNettoBrutto.designer.vb",951,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSHPCNettoBrutto.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSHPCNettoBrutto.vb",178,8
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSMultiPO.designer.vb",538,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSMultiPO.resx",264,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSMultiPO.vb",109,6
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSNettoBrutto.designer.vb",615,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSNettoBrutto.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSNettoBrutto.vb",115,6
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSNormalHPC.designer.vb",637,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSNormalHPC.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSNormalHPC.vb",193,7
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSNormalPT.designer.vb",671,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSNormalPT.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSNormalPT.vb",188,8
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSPTNettoBrutto.designer.vb",951,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSPTNettoBrutto.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSPTNettoBrutto.vb",178,8
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSPanasonic.designer.vb",762,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSPanasonic.resx",324,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSOSPanasonic.vb",113,6
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSalesOrderReturPrint.designer.vb",910,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSalesOrderReturPrint.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSalesOrderReturPrint.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSalesOrderReturPrint_LOT.designer.vb",821,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSalesOrderReturPrint_LOT.resx",555,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSalesOrderReturPrint_LOT.vb",108,4
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.designer.vb",1007,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.resx",606,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.vb",113,4
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint_LOT.designer.vb",1037,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint_LOT.resx",612,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint_LOT.vb",113,4
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XSOInternalPrint.designer.vb",809,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XSOInternalPrint.resx",120,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/XSOInternalPrint.vb",109,5
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/ds_dlv.Designer.vb",2905,117
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/ds_dlvs.Designer.vb",2954,119
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/ds_so_gift_serial.Designer.vb",3235,129
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/ds_sor.Designer.vb",2064,74
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/ds_sor.vb",5,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/ds_sors.Designer.vb",2109,76
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/ds_soship.Designer.vb",3654,147
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Print Out/ds_soshipds.Designer.vb",4279,175
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FDeliveryReport.designer.vb",408,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FDeliveryReport.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FDeliveryReport.vb",1011,14
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSOGiftReport.Designer.vb",332,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSOGiftReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSOGiftReport.vb",426,11
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSORecapitulationReport.Designer.vb",284,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSORecapitulationReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSORecapitulationReport.vb",474,10
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSOShipTempReport.Designer.vb",212,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSOShipTempReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSOShipTempReport.vb",522,9
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSalesOrderInternalReport.designer.vb",255,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSalesOrderInternalReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSalesOrderInternalReport.vb",250,9
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSalesOrderReport.Designer.vb",263,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSalesOrderReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSalesOrderReport.vb",636,10
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSalesOrderReturnReport.Designer.vb",269,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSalesOrderReturnReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSalesOrderReturnReport.vb",335,9
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSalesOrderShipmentReport.Designer.vb",269,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSalesOrderShipmentReport.resx",123,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Report/FSalesOrderShipmentReport.vb",393,9
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FDelivery.Designer.vb",3988,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FDelivery.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FDelivery.vb",6600,78
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FItemExtMaster.designer.vb",665,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FItemExtMaster.resx",132,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FItemExtMaster.vb",411,18
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSOInternalType.Designer.vb",787,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSOInternalType.resx",135,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSOInternalType.vb",583,23
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSORecapitulation.designer.vb",1515,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSORecapitulation.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSORecapitulation.vb",2269,45
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSOShipRealization.designer.vb",1762,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSOShipRealization.resx",135,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSOShipRealization.vb",5810,68
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSOShipTemp.designer.vb",1615,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSOShipTemp.resx",135,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSOShipTemp.vb",3463,51
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSOShipTemp2.designer.vb",1606,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSOShipTemp2.resx",135,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSOShipTemp2.vb",3528,51
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSOShipTemp_old.designer.vb",1497,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSOShipTemp_old.resx",135,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSOShipTemp_old.vb",3411,51
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrder.designer.vb",2264,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrder.resx",138,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrder.vb",9663,99
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderGift.Designer.vb",1455,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderGift.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderGift.vb",5588,64
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderGiftApproval.designer.vb",702,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderGiftApproval.resx",138,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderGiftApproval.vb",2504,22
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderInternal.designer.vb",1108,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderInternal.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderInternal.vb",1493,35
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderMergeSOI.designer.vb",2063,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderMergeSOI.resx",135,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderMergeSOI.vb",9394,93
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderReturnPrint.Designer.vb",372,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderReturnPrint.resx",126,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderReturnPrint.vb",339,11
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderReturnToShipment.designer.vb",1438,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderReturnToShipment.resx",129,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderReturnToShipment.vb",5966,61
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderShipment.Designer.vb",1852,3
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderShipment.resx",135,0
+"Alkindo Solution/Alkindo.Project/Module/Sales Order/Transaction/FSalesOrderShipment.vb",5732,67
+"Alkindo Solution/Alkindo.Project/Module/___Function Helper/Cls_Bilangan.vb",341,12
+"Alkindo Solution/Alkindo.Project/Module/___Function Helper/Cls_Bilangan_Eng.vb",185,6
+"Alkindo Solution/Alkindo.Project/Module/___Function Helper/ModFunctionSpecial.vb",1696,18
+"Alkindo Solution/Alkindo.Project/Module/___Function Helper/function_collection.vb",11663,107
+"Alkindo Solution/Alkindo.Project/Module/___Function Helper/function_data.vb",6132,165
+"Alkindo Solution/Alkindo.Project/My Project/Application.Designer.vb",14,0
+"Alkindo Solution/Alkindo.Project/My Project/AssemblyInfo.vb",36,0
+"Alkindo Solution/Alkindo.Project/My Project/Resources.Designer.vb",64,0
+"Alkindo Solution/Alkindo.Project/My Project/Resources.resx",127,0
+"Alkindo Solution/Alkindo.Project/My Project/Settings.Designer.vb",172,1
+"Alkindo Solution/Alkindo.Project/__Browse References/FAccountSearch.Designer.vb",123,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FAccountSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FAccountSearch.vb",491,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FAddressTypeSearch.Designer.vb",87,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FAddressTypeSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FAddressTypeSearch.vb",60,9
+"Alkindo Solution/Alkindo.Project/__Browse References/FAssetRequestSearch.designer.vb",131,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FAssetRequestSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FAssetRequestSearch.vb",172,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FAssetSearch.designer.vb",122,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FAssetSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FAssetSearch.vb",789,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FBankSearch.Designer.vb",123,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FBankSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FBankSearch.vb",108,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FBranchSearch.Designer.vb",122,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FBranchSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FBranchSearch.vb",89,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FCodeSearch.designer.vb",123,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FCodeSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FCodeSearch.vb",67,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FCostCenterSearch.Designer.vb",123,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FCostCenterSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FCostCenterSearch.vb",180,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FCustomerSearch.designer.vb",141,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FCustomerSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FCustomerSearch.vb",104,11
+"Alkindo Solution/Alkindo.Project/__Browse References/FDOSummarySearch.designer.vb",175,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FDOSummarySearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FDOSummarySearch.vb",270,12
+"Alkindo Solution/Alkindo.Project/__Browse References/FDRCRBankSearch.designer.vb",233,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FDRCRBankSearch.resx",126,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FDRCRBankSearch.vb",84,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FDRCRMemoSearch.Designer.vb",257,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FDRCRMemoSearch.resx",126,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FDRCRMemoSearch.vb",727,13
+"Alkindo Solution/Alkindo.Project/__Browse References/FDRCRMemoSearchTax.designer.vb",219,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FDRCRMemoSearchTax.resx",126,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FDRCRMemoSearchTax.vb",352,12
+"Alkindo Solution/Alkindo.Project/__Browse References/FEmpSearch.Designer.vb",123,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FEmpSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FEmpSearch.vb",107,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FEntitySearch.Designer.vb",123,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FEntitySearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FEntitySearch.vb",94,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FFakturPajakSearch.Designer.vb",189,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FFakturPajakSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FFakturPajakSearch.vb",204,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FFixAssetBookSearch.Designer.vb",89,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FFixAssetBookSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FFixAssetBookSearch.vb",69,9
+"Alkindo Solution/Alkindo.Project/__Browse References/FFixAssetMethodeSearch.Designer.vb",89,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FFixAssetMethodeSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FFixAssetMethodeSearch.vb",81,9
+"Alkindo Solution/Alkindo.Project/__Browse References/FFunctionCPSearch.Designer.vb",87,4
+"Alkindo Solution/Alkindo.Project/__Browse References/FFunctionCPSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FFunctionCPSearch.vb",60,9
+"Alkindo Solution/Alkindo.Project/__Browse References/FInspectionSearch.designer.vb",200,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FInspectionSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FInspectionSearch.vb",210,13
+"Alkindo Solution/Alkindo.Project/__Browse References/FInventoryIssueSearch.designer.vb",175,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FInventoryIssueSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FInventoryIssueSearch.vb",343,11
+"Alkindo Solution/Alkindo.Project/__Browse References/FInventoryLendRequestSearch.Designer.vb",159,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FInventoryLendRequestSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FInventoryLendRequestSearch.vb",299,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FInventoryRequestSearch.Designer.vb",156,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FInventoryRequestSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FInventoryRequestSearch.vb",655,11
+"Alkindo Solution/Alkindo.Project/__Browse References/FInventoryRewindingSearch.Designer.vb",156,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FInventoryRewindingSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FInventoryRewindingSearch.vb",271,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FInventorySearch.designer.vb",141,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FInventorySearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FInventorySearch.vb",177,11
+"Alkindo Solution/Alkindo.Project/__Browse References/FInventorySlittingSearch.Designer.vb",156,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FInventorySlittingSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FInventorySlittingSearch.vb",276,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FInvoiceSearch.designer.vb",178,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FInvoiceSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FInvoiceSearch.vb",242,11
+"Alkindo Solution/Alkindo.Project/__Browse References/FItemGroupSearch.designer.vb",123,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FItemGroupSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FItemGroupSearch.vb",65,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FItemStatusSearch.designer.vb",123,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FItemStatusSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FItemStatusSearch.vb",72,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FLFSearch.designer.vb",191,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FLFSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FLFSearch.vb",253,11
+"Alkindo Solution/Alkindo.Project/__Browse References/FLocationSearch.designer.vb",144,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FLocationSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FLocationSearch.vb",1383,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FLotSerialSearch.designer.vb",137,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FLotSerialSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FLotSerialSearch.vb",526,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FMachineSearch.designer.vb",134,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FMachineSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FMachineSearch.vb",169,11
+"Alkindo Solution/Alkindo.Project/__Browse References/FPOCustomerSearch.designer.vb",154,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FPOCustomerSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FPOCustomerSearch.vb",365,11
+"Alkindo Solution/Alkindo.Project/__Browse References/FPPNTypeSearch.Designer.vb",95,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FPPNTypeSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FPPNTypeSearch.vb",51,9
+"Alkindo Solution/Alkindo.Project/__Browse References/FPTBOMSrch.Designer.vb",127,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FPTBOMSrch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FPTBOMSrch.vb",212,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FPackagingSearch.designer.vb",123,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FPackagingSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FPackagingSearch.vb",116,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FPalletIDSearch.designer.vb",157,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FPalletIDSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FPalletIDSearch.vb",381,11
+"Alkindo Solution/Alkindo.Project/__Browse References/FPalletIDSearchNew.designer.vb",169,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FPalletIDSearchNew.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FPalletIDSearchNew.vb",1582,13
+"Alkindo Solution/Alkindo.Project/__Browse References/FPartNumberSearch.designer.vb",176,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FPartNumberSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FPartNumberSearch.vb",3772,15
+"Alkindo Solution/Alkindo.Project/__Browse References/FPartnerSearch.Designer.vb",133,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FPartnerSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FPartnerSearch.vb",488,12
+"Alkindo Solution/Alkindo.Project/__Browse References/FProdLineSearch.designer.vb",122,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FProdLineSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FProdLineSearch.vb",85,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FProdStrucSearch.designer.vb",125,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FProdStrucSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FProdStrucSearch.vb",367,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FProjectAccountSearch.Designer.vb",157,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FProjectAccountSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FProjectAccountSearch.vb",234,12
+"Alkindo Solution/Alkindo.Project/__Browse References/FPurchaseOrderSearch.Designer.vb",170,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FPurchaseOrderSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FPurchaseOrderSearch.vb",1245,11
+"Alkindo Solution/Alkindo.Project/__Browse References/FPurchaseReceiptSearch.Designer.vb",156,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FPurchaseReceiptSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FPurchaseReceiptSearch.vb",119,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FReasonCodeQCSearch.Designer.vb",122,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FReasonCodeQCSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FReasonCodeQCSearch.vb",69,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FReasonCodeReturnSearch.Designer.vb",130,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FReasonCodeReturnSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FReasonCodeReturnSearch.vb",67,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FReasonCodeSOSearch.Designer.vb",122,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FReasonCodeSOSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FReasonCodeSOSearch.vb",96,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FRequisitionSearch.Designer.vb",229,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FRequisitionSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FRequisitionSearch.vb",817,12
+"Alkindo Solution/Alkindo.Project/__Browse References/FRoutingSearch.designer.vb",123,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FRoutingSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FRoutingSearch.vb",316,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FSOGiftRequestSearch.designer.vb",156,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FSOGiftRequestSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FSOGiftRequestSearch.vb",263,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FSOGiftSearch.designer.vb",175,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FSOGiftSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FSOGiftSearch.vb",356,11
+"Alkindo Solution/Alkindo.Project/__Browse References/FSOInternalSearch.designer.vb",157,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FSOInternalSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FSOInternalSearch.vb",206,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FSOShipTempSearch.designer.vb",175,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FSOShipTempSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FSOShipTempSearch.vb",412,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FSalesOrderDetailSearch.designer.vb",167,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FSalesOrderDetailSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FSalesOrderDetailSearch.vb",219,11
+"Alkindo Solution/Alkindo.Project/__Browse References/FSalesOrderRecapSearch.designer.vb",170,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FSalesOrderRecapSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FSalesOrderRecapSearch.vb",1212,11
+"Alkindo Solution/Alkindo.Project/__Browse References/FSalesOrderReturnSearch.Designer.vb",194,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FSalesOrderReturnSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FSalesOrderReturnSearch.vb",68,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FSalesOrderSearch.Designer.vb",175,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FSalesOrderSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FSalesOrderSearch.vb",2460,11
+"Alkindo Solution/Alkindo.Project/__Browse References/FSalesOrderShipmentSearch.Designer.vb",218,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FSalesOrderShipmentSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FSalesOrderShipmentSearch.vb",712,13
+"Alkindo Solution/Alkindo.Project/__Browse References/FSpacerSearch.designer.vb",131,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FSpacerSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FSpacerSearch.vb",84,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FStockOpnameSearch.designer.vb",164,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FStockOpnameSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FStockOpnameSearch.vb",252,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FTaxClassSearch.Designer.vb",131,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FTaxClassSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FTaxClassSearch.vb",90,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FTaxInvoiceNumberSearch.designer.vb",89,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FTaxInvoiceNumberSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FTaxInvoiceNumberSearch.vb",78,9
+"Alkindo Solution/Alkindo.Project/__Browse References/FToolSearch.Designer.vb",123,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FToolSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FToolSearch.vb",59,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FTransferSearch.Designer.vb",175,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FTransferSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FTransferSearch.vb",563,11
+"Alkindo Solution/Alkindo.Project/__Browse References/FUMSearch.Designer.vb",123,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FUMSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FUMSearch.vb",226,11
+"Alkindo Solution/Alkindo.Project/__Browse References/FUserApprovalSearch.Designer.vb",87,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FUserApprovalSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FUserApprovalSearch.vb",56,9
+"Alkindo Solution/Alkindo.Project/__Browse References/FVoucherSearch.designer.vb",289,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FVoucherSearch.resx",126,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FVoucherSearch.vb",399,15
+"Alkindo Solution/Alkindo.Project/__Browse References/FWCSearch.designer.vb",123,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FWCSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FWCSearch.vb",141,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FWIPPartNumberSearch.Designer.vb",124,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FWIPPartNumberSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FWIPPartNumberSearch.vb",164,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FWOReceiptSearch.designer.vb",154,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FWOReceiptSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FWOReceiptSearch.vb",263,10
+"Alkindo Solution/Alkindo.Project/__Browse References/FWORoutingSearch.designer.vb",196,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FWORoutingSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FWORoutingSearch.vb",1337,16
+"Alkindo Solution/Alkindo.Project/__Browse References/FWOSearch.designer.vb",154,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FWOSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FWOSearch.vb",998,15
+"Alkindo Solution/Alkindo.Project/__Browse References/FWasteSearch.designer.vb",159,3
+"Alkindo Solution/Alkindo.Project/__Browse References/FWasteSearch.resx",123,0
+"Alkindo Solution/Alkindo.Project/__Browse References/FWasteSearch.vb",132,11
+"Alkindo Solution/Alkindo.Project/__General Form/CustomDesignForm.resx",632,0
+"Alkindo Solution/Alkindo.Project/__General Form/CustomDesignForm.vb",1230,5
+"Alkindo Solution/Alkindo.Project/__General Form/FCodeMstr.Designer.vb",601,3
+"Alkindo Solution/Alkindo.Project/__General Form/FCodeMstr.resx",126,0
+"Alkindo Solution/Alkindo.Project/__General Form/FCodeMstr.vb",359,13
+"Alkindo Solution/Alkindo.Project/__General Form/FCodeMstr0.designer.vb",401,3
+"Alkindo Solution/Alkindo.Project/__General Form/FCodeMstr0.resx",126,0
+"Alkindo Solution/Alkindo.Project/__General Form/FCodeMstr0.vb",323,12
+"Alkindo Solution/Alkindo.Project/__General Form/frmExport.Designer.vb",62,3
+"Alkindo Solution/Alkindo.Project/__General Form/frmExport.resx",120,0
+"Alkindo Solution/Alkindo.Project/__General Form/frmExport.vb",3,0
+"Alkindo Solution/Alkindo.Project/__General Form/frmPrintDialog.Designer.vb",171,3
+"Alkindo Solution/Alkindo.Project/__General Form/frmPrintDialog.resx",440,0
+"Alkindo Solution/Alkindo.Project/__General Form/frmPrintDialog.vb",223,12
+"Alkindo Solution/Alkindo.Project/__General Form/frmPrintDialogReport.Designer.vb",1407,3
+"Alkindo Solution/Alkindo.Project/__General Form/frmPrintDialogReport.resx",446,0
+"Alkindo Solution/Alkindo.Project/__General Form/frmPrintDialogReport.vb",48,6
+"Alkindo Solution/Alkindo.Project/app.config",53,0
+"Alkindo Solution/Alkindo.Project/packages.config",4,0
+"Alkindo Solution/Alkindo/App.config",6,0
+"Alkindo Solution/Alkindo/Form1.Designer.vb",32,3
+"Alkindo Solution/Alkindo/Form1.vb",4,0
+"Alkindo Solution/Alkindo/My Project/Application.Designer.vb",39,3
+"Alkindo Solution/Alkindo/My Project/AssemblyInfo.vb",36,0
+"Alkindo Solution/Alkindo/My Project/Resources.Designer.vb",63,0
+"Alkindo Solution/Alkindo/My Project/Resources.resx",117,0
+"Alkindo Solution/Alkindo/My Project/Settings.Designer.vb",74,1
+"Alkindo Solution/AlkindoPT.Project/Module/Distribution/Transaction/FInventorySlitting_new_WIP2.designer.vb",2162,3
+"Alkindo Solution/AlkindoPT.Project/Module/Distribution/Transaction/FInventorySlitting_new_WIP2.resx",132,0
+"Alkindo Solution/AlkindoPT.Project/Module/Distribution/Transaction/FInventorySlitting_new_WIP2.vb",4712,71
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRGatepassSub.designer.vb",325,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRGatepassSub.resx",219,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRGatepassSub.vb",8,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRInventorySlitting.designer.vb",953,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRInventorySlitting.resx",585,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRInventorySlitting.vb",108,4
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRInventorySlitting_LOT.designer.vb",971,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRInventorySlitting_LOT.resx",591,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRInventorySlitting_LOT.vb",108,4
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelHCPB.designer.vb",89,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelHCPB.resx",144,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelHCPB.vb",63,2
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelHCPBGSub.designer.vb",493,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelHCPBGSub.resx",255,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelHCPBGSub.vb",71,4
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelHCPBSub.designer.vb",825,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelHCPBSub.resx",354,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelHCPBSub.vb",69,4
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPC.designer.vb",89,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPC.resx",144,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPC.vb",64,2
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPCSub.designer.vb",1032,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPCSub.resx",387,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPCSub.vb",106,7
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPT.designer.vb",91,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPT.resx",144,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPT.vb",64,2
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPTSub.designer.vb",744,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPTSub.resx",321,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelPTSub.vb",91,6
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelRodaPT.designer.vb",89,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelRodaPT.resx",144,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelRodaPT.vb",63,2
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelRodaPTSub.designer.vb",557,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelRodaPTSub.resx",270,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelRodaPTSub.vb",115,4
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelRodaPTSub2.designer.vb",193,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelRodaPTSub2.resx",120,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelRodaPTSub2.vb",8,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelSerahTerimaPT.designer.vb",1125,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelSerahTerimaPT.resx",432,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelSerahTerimaPT.vb",35,4
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelWOPT.designer.vb",814,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelWOPT.resx",120,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRLabelWOPT.vb",13,2
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPSSub.designer.vb",414,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPSSub.resx",120,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPSSub.vb",7,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPalletID.designer.vb",104,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPalletID.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPalletID.vb",10,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPalletIDSub.designer.vb",355,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPalletIDSub.resx",120,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPalletIDSub.vb",12,2
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPalletIDSubNew.designer.vb",355,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPalletIDSubNew.resx",120,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPalletIDSubNew.vb",13,2
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcode.designer.vb",341,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcode.resx",120,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcode.vb",31,2
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcodeDouble.designer.vb",417,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcodeDouble.resx",204,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcodeDouble.vb",89,4
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcodeDoubleColor.designer.vb",464,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcodeDoubleColor.resx",120,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcodeDoubleColor.vb",89,4
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcodeSingle.designer.vb",1892,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcodeSingle.resx",483,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintBarcodeSingle.vb",153,4
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintQRCode.designer.vb",248,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintQRCode.resx",120,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintQRCode.vb",28,2
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintQRCode_WO.designer.vb",231,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintQRCode_WO.resx",174,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintQRCode_WO.vb",29,2
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintQRCode_new.designer.vb",276,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintQRCode_new.resx",120,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRPrintQRCode_new.vb",28,2
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRRoutingSub.designer.vb",319,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRRoutingSub.resx",120,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRRoutingSub.vb",7,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRWOListPrint.designer.vb",1072,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRWOListPrint.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRWOListPrint.vb",116,4
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRWOReceiptPrintLotSerial.designer.vb",1130,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRWOReceiptPrintLotSerial.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRWOReceiptPrintLotSerial.vb",119,4
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRWOReceiptPrintNon.designer.vb",837,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRWOReceiptPrintNon.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/XRWOReceiptPrintNon.vb",118,4
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/ds_barcode_double.Designer.vb",1512,54
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/ds_label.Designer.vb",689,31
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Print Out/ds_wo_receipt.Designer.vb",2557,97
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FConsumeWIPReport.designer.vb",269,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FConsumeWIPReport.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FConsumeWIPReport.vb",387,9
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FJumboPrintingReport.designer.vb",372,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FJumboPrintingReport.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FJumboPrintingReport.vb",891,12
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FWOLaborFeedbackReport.designer.vb",503,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FWOLaborFeedbackReport.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FWOLaborFeedbackReport.vb",1457,15
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FWorkOrderReceiptReport.designer.vb",272,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FWorkOrderReceiptReport.resx",126,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FWorkOrderReceiptReport.vb",459,10
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FWorkOrderReport.Designer.vb",448,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FWorkOrderReport.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Report/FWorkOrderReport.vb",729,13
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FConsumeWIP.designer.vb",1471,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FConsumeWIP.resx",132,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FConsumeWIP.vb",3946,54
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FConsumeWIP2.designer.vb",1466,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FConsumeWIP2.resx",132,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FConsumeWIP2.vb",4032,56
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FJumboPrinting.designer.vb",2092,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FJumboPrinting.resx",132,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FJumboPrinting.vb",5048,76
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FJumboPrintingTinta.designer.vb",1797,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FJumboPrintingTinta.resx",132,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FJumboPrintingTinta.vb",5045,74
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FPalletID.designer.vb",848,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FPalletID.resx",129,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FPalletID.vb",765,25
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FPalletIDImport.designer.vb",236,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FPalletIDImport.resx",129,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FPalletIDImport.vb",267,12
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FRouting.designer.vb",595,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FRouting.resx",129,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FRouting.vb",1282,32
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FSOContractImport.designer.vb",236,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FSOContractImport.resx",129,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FSOContractImport.vb",473,13
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWOLaborFeedback.designer.vb",2202,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWOLaborFeedback.resx",132,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWOLaborFeedback.vb",5511,95
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWOReceipt.designer.vb",1820,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWOReceipt.resx",129,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWOReceipt.vb",5652,60
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWOReceipt_old.designer.vb",1495,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWOReceipt_old.resx",129,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWOReceipt_old.vb",4557,55
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWORouteMaintenance.designer.vb",910,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWORouteMaintenance.resx",129,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWORouteMaintenance.vb",777,23
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWorkOrder.designer.vb",2612,3
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWorkOrder.resx",129,0
+"Alkindo Solution/AlkindoPT.Project/Module/Manufacture/Transaction/FWorkOrder.vb",3930,69
+"Alkindo Solution/AlkindoPT.Project/Module/Master Data/Company/FZEmployeImport.designer.vb",219,3
+"Alkindo Solution/AlkindoPT.Project/Module/Master Data/Company/FZEmployeImport.resx",129,0
+"Alkindo Solution/AlkindoPT.Project/Module/Master Data/Company/FZEmployeImport.vb",335,12
+"Alkindo Solution/AlkindoPT.Project/Module/Master Data/Company/FZEmployee.designer.vb",629,3
+"Alkindo Solution/AlkindoPT.Project/Module/Master Data/Company/FZEmployee.resx",126,0
+"Alkindo Solution/AlkindoPT.Project/Module/Master Data/Company/FZEmployee.vb",532,18
+"Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FColor.Designer.vb",424,3
+"Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FColor.resx",126,0
+"Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FColor.vb",383,17
+"Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FColorImport.designer.vb",177,3
+"Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FColorImport.resx",129,0
+"Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FColorImport.vb",244,11
+"Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FColorRemarks.Designer.vb",92,3
+"Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FColorRemarks.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FColorRemarks.vb",29,4
+"Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FPartNumber.designer.vb",1691,3
+"Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FPartNumber.resx",126,0
+"Alkindo Solution/AlkindoPT.Project/Module/Master Data/Item Sites/FPartNumber.vb",1379,25
+"Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Print Out/XRSO.designer.vb",857,3
+"Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Print Out/XRSO.resx",573,0
+"Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Print Out/XRSO.vb",111,4
+"Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Print Out/XRSOPriceDisc2.designer.vb",1151,4
+"Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Print Out/XRSOPriceDisc2.resx",660,0
+"Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Print Out/XRSOPriceDisc2.vb",110,4
+"Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Transaction/FSOContract.designer.vb",831,3
+"Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Transaction/FSOContract.resx",135,0
+"Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Transaction/FSOContract.vb",1223,31
+"Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Transaction/FSalesOrder.designer.vb",2239,3
+"Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Transaction/FSalesOrder.resx",135,0
+"Alkindo Solution/AlkindoPT.Project/Module/Sales Order/Transaction/FSalesOrder.vb",9330,97
+"Alkindo Solution/AlkindoPT.Project/Module/___Function Helper/Cls_Bilangan.vb",341,12
+"Alkindo Solution/AlkindoPT.Project/Module/___Function Helper/Cls_Bilangan_Eng.vb",185,6
+"Alkindo Solution/AlkindoPT.Project/Module/___Function Helper/ModFunctionSpecial.vb",1696,18
+"Alkindo Solution/AlkindoPT.Project/Module/___Function Helper/function_collection.vb",11214,105
+"Alkindo Solution/AlkindoPT.Project/Module/___Function Helper/function_data.vb",6083,163
+"Alkindo Solution/AlkindoPT.Project/My Project/Application.Designer.vb",14,0
+"Alkindo Solution/AlkindoPT.Project/My Project/AssemblyInfo.vb",36,0
+"Alkindo Solution/AlkindoPT.Project/My Project/Resources.Designer.vb",64,0
+"Alkindo Solution/AlkindoPT.Project/My Project/Resources.resx",127,0
+"Alkindo Solution/AlkindoPT.Project/My Project/Settings.Designer.vb",172,1
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FAccountSearch.Designer.vb",123,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FAccountSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FAccountSearch.vb",491,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FAddressTypeSearch.Designer.vb",87,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FAddressTypeSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FAddressTypeSearch.vb",60,9
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FAssetRequestSearch.designer.vb",131,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FAssetRequestSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FAssetRequestSearch.vb",172,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FAssetSearch.designer.vb",122,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FAssetSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FAssetSearch.vb",789,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FBranchSearch.Designer.vb",122,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FBranchSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FBranchSearch.vb",89,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FCodeSearch.designer.vb",123,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FCodeSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FCodeSearch.vb",67,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FCostCenterSearch.Designer.vb",123,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FCostCenterSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FCostCenterSearch.vb",165,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FCustomerSearch.designer.vb",141,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FCustomerSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FCustomerSearch.vb",104,11
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FDRCRMemoSearch.Designer.vb",257,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FDRCRMemoSearch.resx",126,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FDRCRMemoSearch.vb",625,13
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FEmpSearch.Designer.vb",123,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FEmpSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FEmpSearch.vb",107,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FEntitySearch.Designer.vb",123,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FEntitySearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FEntitySearch.vb",94,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FFixAssetBookSearch.Designer.vb",89,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FFixAssetBookSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FFixAssetBookSearch.vb",69,9
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FFixAssetMethodeSearch.Designer.vb",89,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FFixAssetMethodeSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FFixAssetMethodeSearch.vb",81,9
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FFunctionCPSearch.Designer.vb",87,4
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FFunctionCPSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FFunctionCPSearch.vb",60,9
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInspectionSearch.designer.vb",200,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInspectionSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInspectionSearch.vb",210,13
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryIssueSearch.designer.vb",175,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryIssueSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryIssueSearch.vb",343,11
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryLendRequestSearch.Designer.vb",159,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryLendRequestSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryLendRequestSearch.vb",299,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryRequestSearch.Designer.vb",156,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryRequestSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryRequestSearch.vb",605,11
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryRewindingSearch.Designer.vb",156,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryRewindingSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInventoryRewindingSearch.vb",271,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInventorySearch.designer.vb",141,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInventorySearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInventorySearch.vb",177,11
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInventorySlittingSearch.Designer.vb",156,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInventorySlittingSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInventorySlittingSearch.vb",276,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInvoiceSearch.designer.vb",178,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInvoiceSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FInvoiceSearch.vb",230,11
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FItemGroupSearch.designer.vb",126,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FItemGroupSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FItemGroupSearch.vb",59,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FItemStatusSearch.designer.vb",123,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FItemStatusSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FItemStatusSearch.vb",72,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FLaborFeedbackSearch.designer.vb",187,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FLaborFeedbackSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FLaborFeedbackSearch.vb",486,13
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FLocationSearch.designer.vb",144,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FLocationSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FLocationSearch.vb",1464,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FLotSerialSearch.designer.vb",137,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FLotSerialSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FLotSerialSearch.vb",525,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FMachineSearch.designer.vb",134,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FMachineSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FMachineSearch.vb",176,11
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPOCustomerSearch.designer.vb",154,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPOCustomerSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPOCustomerSearch.vb",365,11
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPPNTypeSearch.Designer.vb",95,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPPNTypeSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPPNTypeSearch.vb",51,9
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPTBOMSrch.Designer.vb",127,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPTBOMSrch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPTBOMSrch.vb",212,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPackagingSearch.designer.vb",123,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPackagingSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPackagingSearch.vb",116,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPartNumberSearch.designer.vb",181,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPartNumberSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPartNumberSearch.vb",3770,15
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPartnerSearch.Designer.vb",133,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPartnerSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPartnerSearch.vb",478,12
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FProdStrucSearch.designer.vb",125,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FProdStrucSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FProdStrucSearch.vb",365,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FProjectAccountSearch.Designer.vb",157,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FProjectAccountSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FProjectAccountSearch.vb",234,12
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPurchaseOrderSearch.Designer.vb",156,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPurchaseOrderSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPurchaseOrderSearch.vb",1167,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPurchaseReceiptSearch.Designer.vb",156,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPurchaseReceiptSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FPurchaseReceiptSearch.vb",119,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FReasonCodeQCSearch.Designer.vb",122,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FReasonCodeQCSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FReasonCodeQCSearch.vb",69,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FReasonCodeReturnSearch.Designer.vb",130,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FReasonCodeReturnSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FReasonCodeReturnSearch.vb",67,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FReasonCodeSOSearch.Designer.vb",122,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FReasonCodeSOSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FReasonCodeSOSearch.vb",96,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FRequisitionSearch.Designer.vb",229,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FRequisitionSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FRequisitionSearch.vb",817,12
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FRoutingSearch.designer.vb",123,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FRoutingSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FRoutingSearch.vb",325,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSOGiftRequestSearch.designer.vb",156,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSOGiftRequestSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSOGiftRequestSearch.vb",262,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSOGiftSearch.designer.vb",175,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSOGiftSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSOGiftSearch.vb",356,11
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSOGlobalSearch.designer.vb",159,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSOGlobalSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSOGlobalSearch.vb",166,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSOInternalSearch.designer.vb",157,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSOInternalSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSOInternalSearch.vb",206,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderDetailSearch.designer.vb",167,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderDetailSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderDetailSearch.vb",219,11
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderRecapSearch.designer.vb",170,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderRecapSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderRecapSearch.vb",700,11
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderSearch.Designer.vb",167,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderSearch.vb",2297,11
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderShipmentSearch.Designer.vb",175,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderShipmentSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSalesOrderShipmentSearch.vb",420,11
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSpacerSearch.designer.vb",131,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSpacerSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FSpacerSearch.vb",85,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FStockOpnameSearch.designer.vb",164,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FStockOpnameSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FStockOpnameSearch.vb",250,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FTaxClassSearch.Designer.vb",131,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FTaxClassSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FTaxClassSearch.vb",90,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FToolSearch.Designer.vb",123,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FToolSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FToolSearch.vb",59,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FTransferSearch.Designer.vb",175,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FTransferSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FTransferSearch.vb",563,11
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FUMSearch.Designer.vb",123,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FUMSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FUMSearch.vb",226,11
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FUserApprovalSearch.Designer.vb",87,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FUserApprovalSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FUserApprovalSearch.vb",56,9
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FVoucherSearch.designer.vb",289,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FVoucherSearch.resx",126,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FVoucherSearch.vb",399,15
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FWCSearch.designer.vb",123,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FWCSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FWCSearch.vb",141,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FWIPPartNumberSearch.Designer.vb",124,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FWIPPartNumberSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FWIPPartNumberSearch.vb",162,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FWOReceiptSearch.designer.vb",154,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FWOReceiptSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FWOReceiptSearch.vb",263,10
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FWORoutingSearch.designer.vb",196,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FWORoutingSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FWORoutingSearch.vb",1839,19
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FWOSearch.designer.vb",154,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FWOSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FWOSearch.vb",951,14
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FWasteSearch.designer.vb",159,3
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FWasteSearch.resx",123,0
+"Alkindo Solution/AlkindoPT.Project/__Browse References/FWasteSearch.vb",106,11
+"Alkindo Solution/AlkindoPT.Project/__General Form/CustomDesignForm.resx",640,0
+"Alkindo Solution/AlkindoPT.Project/__General Form/CustomDesignForm.vb",1189,5
+"Alkindo Solution/AlkindoPT.Project/__General Form/FCodeMstr.Designer.vb",601,3
+"Alkindo Solution/AlkindoPT.Project/__General Form/FCodeMstr.resx",126,0
+"Alkindo Solution/AlkindoPT.Project/__General Form/FCodeMstr.vb",359,13
+"Alkindo Solution/AlkindoPT.Project/__General Form/FCodeMstr0.designer.vb",401,3
+"Alkindo Solution/AlkindoPT.Project/__General Form/FCodeMstr0.resx",126,0
+"Alkindo Solution/AlkindoPT.Project/__General Form/FCodeMstr0.vb",323,12
+"Alkindo Solution/AlkindoPT.Project/__General Form/frmExport.Designer.vb",62,3
+"Alkindo Solution/AlkindoPT.Project/__General Form/frmExport.resx",120,0
+"Alkindo Solution/AlkindoPT.Project/__General Form/frmExport.vb",3,0
+"Alkindo Solution/AlkindoPT.Project/__General Form/frmPrintDialog.Designer.vb",171,3
+"Alkindo Solution/AlkindoPT.Project/__General Form/frmPrintDialog.resx",440,0
+"Alkindo Solution/AlkindoPT.Project/__General Form/frmPrintDialog.vb",194,12
+"Alkindo Solution/AlkindoPT.Project/__General Form/frmPrintDialogReport.Designer.vb",1407,3
+"Alkindo Solution/AlkindoPT.Project/__General Form/frmPrintDialogReport.resx",446,0
+"Alkindo Solution/AlkindoPT.Project/__General Form/frmPrintDialogReport.vb",48,6
+"Alkindo Solution/AlkindoPT.Project/app.config",53,0
+"Alkindo Solution/AlkindoPT.Project/packages.config",4,0
