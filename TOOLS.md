@@ -178,6 +178,7 @@ Sumber mapping permanen nama grup ↔ JID WhatsApp (trigger: `#MAPGROUP SAMI` / 
 - MASLAM MADANI - SUMATERA UTARA → `120363406261364099@g.us`
 - Neuron x Sivensys ERP → `120363407732324307@g.us`
 - To Be Masjid Visioner → `120363394811818734@g.us`
+- MASLAM MADINAH → `120363142419346211@g.us`
 
 ## Pairing Korwil ↔ Grup WA Maslam (operational note, 2026-04-11)
 
