@@ -1,0 +1,402 @@
+file,lines,sha16,first_line,last_line,hit_wf_mstr,hit_glt_det,hit_insert_log,hit_MessageBox.Show,hit_TODO
+Starcom Solution/Starcom.Project/Module/Distribution/Boq/FBillOfQuantity.designer.vb,864,452e0a3847d43444,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Boq/FBillOfQuantity.resx,132,e537e92972d9e0df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Boq/FBillOfQuantity.vb,1796,9ebe7bb97a40cbf9,﻿Imports Devart.Data.PostgreSql,End Class,10,0,6,45,0
+Starcom Solution/Starcom.Project/Module/Distribution/Boq/XRBOQ.designer.vb,747,ee3d6c2d9989fc26,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Boq/XRBOQ.resx,601,ef446fa7235e302b,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Boq/XRBOQ.vb,147,5bbf46e5464490be,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Starcom Solution/Starcom.Project/Module/Distribution/Boq/XRBOQSub.Designer.vb,309,85be1c738d4cfc3c,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Boq/XRBOQSub.resx,238,790a89caa15b54df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Boq/XRBOQSub.vb,3,e0effcb9524b016a,Public Class XRBOQSub,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Inventory Control/FInventoryIssues.Designer.vb,1043,c4ac68cb1fd3d1d1,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Inventory Control/FInventoryIssues.resx,132,c3f8670885f3f324,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Inventory Control/FInventoryIssues.vb,2388,37c123658b17a120,﻿Imports Devart.Data.PostgreSql,End Class,0,7,2,48,0
+Starcom Solution/Starcom.Project/Module/Distribution/Inventory Control/Report/FInvReportByDate.designer.vb,757,d6f44f896d20a19a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Inventory Control/Report/FInvReportByDate.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Inventory Control/Report/FInvReportByDate.vb,1073,42bf914e6d44b2b5,﻿Imports master_new.ModFunction,End Class,0,0,0,4,0
+Starcom Solution/Starcom.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseOrderPrintOut.Designer.vb,1402,c39adccd5153ce28,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseOrderPrintOut.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseOrderPrintOut.vb,272,8597222279e62c58,Imports DevExpress.XtraPrinting,End Class,3,0,1,4,0
+Starcom Solution/Starcom.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseOrder.Designer.vb,1962,4928cbb0a57c2bbd,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseOrder.resx,132,b72d835493993aaf,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseOrder.vb,6371,80622ac4990cdc6d,﻿Imports DevExpress.XtraExport,,13,8,9,118,0
+Starcom Solution/Starcom.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseReceipt.Designer.vb,1128,605b169544868447,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseReceipt.resx,129,e6b7d88b9418fffc,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseReceipt.vb,2683,15e84b04ec52966e,﻿Imports Devart.Data.PostgreSql,End Class,0,7,6,47,0
+Starcom Solution/Starcom.Project/Module/Distribution/Requisition/FRequisition.Designer.vb,1287,a7fe1ccfb997ec1a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Requisition/FRequisition.resx,129,f4a1f5efea31259f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Requisition/FRequisition.vb,2982,10afc70f8e6be392,﻿Imports Devart.Data.PostgreSql,End Class,10,0,7,72,0
+Starcom Solution/Starcom.Project/Module/Distribution/Requisition/Print Out/XRRequisition.designer.vb,686,7df178da76251162,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Requisition/Print Out/XRRequisition.resx,366,042d864ec89f4dff,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Requisition/Print Out/XRRequisition.vb,137,a2a0c3f91d6596b6,Imports DevExpress.XtraPrinting,End Class,1,0,1,4,0
+Starcom Solution/Starcom.Project/Module/Distribution/Requisition/Print Out/XRRequisitionCost.Designer.vb,776,0fe45952e2352f5e,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Requisition/Print Out/XRRequisitionCost.resx,564,f4d38a1668aa6188,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Distribution/Requisition/Print Out/XRRequisitionCost.vb,125,3084c3a847dd7bc4,Imports DevExpress.XtraPrinting,End Class,1,0,1,4,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Payable/Print Out/XRAPInvoice.designer.vb,1344,28d25ab0af532a4f,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Payable/Print Out/XRAPInvoice.resx,842,2f63c942d84e4cf6,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Payable/Print Out/XRAPInvoice.vb,125,917d3799006ebd51,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Payable/Print Out/XRAPInvoiceNoPO.designer.vb,1236,db86712b643db486,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Payable/Print Out/XRAPInvoiceNoPO.resx,236,10a35eca60352aee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Payable/Print Out/XRAPInvoiceNoPO.vb,114,e38c9f02f71859fd,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Payable/Report/FAPInvoiceReport.Designer.vb,459,3c31b416052387e7,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Payable/Report/FAPInvoiceReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Payable/Report/FAPInvoiceReport.vb,633,2d0ffb1a30df2420,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Payable/Report/FAPPaymentReport.Designer.vb,256,78267c270f5e1c0c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Payable/Report/FAPPaymentReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Payable/Report/FAPPaymentReport.vb,371,dda133689929a46c,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Payable/Transaction/FPaymentManualChecks.designer.vb,1282,23d9e2a1c3fb5e0a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Payable/Transaction/FPaymentManualChecks.resx,129,21f04bb96ca2099d,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Payable/Transaction/FPaymentManualChecks.vb,2864,510391fe0d5c70ff,﻿Imports Devart.Data.PostgreSql,End Class,0,27,3,43,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Payable/Transaction/FVoucher.Designer.vb,1764,9e724d48ceb099d9,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Payable/Transaction/FVoucher.resx,129,f4a1f5efea31259f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Payable/Transaction/FVoucher.vb,3802,029283ecf34b95f6,﻿Imports Devart.Data.PostgreSql,End Class,0,22,4,44,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDisc2.designer.vb,1415,0f352c86d6208a70,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDisc2.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDisc2.vb,317,d6d056a7a3684cf0,Imports DevExpress.XtraPrinting,End Class,0,0,1,13,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDistLine.designer.vb,1468,f8b1947d17f65501,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDistLine.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDistLine.vb,160,891be2b6302c52d6,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDistLine2.designer.vb,1438,a3cc2295ffaa595a,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDistLine2.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDistLine2.vb,171,89abdd0adcd9d872,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Print Out/XRSubInvoice.Designer.vb,356,e5e2b6098110051c,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Print Out/XRSubInvoice.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Print Out/XRSubInvoice.vb,3,276ecf11e4540654,Public Class XRSubInvoice,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Print Out/ds_invoice.Designer.vb,608,b2312dc0a5bd1825,﻿'------------------------------------------------------------------------------,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Print Out/ds_invoice.xsd,25,e43771e21da71b2f,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Report/FARPaymentReport.designer.vb,281,6ad3dac881baa74d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Report/FARPaymentReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Report/FARPaymentReport.vb,399,e33d49cd3cda65b3,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Transaction/FARPayment.Designer.vb,1457,9fb54dcb97291d2e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Transaction/FARPayment.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Transaction/FARPayment.vb,3460,b703532977ec722f,﻿Imports Devart.Data.PostgreSql,End Class,0,27,3,50,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Transaction/FDRCRMemo.Designer.vb,2005,d6d92d0ee7369da4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Transaction/FDRCRMemo.resx,129,f4a1f5efea31259f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Account Receiveable/Transaction/FDRCRMemo.vb,5273,05749b3339d33ea8,﻿Imports System.ComponentModel,End Class,0,24,5,66,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBudgetApproval.designer.vb,812,80cf7c272834514d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBudgetApproval.resx,140,560404d99cbfb70b,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBudgetApproval.vb,864,7014bb85b264561f,﻿Imports Devart.Data.PostgreSql,End Class,16,0,1,15,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBudgetClosing.designer.vb,216,eec418c6d9a9dd12,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBudgetClosing.resx,126,a83b7fe7f57b20a6,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBudgetClosing.vb,115,17f616eb67b1dc0e,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,5,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBudgetDetail.designer.vb,553,4ff8660de666a99d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBudgetDetail.resx,141,8948f63b5e3c2f0f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBudgetDetail.vb,544,9409a1b7a36f3030,﻿Imports master_new.ModFunction,End Class,0,0,0,18,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBudgetTransaction.designer.vb,767,f27a4694fb0e99f0,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBudgetTransaction.resx,132,7fb8bd4e5f2df511,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBudgetTransaction.vb,888,331b025bbeb3d41a,﻿Imports Devart.Data.PostgreSql,,0,0,1,23,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBudgetTransaction_old.designer.vb,718,19533256c9730885,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBudgetTransaction_old.resx,132,95c8be6968c1fd4e,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBudgetTransaction_old.vb,888,331b025bbeb3d41a,﻿Imports Devart.Data.PostgreSql,,0,0,1,23,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBudgeting.designer.vb,902,e4433e06538122b9,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBudgeting.resx,141,61d99f2a92f532c9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBudgeting.vb,1831,3476be0e24ac66ce,﻿Imports Devart.Data.PostgreSql,End Class,11,0,5,41,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBugdetProjectReport.designer.vb,532,aba304bd9d2610c1,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBugdetProjectReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FBugdetProjectReport.vb,823,05066f71f7bd5024,﻿Imports Devart.Data.PostgreSql,End Class,0,2,0,1,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FCrossBudget.designer.vb,728,cbee25faf0a45044,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FCrossBudget.resx,132,7fb8bd4e5f2df511,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FCrossBudget.vb,621,cbdc5aef50a15cb4,﻿Imports Devart.Data.PostgreSql,,0,0,2,14,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FProjectBudgetGenerate.designer.vb,763,f2a25c2819e50bee,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FProjectBudgetGenerate.resx,132,62f045df98c84225,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FProjectBudgetGenerate.vb,1851,2f372f375e225d34,﻿Imports Devart.Data.PostgreSql,,11,0,5,53,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FRecalculateBudgetCC.designer.vb,383,266233c99aa5dab5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FRecalculateBudgetCC.resx,132,e929ec2f629887f2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FRecalculateBudgetCC.vb,671,0f156d45a71d0ac7,﻿Imports Devart.Data.PostgreSql,End Class,0,0,2,18,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FRecalculateBudgetProject.designer.vb,332,b495cb623abd507f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FRecalculateBudgetProject.resx,132,e929ec2f629887f2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Budget/FRecalculateBudgetProject.vb,549,f280299b56516eff,﻿Imports Devart.Data.PostgreSql,End Class,0,0,2,15,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrintPng.designer.vb,522,60a269c7f3473d8f,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrintPng.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrintPng.vb,233,c8c7eddcb307bb22,Imports master_new.PGSqlConn,End Class,1,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrintPng.designer.vb,666,875da6244fad7f92,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrintPng.resx,522,93e30a224a0620bb,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrintPng.vb,254,20444e5f26f19643,Imports master_new.PGSqlConn,End Class,1,0,0,1,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Print Out/XRDisbursementVoucherPrint.designer.vb,935,f0d7a42102efbec0,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Print Out/XRDisbursementVoucherPrint.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Print Out/XRDisbursementVoucherPrint.vb,314,22ce1c37bcff4598,Imports master_new.ModFunction,End Class,0,0,1,5,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FBalanceOfBankSummaryReport.Designer.vb,263,65c3b0d0a762f87a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FBalanceOfBankSummaryReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FBalanceOfBankSummaryReport.vb,183,8fd4e7344aa55563,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FCashManagementReport.designer.vb,884,5b9caad0957dad58,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FCashManagementReport.resx,126,34cc7a954f2de048,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FCashManagementReport.vb,418,0873b7e4e83bdf5d,﻿Imports master_new.ModFunction,End Class,2,0,0,3,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FCashManagementReport2.designer.vb,441,b85ddf5ce5e3068c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FCashManagementReport2.resx,126,34cc7a954f2de048,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FCashManagementReport2.vb,688,a2e4c7636e7e2a91,﻿Imports master_new.ModFunction,End Class,4,0,0,1,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FDROutstandingCashAdvanceReport.designer.vb,156,9d97e7f0f33e0e96,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FDROutstandingCashAdvanceReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FDROutstandingCashAdvanceReport.vb,151,7faef56f372c3a21,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FDisbursementRealizationReport.designer.vb,156,05c9b3916d0f1d90,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FDisbursementRealizationReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FDisbursementRealizationReport.vb,139,06c8293be2762482,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FDisbursementRequestReport.designer.vb,156,84c33ed353f1ba51,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FDisbursementRequestReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FDisbursementRequestReport.vb,163,ec6ad188dcda1312,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FDisbursementVoucherReport.designer.vb,293,a74f005558afec5f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FDisbursementVoucherReport.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FDisbursementVoucherReport.vb,399,656dc44953303384,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FGeneralLedgerCashReport.designer.vb,451,31a7a42699137dc1,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FGeneralLedgerCashReport.resx,126,9edb009d2063f569,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FGeneralLedgerCashReport.vb,587,d63444e9729cc217,﻿Imports master_new.ModFunction,End Class,0,3,0,6,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FGeneralLedgerCashReportPerCostCenterBank.designer.vb,426,029ad6470a356eb5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FGeneralLedgerCashReportPerCostCenterBank.resx,126,e293e5848931b4b6,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FGeneralLedgerCashReportPerCostCenterBank.vb,555,96dd77052e49b0b2,﻿Imports master_new.ModFunction,End Class,1,8,0,3,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FNetOffBalance.Designer.vb,145,a77d8996211b0da5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FNetOffBalance.resx,123,7790ddc0d3237898,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Report/FNetOffBalance.vb,203,a86d6080c963cb8d,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,5,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FCashIn.designer.vb,925,e0ffc58ab3c65de4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FCashIn.resx,132,967b4eeaaf37f00b,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FCashIn.vb,1181,cc8ebb21e62e3705,﻿Imports Devart.Data.PostgreSql,End Class,0,5,3,21,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FCashOut.designer.vb,1001,56643f9a6df7d7b6,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FCashOut.resx,132,967b4eeaaf37f00b,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FCashOut.vb,1821,bf7ebe5d2222f4bd,﻿Imports Devart.Data.PostgreSql,End Class,0,15,3,29,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FDisbursementApproval.designer.vb,787,030a63dd63f23d91,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FDisbursementApproval.resx,138,d258bd554edb8a71,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FDisbursementApproval.vb,1095,be0b6b362c0565d2,﻿Imports Devart.Data.PostgreSql,End Class,12,2,3,25,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealization.designer.vb,1554,017b3959c2469b1a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealization.resx,132,3ef966bd1fd966ce,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealization.vb,4537,efa9e62b19b6f16b,﻿Imports Devart.Data.PostgreSql,End Class,13,9,6,88,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealizationApproval.designer.vb,1038,19e609b3b18154dd,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealizationApproval.resx,141,48a68e56b3cda913,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealizationApproval.vb,4122,24443aa32ea63e2e,﻿Imports Devart.Data.PostgreSql,End Class,20,57,3,57,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FDisbursementRequest.designer.vb,1521,149ffd2290d97d6b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FDisbursementRequest.resx,132,b557f833e1ea67e9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FDisbursementRequest.vb,3063,5c1d0747baf21415,﻿Imports Devart.Data.PostgreSql,,10,1,7,81,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FDisbursementVoucher.designer.vb,2064,34021bcb0b83a429,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FDisbursementVoucher.resx,132,e11c5ae33d98a0ce,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FDisbursementVoucher.vb,4272,60b6799f877d5d10,﻿Imports Devart.Data.PostgreSql,End Class,2,17,3,58,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FDisbursementVoucherClose.designer.vb,748,af17db317eb5a03b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FDisbursementVoucherClose.resx,141,599d68b352e8d74d,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FDisbursementVoucherClose.vb,1335,8d0d4950a953875a,﻿Imports Devart.Data.PostgreSql,End Class,0,10,1,17,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FOverBooking.designer.vb,947,3b33eb88c16b4fc8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FOverBooking.resx,132,aca5d9dffe1065e2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Cash Management/Transaction/FOverBooking.vb,1503,c2c1b17b027ede91,﻿Imports Devart.Data.PostgreSql,,0,10,3,30,0
+Starcom Solution/Starcom.Project/Module/Financial/General Ledger/FCostCenter.designer.vb,586,c3db734640c709a4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/General Ledger/FCostCenter.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/General Ledger/FCostCenter.vb,450,5a19059ae477b3a3,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,13,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/FFakturPajak.designer.vb,984,755bd12b8a8c74f3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/FFakturPajak.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/FFakturPajak.vb,2056,523f93c902f03040,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,34,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/FFakturPajak2.designer.vb,929,5a11c5daf9279dd3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/FFakturPajak2.resx,129,41dbd65c515d9bd3,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/FFakturPajak2.vb,1882,c024108245b0a0df,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,33,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/FFakturPajakCoreTax.Designer.vb,973,c692ac53887f77b8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/FFakturPajakCoreTax.resx,129,f4a1f5efea31259f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/FFakturPajakCoreTax.vb,1826,9704657a5e3df481,﻿Imports System.Collections.Generic,End Class,0,0,4,34,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/FFakturPajakPrint.Designer.vb,458,a337463468b8c1b2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/FFakturPajakPrint.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/FFakturPajakPrint.vb,217,24084abbc4d792d6,﻿Public Class FFakturPajakPrint,End Class,0,0,0,3,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlain.designer.vb,3071,f12e12519813f9dd,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlain.resx,126,620dc10d45f79223,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlain.vb,251,8f4449a2b7fe47c5,,End Class,0,0,0,1,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlainIDR.designer.vb,2715,32c1c3dc91da9c51,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlainIDR.resx,126,620dc10d45f79223,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlainIDR.vb,197,13482ef15e22e962,,End Class,0,0,0,1,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/ds_ti.Designer.vb,3929,97d87b6b6419992a,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Financial/Tax Invoice/ds_ti.xsd,475,332411e4ddfd103a,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Company/FAgama.designer.vb,609,cdc8727385ff46ac,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Company/FAgama.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Company/FAgama.vb,491,7c3e8158b48726c8,﻿Imports Devart.Data.PostgreSql,End Class,0,0,5,14,0
+Starcom Solution/Starcom.Project/Module/Master Data/Company/FDocumentApproval.Designer.vb,884,86bbcd10397bd079,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Company/FDocumentApproval.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Company/FDocumentApproval.vb,424,23f67a64263cb5ea,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,9,0
+Starcom Solution/Starcom.Project/Module/Master Data/Company/FRoutingApproval.designer.vb,744,b1f8bb800549823e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Company/FRoutingApproval.resx,129,936ef3b69c7845c4,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Company/FRoutingApproval.vb,981,3ce991e02fa0da7b,﻿Imports Devart.Data.PostgreSql,End Class,1,0,4,20,0
+Starcom Solution/Starcom.Project/Module/Master Data/Company/FZEmployee.designer.vb,657,6440d8c10adab9ce,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Company/FZEmployee.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Company/FZEmployee.vb,491,673e48ecc82a7b39,﻿Imports Devart.Data.PostgreSql,End Class,0,0,5,14,0
+Starcom Solution/Starcom.Project/Module/Master Data/Company/XRDocumentApprovalSub.designer.vb,230,4f654bf9bb47e57f,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Company/XRDocumentApprovalSub.resx,202,e7cc93451b321ac5,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,1,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Company/XRDocumentApprovalSub.vb,28,2a15aa902d2b737c,Public Class XRDocumentApprovalSub,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Company/XRRoutingApproval.designer.vb,184,636db256e91e7888,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Company/XRRoutingApproval.resx,199,88bbee0db9904d62,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,1,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Company/XRRoutingApproval.vb,3,6e988e86f2a2a897,Public Class XRRoutingApproval,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Item Sites/FActivity.designer.vb,496,c9c6f6c99a51d713,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Item Sites/FActivity.resx,129,f730b81d0dfa5cd3,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Item Sites/FActivity.vb,523,3b973d15da942147,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,12,0
+Starcom Solution/Starcom.Project/Module/Master Data/Item Sites/FPartNumber.designer.vb,1126,26a6e648ff2896d0,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Item Sites/FPartNumber.resx,129,f270d1eb6db296f9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Item Sites/FPartNumber.vb,1113,c695ac70799f7b27,﻿Imports Devart.Data.PostgreSql,,0,0,4,24,0
+Starcom Solution/Starcom.Project/Module/Master Data/Item Sites/FSiteID.designer.vb,410,c69b03dad6abbfb4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Item Sites/FSiteID.resx,126,5f5960fa9c4b2480,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Item Sites/FSiteID.vb,370,809e9a9baa8677dd,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,9,0
+Starcom Solution/Starcom.Project/Module/Master Data/Item Sites/FSiteIDImport.designer.vb,219,29d3e7d20254f1ea,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Item Sites/FSiteIDImport.resx,129,cb1527b4b6c6ae68,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Master Data/Item Sites/FSiteIDImport.vb,277,f7c342a4eee18f31,﻿Imports Devart.Data.PostgreSql,,0,0,0,7,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Print Out/XRSO.designer.vb,873,b98d76f4b9db119b,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Print Out/XRSO.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Print Out/XRSO.vb,111,f21431021a315b85,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Print Out/XRSOPriceDisc2.designer.vb,1145,9c750ce7d98c8803,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Print Out/XRSOPriceDisc2.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Print Out/XRSOPriceDisc2.vb,113,f351caf7ebfa0162,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Print Out/XRSO_LOT.designer.vb,896,17ef787fdf271260,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Print Out/XRSO_LOT.resx,585,2a2fe8ad90363931,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Print Out/XRSO_LOT.vb,111,7657c283a1b50dbe,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.Designer.vb,1229,1c904dbee6b1b93f,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.resx,123,310fd7a8db612c5e,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.vb,134,9b94f48a452b731b,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint_LOT.designer.vb,1229,2ddfca25037cd67c,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint_LOT.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint_LOT.vb,108,68dc8791415a4b83,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Print Out/ds_ship.Designer.vb,609,7730ed39fbbeef20,﻿'------------------------------------------------------------------------------,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Print Out/ds_ship.xsd,25,66ba8708570b87a7,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Transaction/FSalesOrder.Designer.vb,2224,3e279765bebb4941,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Transaction/FSalesOrder.resx,135,241c8fb61eb4e2a3,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Transaction/FSalesOrder.vb,9178,116b405f72a4ad45,﻿Imports Devart.Data.PostgreSql,,12,18,7,137,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Transaction/FSalesOrderReturnToShipment.designer.vb,1324,4e996db1f3a7d574,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Transaction/FSalesOrderReturnToShipment.resx,129,54e7655676a0e911,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Transaction/FSalesOrderReturnToShipment.vb,5115,dfb3bdd70c6c6c19,﻿Imports Devart.Data.PostgreSql,End Class,0,34,3,65,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Transaction/FSalesOrderShipment.Designer.vb,1661,3e2de1a9cebbfed3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Transaction/FSalesOrderShipment.resx,135,2e6ea8baba05aef9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/Transaction/FSalesOrderShipment.vb,4947,2a92fc8db0eeb992,﻿Imports master_new.PGSqlConn,End Class,0,25,4,67,0
+Starcom Solution/Starcom.Project/Module/Sales Order/report/FSalesOrderReport.Designer.vb,262,77163a0db9ec352e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/report/FSalesOrderReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/report/FSalesOrderReport.vb,534,e51cdbb84236317b,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Starcom Solution/Starcom.Project/Module/Sales Order/report/FSalesOrderShipmentReport.Designer.vb,231,089cd15b46f64dda,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/report/FSalesOrderShipmentReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/Sales Order/report/FSalesOrderShipmentReport.vb,379,d9e53f0782e0e611,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Starcom Solution/Starcom.Project/Module/___Function Helper/Cls_Bilangan.vb,340,a9e56ba4e47285b4,﻿Public Class Cls_Bilangan,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/___Function Helper/Cls_Bilangan_new.vb,716,b906e582b3e6b99c,﻿Public Class Cls_Bilangan_new,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/Module/___Function Helper/ModFunctionSpecial.vb,1697,670ec91b0af415ff,﻿Imports master_new.ModFunction,End Module,0,2,0,2,0
+Starcom Solution/Starcom.Project/Module/___Function Helper/function_collection.vb,10264,0b664245a9249cd0,﻿Imports System.Net.Mail,,3,106,0,280,0
+Starcom Solution/Starcom.Project/Module/___Function Helper/function_data.vb,6060,21ae2250dd8d34dd,﻿Imports master_new.ModFunction,End Class,0,0,0,241,0
+Starcom Solution/Starcom.Project/My Project/Application.Designer.vb,13,4dd7045513941609,﻿'------------------------------------------------------------------------------,,0,0,0,0,0
+Starcom Solution/Starcom.Project/My Project/AssemblyInfo.vb,35,8821e0f1b5f4f2d2,﻿Imports System,"<Assembly: AssemblyFileVersion(""1.0.0.0"")>",0,0,0,0,0
+Starcom Solution/Starcom.Project/My Project/Resources.Designer.vb,63,290c06a576741999,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Starcom Solution/Starcom.Project/My Project/Resources.resx,127,2cd041a031a7b528,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/My Project/Settings.Designer.vb,171,fb3d77130b3d9e6e,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FARPaymentSearch.designer.vb,161,5323967300f8d95f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FARPaymentSearch.resx,126,f108bc6c4576d3b7,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FARPaymentSearch.vb,123,22675f5e2b9ba5cf,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FAccountSearch.Designer.vb,122,168550da8a29cc4a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FAccountSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FAccountSearch.vb,500,f461f3bb633e8606,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FBGSearch.designer.vb,88,ce6baf2d406b8d47,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FBGSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FBGSearch.vb,104,ac73d53815520382,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FBranchSearch.Designer.vb,121,a984eebb24637ee2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FBranchSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FBranchSearch.vb,88,b5c871584231742e,﻿Public Class FBranchSearch,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FBudgetSearch.designer.vb,123,7080efaacf01387a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FBudgetSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FBudgetSearch.vb,200,9886aea68d483e6f,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FCashInSearch.designer.vb,156,043bafb62ec83166,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FCashInSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FCashInSearch.vb,84,32a09aada5c8ec07,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FCostCenterSearch.Designer.vb,122,26f4c6432dae0e27,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FCostCenterSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FCostCenterSearch.vb,113,3ec08eabcd297290,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FDRCRMemoSearch.Designer.vb,256,76fa872cbd0f5d0e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FDRCRMemoSearch.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FDRCRMemoSearch.vb,1019,bba7c8b8a5c4ffd9,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FDisbRequestDetailSearch.designer.vb,87,774ba054eb10544e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FDisbRequestDetailSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FDisbRequestDetailSearch.vb,91,c149fe2f727c5c74,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FDisbursementRealizationSearch.designer.vb,183,e595cd9fb7f38616,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FDisbursementRealizationSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FDisbursementRealizationSearch.vb,486,42be2a864c1187df,﻿Imports master_new.ModFunction,End Class,1,0,0,1,0
+Starcom Solution/Starcom.Project/__Browse References/FDisbursementRefundSearch.designer.vb,156,7054620bf49e67b4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FDisbursementRefundSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FDisbursementRefundSearch.vb,84,fc9f730fec33153f,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FDisbursementRequestSearch.designer.vb,185,eb45a6800cbfa544,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FDisbursementRequestSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FDisbursementRequestSearch.vb,578,56f4f5e40501eb3f,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FEmpSearch.Designer.vb,122,941bbd93cdd3ffa0,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FEmpSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FEmpSearch.vb,102,06e7ddac9c19e25e,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FFakturPajakSearch.Designer.vb,188,201e582e9eb82754,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FFakturPajakSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FFakturPajakSearch.vb,203,760ed9531c9e0189,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FInventoryRequestSearch.Designer.vb,155,558f4e15d4925f52,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FInventoryRequestSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FInventoryRequestSearch.vb,594,21915ea860bafc75,﻿Imports master_new.ModFunction,End Class,0,0,0,4,0
+Starcom Solution/Starcom.Project/__Browse References/FInvoiceSearch.designer.vb,177,01b0f2fe06dd26c8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FInvoiceSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FInvoiceSearch.vb,268,97ba6f361dc4a302,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FLocationSearch.Designer.vb,122,443f32b00c3a5730,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FLocationSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FLocationSearch.vb,692,5441737dc9fa05f3,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FLotSerialSearch.designer.vb,136,b9699d35165e79fa,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FLotSerialSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FLotSerialSearch.vb,189,f9dbc84937dab9e3,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FNotaSearch.designer.vb,153,6b35b8e23af251df,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FNotaSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FNotaSearch.vb,205,014ada9588bdc814,﻿Imports master_new.ModFunction,,0,0,0,1,0
+Starcom Solution/Starcom.Project/__Browse References/FPOCustomerSearch.designer.vb,153,9a3490838d3409aa,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FPOCustomerSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FPOCustomerSearch.vb,364,e80d5c41d39c590b,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FPPNTypeSearch.Designer.vb,94,179c7c25eddfcc07,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FPPNTypeSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FPPNTypeSearch.vb,50,ab8af456f7acbd12,﻿Public Class FPPNTypeSearch,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FPackagingSearch.designer.vb,122,4f56d5945a4ef853,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FPackagingSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FPackagingSearch.vb,111,9c890b52e203ef22,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FPartNumberSearch.Designer.vb,123,b4370e2fb1b188ef,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FPartNumberSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FPartNumberSearch.vb,2410,7cb200e661309bd5,﻿Imports master_new.ModFunction,End Class,0,0,0,2,0
+Starcom Solution/Starcom.Project/__Browse References/FPartnerSearch.Designer.vb,132,4ae37ddc0589c337,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FPartnerSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FPartnerSearch.vb,478,84a1577734935405,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Starcom Solution/Starcom.Project/__Browse References/FProjectAccountSearch.Designer.vb,156,8c4abd56303e2255,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FProjectAccountSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FProjectAccountSearch.vb,250,acdaa04a43068834,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FProjectSearch.Designer.vb,154,dc0f567a3ad92504,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FProjectSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FProjectSearch.vb,312,ef0ad34493eca490,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FPurchaseOrderSearch.Designer.vb,192,cddab854b49aba98,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FPurchaseOrderSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FPurchaseOrderSearch.vb,1034,0bb8d90b9e9d33d7,﻿Imports master_new.ModFunction,End Class,0,0,0,5,0
+Starcom Solution/Starcom.Project/__Browse References/FPurchaseReceiptScaleSearch.Designer.vb,192,5401487de9e5ceea,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FPurchaseReceiptScaleSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FPurchaseReceiptScaleSearch.vb,74,c6c607a802c3d037,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FReasonCodeSOSearch.Designer.vb,121,a8558d40a43d173f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FReasonCodeSOSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FReasonCodeSOSearch.vb,95,3aa486169adf1073,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FRequisitionSearch.Designer.vb,228,67e4b2b98f92b2e7,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FRequisitionSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FRequisitionSearch.vb,683,4419451307caea0d,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Starcom Solution/Starcom.Project/__Browse References/FSalesOrderRecapSearch.designer.vb,155,34f444da291d8c50,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FSalesOrderRecapSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FSalesOrderRecapSearch.vb,431,0a681a54ede161aa,﻿Imports master_new.ModFunction,End Class,0,0,0,3,0
+Starcom Solution/Starcom.Project/__Browse References/FSalesOrderSearch.Designer.vb,166,ec4367238b252be3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FSalesOrderSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FSalesOrderSearch.vb,2284,c7104bea6e81dd15,﻿Imports master_new.ModFunction,End Class,0,0,0,11,0
+Starcom Solution/Starcom.Project/__Browse References/FSalesOrderShipmentSearch.Designer.vb,155,dc81b0c03f810984,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FSalesOrderShipmentSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FSalesOrderShipmentSearch.vb,121,3f3af73acebcf3be,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FSiteIDSearch.Designer.vb,122,e21dbaeb332a7557,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FSiteIDSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FSiteIDSearch.vb,125,19321d6e69e2a978,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FTaxClassSearch.Designer.vb,130,cada8d3058c6a84f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FTaxClassSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FTaxClassSearch.vb,89,fee2d79c8db6eb87,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FTaxInvoiceNumberSearch.designer.vb,88,a45f00b394b6722d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FTaxInvoiceNumberSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FTaxInvoiceNumberSearch.vb,68,e9d661424190a6ca,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FUMSearch.Designer.vb,122,6d466c0c903e0e0c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FUMSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FUMSearch.vb,187,9128b96f8a80e51c,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Starcom Solution/Starcom.Project/__Browse References/FUserApprovalSearch.Designer.vb,86,932c1b89dd627c56,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FUserApprovalSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FUserApprovalSearch.vb,59,dbd401111d4fe74e,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FVoucherSearch.Designer.vb,288,562f1358a1d408d2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FVoucherSearch.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__Browse References/FVoucherSearch.vb,692,10f29e542db96cc6,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__General Form/CustomDesignForm.resx,640,db615f6583fe6dfb,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__General Form/CustomDesignForm.vb,1189,f0cf4b374a0a6cb7,Public Class CustomDesignForm,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__General Form/FCodeMstr.Designer.vb,600,982b99a574b03902,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__General Form/FCodeMstr.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__General Form/FCodeMstr.vb,358,8523534cb63e10a8,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+Starcom Solution/Starcom.Project/__General Form/frmExport.designer.vb,61,6f1eafce3a4851d8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__General Form/frmExport.resx,120,f601cd30780a3718,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__General Form/frmExport.vb,3,45f406382ddae28b,﻿Public Class frmExport,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__General Form/frmPrintDialog.Designer.vb,168,398d776d704cd88b,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__General Form/frmPrintDialog.resx,440,caabe7620bd14448,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__General Form/frmPrintDialog.vb,208,5b691e561b4c026d,Imports master_new.PGSqlConn,End Class,0,0,0,1,0
+Starcom Solution/Starcom.Project/__General Form/frmPrintDialogReport.Designer.vb,1406,43c5bd402f5977d5,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Starcom Solution/Starcom.Project/__General Form/frmPrintDialogReport.resx,446,0bde7817e885efc1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Starcom Solution/Starcom.Project/__General Form/frmPrintDialogReport.vb,48,150408c4f7e7463c,Imports master_new.PGSqlConn,End Class,0,0,1,0,0
+Starcom Solution/Starcom.Project/app.config,52,e294c9aed6dfe606,"<?xml version=""1.0""?>","<startup><supportedRuntime version=""v4.0"" sku="".NETFramework,Version=v4.8""/></startup></configuration>",0,0,0,0,0
+Starcom Solution/Starcom.Project/packages.config,7,c4da911b9f08e380,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</packages>,0,0,0,0,0

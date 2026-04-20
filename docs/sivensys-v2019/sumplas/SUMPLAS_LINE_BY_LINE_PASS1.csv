@@ -1,0 +1,574 @@
+file,lines,sha16,first_line,last_line,hit_wf_mstr,hit_glt_det,hit_insert_log,hit_MessageBox.Show,hit_TODO
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Print Out/XRInvIssue.designer.vb,940,ef4551121785a8ab,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Print Out/XRInvIssue.resx,609,d5ff46bb01425265,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Print Out/XRInvIssue.vb,109,bc15d515aa10981c,Imports DevExpress.XtraPrinting.XtraPageSettings,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Print Out/XRInvIssue_LOT.designer.vb,957,e72433f57f0c89f4,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Print Out/XRInvIssue_LOT.resx,615,ae0d4ad7d5ea7adb,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Print Out/XRInvIssue_LOT.vb,107,07fed7665109db2a,Imports Devart.Data.PostgreSql,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Print Out/XRInvRec.designer.vb,928,9fa5e261db367b24,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Print Out/XRInvRec.resx,606,782cf9ffdcc53095,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Print Out/XRInvRec.vb,108,c4015073a4b0e7b9,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Print Out/XRInvRec_LOT.designer.vb,949,2c678fde1bc4473a,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Print Out/XRInvRec_LOT.resx,612,d182119358d79023,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Print Out/XRInvRec_LOT.vb,109,eb2bf3da49748e90,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Print Out/XRTransferIssuesPrint.Designer.vb,941,e4e8534c96335c52,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Print Out/XRTransferIssuesPrint.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Print Out/XRTransferIssuesPrint.vb,108,a6010275ac3bcdee,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Print Out/XRTransferIssuesPrint_LOT.designer.vb,972,5f68936c84079a66,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Print Out/XRTransferIssuesPrint_LOT.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Print Out/XRTransferIssuesPrint_LOT.vb,108,0465f6152860d771,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Report/FInventoryReportDetail.Designer.vb,295,4450bae3a41f87e3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Report/FInventoryReportDetail.resx,129,610cc9344ded067a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Report/FInventoryReportDetail.vb,486,2fa2d3bfafa233bf,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,6,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Report/FInventorySafetyStockReport.Designer.vb,272,8744e7e6c7045c12,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Report/FInventorySafetyStockReport.resx,135,5504652835f1439a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Report/FInventorySafetyStockReport.vb,154,c8e98f294b8aa4de,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Transaction/FInventoryIssues.Designer.vb,1010,1418c582fc8346af,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Transaction/FInventoryIssues.resx,132,58b39dc3af0ae0da,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Transaction/FInventoryIssues.vb,2385,0bca937c3cfddef1,﻿Imports Devart.Data.PostgreSql,End Class,0,7,2,48,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Transaction/FInventoryReceipts.Designer.vb,990,a2ec782f2f7fb881,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Transaction/FInventoryReceipts.resx,129,54e7655676a0e911,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Inventory/Transaction/FInventoryReceipts.vb,2250,2ce05ecd5ef187e2,﻿Imports Devart.Data.PostgreSql,,0,7,2,45,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseOrderPrintOut.designer.vb,1436,262f5d1785bb0578,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseOrderPrintOut.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseOrderPrintOut.vb,163,dfe37251746a4659,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseReceiptPrint.designer.vb,799,3626867f8a1dcbf6,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseReceiptPrint.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Purchase Order/Print Out/XRPurchaseReceiptPrint.vb,108,06d6d96dc6331bd5,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Purchase Order/Print Out/ds_po.Designer.vb,4610,8f17e65c67c3c3ae,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Purchase Order/Print Out/ds_po.xsd,606,0c78cf8d20ce29ee,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Purchase Order/Report/FPurchaseOrderOutstandingReceiveReport.Designer.vb,159,dd67dbac77ce3034,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Purchase Order/Report/FPurchaseOrderOutstandingReceiveReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Purchase Order/Report/FPurchaseOrderOutstandingReceiveReport.vb,151,1cec5282de1ae96e,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseOrder.Designer.vb,1812,ccdc5de801a8568f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseOrder.resx,132,f41a0c6dee176215,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Purchase Order/Transaction/FPurchaseOrder.vb,6447,c3ce000270987b0e,﻿Imports DevExpress.XtraExport,,13,8,9,116,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Requisition/Print Out/XRDocumentApprovalSub.designer.vb,230,4f654bf9bb47e57f,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Requisition/Print Out/XRDocumentApprovalSub.resx,202,e7cc93451b321ac5,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,1,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Requisition/Print Out/XRDocumentApprovalSub.vb,28,2a15aa902d2b737c,Public Class XRDocumentApprovalSub,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Requisition/Print Out/XRRequisition.designer.vb,677,9a635ed48d78b616,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Requisition/Print Out/XRRequisition.resx,285,6334b5e6529f898d,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Requisition/Print Out/XRRequisition.vb,137,bd564c531f1cc7be,Imports DevExpress.XtraPrinting,End Class,1,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Requisition/Print Out/XRRequisitionCost.designer.vb,774,2e721cd93ca6e4a0,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Requisition/Print Out/XRRequisitionCost.resx,324,38e137aa949ec620,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Requisition/Print Out/XRRequisitionCost.vb,125,edff673855b83608,Imports DevExpress.XtraPrinting,End Class,1,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Requisition/Print Out/XRRoutingApproval.designer.vb,184,636db256e91e7888,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Requisition/Print Out/XRRoutingApproval.resx,199,88bbee0db9904d62,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,1,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Distribution/Requisition/Print Out/XRRoutingApproval.vb,3,6e988e86f2a2a897,Public Class XRRoutingApproval,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Payable/Report/FAPPaymentReport.Designer.vb,191,3fbe1eb36fda78a3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Payable/Report/FAPPaymentReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Payable/Report/FAPPaymentReport.vb,243,b148818f7c0dac43,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Payable/Transaction/FPaymentManualChecks.designer.vb,1201,144a2ce65ce4fedc,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Payable/Transaction/FPaymentManualChecks.resx,129,21f04bb96ca2099d,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Payable/Transaction/FPaymentManualChecks.vb,2586,6237abe02a91092d,﻿Imports Devart.Data.PostgreSql,End Class,0,25,3,42,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Print Out/FDRCRMemoPrint.designer.vb,363,12140eca41b7f871,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Print Out/FDRCRMemoPrint.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Print Out/FDRCRMemoPrint.vb,415,6ec6653549e52a8b,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,9,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Print Out/XRCashInARPrint.designer.vb,1083,09965135fba2f635,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Print Out/XRCashInARPrint.resx,366,f59f99dafbf46866,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Print Out/XRCashInARPrint.vb,108,fd25b00fe9cb225e,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDistLine2.designer.vb,991,00dc31f3ff1444c4,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDistLine2.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDistLine2.vb,154,23cdb87e68e94b95,Imports DevExpress.XtraPrinting,End Class,0,0,2,4,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceQtyReal.designer.vb,1283,9a43b61e60525423,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceQtyReal.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceQtyReal.vb,188,c0c544d46a812843,Imports DevExpress.XtraPrinting,End Class,0,0,2,4,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceQtyReal2.designer.vb,1252,9ae43e699293c7b7,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceQtyReal2.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceQtyReal2.vb,186,5247fa7818dfa1fa,Imports DevExpress.XtraPrinting,End Class,0,0,2,4,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Print Out/ds_arinv.Designer.vb,4169,b7c58794e9f882ae,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Print Out/ds_arinv.xsd,546,4d8536e045d9da50,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Report/FARPaymentReport.designer.vb,275,b0f7284ebeb0f1ee,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Report/FARPaymentReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Report/FARPaymentReport.vb,459,99082ffaa40848b7,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Report/FARReport.Designer.vb,505,d52492a8ea13c5d5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Report/FARReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Report/FARReport.vb,1152,02f233e1149438da,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,4,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Transaction/FARBilyetGiro.designer.vb,792,ca5f7499db1407c8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Transaction/FARBilyetGiro.resx,138,d2cb34d61e359e92,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Transaction/FARBilyetGiro.vb,1098,555bc50b3786aa8d,﻿Imports Devart.Data.PostgreSql,End Class,0,20,3,19,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Transaction/FARNota.designer.vb,839,575f07ad537c0368,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Transaction/FARNota.resx,129,76e4fb1b162582d1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Transaction/FARNota.vb,1081,2c0789f704b49621,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,19,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Transaction/FARPayment.designer.vb,1276,4cdb336fd0eb6d91,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Transaction/FARPayment.resx,129,76e4fb1b162582d1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Transaction/FARPayment.vb,3119,57ef768c3bf188fa,﻿Imports Devart.Data.PostgreSql,End Class,0,25,5,58,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Transaction/FDRCRMemo.designer.vb,1799,4ce09c0bcf7d38c2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Transaction/FDRCRMemo.resx,129,76e4fb1b162582d1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Account Receiveable/Transaction/FDRCRMemo.vb,5521,93d8bb6f9c7dc717,﻿Imports Devart.Data.PostgreSql,End Class,0,26,7,59,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRCashInPrint.designer.vb,830,34e3c97b51f80340,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRCashInPrint.resx,303,2f798144e30c4f5b,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRCashInPrint.vb,108,e5c11165a86a85bc,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRCashOutPrint.designer.vb,830,02d35dc0d53031d4,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRCashOutPrint.resx,303,8fccb549e35a7621,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRCashOutPrint.vb,108,fc22ccd88725b672,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrint.designer.vb,986,1ac1a78b5241efe1,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrint.resx,354,a051bfdc810f530b,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrint.vb,287,df4e33846c64d1af,Imports master_new.PGSqlConn,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrintPng.designer.vb,508,3b33f244a3bf1f78,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrintPng.resx,234,9086b685e4066596,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrintPng.vb,219,e86ca7bd9e8f869c,Imports master_new.PGSqlConn,End Class,1,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrint.designer.vb,809,a32380a3fe4548c3,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrint.resx,330,935341eec5f71283,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrint.vb,286,033b91028536f0ad,Imports master_new.PGSqlConn,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrintPng.designer.vb,666,1a2ec5bc13ab8fa3,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrintPng.resx,522,93e30a224a0620bb,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrintPng.vb,254,20444e5f26f19643,Imports master_new.PGSqlConn,End Class,1,0,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRDisbursementVoucherPrint.designer.vb,907,82f2b1db19f12e7c,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRDisbursementVoucherPrint.resx,339,62e603dee9340fcd,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XRDisbursementVoucherPrint.vb,314,c3bad25587117e25,Imports master_new.ModFunction,End Class,0,0,1,5,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XROverBookingPrint.designer.vb,885,1012992f1cc6f21b,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XROverBookingPrint.resx,321,639fcc2c2dfd6c08,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Print Out/XROverBookingPrint.vb,108,002e64977f324ef0,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Report/FGeneralLedgerCashReport.designer.vb,426,1eeb7a9fbb714702,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Report/FGeneralLedgerCashReport.resx,126,e293e5848931b4b6,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Report/FGeneralLedgerCashReport.vb,680,64df5d998205113f,﻿Imports master_new.ModFunction,End Class,0,4,0,4,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Report/FGeneralLedgerCashReportPerUserBank.designer.vb,426,91a044de15f6cf43,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Report/FGeneralLedgerCashReportPerUserBank.resx,126,e293e5848931b4b6,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Report/FGeneralLedgerCashReportPerUserBank.vb,685,5dd9ab7b402ee92b,﻿Imports master_new.ModFunction,End Class,0,4,0,4,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Transaction/FCashIn.designer.vb,848,92aea5f7482e1374,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Transaction/FCashIn.resx,132,ca5c0ed00d4e9653,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Transaction/FCashIn.vb,1148,4f43d20328704823,﻿Imports Devart.Data.PostgreSql,End Class,0,5,3,20,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Transaction/FCashOut.designer.vb,889,c5bda5ee1d119a73,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Transaction/FCashOut.resx,132,ca5c0ed00d4e9653,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Transaction/FCashOut.vb,1724,c8a2fc03f44dcf91,﻿Imports Devart.Data.PostgreSql,End Class,0,15,3,28,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealization.designer.vb,1335,40cb7724331ecdc6,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealization.resx,132,e429d19797323c71,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealization.vb,3359,77bb0b48cfb298b4,﻿Imports Devart.Data.PostgreSql,,10,1,6,78,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Transaction/FDisbursementRequest.designer.vb,1336,e8569f6718a88aad,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Transaction/FDisbursementRequest.resx,132,3ac3442a7433de5c,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Transaction/FDisbursementRequest.vb,2832,960f57bcae9ad36b,﻿Imports Devart.Data.PostgreSql,,10,1,7,78,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Transaction/FOverBooking.designer.vb,887,29985ae233a11112,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Transaction/FOverBooking.resx,132,aca5d9dffe1065e2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Cash Management/Transaction/FOverBooking.vb,1483,9050db6eac86b718,﻿Imports Devart.Data.PostgreSql,,0,10,3,29,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/FGLCalendar.Designer.vb,502,36f8e9792b8b0aff,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/FGLCalendar.resx,129,76e4fb1b162582d1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/FGLCalendar.vb,800,a120615c2b73ccc6,﻿Imports Devart.Data.PostgreSql,End Class,0,3,2,22,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/FMonthEnd.designer.vb,436,d8b393aa40f2f677,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/FMonthEnd.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/FMonthEnd.vb,2934,f910b71be1493251,﻿Imports Devart.Data.PostgreSql,End Class,0,30,1,13,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/FOpeningBalance.Designer.vb,424,9b13e3b7816637fe,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/FOpeningBalance.resx,129,49a49e5fdae9f77d,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/FOpeningBalance.vb,733,623b10546bdc956c,﻿Imports Devart.Data.PostgreSql,End Class,0,3,1,21,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/FStandardTransaction.designer.vb,689,192fff450f5fb26e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/FStandardTransaction.resx,132,ebeac883dc4ed791,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/FStandardTransaction.vb,1626,4e4af81f52774b56,﻿Imports Devart.Data.PostgreSql,End Class,0,15,3,42,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/FTrialBalanceReport.Designer.vb,384,d64fe3429edf0049,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/FTrialBalanceReport.resx,126,e293e5848931b4b6,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/FTrialBalanceReport.vb,272,8e5d838e3cf39020,﻿Imports DevExpress.XtraReports.UI,End Class,0,2,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/FYearEnd.Designer.vb,250,152994ecbdea355b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/FYearEnd.resx,126,68ef25ffc25e39f7,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/FYearEnd.vb,293,1700ad7a1d3dee56,﻿Imports Devart.Data.PostgreSql,End Class,0,1,0,10,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/XRCashBalance.designer.vb,862,8630817360d12e69,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/XRCashBalance.resx,303,4f57ba7659c28fc3,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/XRCashBalance.vb,42,6240a3d2f0d77f6e,Imports DevExpress.XtraPrinting,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/XRGLStandardTrx.Designer.vb,782,3998f12d3ec3b64b,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/XRGLStandardTrx.resx,288,7c81516f677f82a2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/XRGLStandardTrx.vb,32,cbf8b737e40117d7,Public Class XRGLStandardTrx,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/XRGeneralLedgerPrint.designer.vb,821,1d7ce4bcd1517285,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/XRGeneralLedgerPrint.resx,537,fcb0421b79052638,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/XRGeneralLedgerPrint.vb,43,cded2b90f3c14897,Imports DevExpress.XtraPrinting,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/rptTrialBalance.designer.vb,661,266eec31df844025,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/rptTrialBalance.resx,137,defd48a3b1b8878e,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger/rptTrialBalance.vb,25,79f94b687111be38,Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger Report/FBalanceSheetReport.designer.vb,400,4c5cf1575da1d65a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger Report/FBalanceSheetReport.resx,126,e293e5848931b4b6,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger Report/FBalanceSheetReport.vb,556,35746296e84c874e,﻿Imports DevExpress.XtraReports.UI,End Class,0,2,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger Report/FBalanceSheetReportMulti.designer.vb,481,07175a83fca10400,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger Report/FBalanceSheetReportMulti.resx,126,e293e5848931b4b6,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger Report/FBalanceSheetReportMulti.vb,626,9548344a4ca3a50f,﻿Imports DevExpress.XtraReports.UI,End Class,0,2,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger Report/rptNeracaFixMulti.designer.vb,458,18d801d7e880af4b,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger Report/rptNeracaFixMulti.resx,241,7279b227204c3473,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger Report/rptNeracaFixMulti.vb,48,cda4ecc4de10f5a8,Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger Report/rptNeracaFixTE.designer.vb,286,f354897a765d219f,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger Report/rptNeracaFixTE.resx,154,0f2cb4a36077e1e2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/General Ledger Report/rptNeracaFixTE.vb,35,d12a751c0e60b0ab,Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Tax Invoice/FFakturPajak.Designer.vb,870,923a477864926f69,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Tax Invoice/FFakturPajak.resx,129,76e4fb1b162582d1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Tax Invoice/FFakturPajak.vb,2091,8cb7fcd5e97bfd39,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,35,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Tax Invoice/FFakturPajakCoreTax.Designer.vb,961,72c6c86fe55a2da7,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Tax Invoice/FFakturPajakCoreTax.resx,129,f4a1f5efea31259f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Tax Invoice/FFakturPajakCoreTax.vb,1822,0b103d52a67184eb,﻿Imports System.Collections.Generic,End Class,0,0,4,34,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Tax Invoice/FFakturPajakPrint.Designer.vb,458,a337463468b8c1b2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Tax Invoice/FFakturPajakPrint.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Tax Invoice/FFakturPajakPrint.vb,217,ba9852c16c0ebe6a,﻿Public Class FFakturPajakPrint,End Class,0,0,0,3,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlain.designer.vb,3071,f12e12519813f9dd,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlain.resx,126,620dc10d45f79223,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlain.vb,251,8f4449a2b7fe47c5,,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlainIDR.designer.vb,2715,32c1c3dc91da9c51,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlainIDR.resx,126,620dc10d45f79223,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlainIDR.vb,197,13482ef15e22e962,,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Tax Invoice/ds_ti.Designer.vb,3929,113c7d5d0af50f9f,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Financial/Tax Invoice/ds_ti.xsd,475,83b8d2b890e68a86,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Routing and Work Center/FMachine.designer.vb,803,ec85dbf8a2195e72,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Routing and Work Center/FMachine.resx,129,76e4fb1b162582d1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Routing and Work Center/FMachine.vb,727,f2f840fac710320a,﻿Imports Devart.Data.PostgreSql,,0,0,0,11,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Routing and Work Center/FMachineReport.Designer.vb,135,45af93e7749ca2ee,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Routing and Work Center/FMachineReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Routing and Work Center/FMachineReport.vb,153,937a544950504cf5,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/FPrdSchReleasePrint.designer.vb,242,92ed0aa37fe898d2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/FPrdSchReleasePrint.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/FPrdSchReleasePrint.vb,86,92d378d575de37fa,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,5,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/FWOReleasePrint.designer.vb,300,2d3560bcd6e98b3e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/FWOReleasePrint.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/FWOReleasePrint.vb,244,74f05c850892d09e,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,2,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/XRProdSchedulePrint.designer.vb,1395,847dc19193bf27fa,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/XRProdSchedulePrint.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/XRProdSchedulePrint.vb,17,a2ba7d6c55883bdc,Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/XRProdSchedulePrint_A5.designer.vb,818,75b4c786709cbf28,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/XRProdSchedulePrint_A5.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/XRProdSchedulePrint_A5.vb,71,48cddcd665349c23,Imports master_new.PGSqlConn,End Class,0,0,1,2,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/XRProdSchedulePrint_A6.designer.vb,1418,78ef6b0cfc662704,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/XRProdSchedulePrint_A6.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/XRProdSchedulePrint_A6.vb,75,047fa9cd16b38599,Imports master_new.ModFunction,End Class,0,0,1,2,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/XRWOMRPrint.designer.vb,1030,7d2838a7bf8a9e24,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/XRWOMRPrint.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/XRWOMRPrint.vb,114,9229a5afaa69b8d1,Imports master_new.PGSqlConn,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/XRWOReceiptPrintLotSerial.designer.vb,1108,c4d241dd3002094c,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/XRWOReceiptPrintLotSerial.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/XRWOReceiptPrintLotSerial.vb,119,f392592216cb2c5d,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/XRWOReceiptPrintNon.designer.vb,817,093b23c4c654fe0c,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/XRWOReceiptPrintNon.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/XRWOReceiptPrintNon.vb,118,9ff6343e394a854f,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/rptRouting.designer.vb,281,a9e903d6068a2f5c,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/rptRouting.resx,142,fee6da16ea70b9a3,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/rptRouting.vb,10,27e105a4b7e8484c,Public Class rptRouting,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/rptWOPickList.designer.vb,1010,c6b382db8e60f5f0,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/rptWOPickList.resx,135,6c563240c6937ee8,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/rptWOPickList.vb,109,9f0d2b22bb581c5b,Imports master_new.ModFunction,End Class,0,0,0,2,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/rptWOPickList2.designer.vb,871,12b83ccdd9dbf7be,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/rptWOPickList2.resx,135,6c563240c6937ee8,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Print Out/rptWOPickList2.vb,107,827e0adc462558c6,Imports master_new.ModFunction,End Class,0,0,0,2,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Report/FProdScheduleReport.Designer.vb,375,361bd8d6b5ea7eb3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Report/FProdScheduleReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Report/FProdScheduleReport.vb,290,a5dc8c3a4904f61a,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Report/FWorkOrderReceiptReport.designer.vb,525,8d303f477c33df8a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Report/FWorkOrderReceiptReport.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Report/FWorkOrderReceiptReport.vb,954,b3ca5b8fbe0ee0aa,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Report/FWorkOrderReport.designer.vb,447,641c80d86e66c442,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Report/FWorkOrderReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Report/FWorkOrderReport.vb,677,bad16732fdcc0170,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FProdSchedule.designer.vb,1814,f747a96714de3575,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FProdSchedule.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FProdSchedule.vb,4783,cd6e0f26d5dca1d8,﻿Imports Devart.Data.PostgreSql,End Class,0,0,12,132,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FProdSchedule_PrintVersiText.Designer.vb,1814,fd6a53656b8d82b3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FProdSchedule_PrintVersiText.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FProdSchedule_PrintVersiText.vb,3538,24acaf212a459fd3,﻿Imports Devart.Data.PostgreSql,End Class,0,0,11,88,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FProductionDaysOff.designer.vb,762,c47a3416c8f92177,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FProductionDaysOff.resx,129,76e4fb1b162582d1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FProductionDaysOff.vb,455,76b0275e5f1d48b1,﻿Imports Devart.Data.PostgreSql,,0,0,0,13,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FWOMaterialRequest.designer.vb,969,44ecbfa9ab7c0b18,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FWOMaterialRequest.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FWOMaterialRequest.vb,1154,b5b1b152b5f2debb,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,20,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FWOReceipt.designer.vb,1661,1c7b1049f7702b5f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FWOReceipt.resx,129,76e4fb1b162582d1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FWOReceipt.vb,4977,6e6784e195bd6126,﻿Imports Devart.Data.PostgreSql,,0,24,4,62,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FWOReleaseWizard.designer.vb,211,cf8051d171371edf,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FWOReleaseWizard.resx,141,edba7f2c2b849065,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FWOReleaseWizard.vb,398,3e81837c8e085978,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,5,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FWOWizard.designer.vb,267,1be31c60d1fe11fe,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FWOWizard.resx,141,edba7f2c2b849065,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FWOWizard.vb,609,30c0ad2cbe33f120,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,11,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FWorkOrder.designer.vb,1368,2f06f66bf81aa0af,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FWorkOrder.resx,129,76e4fb1b162582d1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FWorkOrder.vb,2272,7b674f3001dadab0,﻿Imports Devart.Data.PostgreSql,End Class,0,0,6,50,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FWorkOrderIssue.designer.vb,1493,ceb0486dd757c701,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FWorkOrderIssue.resx,246,7bfb58f5892db314,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Manufacture/Work Order/Transaction/FWorkOrderIssue.vb,2017,b804d9a075caf3e2,﻿Imports master_new.PGSqlConn,End Class,0,1,2,35,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Address Taxes/FCustomer.designer.vb,1928,3948829ceb6cfa87,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Address Taxes/FCustomer.resx,129,f4a1f5efea31259f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Address Taxes/FCustomer.vb,2017,cdeac626720e126f,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,25,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Address Taxes/FItemCustomer.designer.vb,630,eaa4c885ad353d54,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Address Taxes/FItemCustomer.resx,129,540fbe4ed97e4111,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Address Taxes/FItemCustomer.vb,424,ca4756e239996bea,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,5,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Address Taxes/FSalesPerson.designer.vb,559,e991be8a0707c790,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Address Taxes/FSalesPerson.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Address Taxes/FSalesPerson.vb,521,bb700c098fe33d14,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,14,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Item/FItemBrands.Designer.vb,76,1e93a2739b8ed0a4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Item/FItemBrands.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Item/FItemBrands.vb,7,7cff3ecc20c73aff,﻿Public Class FItemBrands,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Item/FItemDimension.Designer.vb,126,18bed0e04b5194bf,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Item/FItemDimension.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Item/FItemDimension.vb,7,949bd43db3647a37,﻿Public Class FItemDimension,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Item/FItemDimensionImport.designer.vb,179,8c72bd81eb10a3c4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Item/FItemDimensionImport.resx,129,90f596608a4f388a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Item/FItemDimensionImport.vb,228,d16811b726ad3157,﻿Imports Devart.Data.PostgreSql,,0,0,0,3,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Item/FPartNumber.designer.vb,1108,22dc19e2c0931fcc,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Item/FPartNumber.resx,129,afde604ad8b9d553,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Master Data/Item/FPartNumber.vb,1117,4797f89a08c05e15,﻿Imports Devart.Data.PostgreSql,,0,0,4,24,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPiCustGroupPtGroupImport.designer.vb,187,722df06de021ea70,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPiCustGroupPtGroupImport.resx,129,90f596608a4f388a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPiCustGroupPtGroupImport.vb,240,b9d93944b3c7be5b,﻿Imports Devart.Data.PostgreSql,,0,0,0,7,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPriceListCustomerGroupItemGroup.Designer.vb,376,48e57fa471c54c0f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPriceListCustomerGroupItemGroup.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPriceListCustomerGroupItemGroup.vb,1397,523425220e08a4b9,﻿Imports Devart.Data.PostgreSql,,0,0,3,20,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPriceListItemDimension.Designer.vb,319,3a4d4247553444d7,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPriceListItemDimension.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPriceListItemDimension.vb,323,9e7fc1283d12e55a,﻿Imports Devart.Data.PostgreSql,,0,0,0,8,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPriceListItemSpesification.Designer.vb,791,5d1ffbd11d183917,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPriceListItemSpesification.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPriceListItemSpesification.vb,1062,f6cc6082bb047a04,﻿Imports Devart.Data.PostgreSql,,0,0,3,19,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPriceListItemSpesificationImport.designer.vb,176,3b850f923c49fbfb,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPriceListItemSpesificationImport.resx,129,90f596608a4f388a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPriceListItemSpesificationImport.vb,244,9a837ed60434dc21,﻿Imports Devart.Data.PostgreSql,,0,0,0,7,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPriceListMaster.Designer.vb,683,cf76caef59624856,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPriceListMaster.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPriceListMaster.vb,512,d7716416586946a1,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,13,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPriceListQty.designer.vb,614,be0243b385d0e531,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPriceListQty.resx,129,76e4fb1b162582d1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Price List/FPriceListQty.vb,1586,f9e23b9b07617edd,﻿Imports Devart.Data.PostgreSql,End Class,0,0,7,25,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/FSORecapitulationPrint.designer.vb,236,1c64c06aa2055f58,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/FSORecapitulationPrint.resx,132,46eef798d8e03497,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/FSORecapitulationPrint.vb,675,143d69b13ee28833,﻿Imports Devart.Data.PostgreSql,,0,0,0,7,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/FSORecapitulationReleasePrint.designer.vb,132,4f806683f13254b3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/FSORecapitulationReleasePrint.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/FSORecapitulationReleasePrint.vb,112,119d0f75d16f66f0,﻿Imports Devart.Data.PostgreSql,End Class,0,0,2,4,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/FSalesOrderShipmentPrint.Designer.vb,401,f175b3d9b70683b1,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/FSalesOrderShipmentPrint.resx,129,146c9c833b029ed7,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/FSalesOrderShipmentPrint.vb,708,62da77a4dfd1286c,﻿Imports DevExpress.XtraReports.UI,End Class,0,0,0,6,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSO.designer.vb,873,2672817b1a53870e,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSO.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSO.vb,111,f21431021a315b85,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSOGift.designer.vb,1111,7aa56e6a739aec48,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSOGift.resx,379,951a3709ca1ce433,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSOGift.vb,108,35bee738badb1378,Imports Devart.Data.PostgreSql,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSOGift_LOT.designer.vb,1116,5d112058418935fd,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSOGift_LOT.resx,379,91896f66e4d6c8af,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSOGift_LOT.vb,107,361f0c91b1274558,Imports Devart.Data.PostgreSql,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSOReturQtyRealPrint.designer.vb,847,8d6023eb0e140754,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSOReturQtyRealPrint.resx,315,e5b9f1c303bcd40d,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSOReturQtyRealPrint.vb,108,d2e15ba24e9b2d28,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSOShipQtyRealPrint.designer.vb,914,468e0a425de3865f,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSOShipQtyRealPrint.resx,325,2429ebad4b41d01d,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSOShipQtyRealPrint.vb,129,51858d8806128e48,Imports master_new.ModFunction,End Class,0,0,2,4,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSOShipQtyRealPrint_2.designer.vb,886,f285ed29d7a0205e,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSOShipQtyRealPrint_2.resx,328,52497b064b472778,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSOShipQtyRealPrint_2.vb,153,6b6085e31152b25a,Imports master_new.ModFunction,End Class,0,0,2,4,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSO_LOT.designer.vb,896,17ef787fdf271260,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSO_LOT.resx,585,2a2fe8ad90363931,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSO_LOT.vb,111,7657c283a1b50dbe,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSalesOrderGiftRequest.designer.vb,1056,ff3c63ddb3ae4775,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSalesOrderGiftRequest.resx,645,c6f0b5135354ffc8,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSalesOrderGiftRequest.vb,108,eccd6a79dd0a2a21,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint_LOT.designer.vb,1040,13012c7e207a176e,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint_LOT.resx,609,0bee7af131515285,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint_LOT.vb,129,bc670d3ada01369f,Imports master_new.ModFunction,End Class,0,0,2,4,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRShippingInstruction.designer.vb,998,334c32a1bc60481a,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRShippingInstruction.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRShippingInstruction.vb,110,0f0b509b1915529f,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRShippingInstruction_potrait.designer.vb,872,0204793da0c50cf3,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRShippingInstruction_potrait.resx,120,f4f74dba3578e403,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRShippingInstruction_potrait.vb,71,317f43a95b3ebe84,Imports DevExpress.XtraPrinting,End Class,0,0,1,2,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSubShipInstruction.designer.vb,131,7ba4cc12ea121973,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSubShipInstruction.resx,120,4d3ee9059f5b98ab,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSubShipInstruction.vb,3,5d4190cf4a45c632,﻿Public Class XRSubShipInstruction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSubShipInstruction_2.Designer.vb,119,ebb18ee1aaeb584d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSubShipInstruction_2.resx,120,4d3ee9059f5b98ab,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/XRSubShipInstruction_2.vb,3,a29c4aee600cf779,﻿Public Class XtraReport1,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Print Out/ds_so_gift.xsd,377,67e4a7f5b681ca8e,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FCommisionReport.designer.vb,236,25f102ca0f99321c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FCommisionReport.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FCommisionReport.vb,241,90eb0f42275ddae7,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FRealizationOrderReport.designer.vb,562,5fa30914c3ce4bb6,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FRealizationOrderReport.resx,129,17588638b0c8d14c,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FRealizationOrderReport.vb,3090,3caa09b21ad55086,﻿Imports System.Collections.Generic,End Class,0,0,0,9,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FRealizationOrderReport_old.designer.vb,249,ffbf09b35a53e5d4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FRealizationOrderReport_old.resx,129,610cc9344ded067a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FRealizationOrderReport_old.vb,1359,9607948f966c995b,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FSOOutstandingShipmentReport.Designer.vb,266,66212e912f9f47f8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FSOOutstandingShipmentReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FSOOutstandingShipmentReport.vb,457,831e7538897919cc,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FSORecapitulationReport.Designer.vb,252,ebba65cdeb0791c8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FSORecapitulationReport.resx,126,a46b702ddc6417b1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FSORecapitulationReport.vb,420,8c08966abb8052ff,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FSalesOrderReport.designer.vb,262,d32d9c34a246de7f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FSalesOrderReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FSalesOrderReport.vb,531,768c76efbae9ccc4,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FSalesOrderShipmentReport.Designer.vb,231,089cd15b46f64dda,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FSalesOrderShipmentReport.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Report/FSalesOrderShipmentReport.vb,383,22948fdaf0188ba8,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FCommision.designer.vb,1011,52582b4ef7549a96,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FCommision.resx,129,76e4fb1b162582d1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FCommision.vb,1343,a8be595a3c5b972c,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,23,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FRealizationOrderGroup.Designer.vb,126,e49b931562b6f1b2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FRealizationOrderGroup.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FRealizationOrderGroup.vb,25,4179c48431ce656d,﻿Public Class FRealizationOrderGroup,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSORecapWizard.Designer.vb,143,d48eb16b6357fa98,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSORecapWizard.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSORecapWizard.vb,144,e1a1e9ac77a101a5,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSORecapitulation.designer.vb,1330,52d8d3e917d48986,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSORecapitulation.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSORecapitulation.vb,2100,0a348c94a7be81ea,﻿Imports Devart.Data.PostgreSql,End Class,0,0,3,36,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSORecapitulationWizard.designer.vb,248,e5ca9e7b944f952f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSORecapitulationWizard.resx,135,1c9c23e76bac7f12,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSORecapitulationWizard.vb,733,b2720a51f115abdc,﻿Imports Devart.Data.PostgreSql,End Class,0,0,1,13,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSalesOrder.Designer.vb,2089,882e49e2f8430b02,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSalesOrder.resx,135,cfce8d6339dad36f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSalesOrder.vb,8742,45738b15a4867020,﻿Imports Devart.Data.PostgreSql,,12,18,7,139,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSalesOrderGift.Designer.vb,1247,3ccd88299972bdf3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSalesOrderGift.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSalesOrderGift.vb,5316,aa5a4c1753d3e407,﻿Imports Devart.Data.PostgreSql,End Class,13,21,5,88,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSalesOrderGiftRequest.designer.vb,896,acc163aa8fa06a0d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSalesOrderGiftRequest.resx,129,76e4fb1b162582d1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSalesOrderGiftRequest.vb,2122,5b4fa54b6a870b50,﻿Imports Devart.Data.PostgreSql,End Class,15,0,7,51,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSalesOrderGiftRequestApproval.designer.vb,626,da3a77738ddf8db6,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSalesOrderGiftRequestApproval.resx,138,d2cb34d61e359e92,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSalesOrderGiftRequestApproval.vb,1012,e937497be7d91cd7,﻿Imports Devart.Data.PostgreSql,End Class,13,0,4,24,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSalesOrderShipment.designer.vb,1583,0aa79293516563cb,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSalesOrderShipment.resx,135,bfa94e0ebba0b3ed,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/Sales Order/Transaction/FSalesOrderShipment.vb,5440,707eea7fd92ea29b,﻿Imports master_new.PGSqlConn,End Class,0,25,5,75,0
+Sumplas Solution/Sumplas.Project/Module/___Function Helper/ClassPrinter.vb,138,8552d8aaa636518c,﻿Imports System.IO,,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/___Function Helper/Cls_Bilangan.vb,340,a9e56ba4e47285b4,﻿Public Class Cls_Bilangan,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/___Function Helper/Cls_Bilangan_new.vb,716,b906e582b3e6b99c,﻿Public Class Cls_Bilangan_new,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/Module/___Function Helper/ModFunctionSpecial.vb,1708,53bad5c5f5382bc4,﻿Imports master_new.ModFunction,End Module,0,2,0,2,0
+Sumplas Solution/Sumplas.Project/Module/___Function Helper/function_collection.vb,9978,7b09d54a74a75408,﻿Imports System.Net.Mail,,3,106,0,265,0
+Sumplas Solution/Sumplas.Project/Module/___Function Helper/function_data.vb,6032,4c4a1b343bae2091,﻿Imports master_new.ModFunction,End Class,0,0,0,240,0
+Sumplas Solution/Sumplas.Project/My Project/Application.Designer.vb,13,4dd7045513941609,﻿'------------------------------------------------------------------------------,,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/My Project/AssemblyInfo.vb,35,8821e0f1b5f4f2d2,﻿Imports System,"<Assembly: AssemblyFileVersion(""1.0.0.0"")>",0,0,0,0,0
+Sumplas Solution/Sumplas.Project/My Project/Resources.Designer.vb,63,67f5e144eaa34b7c,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/My Project/Resources.resx,127,2cd041a031a7b528,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/My Project/Settings.Designer.vb,171,740cce36180b7897,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FARPaymentSearch.designer.vb,158,410825dac206d9c9,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FARPaymentSearch.resx,126,f108bc6c4576d3b7,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FARPaymentSearch.vb,123,e4c854e800aa688d,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FAccountSearch.Designer.vb,122,168550da8a29cc4a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FAccountSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FAccountSearch.vb,485,97ef3dd2f2d49f20,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FBGSearch.designer.vb,88,ce6baf2d406b8d47,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FBGSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FBGSearch.vb,104,86c4a5a7c65bb2f2,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FBranchSearch.Designer.vb,121,a984eebb24637ee2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FBranchSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FBranchSearch.vb,88,b5c871584231742e,﻿Public Class FBranchSearch,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FCashInSearch.designer.vb,156,043bafb62ec83166,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FCashInSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FCashInSearch.vb,84,f47f1bcd4f581bfd,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FCostCenterSearch.Designer.vb,122,26f4c6432dae0e27,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FCostCenterSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FCostCenterSearch.vb,113,3ec08eabcd297290,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FCustomerGroupSearch.Designer.vb,86,f82f9d4160f6fad3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FCustomerGroupSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FCustomerGroupSearch.vb,67,5f9bc5cb8f8ffe78,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FDRCRMemoSearch.Designer.vb,256,fa4f4db89f4c7552,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FDRCRMemoSearch.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FDRCRMemoSearch.vb,634,0b743926b508b844,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FDisbRequestDetailSearch.designer.vb,87,774ba054eb10544e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FDisbRequestDetailSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FDisbRequestDetailSearch.vb,92,0d292dec4ea505cb,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FDisbursementRefundSearch.designer.vb,156,7054620bf49e67b4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FDisbursementRefundSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FDisbursementRefundSearch.vb,84,6607c8e94936a7f3,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FDisbursementRequestSearch.designer.vb,185,eb45a6800cbfa544,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FDisbursementRequestSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FDisbursementRequestSearch.vb,384,fa5f7d51f7b2ea61,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FEmpSearch.Designer.vb,122,941bbd93cdd3ffa0,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FEmpSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FEmpSearch.vb,102,06e7ddac9c19e25e,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FEntitySearch.Designer.vb,122,b590e0decb6c3ee6,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FEntitySearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FEntitySearch.vb,93,9f1465371806f5fa,﻿Public Class FEntitySearch,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FFakturPajakSearch.Designer.vb,188,201e582e9eb82754,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FFakturPajakSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FFakturPajakSearch.vb,203,760ed9531c9e0189,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FInventoryRequestSearch.Designer.vb,155,558f4e15d4925f52,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FInventoryRequestSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FInventoryRequestSearch.vb,596,770a84d48092bc23,﻿Imports master_new.ModFunction,End Class,0,0,0,4,0
+Sumplas Solution/Sumplas.Project/__Browse References/FInvoiceSearch.designer.vb,177,01b0f2fe06dd26c8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FInvoiceSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FInvoiceSearch.vb,241,0985ec82f4c8b06f,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FItemSubsSearch.designer.vb,121,1c223fdefca4b65d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FItemSubsSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FItemSubsSearch.vb,84,22992e47997067ff,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FLocationSearch.Designer.vb,122,443f32b00c3a5730,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FLocationSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FLocationSearch.vb,685,b84d96dfde306e00,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FLotSerialSearch.designer.vb,136,b9699d35165e79fa,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FLotSerialSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FLotSerialSearch.vb,182,e01c0c9e8a4b90e8,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FMachineSearch.designer.vb,141,173417982848709c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FMachineSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FMachineSearch.vb,191,59863537f6781843,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FNotaSearch.designer.vb,153,6b35b8e23af251df,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FNotaSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FNotaSearch.vb,207,e11a4388014500b9,﻿Imports master_new.ModFunction,,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPOCustomerSearch.designer.vb,153,9a3490838d3409aa,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPOCustomerSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPOCustomerSearch.vb,364,602863f5b736de17,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPPNTypeSearch.Designer.vb,94,179c7c25eddfcc07,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPPNTypeSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPPNTypeSearch.vb,50,ab8af456f7acbd12,﻿Public Class FPPNTypeSearch,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPackagingSearch.designer.vb,122,4f56d5945a4ef853,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPackagingSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPackagingSearch.vb,111,9c890b52e203ef22,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPartNumberSearch.Designer.vb,134,2ff9bc0e666f35c4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPartNumberSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPartNumberSearch.vb,2438,43754872e4433af5,﻿Imports master_new.ModFunction,End Class,0,0,0,4,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPartnerSearch.Designer.vb,132,4ae37ddc0589c337,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPartnerSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPartnerSearch.vb,518,95d627f73390de7c,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPaymentTypeSearch.Designer.vb,94,89cdd980254f5c82,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPaymentTypeSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPaymentTypeSearch.vb,60,12c2b337069af72d,﻿Public Class FPaymentTypeSearch,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPriceListSearch.Designer.vb,121,374977e84365402f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPriceListSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FPriceListSearch.vb,174,f2c8d6fe8faf076c,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FProdStrucSearch.designer.vb,121,5e6e77e6da487778,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FProdStrucSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FProdStrucSearch.vb,277,905dd90e86b4fa29,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FProjectAccountSearch.Designer.vb,156,8c4abd56303e2255,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FProjectAccountSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FProjectAccountSearch.vb,229,5311daaed7cf6d10,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FRequisitionSearch.Designer.vb,228,67e4b2b98f92b2e7,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FRequisitionSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FRequisitionSearch.vb,675,348e34360e9342b5,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/__Browse References/FRoutingSearch.designer.vb,122,7bc352f4f88ef0ce,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FRoutingSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FRoutingSearch.vb,60,a9d12dbdcf472a35,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FSOGiftRequestSearch.designer.vb,155,b6a09b344f363085,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FSOGiftRequestSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FSOGiftRequestSearch.vb,287,12f816a57ca04e42,﻿Imports master_new.ModFunction,End Class,0,0,0,2,0
+Sumplas Solution/Sumplas.Project/__Browse References/FSalesOrderDetailSearch.designer.vb,187,25873f5dc30435e4,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FSalesOrderDetailSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FSalesOrderDetailSearch.vb,172,1dfec2767db9c3a6,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FSalesOrderRecapSearch.designer.vb,158,668f9696b9c997ec,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FSalesOrderRecapSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FSalesOrderRecapSearch.vb,614,611944bde5b353e5,﻿Imports master_new.ModFunction,End Class,0,0,0,5,0
+Sumplas Solution/Sumplas.Project/__Browse References/FSalesOrderSearch.Designer.vb,166,ec4367238b252be3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FSalesOrderSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FSalesOrderSearch.vb,2303,b73c76115b87a08a,﻿Imports master_new.ModFunction,End Class,0,0,0,11,0
+Sumplas Solution/Sumplas.Project/__Browse References/FSalesOrderShipmentSearch.Designer.vb,155,dc81b0c03f810984,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FSalesOrderShipmentSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FSalesOrderShipmentSearch.vb,124,85a0172862d7289b,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FTaxClassSearch.Designer.vb,130,cada8d3058c6a84f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FTaxClassSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FTaxClassSearch.vb,89,fee2d79c8db6eb87,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FTaxInvoiceNumberSearch.designer.vb,88,a45f00b394b6722d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FTaxInvoiceNumberSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FTaxInvoiceNumberSearch.vb,68,e9d661424190a6ca,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FUMSearch.Designer.vb,122,6d466c0c903e0e0c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FUMSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FUMSearch.vb,221,0aec10d6594512aa,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/__Browse References/FWCSearch.designer.vb,122,b8405d2c75786e83,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FWCSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FWCSearch.vb,93,955be5c894c30d5c,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FWOMaterialRequestSearch.designer.vb,153,79e3e45d6086ebf2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FWOMaterialRequestSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FWOMaterialRequestSearch.vb,389,1101846cc7487595,﻿Imports master_new.ModFunction,End Class,0,0,0,4,0
+Sumplas Solution/Sumplas.Project/__Browse References/FWOSearch.designer.vb,172,a18ecce3adb57f20,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FWOSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__Browse References/FWOSearch.vb,1049,7629c37030582d05,﻿Imports master_new.ModFunction,End Class,0,0,0,7,0
+Sumplas Solution/Sumplas.Project/__General Form/CustomDesignForm.resx,640,db615f6583fe6dfb,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__General Form/CustomDesignForm.vb,1188,aec0f37981d5a803,Public Class CustomDesignForm,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__General Form/FCodeMstr.Designer.vb,600,982b99a574b03902,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__General Form/FCodeMstr.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__General Form/FCodeMstr.vb,358,07ecd96169f6f618,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+Sumplas Solution/Sumplas.Project/__General Form/frmExport.Designer.vb,61,6f1eafce3a4851d8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__General Form/frmExport.resx,120,f601cd30780a3718,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__General Form/frmExport.vb,3,45f406382ddae28b,﻿Public Class frmExport,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__General Form/frmPrintDialog.Designer.vb,170,6b6178b15ee6767e,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__General Form/frmPrintDialog.resx,440,caabe7620bd14448,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__General Form/frmPrintDialog.vb,194,9c02836973d527ec,Imports master_new.PGSqlConn,End Class,0,0,0,1,0
+Sumplas Solution/Sumplas.Project/__General Form/frmPrintDialogReport.Designer.vb,1406,43c5bd402f5977d5,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__General Form/frmPrintDialogReport.resx,446,0bde7817e885efc1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Sumplas Solution/Sumplas.Project/__General Form/frmPrintDialogReport.vb,48,150408c4f7e7463c,Imports master_new.PGSqlConn,End Class,0,0,1,0,0
+Sumplas Solution/Sumplas.Project/app.config,52,0a55ba31665e4c7a,"<?xml version=""1.0""?>","<startup><supportedRuntime version=""v4.0"" sku="".NETFramework,Version=v4.6""/></startup></configuration>",0,0,0,0,0
