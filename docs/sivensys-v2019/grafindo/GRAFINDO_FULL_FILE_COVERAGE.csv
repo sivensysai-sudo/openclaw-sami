@@ -1,0 +1,688 @@
+file,line_count,method_count
+"Grafindo Solution/Grafindo.Project/Module/Administrative Tools/FUserGroup.designer.vb",1993,3
+"Grafindo Solution/Grafindo.Project/Module/Administrative Tools/FUserGroup.resx",479,0
+"Grafindo Solution/Grafindo.Project/Module/Administrative Tools/FUserGroup.vb",1809,44
+"Grafindo Solution/Grafindo.Project/Module/Administrative Tools/w_reset_password.Designer.vb",76,3
+"Grafindo Solution/Grafindo.Project/Module/Administrative Tools/w_reset_password.resx",120,0
+"Grafindo Solution/Grafindo.Project/Module/Administrative Tools/w_reset_password.vb",64,4
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FBookSize.Designer.vb",333,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FBookSize.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FBookSize.vb",282,13
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FGeneratePackingList.designer.vb",927,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FGeneratePackingList.resx",135,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FGeneratePackingList.vb",2683,36
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FInventoryRequest.Designer.vb",1090,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FInventoryRequest.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FInventoryRequest.vb",2350,49
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FInventoryRequestReport.Designer.vb",200,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FInventoryRequestReport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FInventoryRequestReport.vb",161,8
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FInventoryTransferReport.Designer.vb",233,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FInventoryTransferReport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FInventoryTransferReport.vb",302,9
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FPackingList.designer.vb",789,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FPackingList.resx",132,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FPackingList.vb",1810,27
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FTransferIssues.Designer.vb",1605,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FTransferIssues.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FTransferIssues.vb",4103,58
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FTransferIssuesPackingList.Designer.vb",1677,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FTransferIssuesPackingList.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/FTransferIssuesPackingList.vb",4512,60
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRBoxLabelPackingList.designer.vb",132,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRBoxLabelPackingList.resx",155,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRBoxLabelPackingList.vb",31,2
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRCheckPackingList.designer.vb",747,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRCheckPackingList.resx",552,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRCheckPackingList.vb",44,4
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRInventoryReqPrint.designer.vb",1021,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRInventoryReqPrint.resx",642,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRInventoryReqPrint.vb",108,4
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRPreparationPackingList.designer.vb",807,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRPreparationPackingList.resx",570,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRPreparationPackingList.vb",47,4
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRPreparationPackingList2.designer.vb",821,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRPreparationPackingList2.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRPreparationPackingList2.vb",50,4
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSubBoxLabel.designer.vb",766,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSubBoxLabel.resx",534,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSubBoxLabel.vb",31,2
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSubTransferIssuesPacklist.Designer.vb",126,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSubTransferIssuesPacklist.resx",120,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSubTransferIssuesPacklist.vb",3,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSummaryPrepPackList.designer.vb",752,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSummaryPrepPackList.resx",555,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSummaryPrepPackList.vb",30,2
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSuratJalan.designer.vb",1158,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSuratJalan.resx",120,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRSuratJalan.vb",161,6
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPackingList.Designer.vb",1391,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPackingList.resx",726,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPackingList.vb",93,5
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPackingList_2.Designer.vb",1435,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPackingList_2.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPackingList_2.vb",93,5
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPrint.designer.vb",948,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPrint.resx",600,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPrint.vb",127,5
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPrint_LOT.designer.vb",981,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPrint_LOT.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/XRTransferIssuesPrint_LOT.vb",127,5
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/ds_pack.Designer.vb",1307,61
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Inventory Control/ds_transfer_printout_sys.Designer.vb",3707,151
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/FRequisition.designer.vb",1638,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/FRequisition.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/FRequisition.vb",3187,54
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/FRequisitionApproval.designer.vb",827,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/FRequisitionApproval.resx",138,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/FRequisitionApproval.vb",1269,19
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/XRRequisition.designer.vb",681,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/XRRequisition.resx",534,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/XRRequisition.vb",137,4
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/XRRequisitionCost.designer.vb",755,3
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/XRRequisitionCost.resx",564,0
+"Grafindo Solution/Grafindo.Project/Module/Distribution/Requisition/XRRequisitionCost.vb",125,4
+"Grafindo Solution/Grafindo.Project/Module/Financial/AP Invoice/FPaymentManualChecks.designer.vb",1185,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AP Invoice/FPaymentManualChecks.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AP Invoice/FPaymentManualChecks.vb",2572,50
+"Grafindo Solution/Grafindo.Project/Module/Financial/AP Invoice/FVoucher.Designer.vb",1741,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AP Invoice/FVoucher.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AP Invoice/FVoucher.vb",3755,51
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARBillStatement.designer.vb",909,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARBillStatement.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARBillStatement.vb",670,26
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARBillStatementWizard.designer.vb",472,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARBillStatementWizard.resx",135,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARBillStatementWizard.vb",639,16
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARCardPrint.Designer.vb",313,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARCardPrint.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARCardPrint.vb",280,12
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARPaymentNoOtherAmount.designer.vb",1101,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARPaymentNoOtherAmount.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARPaymentNoOtherAmount.vb",2753,43
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARReport.designer.vb",568,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARReport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARReport.vb",1155,14
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARReportByDate.designer.vb",244,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARReportByDate.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARReportByDate.vb",256,9
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARReportWithUnapprovalSOReturn.designer.vb",264,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARReportWithUnapprovalSOReturn.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FARReportWithUnapprovalSOReturn.vb",551,8
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FBillBank.designer.vb",426,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FBillBank.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FBillBank.vb",322,15
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FBillSignature.designer.vb",426,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FBillSignature.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FBillSignature.vb",348,15
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FDRCRMemo.Designer.vb",1880,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FDRCRMemo.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FDRCRMemo.vb",4522,58
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FReceiptNotes.designer.vb",735,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FReceiptNotes.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FReceiptNotes.vb",746,26
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FReceiptNotesReason.Designer.vb",65,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FReceiptNotesReason.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/FReceiptNotesReason.vb",8,2
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRARCards.designer.vb",1039,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRARCards.resx",153,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRARCards.vb",173,5
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRARCardsSub.designer.vb",434,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRARCardsSub.resx",147,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRARCardsSub.vb",3,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRBillStatement.Designer.vb",1141,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRBillStatement.resx",1181,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRBillStatement.vb",158,6
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRBillStatementAddress.Designer.vb",694,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRBillStatementAddress.resx",618,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRBillStatementAddress.vb",8,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRBillStatementSubReport.Designer.vb",128,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRBillStatementSubReport.resx",153,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRBillStatementSubReport.vb",13,2
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRCashInARPrint.designer.vb",1095,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRCashInARPrint.resx",606,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRCashInARPrint.vb",108,4
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRInvoice.designer.vb",1284,4
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRInvoice.resx",732,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRInvoice.vb",125,5
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRInvoiceDistLine2.designer.vb",1139,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRInvoiceDistLine2.resx",651,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRInvoiceDistLine2.vb",120,4
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRReceiptNotesPrint.designer.vb",1236,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRReceiptNotesPrint.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRReceiptNotesPrint.vb",32,2
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRReceiptNotesPrint_2.designer.vb",1243,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRReceiptNotesPrint_2.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/AR Invoice/XRReceiptNotesPrint_2.vb",32,2
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FBankCreditLimit.designer.vb",424,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FBankCreditLimit.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FBankCreditLimit.vb",628,20
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FBankLoanInterestRate.designer.vb",424,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FBankLoanInterestRate.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FBankLoanInterestRate.vb",503,18
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FBankLoanType.Designer.vb",424,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FBankLoanType.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FBankLoanType.vb",360,16
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FCreditor.Designer.vb",148,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FCreditor.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FCreditor.vb",26,4
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FDaysOff.designer.vb",691,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FDaysOff.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FDaysOff.vb",425,16
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FDaysOffImport.designer.vb",192,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FDaysOffImport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FDaysOffImport.vb",279,11
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FPRKAccountSetting.designer.vb",344,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FPRKAccountSetting.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FPRKAccountSetting.vb",429,18
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FPRKMaster.designer.vb",428,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FPRKMaster.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Master Data/FPRKMaster.vb",443,18
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankCreditLimitHistory.Designer.vb",268,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankCreditLimitHistory.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankCreditLimitHistory.vb",83,6
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanDisbursementReport.Designer.vb",167,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanDisbursementReport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanDisbursementReport.vb",112,5
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanInterestHistory.Designer.vb",268,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanInterestHistory.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanInterestHistory.vb",87,6
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanPayInterestReport.Designer.vb",167,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanPayInterestReport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanPayInterestReport.vb",96,5
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanPaymentReport.Designer.vb",167,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanPaymentReport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FBankLoanPaymentReport.vb",97,5
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FCreditLimitReport.Designer.vb",110,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FCreditLimitReport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FCreditLimitReport.vb",159,7
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FViewInterestPRKReport.designer.vb",645,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FViewInterestPRKReport.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FViewInterestPRKReport.vb",782,13
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FViewInterestReport.Designer.vb",566,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FViewInterestReport.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Report/FViewInterestReport.vb",424,9
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Transaction/FBankLoanDisbursement.designer.vb",911,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Transaction/FBankLoanDisbursement.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Transaction/FBankLoanDisbursement.vb",1642,41
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Transaction/FBankLoanPayInterest.designer.vb",789,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Transaction/FBankLoanPayInterest.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Transaction/FBankLoanPayInterest.vb",1235,37
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Transaction/FBankLoanPayment.designer.vb",789,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Transaction/FBankLoanPayment.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Bank Loan/Transaction/FBankLoanPayment.vb",1270,38
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementLoanPrint.designer.vb",1250,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementLoanPrint.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementLoanPrint.vb",92,4
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementPromotionPrint.designer.vb",1506,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementPromotionPrint.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementPromotionPrint.vb",96,4
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrint.designer.vb",979,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrint.resx",594,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrint.vb",287,12
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrintPng.designer.vb",510,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrintPng.resx",234,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRealizationPrintPng.vb",219,12
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRefundPrint.designer.vb",646,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRefundPrint.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRefundPrint.vb",89,4
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrint.designer.vb",807,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrint.resx",570,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrint.vb",286,12
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrintPng.designer.vb",667,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrintPng.resx",522,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementRequestPrintPng.vb",254,11
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementVoucherPrint.designer.vb",919,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementVoucherPrint.resx",579,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XRDisbursementVoucherPrint.vb",314,13
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XROverBookingPrint.designer.vb",897,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XROverBookingPrint.resx",561,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Print Out/XROverBookingPrint.vb",108,4
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FDisbursementRealizationReport.designer.vb",182,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FDisbursementRealizationReport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FDisbursementRealizationReport.vb",158,5
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FDisbursementRequestReport.designer.vb",157,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FDisbursementRequestReport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FDisbursementRequestReport.vb",178,5
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FDisbursementVoucherReport.designer.vb",224,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FDisbursementVoucherReport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FDisbursementVoucherReport.vb",297,5
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FOverBookingReport.Designer.vb",157,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FOverBookingReport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Report/FOverBookingReport.vb",120,5
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementApproval.designer.vb",945,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementApproval.resx",138,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementApproval.vb",1188,25
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementApproval_Spv.designer.vb",997,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementApproval_Spv.resx",138,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementApproval_Spv.vb",1488,30
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementLoan.designer.vb",1125,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementLoan.resx",132,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementLoan.vb",1523,35
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementLoanReleasePrint.designer.vb",80,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementLoanReleasePrint.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementLoanReleasePrint.vb",75,2
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementPromotion.designer.vb",1034,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementPromotion.resx",135,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementPromotion.vb",1603,35
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementPromotionReleasePrint.designer.vb",80,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementPromotionReleasePrint.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementPromotionReleasePrint.vb",75,2
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealization.designer.vb",1419,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealization.resx",132,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealization.vb",3654,57
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealizationApproval.designer.vb",942,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealizationApproval.resx",138,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRealizationApproval.vb",1813,22
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRefund.designer.vb",1024,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRefund.resx",132,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRefund.vb",1486,35
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRefundReleasePrint.designer.vb",80,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRefundReleasePrint.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRefundReleasePrint.vb",75,2
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRequest.designer.vb",1976,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRequest.resx",132,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementRequest.vb",3935,70
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementVoucher.designer.vb",1565,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementVoucher.resx",132,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FDisbursementVoucher.vb",3167,51
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FOverBooking.designer.vb",1033,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FOverBooking.resx",132,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FOverBooking.vb",1724,42
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FOverBookingAdjustment.designer.vb",648,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FOverBookingAdjustment.resx",132,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FOverBookingAdjustment.vb",480,22
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FPOCustPosition.designer.vb",115,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FPOCustPosition.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cash Management/Transaction/FPOCustPosition.vb",8,2
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FAccount.designer.vb",824,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FAccount.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FAccount.vb",635,18
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FBank.designer.vb",694,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FBank.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FBank.vb",456,17
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCFSetting.designer.vb",407,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCFSetting.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCFSetting.vb",452,24
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashFlowAdjustment.designer.vb",334,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashFlowAdjustment.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashFlowAdjustment.vb",344,13
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashInBranch.designer.vb",709,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashInBranch.resx",132,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashInBranch.vb",573,24
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashInBranchReport.Designer.vb",336,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashInBranchReport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashInBranchReport.vb",119,7
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashflowReport.designer.vb",508,4
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashflowReport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashflowReport.vb",745,12
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashflowReportBank.designer.vb",398,4
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashflowReportBank.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashflowReportBank.vb",587,9
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashflowWeek.designer.vb",547,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashflowWeek.resx",132,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FCashflowWeek.vb",576,22
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FLoanFund.designer.vb",554,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FLoanFund.resx",132,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FLoanFund.vb",500,23
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FLoanFundReport.Designer.vb",266,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FLoanFundReport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Cashflow/FLoanFundReport.vb",111,7
+"Grafindo Solution/Grafindo.Project/Module/Financial/General Ledger Report/FGeneralLedgerReportGridMulti.designer.vb",581,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/General Ledger Report/FGeneralLedgerReportGridMulti.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/General Ledger Report/FGeneralLedgerReportGridMulti.vb",671,12
+"Grafindo Solution/Grafindo.Project/Module/Financial/General Ledger/FOpeningBalance.Designer.vb",461,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/General Ledger/FOpeningBalance.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/General Ledger/FOpeningBalance.vb",734,22
+"Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/FDROpenException.designer.vb",229,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/FDROpenException.resx",135,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/FDROpenException.vb",80,6
+"Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/FPaymentRecap.Designer.vb",1129,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/FPaymentRecap.resx",132,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/FPaymentRecap.vb",3143,51
+"Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/FPaymentRecapApproval.designer.vb",1227,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/FPaymentRecapApproval.resx",282,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/FPaymentRecapApproval.vb",1597,26
+"Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/XRPaymentRecap.designer.vb",845,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/XRPaymentRecap.resx",336,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/XRPaymentRecap.vb",52,2
+"Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/XRSubRepCetak.designer.vb",280,3
+"Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/XRSubRepCetak.resx",120,0
+"Grafindo Solution/Grafindo.Project/Module/Financial/Payment Recap/XRSubRepCetak.vb",3,0
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Address Taxes/FCustomerBillHold.designer.vb",766,3
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Address Taxes/FCustomerBillHold.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Address Taxes/FCustomerBillHold.vb",412,15
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Address Taxes/FSalesPerson.designer.vb",604,3
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Address Taxes/FSalesPerson.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Address Taxes/FSalesPerson.vb",525,19
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FBranch.designer.vb",1063,3
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FBranch.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FBranch.vb",836,30
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FOutstandingMove.designer.vb",795,3
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FOutstandingMove.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FOutstandingMove.vb",820,21
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FRoutingApproval.designer.vb",919,3
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FRoutingApproval.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FRoutingApproval.vb",1061,31
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FSalesMove.designer.vb",988,3
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FSalesMove.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FSalesMove.vb",983,22
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FSettingReportNote.designer.vb",288,3
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FSettingReportNote.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/FSettingReportNote.vb",254,11
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/XRDocumentApprovalSub.designer.vb",231,3
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/XRDocumentApprovalSub.resx",202,0
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/XRDocumentApprovalSub.vb",28,2
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/XRRoutingApproval.designer.vb",197,3
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/XRRoutingApproval.resx",139,0
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Company/XRRoutingApproval.vb",3,0
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Item Sites/FPartNumber.designer.vb",1156,3
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Item Sites/FPartNumber.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Item Sites/FPartNumber.vb",1167,22
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Item Sites/FPartNumberImport.designer.vb",1095,3
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Item Sites/FPartNumberImport.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Master Data/Item Sites/FPartNumberImport.vb",914,12
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapAmount.designer.vb",419,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapAmount.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapAmount.vb",373,15
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapAmountImport.designer.vb",180,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapAmountImport.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapAmountImport.vb",213,11
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCreditTerms.designer.vb",402,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCreditTerms.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCreditTerms.vb",373,15
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCreditTermsImport.designer.vb",180,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCreditTermsImport.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCreditTermsImport.vb",213,11
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCustType.designer.vb",414,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCustType.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCustType.vb",384,16
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCustTypeImport.designer.vb",180,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCustTypeImport.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapCustTypeImport.vb",223,11
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapDisc.designer.vb",463,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapDisc.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapDisc.vb",391,16
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapDiscountImport.designer.vb",180,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapDiscountImport.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapDiscountImport.vb",226,11
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLevel.designer.vb",378,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLevel.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLevel.vb",387,16
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLevelImport.designer.vb",180,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLevelImport.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLevelImport.vb",207,11
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLoan.designer.vb",419,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLoan.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLoan.vb",373,15
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLoanImport.designer.vb",180,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLoanImport.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapLoanImport.vb",213,11
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapPromotion.designer.vb",419,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapPromotion.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapPromotion.vb",373,15
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapPromotionImport.designer.vb",180,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapPromotionImport.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FLimapPromotionImport.vb",213,11
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FOutstandingPOCustMove.designer.vb",839,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FOutstandingPOCustMove.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FOutstandingPOCustMove.vb",1375,26
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustMassCancel.designer.vb",875,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustMassCancel.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustMassCancel.vb",957,24
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustMassCancelReport.designer.vb",330,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustMassCancelReport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustMassCancelReport.vb",195,8
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustMove.designer.vb",1112,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustMove.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustMove.vb",767,23
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerGMP.designer.vb",2109,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerGMP.resx",135,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerGMP.vb",4952,68
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerGMPApproval.designer.vb",1179,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerGMPApproval.resx",141,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerGMPApproval.vb",2155,30
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerGMPReleasePrint.designer.vb",80,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerGMPReleasePrint.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerGMPReleasePrint.vb",75,2
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerReport.designer.vb",342,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerReport.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPOCustomerReport.vb",290,12
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPartnerTypeGMP.designer.vb",92,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPartnerTypeGMP.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/FPartnerTypeGMP.vb",31,4
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/XRPOCustomerPrintOut.designer.vb",1538,4
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/XRPOCustomerPrintOut.resx",759,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/PO Customer/XRPOCustomerPrintOut.vb",123,4
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Price List/FPriceListQty.Designer.vb",617,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Price List/FPriceListQty.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Price List/FPriceListQty.vb",940,27
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Price List/Report/FPriceListReport.Designer.vb",216,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Price List/Report/FPriceListReport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Price List/Report/FPriceListReport.vb",217,10
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSO.designer.vb",860,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSO.resx",573,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSO.vb",111,4
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSalesOrderReturPrint.designer.vb",761,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSalesOrderReturPrint.resx",537,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSalesOrderReturPrint.vb",108,4
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSalesOrderReturPrint_LOT.designer.vb",821,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSalesOrderReturPrint_LOT.resx",555,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSalesOrderReturPrint_LOT.vb",108,4
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.designer.vb",1007,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.resx",597,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.vb",116,5
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Print Out/ds_soship.Designer.vb",531,27
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Report/FSOShipmentReturnReport.Designer.vb",835,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Report/FSOShipmentReturnReport.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Report/FSOShipmentReturnReport.vb",585,13
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Report/FSOShipmentReturnTopReport.Designer.vb",653,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Report/FSOShipmentReturnTopReport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Report/FSOShipmentReturnTopReport.vb",197,12
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Report/FSalesOrderReturnReport.Designer.vb",344,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Report/FSalesOrderReturnReport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Report/FSalesOrderReturnReport.vb",543,14
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FCopyData3.designer.vb",509,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FCopyData3.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FCopyData3.vb",3617,23
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FLimapSOReturn.designer.vb",468,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FLimapSOReturn.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FLimapSOReturn.vb",380,15
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FLimapSOReturnImport.designer.vb",220,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FLimapSOReturnImport.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FLimapSOReturnImport.vb",216,11
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSOShipmentReceive.Designer.vb",1401,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSOShipmentReceive.resx",135,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSOShipmentReceive.vb",1352,34
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrder.Designer.vb",2158,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrder.resx",135,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrder.vb",8662,92
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderReturn.designer.vb",1590,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderReturn.resx",129,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderReturn.vb",6240,67
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderReturnApproval.designer.vb",836,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderReturnApproval.resx",138,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderReturnApproval.vb",2346,21
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderShipment.Designer.vb",1585,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderShipment.resx",135,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderShipment.vb",4571,59
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderShipmentReport.designer.vb",269,3
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderShipmentReport.resx",123,0
+"Grafindo Solution/Grafindo.Project/Module/Sales Order/Transaction/FSalesOrderShipmentReport.vb",383,9
+"Grafindo Solution/Grafindo.Project/Module/Smart Report/FARSmartReport.designer.vb",1107,3
+"Grafindo Solution/Grafindo.Project/Module/Smart Report/FARSmartReport.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Smart Report/FARSmartReport.vb",2286,58
+"Grafindo Solution/Grafindo.Project/Module/Smart Report/FSalesSmartReport.designer.vb",1144,3
+"Grafindo Solution/Grafindo.Project/Module/Smart Report/FSalesSmartReport.resx",126,0
+"Grafindo Solution/Grafindo.Project/Module/Smart Report/FSalesSmartReport.vb",2351,63
+"Grafindo Solution/Grafindo.Project/Module/___Function Helper/Cls_Bilangan.vb",389,13
+"Grafindo Solution/Grafindo.Project/Module/___Function Helper/ModFunctionSpecial.vb",1696,18
+"Grafindo Solution/Grafindo.Project/Module/___Function Helper/function_collection.vb",9500,96
+"Grafindo Solution/Grafindo.Project/Module/___Function Helper/function_data.vb",6194,164
+"Grafindo Solution/Grafindo.Project/My Project/Application.Designer.vb",14,0
+"Grafindo Solution/Grafindo.Project/My Project/AssemblyInfo.vb",36,0
+"Grafindo Solution/Grafindo.Project/My Project/Resources.Designer.vb",64,0
+"Grafindo Solution/Grafindo.Project/My Project/Resources.resx",127,0
+"Grafindo Solution/Grafindo.Project/My Project/Settings.Designer.vb",172,1
+"Grafindo Solution/Grafindo.Project/__Browse References/FARPaymentSearch.designer.vb",155,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FARPaymentSearch.resx",126,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FARPaymentSearch.vb",124,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FAccountCashFlowSearch.Designer.vb",126,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FAccountCashFlowSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FAccountCashFlowSearch.vb",137,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FAccountSearch.Designer.vb",123,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FAccountSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FAccountSearch.vb",660,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FBGSearch.designer.vb",89,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FBGSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FBGSearch.vb",105,9
+"Grafindo Solution/Grafindo.Project/__Browse References/FBranchSearch.Designer.vb",122,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FBranchSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FBranchSearch.vb",89,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FCashInBranchSearch.designer.vb",160,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FCashInBranchSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FCashInBranchSearch.vb",124,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FCashInSearch.designer.vb",157,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FCashInSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FCashInSearch.vb",85,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FContractSearch.designer.vb",126,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FContractSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FContractSearch.vb",89,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FCostCenterSearch.Designer.vb",123,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FCostCenterSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FCostCenterSearch.vb",114,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FDRCRMemoSearch.Designer.vb",156,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FDRCRMemoSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FDRCRMemoSearch.vb",586,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FDVSearch.designer.vb",157,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FDVSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FDVSearch.vb",182,11
+"Grafindo Solution/Grafindo.Project/__Browse References/FDisbRequestDetailSearch.designer.vb",88,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FDisbRequestDetailSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FDisbRequestDetailSearch.vb",93,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FDisbursementRealizationSearch.designer.vb",154,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FDisbursementRealizationSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FDisbursementRealizationSearch.vb",263,11
+"Grafindo Solution/Grafindo.Project/__Browse References/FDisbursementRequestSearch.designer.vb",186,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FDisbursementRequestSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FDisbursementRequestSearch.vb",553,11
+"Grafindo Solution/Grafindo.Project/__Browse References/FEmpSearch.Designer.vb",123,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FEmpSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FEmpSearch.vb",103,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FEntitySearch.Designer.vb",123,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FEntitySearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FEntitySearch.vb",94,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FInstitutionSearch.Designer.vb",132,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FInstitutionSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FInstitutionSearch.vb",75,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FInventoryRequestSearch.Designer.vb",156,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FInventoryRequestSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FInventoryRequestSearch.vb",769,11
+"Grafindo Solution/Grafindo.Project/__Browse References/FLoanAccountNumberSearch.designer.vb",126,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FLoanAccountNumberSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FLoanAccountNumberSearch.vb",149,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FLoanFundSearch.designer.vb",165,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FLoanFundSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FLoanFundSearch.vb",121,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FLocationSearch.Designer.vb",123,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FLocationSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FLocationSearch.vb",693,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FLotSerialSearch.designer.vb",137,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FLotSerialSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FLotSerialSearch.vb",190,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FMemoSearch.designer.vb",131,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FMemoSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FMemoSearch.vb",86,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FOverbookingSearch.designer.vb",160,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FOverbookingSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FOverbookingSearch.vb",195,11
+"Grafindo Solution/Grafindo.Project/__Browse References/FPOCustomerSearch.designer.vb",154,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FPOCustomerSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FPOCustomerSearch.vb",565,11
+"Grafindo Solution/Grafindo.Project/__Browse References/FPPNTypeSearch.Designer.vb",95,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FPPNTypeSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FPPNTypeSearch.vb",51,9
+"Grafindo Solution/Grafindo.Project/__Browse References/FPRKCodeSearch.designer.vb",123,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FPRKCodeSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FPRKCodeSearch.vb",122,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FPackagingGMPSearch.designer.vb",123,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FPackagingGMPSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FPackagingGMPSearch.vb",64,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FPackagingSearch.designer.vb",123,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FPackagingSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FPackagingSearch.vb",112,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FPartNumberGMPSearch.designer.vb",124,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FPartNumberGMPSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FPartNumberGMPSearch.vb",241,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FPartNumberSearch.Designer.vb",124,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FPartNumberSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FPartNumberSearch.vb",2465,11
+"Grafindo Solution/Grafindo.Project/__Browse References/FPartnerGMPSearch.designer.vb",133,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FPartnerGMPSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FPartnerGMPSearch.vb",124,11
+"Grafindo Solution/Grafindo.Project/__Browse References/FPartnerSearch.Designer.vb",133,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FPartnerSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FPartnerSearch.vb",457,12
+"Grafindo Solution/Grafindo.Project/__Browse References/FPaymentRecapSearch.Designer.vb",260,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FPaymentRecapSearch.resx",126,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FPaymentRecapSearch.vb",428,11
+"Grafindo Solution/Grafindo.Project/__Browse References/FPaymentTypeSearch.Designer.vb",95,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FPaymentTypeSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FPaymentTypeSearch.vb",61,9
+"Grafindo Solution/Grafindo.Project/__Browse References/FPriceListSearch.Designer.vb",155,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FPriceListSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FPriceListSearch.vb",175,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FProjectAccountSearch.Designer.vb",157,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FProjectAccountSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FProjectAccountSearch.vb",230,12
+"Grafindo Solution/Grafindo.Project/__Browse References/FPurchaseOrderSearch.Designer.vb",156,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FPurchaseOrderSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FPurchaseOrderSearch.vb",1035,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FReasonCodeSOSearch.Designer.vb",122,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FReasonCodeSOSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FReasonCodeSOSearch.vb",96,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FSalesOrderRecapSearch.designer.vb",156,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FSalesOrderRecapSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FSalesOrderRecapSearch.vb",419,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FSalesOrderSearch.Designer.vb",167,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FSalesOrderSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FSalesOrderSearch.vb",2284,11
+"Grafindo Solution/Grafindo.Project/__Browse References/FSalesOrderShipmentSearch.Designer.vb",156,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FSalesOrderShipmentSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FSalesOrderShipmentSearch.vb",320,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FSalesPersonGMPSearch.designer.vb",88,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FSalesPersonGMPSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FSalesPersonGMPSearch.vb",76,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FTaxClassGMPSearch.Designer.vb",131,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FTaxClassGMPSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FTaxClassGMPSearch.vb",63,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FTaxClassSearch.Designer.vb",131,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FTaxClassSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FTaxClassSearch.vb",90,10
+"Grafindo Solution/Grafindo.Project/__Browse References/FUMGMPSearch.designer.vb",123,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FUMGMPSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FUMGMPSearch.vb",107,11
+"Grafindo Solution/Grafindo.Project/__Browse References/FUMSearch.Designer.vb",123,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FUMSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FUMSearch.vb",221,11
+"Grafindo Solution/Grafindo.Project/__Browse References/FUserApprovalSearch.Designer.vb",87,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FUserApprovalSearch.resx",123,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FUserApprovalSearch.vb",56,9
+"Grafindo Solution/Grafindo.Project/__Browse References/FVoucherSearch.Designer.vb",289,3
+"Grafindo Solution/Grafindo.Project/__Browse References/FVoucherSearch.resx",126,0
+"Grafindo Solution/Grafindo.Project/__Browse References/FVoucherSearch.vb",512,15
+"Grafindo Solution/Grafindo.Project/__General Form/CustomDesignForm.resx",640,0
+"Grafindo Solution/Grafindo.Project/__General Form/CustomDesignForm.vb",1189,5
+"Grafindo Solution/Grafindo.Project/__General Form/FCodeMstr.Designer.vb",601,3
+"Grafindo Solution/Grafindo.Project/__General Form/FCodeMstr.resx",126,0
+"Grafindo Solution/Grafindo.Project/__General Form/FCodeMstr.vb",359,13
+"Grafindo Solution/Grafindo.Project/__General Form/frmExport.Designer.vb",62,3
+"Grafindo Solution/Grafindo.Project/__General Form/frmExport.resx",120,0
+"Grafindo Solution/Grafindo.Project/__General Form/frmExport.vb",3,0
+"Grafindo Solution/Grafindo.Project/__General Form/frmPrintDialog.Designer.vb",171,3
+"Grafindo Solution/Grafindo.Project/__General Form/frmPrintDialog.resx",440,0
+"Grafindo Solution/Grafindo.Project/__General Form/frmPrintDialog.vb",194,12
+"Grafindo Solution/Grafindo.Project/__General Form/frmPrintDialogReport.Designer.vb",1407,3
+"Grafindo Solution/Grafindo.Project/__General Form/frmPrintDialogReport.resx",446,0
+"Grafindo Solution/Grafindo.Project/__General Form/frmPrintDialogReport.vb",48,6
+"Grafindo Solution/Grafindo.Project/app.config",53,0
