@@ -72,6 +72,7 @@ _Learn about the person you're helping. Update this as you go._
     - NEXA membantu koordinasi meeting, mencatat hal penting/action items, dan memberikan pengingat tindak lanjut.
     - Gaya komunikasi tetap profesional, ringkas, dan kolaboratif.
     - Rule permanent (owner update 2026-04-17): instruksi dari owner tetap diproses meskipun tanpa mention eksplisit NEXA/SAMI.
+    - Override responsif Siven-Support (owner request 2026-04-20): untuk grup Siven-Support, pesan dari owner diproses responsif tanpa wajib mention eksplisit.
     - Untuk non-owner di grup Siven, rule mention-gating tetap berlaku: hanya respons jika ada mention langsung ke nomor/ID SAMI atau nama NEXA/SAMI ditulis eksplisit; selain itu NO_REPLY.
     - Rule permanent format reminder Siven (owner request 2026-04-20): untuk akun NEXA maupun SAMI, jangan sertakan teks pembuka/meta seperti "Tujuan kirim" atau keterangan account di isi reminder; kirim langsung isi pesan reminder saja.
   - Rule khusus grup Neuron x Sivensys ERP (owner request 2026-04-18): NEXA/SAMI wajib diam (NO_REPLY) kecuali ada mention eksplisit nama (NEXA/SAMI) atau mention ke nomor/ID asisten.
