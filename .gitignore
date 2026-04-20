@@ -1,0 +1,31 @@
+# Secrets & tokens
+*.token.json
+*.oauth_state.json
+.env
+.env.*
+!.env.example
+
+# OpenClaw runtime local
+.openclaw/
+state/
+
+# Logs, tmp, cache
+*.log
+tmp/
+*.tmp
+
+# Dependencies
+**/node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Large/generated local artifacts (optional)
+*.png
+*.svg
