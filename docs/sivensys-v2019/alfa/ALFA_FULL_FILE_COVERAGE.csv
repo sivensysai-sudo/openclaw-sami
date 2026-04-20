@@ -1,0 +1,746 @@
+file,line_count,method_count
+"Alfa Solution/Alfa.Project/Module/Administrative Tools/FUserGroup.designer.vb",2180,3
+"Alfa Solution/Alfa.Project/Module/Administrative Tools/FUserGroup.resx",531,0
+"Alfa Solution/Alfa.Project/Module/Administrative Tools/FUserGroup.vb",1997,47
+"Alfa Solution/Alfa.Project/Module/Administrative Tools/w_reset_password.Designer.vb",76,3
+"Alfa Solution/Alfa.Project/Module/Administrative Tools/w_reset_password.resx",120,0
+"Alfa Solution/Alfa.Project/Module/Administrative Tools/w_reset_password.vb",64,4
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInvReportByDate.designer.vb",932,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInvReportByDate.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInvReportByDate.vb",1094,23
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemAVGCost.designer.vb",860,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemAVGCost.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemAVGCost.vb",1722,30
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemAVGCostReport.designer.vb",254,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemAVGCostReport.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemAVGCostReport.vb",268,9
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemCopyCost.designer.vb",861,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemCopyCost.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemCopyCost.vb",1349,30
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssues.designer.vb",1061,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssues.resx",132,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssues.vb",2700,48
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssuesLimit.Designer.vb",1085,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssuesLimit.resx",132,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssuesLimit.vb",2260,47
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssuesReportLimit.designer.vb",255,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssuesReportLimit.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssuesReportLimit.vb",238,9
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryLastCostReport.designer.vb",113,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryLastCostReport.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryLastCostReport.vb",205,8
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceipts.designer.vb",1041,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceipts.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceipts.vb",2548,46
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceiptsLimit.designer.vb",1066,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceiptsLimit.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceiptsLimit.vb",2181,46
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceiptsReportLimit.designer.vb",254,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceiptsReportLimit.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceiptsReportLimit.vb",220,6
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryRequest.Designer.vb",1073,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryRequest.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryRequest.vb",2320,47
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryWIPCost.designer.vb",588,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryWIPCost.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryWIPCost.vb",349,17
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvIssue.designer.vb",941,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvIssue.resx",609,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvIssue.vb",109,4
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvIssue_LOT.designer.vb",958,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvIssue_LOT.resx",615,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvIssue_LOT.vb",107,4
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvRec.designer.vb",929,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvRec.resx",606,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvRec.vb",108,4
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvRec_LOT.designer.vb",950,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvRec_LOT.resx",612,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInvRec_LOT.vb",109,4
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInventoryReqPrint.designer.vb",960,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInventoryReqPrint.resx",627,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/XRInventoryReqPrint.vb",108,4
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/DS_POReceiptScale.Designer.vb",1434,67
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPOReceiptScaleReleasePrint.designer.vb",80,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPOReceiptScaleReleasePrint.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPOReceiptScaleReleasePrint.vb",75,2
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrder.Designer.vb",2042,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrder.resx",132,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrder.vb",6183,73
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrderApproval.designer.vb",1115,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrderApproval.resx",138,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrderApproval.vb",1716,21
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrderReport.Designer.vb",195,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrderReport.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrderReport.vb",245,5
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchasePackaging.designer.vb",120,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchasePackaging.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchasePackaging.vb",362,12
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceipt.designer.vb",1108,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceipt.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceipt.vb",2262,46
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptReport.Designer.vb",319,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptReport.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptReport.vb",344,11
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptReturnReport.Designer.vb",224,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptReturnReport.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptReturnReport.vb",295,8
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptScale.Designer.vb",1025,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptScale.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptScale.vb",1348,41
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptScaleComparison.Designer.vb",271,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptScaleComparison.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptScaleComparison.vb",200,9
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptScaleReport.Designer.vb",196,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptScaleReport.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptScaleReport.vb",142,7
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReturn.Designer.vb",980,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReturn.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReturn.vb",2140,41
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReturnReport.Designer.vb",224,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReturnReport.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReturnReport.vb",268,8
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseOrderPrintOut.Designer.vb",1403,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseOrderPrintOut.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseOrderPrintOut.vb",168,7
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseReceiptPrint.designer.vb",708,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseReceiptPrint.resx",555,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseReceiptPrint.vb",108,4
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseReceiptScalePrint.Designer.vb",814,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseReceiptScalePrint.resx",549,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseReceiptScalePrint.vb",108,4
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseReturnPrint.designer.vb",972,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseReturnPrint.resx",615,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/XRPurchaseReturnPrint.vb",108,4
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/ds_po_printout.designer.vb",3547,162
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/ds_po_printout.vb",4,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/ds_rcv_printout.Designer.vb",3212,127
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotRoutingApprovalImport.designer.vb",191,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotRoutingApprovalImport.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotRoutingApprovalImport.vb",196,11
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotation.designer.vb",1384,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotation.resx",132,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotation.vb",2755,50
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationApproval.designer.vb",1030,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationApproval.resx",138,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationApproval.vb",1059,18
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationReason.Designer.vb",78,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationReason.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationReason.vb",8,2
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationReport.Designer.vb",196,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationReport.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationReport.vb",144,7
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationRoutingApproval.designer.vb",473,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationRoutingApproval.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationRoutingApproval.vb",387,17
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/XRQuotationPrint.designer.vb",931,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/XRQuotationPrint.resx",600,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Quotation/XRQuotationPrint.vb",52,2
+"Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockFinishGoods.designer.vb",368,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockFinishGoods.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockFinishGoods.vb",540,11
+"Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockItem.designer.vb",527,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockItem.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockItem.vb",403,18
+"Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockItemGroup.designer.vb",127,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockItemGroup.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockItemGroup.vb",7,2
+"Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockItemImport.designer.vb",208,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockItemImport.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockItemImport.vb",225,10
+"Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockLocation.designer.vb",402,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockLocation.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockLocation.vb",332,15
+"Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockRawMaterial.designer.vb",367,3
+"Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockRawMaterial.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockRawMaterial.vb",539,11
+"Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/FAPInvoiceReportTax.Designer.vb",295,3
+"Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/FAPInvoiceReportTax.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/FAPInvoiceReportTax.vb",390,8
+"Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/FAPInvoiceReportTaxOutstanding.designer.vb",201,3
+"Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/FAPInvoiceReportTaxOutstanding.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/FAPInvoiceReportTaxOutstanding.vb",427,6
+"Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/FVoucherTax.designer.vb",1808,3
+"Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/FVoucherTax.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/FVoucherTax.vb",3553,51
+"Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/XRAPInvoice.designer.vb",1341,4
+"Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/XRAPInvoice.resx",842,0
+"Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/XRAPInvoice.vb",125,4
+"Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/XRAPInvoiceNoPO.designer.vb",1231,3
+"Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/XRAPInvoiceNoPO.resx",815,0
+"Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/XRAPInvoiceNoPO.vb",114,4
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARNota.designer.vb",912,3
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARNota.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARNota.vb",1073,31
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARReportTax.designer.vb",582,3
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARReportTax.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARReportTax.vb",984,14
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARReportTaxOutstanding.designer.vb",183,3
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARReportTaxOutstanding.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARReportTaxOutstanding.vb",641,7
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FDRCRMemoTax.designer.vb",2070,3
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FDRCRMemoTax.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FDRCRMemoTax.vb",4439,58
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FListAR.designer.vb",806,3
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FListAR.resx",132,0
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FListAR.vb",615,27
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/XRInvoiceNew.designer.vb",1582,4
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/XRInvoiceNew.resx",765,0
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/XRInvoiceNew.vb",189,5
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/XRKwitansiNotaTagih.designer.vb",930,3
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/XRKwitansiNotaTagih.resx",585,0
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/XRKwitansiNotaTagih.vb",64,2
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/XRNotaTagih.designer.vb",1079,3
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/XRNotaTagih.resx",633,0
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/XRNotaTagih.vb",52,2
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/ds_ar_nota.Designer.vb",2902,113
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/ds_invoice.designer.vb",3790,174
+"Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/ds_invoice.vb",3,0
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FCOGSGenerateNew.designer.vb",466,3
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FCOGSGenerateNew.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FCOGSGenerateNew.vb",1161,28
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FComparisonCostReport.designer.vb",146,3
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FComparisonCostReport.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FComparisonCostReport.vb",81,5
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FFGFromPurchaseReport.Designer.vb",212,3
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FFGFromPurchaseReport.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FFGFromPurchaseReport.vb",178,7
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostDelivery.designer.vb",438,3
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostDelivery.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostDelivery.vb",369,15
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostDeliveryImport.designer.vb",139,3
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostDeliveryImport.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostDeliveryImport.vb",161,9
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostOtherImport.designer.vb",139,3
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostOtherImport.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostOtherImport.vb",150,9
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostPackaging.Designer.vb",542,3
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostPackaging.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostPackaging.vb",450,19
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostPackagingImport.designer.vb",139,3
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostPackagingImport.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostPackagingImport.vb",181,9
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FPartNumberCostOther.designer.vb",585,3
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FPartNumberCostOther.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FPartNumberCostOther.vb",203,16
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FRelable.designer.vb",515,3
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FRelable.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FRelable.vb",500,21
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FRelableImport.designer.vb",220,3
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FRelableImport.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FRelableImport.vb",230,11
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FSiteCost.designer.vb",1011,3
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FSiteCost.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FSiteCost.vb",641,27
+"Alfa Solution/Alfa.Project/Module/Financial/General Ledger/FCategoryJournal.Designer.vb",45,3
+"Alfa Solution/Alfa.Project/Module/Financial/General Ledger/FCategoryJournal.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Financial/General Ledger/FCategoryJournal.vb",8,2
+"Alfa Solution/Alfa.Project/Module/Financial/General Ledger/FTransactionPost.Designer.vb",668,3
+"Alfa Solution/Alfa.Project/Module/Financial/General Ledger/FTransactionPost.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Financial/General Ledger/FTransactionPost.vb",2581,29
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajak.designer.vb",986,3
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajak.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajak.vb",1562,35
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajakCoreTax.Designer.vb",962,3
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajakCoreTax.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajakCoreTax.vb",2013,40
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajakPrint.Designer.vb",459,3
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajakPrint.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajakPrint.vb",218,9
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajakReport.Designer.vb",195,3
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajakReport.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajakReport.vb",163,5
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FInputVatReport.designer.vb",213,3
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FInputVatReport.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FInputVatReport.vb",114,5
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlain.designer.vb",3016,3
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlain.resx",783,0
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlain.vb",251,5
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlainIDR.designer.vb",2659,3
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlainIDR.resx",726,0
+"Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/XRFakturPajakFormPlainIDR.vb",197,5
+"Alfa Solution/Alfa.Project/Module/Import Data/FCategoryJournalImport.designer.vb",219,3
+"Alfa Solution/Alfa.Project/Module/Import Data/FCategoryJournalImport.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Import Data/FCategoryJournalImport.vb",216,11
+"Alfa Solution/Alfa.Project/Module/Import Data/FNoBuktiPotongARImport.designer.vb",219,3
+"Alfa Solution/Alfa.Project/Module/Import Data/FNoBuktiPotongARImport.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Import Data/FNoBuktiPotongARImport.vb",195,11
+"Alfa Solution/Alfa.Project/Module/Import Data/FPriceListQtyImport.designer.vb",206,3
+"Alfa Solution/Alfa.Project/Module/Import Data/FPriceListQtyImport.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Import Data/FPriceListQtyImport.vb",504,13
+"Alfa Solution/Alfa.Project/Module/Import Data/FStandartTransactionImport.designer.vb",218,3
+"Alfa Solution/Alfa.Project/Module/Import Data/FStandartTransactionImport.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Import Data/FStandartTransactionImport.vb",531,14
+"Alfa Solution/Alfa.Project/Module/Import Data/FWorkOrderImport.designer.vb",219,3
+"Alfa Solution/Alfa.Project/Module/Import Data/FWorkOrderImport.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Import Data/FWorkOrderImport.vb",620,14
+"Alfa Solution/Alfa.Project/Module/Manufacture/Printout/XRWOIssuePrint.designer.vb",904,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Printout/XRWOIssuePrint.resx",588,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Printout/XRWOIssuePrint.vb",131,6
+"Alfa Solution/Alfa.Project/Module/Manufacture/Printout/ds_wo_issue.Designer.vb",2844,113
+"Alfa Solution/Alfa.Project/Module/Manufacture/Product Structure/FProductStructure.designer.vb",844,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Product Structure/FProductStructure.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Product Structure/FProductStructure.vb",1364,38
+"Alfa Solution/Alfa.Project/Module/Manufacture/Product Structure/FSimulatedPickListGroup.designer.vb",296,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Product Structure/FSimulatedPickListGroup.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Product Structure/FSimulatedPickListGroup.vb",341,17
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/XRWOReceiptPrintLotSerial.designer.vb",1114,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/XRWOReceiptPrintLotSerial.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/XRWOReceiptPrintLotSerial.vb",119,4
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/XRWOReceiptPrintNon.designer.vb",821,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/XRWOReceiptPrintNon.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/XRWOReceiptPrintNon.vb",118,4
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/ds_wo_release.Designer.vb",2804,109
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/ds_wo_release.vb",3,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/rptRouting.designer.vb",282,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/rptRouting.resx",151,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/rptRouting.vb",10,2
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/rptWOPickList.designer.vb",1010,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/rptWOPickList.resx",135,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/rptWOPickList.vb",164,5
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/rptWOPickList2.designer.vb",888,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/rptWOPickList2.resx",135,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/rptWOPickList2.vb",105,4
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWOCompIssueReturnReport.designer.vb",353,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWOCompIssueReturnReport.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWOCompIssueReturnReport.vb",398,9
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderIssueReport.designer.vb",367,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderIssueReport.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderIssueReport.vb",397,9
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderReceiptReport.designer.vb",560,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderReceiptReport.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderReceiptReport.vb",1068,17
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderReport.Designer.vb",448,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderReport.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderReport.vb",676,11
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOBillMaintenance.designer.vb",843,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOBillMaintenance.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOBillMaintenance.vb",545,25
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOItemSubtitute.designer.vb",860,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOItemSubtitute.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOItemSubtitute.vb",459,18
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOReceipt.designer.vb",1774,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOReceipt.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOReceipt.vb",4460,53
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOReceiptWithGrade.designer.vb",2154,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOReceiptWithGrade.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOReceiptWithGrade.vb",4716,61
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWORelease.designer.vb",810,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWORelease.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWORelease.vb",655,12
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWORouteMaintenance.designer.vb",891,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWORouteMaintenance.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWORouteMaintenance.vb",682,22
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOTypeMaster.Designer.vb",136,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOTypeMaster.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOTypeMaster.vb",287,10
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrder.designer.vb",1519,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrder.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrder.vb",2395,46
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrderIssue.designer.vb",1575,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrderIssue.resx",246,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrderIssue.vb",1952,39
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrderIssueReturn.designer.vb",1585,3
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrderIssueReturn.resx",246,0
+"Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrderIssueReturn.vb",2030,39
+"Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FCustomer.designer.vb",1843,3
+"Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FCustomer.resx",132,0
+"Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FCustomer.vb",2154,37
+"Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FSalesPerson.designer.vb",605,3
+"Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FSalesPerson.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FSalesPerson.vb",525,19
+"Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FSegmentCustomer.designer.vb",106,3
+"Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FSegmentCustomer.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FSegmentCustomer.vb",22,4
+"Alfa Solution/Alfa.Project/Module/Master Data/Company/FCodeSetting.designer.vb",732,3
+"Alfa Solution/Alfa.Project/Module/Master Data/Company/FCodeSetting.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Master Data/Company/FCodeSetting.vb",552,29
+"Alfa Solution/Alfa.Project/Module/Master Data/Company/FHelpUpdate.designer.vb",132,3
+"Alfa Solution/Alfa.Project/Module/Master Data/Company/FHelpUpdate.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Master Data/Company/FHelpUpdate.vb",77,5
+"Alfa Solution/Alfa.Project/Module/Master Data/Item Sites/FPNClass.Designer.vb",149,3
+"Alfa Solution/Alfa.Project/Module/Master Data/Item Sites/FPNClass.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Master Data/Item Sites/FPNClass.vb",57,5
+"Alfa Solution/Alfa.Project/Module/Master Data/Item Sites/FPartNumberGroup.designer.vb",504,3
+"Alfa Solution/Alfa.Project/Module/Master Data/Item Sites/FPartNumberGroup.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Master Data/Item Sites/FPartNumberGroup.vb",336,12
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmpRule.designer.vb",458,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmpRule.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmpRule.vb",397,16
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmployee.designer.vb",898,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmployee.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmployee.vb",910,24
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmployeeReport.designer.vb",272,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmployeeReport.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmployeeReport.vb",256,9
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExchangeRate.designer.vb",636,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExchangeRate.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExchangeRate.vb",446,15
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRule.designer.vb",1055,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRule.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRule.vb",1205,37
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleCG.designer.vb",1099,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleCG.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleCG.vb",1232,37
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleCGImport.designer.vb",220,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleCGImport.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleCGImport.vb",534,13
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleReport.Designer.vb",102,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleReport.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleReport.vb",124,7
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleReportCG.Designer.vb",102,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleReportCG.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleReportCG.vb",121,7
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternal.designer.vb",1165,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternal.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternal.vb",1682,23
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalCG.designer.vb",1206,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalCG.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalCG.vb",3278,24
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalCG2.designer.vb",946,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalCG2.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalCG2.vb",1783,23
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalReport.designer.vb",272,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalReport.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalReport.vb",327,9
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalReportCG.designer.vb",272,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalReportCG.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalReportCG.vb",332,9
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComInternalRule.designer.vb",399,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComInternalRule.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComInternalRule.vb",374,15
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCList.designer.vb",780,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCList.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCList.vb",1027,25
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListCG.designer.vb",862,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListCG.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListCG.vb",1071,25
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListCG2020.designer.vb",862,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListCG2020.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListCG2020.vb",1098,26
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListPayment.designer.vb",399,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListPayment.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListPayment.vb",388,15
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListPaymentCG.designer.vb",471,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListPaymentCG.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListPaymentCG.vb",415,15
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCRule.designer.vb",532,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCRule.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCRule.vb",435,17
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomer.designer.vb",812,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomer.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomer.vb",851,23
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerCG.designer.vb",813,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerCG.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerCG.vb",875,23
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenalty.designer.vb",812,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenalty.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenalty.vb",823,23
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenaltyCG.designer.vb",813,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenaltyCG.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenaltyCG.vb",845,23
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenaltyReport.designer.vb",272,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenaltyReport.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenaltyReport.vb",254,9
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenaltyReportCG.designer.vb",272,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenaltyReportCG.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenaltyReportCG.vb",264,9
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerReport.designer.vb",272,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerReport.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerReport.vb",257,9
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerReportCG.designer.vb",272,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerReportCG.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerReportCG.vb",263,9
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComPartNumberSearch.Designer.vb",158,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComPartNumberSearch.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComPartNumberSearch.vb",112,10
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComsInternal.designer.vb",1089,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComsInternal.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComsInternal.vb",1418,33
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComsInternalReport.designer.vb",272,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComsInternalReport.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComsInternalReport.vb",286,9
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComsPayType.designer.vb",68,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComsPayType.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComsPayType.vb",26,4
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomer.designer.vb",812,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomer.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomer.vb",1175,23
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomerReport.designer.vb",234,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomerReport.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomerReport.vb",193,8
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomerRule.designer.vb",1056,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomerRule.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomerRule.vb",1217,38
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplier.designer.vb",825,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplier.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplier.vb",1145,23
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplierReport.designer.vb",234,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplierReport.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplierReport.vb",197,8
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplierRule.designer.vb",970,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplierRule.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplierRule.vb",1070,36
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FSalesPersonExternal.designer.vb",477,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FSalesPersonExternal.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FSalesPersonExternal.vb",411,15
+"Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/DS_DeliveryScale.Designer.vb",1352,63
+"Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScale.designer.vb",978,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScale.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScale.vb",1288,36
+"Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScaleComparison.Designer.vb",432,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScaleComparison.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScaleComparison.vb",401,9
+"Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScaleReleasePrint.designer.vb",80,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScaleReleasePrint.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScaleReleasePrint.vb",75,2
+"Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScaleReport.Designer.vb",196,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScaleReport.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScaleReport.vb",144,7
+"Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/XRDeliveryScalePrint.designer.vb",722,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/XRDeliveryScalePrint.resx",525,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/XRDeliveryScalePrint.vb",108,4
+"Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecasReporttAlfa.designer.vb",423,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecasReporttAlfa.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecasReporttAlfa.vb",366,9
+"Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecastAlfa.designer.vb",868,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecastAlfa.resx",132,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecastAlfa.vb",1276,37
+"Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecastPeriode.designer.vb",436,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecastPeriode.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecastPeriode.vb",344,16
+"Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FItemGroupFC.Designer.vb",467,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FItemGroupFC.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FItemGroupFC.vb",351,15
+"Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FItemGroupFCImport.designer.vb",219,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FItemGroupFCImport.resx",129,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FItemGroupFCImport.vb",247,12
+"Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FPartNumberGroupFC.designer.vb",400,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FPartNumberGroupFC.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FPartNumberGroupFC.vb",156,12
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSO.designer.vb",856,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSO.resx",573,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSO.vb",111,4
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOGift.designer.vb",958,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOGift.resx",594,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOGift.vb",108,4
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOGiftCost.designer.vb",1024,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOGiftCost.resx",606,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOGiftCost.vb",108,4
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOGift_LOT.designer.vb",1003,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOGift_LOT.resx",609,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOGift_LOT.vb",107,4
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOPrice.designer.vb",1137,4
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOPrice.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSOPrice.vb",110,4
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSO_LOT.designer.vb",880,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSO_LOT.resx",585,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSO_LOT.vb",111,4
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.designer.vb",1005,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.vb",108,4
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint_LOT.designer.vb",1038,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint_LOT.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint_LOT.vb",108,4
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/ds_so.Designer.vb",2518,97
+"Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/ds_so.vb",13,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Report/FSalesOrderShipmentReport_custom_api.designer.vb",207,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Report/FSalesOrderShipmentReport_custom_api.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Report/FSalesOrderShipmentReport_custom_api.vb",298,8
+"Alfa Solution/Alfa.Project/Module/Sales Order/Report/FSalesOrderShipmentReturnCOGSReport_Alfa.designer.vb",561,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Report/FSalesOrderShipmentReturnCOGSReport_Alfa.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Report/FSalesOrderShipmentReturnCOGSReport_Alfa.vb",627,11
+"Alfa Solution/Alfa.Project/Module/Sales Order/Report/FSalesOrderShipmentReturnCommissionReport_Alfa.designer.vb",217,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Report/FSalesOrderShipmentReturnCommissionReport_Alfa.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Report/FSalesOrderShipmentReturnCommissionReport_Alfa.vb",174,8
+"Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FFinCSDShareData.designer.vb",870,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FFinCSDShareData.resx",132,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FFinCSDShareData.vb",1466,30
+"Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrder.designer.vb",2228,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrder.resx",135,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrder.vb",8841,94
+"Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrderGift.Designer.vb",1370,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrderGift.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrderGift.vb",5251,59
+"Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrderShipment.designer.vb",1586,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrderShipment.resx",135,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrderShipment.vb",4670,59
+"Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FUpdateSO.designer.vb",104,3
+"Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FUpdateSO.resx",123,0
+"Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FUpdateSO.vb",80,5
+"Alfa Solution/Alfa.Project/Module/Smart Report/FCashInSmartReport.designer.vb",1044,3
+"Alfa Solution/Alfa.Project/Module/Smart Report/FCashInSmartReport.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Smart Report/FCashInSmartReport.vb",2580,59
+"Alfa Solution/Alfa.Project/Module/Smart Report/FSalesSmartReport_API.designer.vb",1147,3
+"Alfa Solution/Alfa.Project/Module/Smart Report/FSalesSmartReport_API.resx",126,0
+"Alfa Solution/Alfa.Project/Module/Smart Report/FSalesSmartReport_API.vb",2306,63
+"Alfa Solution/Alfa.Project/Module/___Function Helper/Cls_Bilangan.vb",341,12
+"Alfa Solution/Alfa.Project/Module/___Function Helper/ModFunctionSpecial.vb",1696,18
+"Alfa Solution/Alfa.Project/Module/___Function Helper/function_collection.vb",10376,99
+"Alfa Solution/Alfa.Project/Module/___Function Helper/function_data.vb",6036,162
+"Alfa Solution/Alfa.Project/My Project/Application.Designer.vb",14,0
+"Alfa Solution/Alfa.Project/My Project/AssemblyInfo.vb",36,0
+"Alfa Solution/Alfa.Project/My Project/Resources.Designer.vb",64,0
+"Alfa Solution/Alfa.Project/My Project/Resources.resx",127,0
+"Alfa Solution/Alfa.Project/My Project/Settings.Designer.vb",172,1
+"Alfa Solution/Alfa.Project/__Browse References/FAccountSearch.Designer.vb",123,3
+"Alfa Solution/Alfa.Project/__Browse References/FAccountSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FAccountSearch.vb",496,10
+"Alfa Solution/Alfa.Project/__Browse References/FAddressTypeSearch.Designer.vb",87,3
+"Alfa Solution/Alfa.Project/__Browse References/FAddressTypeSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FAddressTypeSearch.vb",60,9
+"Alfa Solution/Alfa.Project/__Browse References/FBranchSearch.Designer.vb",155,3
+"Alfa Solution/Alfa.Project/__Browse References/FBranchSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FBranchSearch.vb",92,10
+"Alfa Solution/Alfa.Project/__Browse References/FCodeSearch.designer.vb",123,3
+"Alfa Solution/Alfa.Project/__Browse References/FCodeSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FCodeSearch.vb",147,10
+"Alfa Solution/Alfa.Project/__Browse References/FComCurrencySearch.designer.vb",124,3
+"Alfa Solution/Alfa.Project/__Browse References/FComCurrencySearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FComCurrencySearch.vb",79,10
+"Alfa Solution/Alfa.Project/__Browse References/FCostCenterSearch.Designer.vb",157,3
+"Alfa Solution/Alfa.Project/__Browse References/FCostCenterSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FCostCenterSearch.vb",118,10
+"Alfa Solution/Alfa.Project/__Browse References/FCustomerGroupSearch.Designer.vb",87,3
+"Alfa Solution/Alfa.Project/__Browse References/FCustomerGroupSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FCustomerGroupSearch.vb",71,9
+"Alfa Solution/Alfa.Project/__Browse References/FDeliverySearch.Designer.vb",193,3
+"Alfa Solution/Alfa.Project/__Browse References/FDeliverySearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FDeliverySearch.vb",112,10
+"Alfa Solution/Alfa.Project/__Browse References/FEntitySearch.Designer.vb",123,3
+"Alfa Solution/Alfa.Project/__Browse References/FEntitySearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FEntitySearch.vb",94,10
+"Alfa Solution/Alfa.Project/__Browse References/FFakturPajakSearch.Designer.vb",189,3
+"Alfa Solution/Alfa.Project/__Browse References/FFakturPajakSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FFakturPajakSearch.vb",204,10
+"Alfa Solution/Alfa.Project/__Browse References/FFinCSDSearch.designer.vb",165,3
+"Alfa Solution/Alfa.Project/__Browse References/FFinCSDSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FFinCSDSearch.vb",102,10
+"Alfa Solution/Alfa.Project/__Browse References/FFunctionCPSearch.Designer.vb",87,4
+"Alfa Solution/Alfa.Project/__Browse References/FFunctionCPSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FFunctionCPSearch.vb",60,9
+"Alfa Solution/Alfa.Project/__Browse References/FInstitutionSearch.Designer.vb",166,3
+"Alfa Solution/Alfa.Project/__Browse References/FInstitutionSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FInstitutionSearch.vb",75,10
+"Alfa Solution/Alfa.Project/__Browse References/FInventoryRequestSearch.Designer.vb",193,3
+"Alfa Solution/Alfa.Project/__Browse References/FInventoryRequestSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FInventoryRequestSearch.vb",559,11
+"Alfa Solution/Alfa.Project/__Browse References/FInvoiceSearch.designer.vb",215,3
+"Alfa Solution/Alfa.Project/__Browse References/FInvoiceSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FInvoiceSearch.vb",281,11
+"Alfa Solution/Alfa.Project/__Browse References/FItemSubsSearch.designer.vb",155,3
+"Alfa Solution/Alfa.Project/__Browse References/FItemSubsSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FItemSubsSearch.vb",85,10
+"Alfa Solution/Alfa.Project/__Browse References/FListARInvoiceSearch.designer.vb",92,3
+"Alfa Solution/Alfa.Project/__Browse References/FListARInvoiceSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FListARInvoiceSearch.vb",59,9
+"Alfa Solution/Alfa.Project/__Browse References/FLocationSearch.Designer.vb",123,3
+"Alfa Solution/Alfa.Project/__Browse References/FLocationSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FLocationSearch.vb",754,10
+"Alfa Solution/Alfa.Project/__Browse References/FLotSerialSearch.designer.vb",137,3
+"Alfa Solution/Alfa.Project/__Browse References/FLotSerialSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FLotSerialSearch.vb",150,10
+"Alfa Solution/Alfa.Project/__Browse References/FPOCustomerSearch.designer.vb",189,3
+"Alfa Solution/Alfa.Project/__Browse References/FPOCustomerSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FPOCustomerSearch.vb",365,11
+"Alfa Solution/Alfa.Project/__Browse References/FPPNTypeSearch.Designer.vb",95,3
+"Alfa Solution/Alfa.Project/__Browse References/FPPNTypeSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FPPNTypeSearch.vb",51,9
+"Alfa Solution/Alfa.Project/__Browse References/FPTBOMSrch.Designer.vb",127,3
+"Alfa Solution/Alfa.Project/__Browse References/FPTBOMSrch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FPTBOMSrch.vb",214,10
+"Alfa Solution/Alfa.Project/__Browse References/FPackagingSearch.designer.vb",123,3
+"Alfa Solution/Alfa.Project/__Browse References/FPackagingSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FPackagingSearch.vb",127,10
+"Alfa Solution/Alfa.Project/__Browse References/FPartNumberSearch.Designer.vb",124,3
+"Alfa Solution/Alfa.Project/__Browse References/FPartNumberSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FPartNumberSearch.vb",2555,11
+"Alfa Solution/Alfa.Project/__Browse References/FPartnerSearch.Designer.vb",167,3
+"Alfa Solution/Alfa.Project/__Browse References/FPartnerSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FPartnerSearch.vb",479,12
+"Alfa Solution/Alfa.Project/__Browse References/FProdStrucSearch.designer.vb",155,3
+"Alfa Solution/Alfa.Project/__Browse References/FProdStrucSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FProdStrucSearch.vb",278,10
+"Alfa Solution/Alfa.Project/__Browse References/FProjectAccountSearch.Designer.vb",157,3
+"Alfa Solution/Alfa.Project/__Browse References/FProjectAccountSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FProjectAccountSearch.vb",238,12
+"Alfa Solution/Alfa.Project/__Browse References/FPurchaseOrderSearch.designer.vb",188,3
+"Alfa Solution/Alfa.Project/__Browse References/FPurchaseOrderSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FPurchaseOrderSearch.vb",1041,12
+"Alfa Solution/Alfa.Project/__Browse References/FPurchaseReceiptScaleSearch.Designer.vb",193,3
+"Alfa Solution/Alfa.Project/__Browse References/FPurchaseReceiptScaleSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FPurchaseReceiptScaleSearch.vb",75,10
+"Alfa Solution/Alfa.Project/__Browse References/FPurchaseReceiptSearch.Designer.vb",193,3
+"Alfa Solution/Alfa.Project/__Browse References/FPurchaseReceiptSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FPurchaseReceiptSearch.vb",119,10
+"Alfa Solution/Alfa.Project/__Browse References/FQuotationSearch.Designer.vb",126,3
+"Alfa Solution/Alfa.Project/__Browse References/FQuotationSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FQuotationSearch.vb",305,10
+"Alfa Solution/Alfa.Project/__Browse References/FReasonCodeReturnSearch.Designer.vb",156,3
+"Alfa Solution/Alfa.Project/__Browse References/FReasonCodeReturnSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FReasonCodeReturnSearch.vb",67,10
+"Alfa Solution/Alfa.Project/__Browse References/FRequisitionSearch.Designer.vb",229,3
+"Alfa Solution/Alfa.Project/__Browse References/FRequisitionSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FRequisitionSearch.vb",773,12
+"Alfa Solution/Alfa.Project/__Browse References/FRoutingSearch.designer.vb",123,3
+"Alfa Solution/Alfa.Project/__Browse References/FRoutingSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FRoutingSearch.vb",61,10
+"Alfa Solution/Alfa.Project/__Browse References/FSOGiftRequestSearch.designer.vb",193,3
+"Alfa Solution/Alfa.Project/__Browse References/FSOGiftRequestSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FSOGiftRequestSearch.vb",256,10
+"Alfa Solution/Alfa.Project/__Browse References/FSalesOrderDetailSearch.designer.vb",205,3
+"Alfa Solution/Alfa.Project/__Browse References/FSalesOrderDetailSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FSalesOrderDetailSearch.vb",143,11
+"Alfa Solution/Alfa.Project/__Browse References/FSalesOrderRecapSearch.designer.vb",193,3
+"Alfa Solution/Alfa.Project/__Browse References/FSalesOrderRecapSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FSalesOrderRecapSearch.vb",419,10
+"Alfa Solution/Alfa.Project/__Browse References/FSalesOrderSearch.Designer.vb",205,3
+"Alfa Solution/Alfa.Project/__Browse References/FSalesOrderSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FSalesOrderSearch.vb",2255,11
+"Alfa Solution/Alfa.Project/__Browse References/FSalesOrderShipmentSearch.Designer.vb",193,3
+"Alfa Solution/Alfa.Project/__Browse References/FSalesOrderShipmentSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FSalesOrderShipmentSearch.vb",157,10
+"Alfa Solution/Alfa.Project/__Browse References/FSalesPersonSearch.designer.vb",88,3
+"Alfa Solution/Alfa.Project/__Browse References/FSalesPersonSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FSalesPersonSearch.vb",73,10
+"Alfa Solution/Alfa.Project/__Browse References/FTaxClassSearch.Designer.vb",158,3
+"Alfa Solution/Alfa.Project/__Browse References/FTaxClassSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FTaxClassSearch.vb",94,10
+"Alfa Solution/Alfa.Project/__Browse References/FTaxInvoiceNumberSearch.designer.vb",89,3
+"Alfa Solution/Alfa.Project/__Browse References/FTaxInvoiceNumberSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FTaxInvoiceNumberSearch.vb",78,9
+"Alfa Solution/Alfa.Project/__Browse References/FUMSearch.Designer.vb",157,3
+"Alfa Solution/Alfa.Project/__Browse References/FUMSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FUMSearch.vb",218,11
+"Alfa Solution/Alfa.Project/__Browse References/FWCSearch.designer.vb",123,3
+"Alfa Solution/Alfa.Project/__Browse References/FWCSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FWCSearch.vb",94,10
+"Alfa Solution/Alfa.Project/__Browse References/FWOMaterialRequestSearch.designer.vb",189,3
+"Alfa Solution/Alfa.Project/__Browse References/FWOMaterialRequestSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FWOMaterialRequestSearch.vb",374,11
+"Alfa Solution/Alfa.Project/__Browse References/FWOSearch.designer.vb",189,3
+"Alfa Solution/Alfa.Project/__Browse References/FWOSearch.resx",123,0
+"Alfa Solution/Alfa.Project/__Browse References/FWOSearch.vb",834,14
+"Alfa Solution/Alfa.Project/__General Form/CustomDesignForm.resx",632,0
+"Alfa Solution/Alfa.Project/__General Form/CustomDesignForm.vb",1230,5
+"Alfa Solution/Alfa.Project/__General Form/FCodeMstr.Designer.vb",629,3
+"Alfa Solution/Alfa.Project/__General Form/FCodeMstr.resx",126,0
+"Alfa Solution/Alfa.Project/__General Form/FCodeMstr.vb",359,13
+"Alfa Solution/Alfa.Project/__General Form/FCodeMstr0.designer.vb",422,3
+"Alfa Solution/Alfa.Project/__General Form/FCodeMstr0.resx",126,0
+"Alfa Solution/Alfa.Project/__General Form/FCodeMstr0.vb",323,12
+"Alfa Solution/Alfa.Project/__General Form/FCodeMstr1.designer.vb",463,3
+"Alfa Solution/Alfa.Project/__General Form/FCodeMstr1.resx",126,0
+"Alfa Solution/Alfa.Project/__General Form/FCodeMstr1.vb",333,13
+"Alfa Solution/Alfa.Project/__General Form/FProgress.Designer.vb",55,3
+"Alfa Solution/Alfa.Project/__General Form/FProgress.resx",120,0
+"Alfa Solution/Alfa.Project/__General Form/FProgress.vb",16,4
+"Alfa Solution/Alfa.Project/__General Form/frmExport.Designer.vb",62,3
+"Alfa Solution/Alfa.Project/__General Form/frmExport.resx",120,0
+"Alfa Solution/Alfa.Project/__General Form/frmExport.vb",3,0
+"Alfa Solution/Alfa.Project/__General Form/frmPrintDialog.Designer.vb",171,3
+"Alfa Solution/Alfa.Project/__General Form/frmPrintDialog.resx",440,0
+"Alfa Solution/Alfa.Project/__General Form/frmPrintDialog.vb",194,12
+"Alfa Solution/Alfa.Project/__General Form/frmPrintDialogReport.Designer.vb",1407,3
+"Alfa Solution/Alfa.Project/__General Form/frmPrintDialogReport.resx",446,0
+"Alfa Solution/Alfa.Project/__General Form/frmPrintDialogReport.vb",48,6
+"Alfa Solution/Alfa.Project/app.config",53,0

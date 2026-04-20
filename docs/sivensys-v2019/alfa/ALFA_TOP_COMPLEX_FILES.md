@@ -1,0 +1,154 @@
+# ALFA_TOP_COMPLEX_FILES
+
+| File | Methods | Handlers | Lines |
+|---|---:|---:|---:|
+| `Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/ds_invoice.designer.vb` | 174 | 0 | 3790 |
+| `Alfa Solution/Alfa.Project/Module/___Function Helper/function_data.vb` | 162 | 0 | 6036 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/ds_po_printout.designer.vb` | 162 | 0 | 3547 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/ds_rcv_printout.Designer.vb` | 127 | 0 | 3212 |
+| `Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/ds_ar_nota.Designer.vb` | 113 | 0 | 2902 |
+| `Alfa Solution/Alfa.Project/Module/Manufacture/Printout/ds_wo_issue.Designer.vb` | 113 | 0 | 2844 |
+| `Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Print Out/ds_wo_release.Designer.vb` | 109 | 0 | 2804 |
+| `Alfa Solution/Alfa.Project/Module/___Function Helper/function_collection.vb` | 99 | 0 | 10376 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Print Out/ds_so.Designer.vb` | 97 | 0 | 2518 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrder.vb` | 94 | 37 | 8841 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrder.vb` | 73 | 29 | 6183 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/DS_POReceiptScale.Designer.vb` | 67 | 0 | 1434 |
+| `Alfa Solution/Alfa.Project/Module/Smart Report/FSalesSmartReport_API.vb` | 63 | 14 | 2306 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/DS_DeliveryScale.Designer.vb` | 63 | 0 | 1352 |
+| `Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOReceiptWithGrade.vb` | 61 | 32 | 4716 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrderShipment.vb` | 59 | 24 | 4670 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FSalesOrderGift.vb` | 59 | 20 | 5251 |
+| `Alfa Solution/Alfa.Project/Module/Smart Report/FCashInSmartReport.vb` | 59 | 14 | 2580 |
+| `Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FDRCRMemoTax.vb` | 58 | 26 | 4439 |
+| `Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOReceipt.vb` | 53 | 25 | 4460 |
+| `Alfa Solution/Alfa.Project/Module/Financial/AP Invoice/FVoucherTax.vb` | 51 | 22 | 3553 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotation.vb` | 50 | 18 | 2755 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssues.vb` | 48 | 19 | 2700 |
+| `Alfa Solution/Alfa.Project/Module/Administrative Tools/FUserGroup.vb` | 47 | 27 | 1997 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryIssuesLimit.vb` | 47 | 18 | 2260 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryRequest.vb` | 47 | 15 | 2320 |
+| `Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrder.vb` | 46 | 20 | 2395 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceipt.vb` | 46 | 18 | 2262 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceipts.vb` | 46 | 17 | 2548 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryReceiptsLimit.vb` | 46 | 17 | 2181 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReturn.vb` | 41 | 17 | 2140 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptScale.vb` | 41 | 15 | 1348 |
+| `Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajakCoreTax.vb` | 40 | 11 | 2013 |
+| `Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrderIssueReturn.vb` | 39 | 15 | 2030 |
+| `Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWorkOrderIssue.vb` | 39 | 15 | 1952 |
+| `Alfa Solution/Alfa.Project/Module/Manufacture/Product Structure/FProductStructure.vb` | 38 | 14 | 1364 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomerRule.vb` | 38 | 13 | 1217 |
+| `Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FCustomer.vb` | 37 | 19 | 2154 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecastAlfa.vb` | 37 | 13 | 1276 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleCG.vb` | 37 | 10 | 1232 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRule.vb` | 37 | 10 | 1205 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Delivery/FDeliveryScale.vb` | 36 | 12 | 1288 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplierRule.vb` | 36 | 11 | 1070 |
+| `Alfa Solution/Alfa.Project/Module/Financial/Tax Invoice/FFakturPajak.vb` | 35 | 13 | 1562 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComsInternal.vb` | 33 | 13 | 1418 |
+| `Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARNota.vb` | 31 | 8 | 1073 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemAVGCost.vb` | 30 | 13 | 1722 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryChangeItemCopyCost.vb` | 30 | 13 | 1349 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Transaction/FFinCSDShareData.vb` | 30 | 12 | 1466 |
+| `Alfa Solution/Alfa.Project/Module/Financial/General Ledger/FTransactionPost.vb` | 29 | 16 | 2581 |
+| `Alfa Solution/Alfa.Project/Module/Master Data/Company/FCodeSetting.vb` | 29 | 15 | 552 |
+| `Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FCOGSGenerateNew.vb` | 28 | 7 | 1161 |
+| `Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FSiteCost.vb` | 27 | 12 | 641 |
+| `Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FListAR.vb` | 27 | 4 | 615 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListCG2020.vb` | 26 | 6 | 1098 |
+| `Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOBillMaintenance.vb` | 25 | 9 | 545 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCList.vb` | 25 | 7 | 1027 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListCG.vb` | 25 | 6 | 1071 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalCG.vb` | 24 | 9 | 3278 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmployee.vb` | 24 | 6 | 910 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternalCG2.vb` | 23 | 6 | 1783 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExternal.vb` | 23 | 6 | 1682 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInvReportByDate.vb` | 23 | 6 | 1094 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateCustomer.vb` | 23 | 5 | 1175 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FRebateSupplier.vb` | 23 | 5 | 1145 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerCG.vb` | 23 | 5 | 875 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomer.vb` | 23 | 5 | 851 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenaltyCG.vb` | 23 | 5 | 845 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNewCustomerPenalty.vb` | 23 | 5 | 823 |
+| `Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWORouteMaintenance.vb` | 22 | 6 | 682 |
+| `Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FRelable.vb` | 21 | 6 | 500 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseOrderApproval.vb` | 21 | 5 | 1716 |
+| `Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostPackaging.vb` | 19 | 6 | 450 |
+| `Alfa Solution/Alfa.Project/Module/Master Data/Address Taxes/FSalesPerson.vb` | 19 | 5 | 525 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationApproval.vb` | 18 | 4 | 1059 |
+| `Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWOItemSubtitute.vb` | 18 | 4 | 459 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockItem.vb` | 18 | 4 | 403 |
+| `Alfa Solution/Alfa.Project/Module/___Function Helper/ModFunctionSpecial.vb` | 18 | 0 | 1696 |
+| `Alfa Solution/Alfa.Project/Module/Manufacture/Product Structure/FSimulatedPickListGroup.vb` | 17 | 7 | 341 |
+| `Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderReceiptReport.vb` | 17 | 3 | 1068 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCRule.vb` | 17 | 3 | 435 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Inventory Control/FInventoryWIPCost.vb` | 17 | 2 | 349 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotationRoutingApproval.vb` | 17 | 1 | 387 |
+| `Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FPartNumberCostOther.vb` | 16 | 6 | 203 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComEmpRule.vb` | 16 | 3 | 397 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FForecastPeriode.vb` | 16 | 2 | 344 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExchangeRate.vb` | 15 | 3 | 446 |
+| `Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FItemCostDelivery.vb` | 15 | 3 | 369 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FItemGroupFC.vb` | 15 | 3 | 351 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListPaymentCG.vb` | 15 | 2 | 415 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FSalesPersonExternal.vb` | 15 | 2 | 411 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComNCListPayment.vb` | 15 | 2 | 388 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComInternalRule.vb` | 15 | 2 | 374 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockLocation.vb` | 15 | 2 | 332 |
+| `Alfa Solution/Alfa.Project/Module/Financial/AR Invoice/FARReportTax.vb` | 14 | 6 | 984 |
+| `Alfa Solution/Alfa.Project/__Browse References/FWOSearch.vb` | 14 | 4 | 834 |
+| `Alfa Solution/Alfa.Project/Module/Import Data/FWorkOrderImport.vb` | 14 | 3 | 620 |
+| `Alfa Solution/Alfa.Project/Module/Import Data/FStandartTransactionImport.vb` | 14 | 3 | 531 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComExtRuleCGImport.vb` | 13 | 3 | 534 |
+| `Alfa Solution/Alfa.Project/Module/Import Data/FPriceListQtyImport.vb` | 13 | 3 | 504 |
+| `Alfa Solution/Alfa.Project/__General Form/FCodeMstr.vb` | 13 | 1 | 359 |
+| `Alfa Solution/Alfa.Project/__General Form/FCodeMstr1.vb` | 13 | 1 | 333 |
+| `Alfa Solution/Alfa.Project/__Browse References/FPurchaseOrderSearch.vb` | 12 | 6 | 1041 |
+| `Alfa Solution/Alfa.Project/__Browse References/FRequisitionSearch.vb` | 12 | 6 | 773 |
+| `Alfa Solution/Alfa.Project/__Browse References/FPartnerSearch.vb` | 12 | 5 | 479 |
+| `Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Transaction/FWORelease.vb` | 12 | 4 | 655 |
+| `Alfa Solution/Alfa.Project/__Browse References/FProjectAccountSearch.vb` | 12 | 4 | 238 |
+| `Alfa Solution/Alfa.Project/__General Form/frmPrintDialog.vb` | 12 | 4 | 194 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FItemGroupFCImport.vb` | 12 | 3 | 247 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Forecast/FPartNumberGroupFC.vb` | 12 | 2 | 156 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchasePackaging.vb` | 12 | 1 | 362 |
+| `Alfa Solution/Alfa.Project/Module/Master Data/Item Sites/FPartNumberGroup.vb` | 12 | 1 | 336 |
+| `Alfa Solution/Alfa.Project/__General Form/FCodeMstr0.vb` | 12 | 1 | 323 |
+| `Alfa Solution/Alfa.Project/Module/___Function Helper/Cls_Bilangan.vb` | 12 | 0 | 341 |
+| `Alfa Solution/Alfa.Project/__Browse References/FSalesOrderSearch.vb` | 11 | 5 | 2255 |
+| `Alfa Solution/Alfa.Project/__Browse References/FInvoiceSearch.vb` | 11 | 5 | 281 |
+| `Alfa Solution/Alfa.Project/__Browse References/FSalesOrderDetailSearch.vb` | 11 | 5 | 143 |
+| `Alfa Solution/Alfa.Project/__Browse References/FPartNumberSearch.vb` | 11 | 4 | 2555 |
+| `Alfa Solution/Alfa.Project/__Browse References/FInventoryRequestSearch.vb` | 11 | 4 | 559 |
+| `Alfa Solution/Alfa.Project/__Browse References/FWOMaterialRequestSearch.vb` | 11 | 4 | 374 |
+| `Alfa Solution/Alfa.Project/__Browse References/FPOCustomerSearch.vb` | 11 | 4 | 365 |
+| `Alfa Solution/Alfa.Project/__Browse References/FUMSearch.vb` | 11 | 4 | 218 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Report/FSalesOrderShipmentReturnCOGSReport_Alfa.vb` | 11 | 3 | 627 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockFinishGoods.vb` | 11 | 3 | 540 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Validity Stock/FValidityStockRawMaterial.vb` | 11 | 3 | 539 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Purchase Order/FPurchaseReceiptReport.vb` | 11 | 3 | 344 |
+| `Alfa Solution/Alfa.Project/Module/Financial/Cost Management/FRelableImport.vb` | 11 | 3 | 230 |
+| `Alfa Solution/Alfa.Project/Module/Import Data/FCategoryJournalImport.vb` | 11 | 3 | 216 |
+| `Alfa Solution/Alfa.Project/Module/Distribution/Quotation/FQuotRoutingApprovalImport.vb` | 11 | 3 | 196 |
+| `Alfa Solution/Alfa.Project/Module/Import Data/FNoBuktiPotongARImport.vb` | 11 | 3 | 195 |
+| `Alfa Solution/Alfa.Project/Module/Manufacture/Work Order/Report/FWorkOrderReport.vb` | 11 | 1 | 676 |
+| `Alfa Solution/Alfa.Project/__Browse References/FLocationSearch.vb` | 10 | 4 | 754 |
+| `Alfa Solution/Alfa.Project/__Browse References/FAccountSearch.vb` | 10 | 4 | 496 |
+| `Alfa Solution/Alfa.Project/__Browse References/FSalesOrderRecapSearch.vb` | 10 | 4 | 419 |
+| `Alfa Solution/Alfa.Project/__Browse References/FQuotationSearch.vb` | 10 | 4 | 305 |
+| `Alfa Solution/Alfa.Project/__Browse References/FProdStrucSearch.vb` | 10 | 4 | 278 |
+| `Alfa Solution/Alfa.Project/__Browse References/FSOGiftRequestSearch.vb` | 10 | 4 | 256 |
+| `Alfa Solution/Alfa.Project/__Browse References/FPTBOMSrch.vb` | 10 | 4 | 214 |
+| `Alfa Solution/Alfa.Project/__Browse References/FFakturPajakSearch.vb` | 10 | 4 | 204 |
+| `Alfa Solution/Alfa.Project/__Browse References/FSalesOrderShipmentSearch.vb` | 10 | 4 | 157 |
+| `Alfa Solution/Alfa.Project/__Browse References/FLotSerialSearch.vb` | 10 | 4 | 150 |
+| `Alfa Solution/Alfa.Project/__Browse References/FCodeSearch.vb` | 10 | 4 | 147 |
+| `Alfa Solution/Alfa.Project/__Browse References/FPackagingSearch.vb` | 10 | 4 | 127 |
+| `Alfa Solution/Alfa.Project/__Browse References/FPurchaseReceiptSearch.vb` | 10 | 4 | 119 |
+| `Alfa Solution/Alfa.Project/__Browse References/FCostCenterSearch.vb` | 10 | 4 | 118 |
+| `Alfa Solution/Alfa.Project/Module/Sales Order/Commission/FComPartNumberSearch.vb` | 10 | 4 | 112 |
+| `Alfa Solution/Alfa.Project/__Browse References/FDeliverySearch.vb` | 10 | 4 | 112 |
+| `Alfa Solution/Alfa.Project/__Browse References/FFinCSDSearch.vb` | 10 | 4 | 102 |
+| `Alfa Solution/Alfa.Project/__Browse References/FEntitySearch.vb` | 10 | 4 | 94 |
+| `Alfa Solution/Alfa.Project/__Browse References/FTaxClassSearch.vb` | 10 | 4 | 94 |
