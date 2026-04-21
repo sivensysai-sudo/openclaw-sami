@@ -1,0 +1,99 @@
+file,lines,sha16,first_line,last_line,hit_wf_mstr,hit_glt_det,hit_insert_log,hit_MessageBox.Show,hit_TODO
+AQI Solution/AQI.Project/Module/Basic Setup/FCodeSetting.designer.vb,714,4e71885068c26637,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Basic Setup/FCodeSetting.resx,129,1ce6b627111cd7d1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Basic Setup/FCodeSetting.vb,580,b577b556fbec116b,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,16,0
+AQI Solution/AQI.Project/Module/Basic Setup/XRDocumentApprovalSub.designer.vb,230,4f654bf9bb47e57f,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Basic Setup/XRDocumentApprovalSub.resx,202,e7cc93451b321ac5,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,1,0,0,0,0
+AQI Solution/AQI.Project/Module/Basic Setup/XRDocumentApprovalSub.vb,28,2a15aa902d2b737c,Public Class XRDocumentApprovalSub,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Basic Setup/XRRoutingApproval.designer.vb,196,2e2254e278bb5da8,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Basic Setup/XRRoutingApproval.resx,148,ad0525209defa018,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,1,0,0,0,0
+AQI Solution/AQI.Project/Module/Basic Setup/XRRoutingApproval.vb,3,6e988e86f2a2a897,Public Class XRRoutingApproval,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Basic Setup/frmExport.designer.vb,61,6f1eafce3a4851d8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Basic Setup/frmExport.resx,120,f601cd30780a3718,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Basic Setup/frmExport.vb,3,45f406382ddae28b,﻿Public Class frmExport,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Financial/AR Invoice/Printout/XRInvoice.Designer.vb,1304,6e25182f10b0fc68,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Financial/AR Invoice/Printout/XRInvoice.resx,732,2166da821b6991e4,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Financial/AR Invoice/Printout/XRInvoice.vb,125,ee42156849cf2f8d,Imports DevExpress.XtraPrinting,End Class,0,0,1,5,0
+AQI Solution/AQI.Project/Module/Financial/AR Invoice/Printout/XRInvoiceDisc2.designer.vb,1616,2f7bae8e83161d97,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Financial/AR Invoice/Printout/XRInvoiceDisc2.resx,126,b1c202eee7c11405,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Financial/AR Invoice/Printout/XRInvoiceDisc2.vb,169,abfc8cddbde6f32f,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+AQI Solution/AQI.Project/Module/Financial/AR Invoice/Printout/XRInvoiceDistLine2.designer.vb,1165,47b78fd8c1765d1a,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Financial/AR Invoice/Printout/XRInvoiceDistLine2.resx,126,b1c202eee7c11405,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Financial/AR Invoice/Printout/XRInvoiceDistLine2.vb,120,fa9f7ee773abccd9,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+AQI Solution/AQI.Project/Module/Financial/AR Invoice/Printout/ds_invoice.Designer.vb,4522,9444ac7968c35e48,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Financial/AR Invoice/Printout/ds_invoice.xsd,604,69882172d8e6367f,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Financial/AR Invoice/Transaction/FDRCRMemo.Designer.vb,1961,c58f871a1a68dd5b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Financial/AR Invoice/Transaction/FDRCRMemo.resx,129,2514c8f50c975d4a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Financial/AR Invoice/Transaction/FDRCRMemo.vb,4458,23563c7d441a5468,﻿Imports Devart.Data.PostgreSql,End Class,0,24,5,52,0
+AQI Solution/AQI.Project/Module/Sales Order/FSalesOrder.Designer.vb,2161,98fcbcda04f492cc,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Sales Order/FSalesOrder.resx,135,197f848590124048,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Sales Order/FSalesOrder.vb,8686,f7b8e83ad4668bc1,﻿Imports Devart.Data.PostgreSql,,12,18,7,139,0
+AQI Solution/AQI.Project/Module/Sales Order/XRSO.designer.vb,886,f3c4a00bc2c8b386,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Sales Order/XRSO.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Sales Order/XRSO.vb,111,f21431021a315b85,Imports master_new.ModFunction,End Class,0,0,1,4,0
+AQI Solution/AQI.Project/Module/Sales Order/ds_so.Designer.vb,2517,ea6480eb91b75936,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Sales Order/ds_so.vb,12,cbd9cb5ae38d428e,﻿Partial Class ds_so,End Namespace,0,0,0,0,0
+AQI Solution/AQI.Project/Module/Sales Order/ds_so.xsd,301,89a8b694a57edd20,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+AQI Solution/AQI.Project/Module/___Function Helper/Cls_Bilangan.vb,340,3b671481a486d9c6,﻿Public Class Cls_Bilangan,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/Module/___Function Helper/Cls_Bilangan_new.vb,716,b906e582b3e6b99c,﻿Public Class Cls_Bilangan_new,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/Module/___Function Helper/ModFunctionSpecial.vb,1695,bed67118116ebd5a,﻿Imports master_new.ModFunction,End Module,0,2,0,2,0
+AQI Solution/AQI.Project/Module/___Function Helper/function_collection.vb,10046,1d4b72486391e888,﻿Imports System.Net.Mail,,3,106,0,266,0
+AQI Solution/AQI.Project/Module/___Function Helper/function_data.vb,6025,856deefda95d7209,﻿Imports master_new.ModFunction,End Class,0,0,0,239,0
+AQI Solution/AQI.Project/My Project/Application.Designer.vb,13,4dd7045513941609,﻿'------------------------------------------------------------------------------,,0,0,0,0,0
+AQI Solution/AQI.Project/My Project/AssemblyInfo.vb,35,8821e0f1b5f4f2d2,﻿Imports System,"<Assembly: AssemblyFileVersion(""1.0.0.0"")>",0,0,0,0,0
+AQI Solution/AQI.Project/My Project/Resources.Designer.vb,63,1a4686371be0a035,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+AQI Solution/AQI.Project/My Project/Resources.resx,127,2cd041a031a7b528,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/My Project/Settings.Designer.vb,171,ae76ac97e09adec8,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FAccountSearch.Designer.vb,156,e189b164e3674666,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FAccountSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FAccountSearch.vb,486,86eedef45366e66a,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FLocationSearch.Designer.vb,122,443f32b00c3a5730,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FLocationSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FLocationSearch.vb,692,5441737dc9fa05f3,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FLotSerialSearch.designer.vb,136,b9699d35165e79fa,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FLotSerialSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FLotSerialSearch.vb,239,69c6948c15700017,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FPOCustomerSearch.designer.vb,188,f69145d2fb38337a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FPOCustomerSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FPOCustomerSearch.vb,378,0ea8c1124c8075e5,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FPPNTypeSearch.Designer.vb,94,179c7c25eddfcc07,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FPPNTypeSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FPPNTypeSearch.vb,50,ab8af456f7acbd12,﻿Public Class FPPNTypeSearch,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FPackagingSearch.designer.vb,122,4f56d5945a4ef853,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FPackagingSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FPackagingSearch.vb,111,9c890b52e203ef22,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FPartNumberSearch.Designer.vb,134,9d9b2060495795e5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FPartNumberSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FPartNumberSearch.vb,2401,517666cfb4bdf5b4,﻿Imports master_new.ModFunction,End Class,0,0,0,2,0
+AQI Solution/AQI.Project/__Browse References/FPartnerSearch.Designer.vb,167,1b6d57715e45ffc3,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FPartnerSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FPartnerSearch.vb,481,7ae3a5317be7c603,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+AQI Solution/AQI.Project/__Browse References/FSalesOrderSearch.Designer.vb,204,c4cfe389b6acc573,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FSalesOrderSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FSalesOrderSearch.vb,2274,aca90e597cbb7416,﻿Imports master_new.ModFunction,End Class,0,0,0,11,0
+AQI Solution/AQI.Project/__Browse References/FTaxClassSearch.Designer.vb,157,f7d600f704de54cf,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FTaxClassSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FTaxClassSearch.vb,89,fee2d79c8db6eb87,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FUMSearch.Designer.vb,156,7fc181329794484e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FUMSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/__Browse References/FUMSearch.vb,217,b9a2a04b73720e9d,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+AQI Solution/AQI.Project/__General Form/CustomDesignForm.resx,632,d13f29c53c9caaf6,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/__General Form/CustomDesignForm.vb,1231,323f75efa38ccad8,Public Class CustomDesignForm,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__General Form/FCodeMstr.Designer.vb,626,70e2f8ec789a2258,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__General Form/FCodeMstr.resx,126,f556f382999c1bee,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/__General Form/FCodeMstr.vb,358,ce1464b3a93f3bee,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+AQI Solution/AQI.Project/__General Form/frmPrintDialog.Designer.vb,170,4987fb4caa307986,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__General Form/frmPrintDialog.resx,440,caabe7620bd14448,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/__General Form/frmPrintDialog.vb,195,9c60fa3f16747180,Imports master_new.PGSqlConn,End Class,0,0,0,1,0
+AQI Solution/AQI.Project/__General Form/frmPrintDialogReport.Designer.vb,1406,43c5bd402f5977d5,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/AQI.Project/__General Form/frmPrintDialogReport.resx,446,0bde7817e885efc1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/AQI.Project/__General Form/frmPrintDialogReport.vb,48,150408c4f7e7463c,Imports master_new.PGSqlConn,End Class,0,0,1,0,0
+AQI Solution/AQI.Project/app.config,52,104972f3fbdc9bdf,"<?xml version=""1.0""?>","<startup><supportedRuntime version=""v4.0"" sku="".NETFramework,Version=v4.6""/></startup></configuration>",0,0,0,0,0
+AQI Solution/App.config,6,bbc3a41050a98d04,"﻿<?xml version=""1.0"" encoding=""utf-8"" ?>",</configuration>,0,0,0,0,0
+AQI Solution/Form1.Designer.vb,31,05810cc76ccd5eb2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+AQI Solution/Form1.vb,3,c41262653db1676b,﻿Public Class Form1,End Class,0,0,0,0,0
+AQI Solution/My Project/Application.Designer.vb,38,189db16a60473cec,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+AQI Solution/My Project/AssemblyInfo.vb,35,b25ce3d03297c8ed,﻿Imports System,"<Assembly: AssemblyFileVersion(""1.0.0.0"")>",0,0,0,0,0
+AQI Solution/My Project/Resources.Designer.vb,62,521c859c0549b543,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+AQI Solution/My Project/Resources.resx,117,4e124f5a7694ffe8,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+AQI Solution/My Project/Settings.Designer.vb,73,55a86a22aee821c6,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0

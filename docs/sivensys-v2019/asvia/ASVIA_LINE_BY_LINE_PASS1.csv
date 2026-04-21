@@ -1,0 +1,250 @@
+file,lines,sha16,first_line,last_line,hit_wf_mstr,hit_glt_det,hit_insert_log,hit_MessageBox.Show,hit_TODO
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/DS_POReceiptScale.Designer.vb,1433,828875a7bba95b37,﻿'------------------------------------------------------------------------------,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/DS_POReceiptScale.xsd,53,ad5351ccb7dc0be3,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/FPurchaseOrder.Designer.vb,1981,4115e27630560e35,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/FPurchaseOrder.resx,132,5ef9cebd1e310deb,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/FPurchaseOrder.vb,6023,ecc64f17751b8cdd,﻿Imports DevExpress.XtraExport,,13,8,9,104,0
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/FPurchaseReceipt.designer.vb,1107,2650baf36cb67191,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/FPurchaseReceipt.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/FPurchaseReceipt.vb,2259,d80cf8dbd2fb527c,﻿Imports Devart.Data.PostgreSql,End Class,0,2,6,42,0
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/XRPurchaseOrderPrintOut.Designer.vb,1404,6a67535abe7861f1,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/XRPurchaseOrderPrintOut.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/XRPurchaseOrderPrintOut.vb,158,bb9bf171132c3a53,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/XRPurchaseReceiptPrint.designer.vb,707,8e63026628db474b,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/XRPurchaseReceiptPrint.resx,555,685ce24055bb9ba9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/XRPurchaseReceiptPrint.vb,108,1245744be9d46947,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/XRPurchaseReceiptScalePrint.Designer.vb,813,b9576df7fd0ecf39,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/XRPurchaseReceiptScalePrint.resx,549,66dcd6eb66079050,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/XRPurchaseReceiptScalePrint.vb,108,3ca757d887bfd6f9,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/ds_po_printout.designer.vb,3546,0cce1d0cf4714982,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/ds_po_printout.vb,3,bd62149bbfb25def,﻿Partial Class ds_po_printout,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Distribution/Purchase Order/ds_po_printout.xsd,7,fb6eceb36222a59a,"﻿<?xml version=""1.0"" encoding=""utf-8""?>","<Connection AppSettingsObjectName=""MySettings"" AppSettingsPropertyName=""odbc_sygma_7"" IsAppSettingsProperty=""true"" Modifier=""Assembly"" Name=""odbc_sygma_7 (MySettings)"" PropertyReference=""ApplicationSettings.Alfa.MySettings.GlobalRef",0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Print Out/XRInvoice.Designer.vb,1317,f1642771775ca9fb,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Print Out/XRInvoice.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Print Out/XRInvoice.vb,125,ee42156849cf2f8d,Imports DevExpress.XtraPrinting,End Class,0,0,1,5,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDisc2.designer.vb,1668,64f1cc82e7f6809c,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDisc2.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDisc2.vb,169,abfc8cddbde6f32f,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDistLine.designer.vb,1150,ca564fefa470ba22,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDistLine.resx,648,4ea9bd8ee3b08f51,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDistLine.vb,110,be96c10c59b26974,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDistLine2.designer.vb,1153,904fad400b6968ad,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDistLine2.resx,651,d02837daded01a2f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Print Out/XRInvoiceDistLine2.vb,120,fa9f7ee773abccd9,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Print Out/ds_invoice.Designer.vb,4522,ad477be6b48a1c2f,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Print Out/ds_invoice.xsd,604,03f2c8e24adaa67f,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Print Out/ds_invoice2.Designer.vb,648,1ad7e3cdba31259d,﻿'------------------------------------------------------------------------------,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Print Out/ds_invoice2.xsd,26,1f0fccd3240cfa0a,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Transaction/FARPayment.Designer.vb,1386,dc82b4e887acb49f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Transaction/FARPayment.resx,129,2ba8fdb9b3ea14df,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Transaction/FARPayment.vb,2976,42a18dbd27862e3f,﻿Imports Devart.Data.PostgreSql,End Class,0,25,3,48,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Transaction/FDRCRMemo.Designer.vb,1959,0527f8720d1289ed,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Transaction/FDRCRMemo.resx,129,f4a1f5efea31259f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Financial/Account Receiveable/Transaction/FDRCRMemo.vb,4524,e5755964ef9ce2e4,﻿Imports Devart.Data.PostgreSql,End Class,0,24,5,54,0
+Asvia Solution/ASVIA.Project/Module/Import Data/FPartNumberImport.designer.vb,1093,7680012da56267c2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Import Data/FPartNumberImport.resx,129,92835f53a0ec0c20,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Import Data/FPartNumberImport.vb,747,ef2e958c3c75a918,﻿Imports Devart.Data.PostgreSql,,0,0,0,23,0
+Asvia Solution/ASVIA.Project/Module/Master Data/Item Sites/FPartNumber.designer.vb,1176,315b2f46fd31aa2f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Master Data/Item Sites/FPartNumber.resx,129,afde604ad8b9d553,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Master Data/Item Sites/FPartNumber.vb,1143,e38c27f39ededb6b,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,28,0
+Asvia Solution/ASVIA.Project/Module/Master Data/Item Sites/FPartNumber_npgsql.designer.vb,1167,02d4a79ee10bfe0c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Master Data/Item Sites/FPartNumber_npgsql.resx,129,afde604ad8b9d553,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Master Data/Item Sites/FPartNumber_npgsql.vb,1143,d742e3c7c4164f07,﻿Imports Devart.Data.PostgreSql,End Class,0,0,4,28,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRDO.designer.vb,832,98a3c91296e14d18,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRDO.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRDO.vb,111,a38895aa0a544232,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRDOSet.designer.vb,1066,be4cc87857e20586,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRDOSet.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRDOSet.vb,57,e0767e7ac8607c0a,Imports master_new.ModFunction,End Class,0,0,0,2,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSO.designer.vb,900,f2595bceebc378bd,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSO.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSO.vb,111,f21431021a315b85,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSOCash.designer.vb,1151,f2b864dac6df8103,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSOCash.resx,684,6bb2f645bbf73cd8,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSOCash.vb,108,0062ab9fda58129c,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSOCashDisc2.designer.vb,1339,18fee1fa43a71285,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSOCashDisc2.resx,696,0616827ec3530112,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSOCashDisc2.vb,129,5a929cc53c4ad4a5,Imports DevExpress.XtraPrinting,End Class,0,0,1,4,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSOSet.designer.vb,923,104f8782bd13f247,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSOSet.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSOSet.vb,111,8c8845198ee3a5c3,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSO_LOT.designer.vb,923,41b756f33cf1d73c,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSO_LOT.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSO_LOT.vb,111,7657c283a1b50dbe,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.Designer.vb,1070,4cd898a158f925f3,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrint.vb,108,1199ca89d2377715,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrintPackingList.Designer.vb,1068,f1829d040191d461,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrintPackingList.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrintPackingList.vb,108,cd3196a840872988,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrintSet.Designer.vb,1078,23282b2653e01f66,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrintSet.resx,123,2c0021d993616ca2,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/XRSalesOrderShipmentPrintSet.vb,108,8864d3902557f56b,Imports master_new.ModFunction,End Class,0,0,1,4,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/ds_soship.Designer.vb,4099,879a39daf887d458,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/ds_soship.xsd,511,fe060a595b5e3424,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/ds_soshipds.Designer.vb,4278,7c33d3f172084958,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/ds_soshipds.vb,10,240ccddfa17f662a,﻿Partial Class ds_soshipds,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Print Out/ds_soshipds.xsd,620,0de1562e8635742d,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</xs:schema>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Transaction/FDeliveryOrder.Designer.vb,1027,7f422f4eb9483658,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Transaction/FDeliveryOrder.resx,135,2e6ea8baba05aef9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Transaction/FDeliveryOrder.vb,1771,a892cba358f29bfa,﻿Imports Devart.Data.PostgreSql,End Class,0,0,2,22,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Transaction/FSalesOrder.Designer.vb,2349,326040d3b3efc0d5,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Transaction/FSalesOrder.resx,135,241c8fb61eb4e2a3,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Transaction/FSalesOrder.vb,9320,db489089845fe48c,﻿Imports Devart.Data.PostgreSql,,12,18,7,143,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Transaction/FSalesOrderShipment.Designer.vb,1697,f71cf6c78e109d9c,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Transaction/FSalesOrderShipment.resx,135,2e6ea8baba05aef9,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/Sales Order/Transaction/FSalesOrderShipment.vb,5575,356301284a8e74b4,﻿Imports Devart.Data.PostgreSql,End Class,0,25,4,76,0
+Asvia Solution/ASVIA.Project/Module/___Function Helper/Cls_Bilangan.vb,340,a9e56ba4e47285b4,﻿Public Class Cls_Bilangan,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/___Function Helper/Cls_Bilangan_new.vb,716,b906e582b3e6b99c,﻿Public Class Cls_Bilangan_new,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/Module/___Function Helper/ModFunctionSpecial.vb,1695,bed67118116ebd5a,﻿Imports master_new.ModFunction,End Module,0,2,0,2,0
+Asvia Solution/ASVIA.Project/Module/___Function Helper/function_collection.vb,10086,fce3b92a13c397cc,﻿Imports System.Net.Mail,,3,106,0,267,0
+Asvia Solution/ASVIA.Project/Module/___Function Helper/function_data.vb,6084,69bcf019346311c6,﻿Imports master_new.ModFunction,End Class,0,0,0,242,0
+Asvia Solution/ASVIA.Project/My Project/Application.Designer.vb,13,4dd7045513941609,﻿'------------------------------------------------------------------------------,,0,0,0,0,0
+Asvia Solution/ASVIA.Project/My Project/AssemblyInfo.vb,35,8821e0f1b5f4f2d2,﻿Imports System,"<Assembly: AssemblyFileVersion(""1.0.0.0"")>",0,0,0,0,0
+Asvia Solution/ASVIA.Project/My Project/Resources.Designer.vb,63,abbcd499c3ed2700,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Asvia Solution/ASVIA.Project/My Project/Resources.resx,127,2cd041a031a7b528,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/My Project/Settings.Designer.vb,171,97089f56ee01c178,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FARPaymentSearch.designer.vb,193,00981b6621f80134,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FARPaymentSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FARPaymentSearch.vb,123,22675f5e2b9ba5cf,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FAccountSearch.Designer.vb,122,168550da8a29cc4a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FAccountSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FAccountSearch.vb,500,f461f3bb633e8606,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FBGSearch.designer.vb,88,ce6baf2d406b8d47,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FBGSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FBGSearch.vb,104,ac73d53815520382,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FBranchSearch.Designer.vb,154,bb731656dd40cddc,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FBranchSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FBranchSearch.vb,88,b5c871584231742e,﻿Public Class FBranchSearch,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FBudgetSearch.designer.vb,123,7080efaacf01387a,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FBudgetSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FBudgetSearch.vb,200,9886aea68d483e6f,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FCashInSearch.designer.vb,156,043bafb62ec83166,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FCashInSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FCashInSearch.vb,84,32a09aada5c8ec07,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FCostCenterSearch.Designer.vb,122,26f4c6432dae0e27,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FCostCenterSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FCostCenterSearch.vb,113,3ec08eabcd297290,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FDOSearch.designer.vb,192,574954a9ac778088,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FDOSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FDOSearch.vb,409,5c4ac1af2da3a607,﻿Imports master_new.ModFunction,End Class,0,0,0,3,0
+Asvia Solution/ASVIA.Project/__Browse References/FDRCRMemoSearch.Designer.vb,256,76fa872cbd0f5d0e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FDRCRMemoSearch.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FDRCRMemoSearch.vb,637,4be0ece66e05f77b,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FDisbRequestDetailSearch.designer.vb,87,774ba054eb10544e,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FDisbRequestDetailSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FDisbRequestDetailSearch.vb,91,c149fe2f727c5c74,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FDisbursementRealizationSearch.designer.vb,200,c4dc21604d98f17d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FDisbursementRealizationSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FDisbursementRealizationSearch.vb,486,42be2a864c1187df,﻿Imports master_new.ModFunction,End Class,1,0,0,1,0
+Asvia Solution/ASVIA.Project/__Browse References/FDisbursementRefundSearch.designer.vb,194,7d0dee7e4fb00083,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FDisbursementRefundSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FDisbursementRefundSearch.vb,84,fc9f730fec33153f,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FDisbursementRequestSearch.designer.vb,223,c365bdd9c824a25f,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FDisbursementRequestSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FDisbursementRequestSearch.vb,596,84d9956447e04f2a,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FEmpSearch.Designer.vb,156,d0e0a46fe19caf47,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FEmpSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FEmpSearch.vb,102,06e7ddac9c19e25e,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FInventoryRequestSearch.Designer.vb,155,558f4e15d4925f52,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FInventoryRequestSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FInventoryRequestSearch.vb,594,21915ea860bafc75,﻿Imports master_new.ModFunction,End Class,0,0,0,4,0
+Asvia Solution/ASVIA.Project/__Browse References/FInvoiceSearch.designer.vb,214,8b1ac6db3671cdd0,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FInvoiceSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FInvoiceSearch.vb,231,685da2710d7d1d84,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FLocationSearch.Designer.vb,122,443f32b00c3a5730,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FLocationSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FLocationSearch.vb,758,007754c9cc149a93,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FLotSerialSearch.designer.vb,136,b9699d35165e79fa,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FLotSerialSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FLotSerialSearch.vb,195,d8165a3f03716f56,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FNotaSearch.designer.vb,188,7ce2658b00dd9f57,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FNotaSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FNotaSearch.vb,205,014ada9588bdc814,﻿Imports master_new.ModFunction,,0,0,0,1,0
+Asvia Solution/ASVIA.Project/__Browse References/FPOCustomerSearch.designer.vb,188,13b9ab4efde94c7d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FPOCustomerSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FPOCustomerSearch.vb,364,e80d5c41d39c590b,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FPPNTypeSearch.Designer.vb,94,179c7c25eddfcc07,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FPPNTypeSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FPPNTypeSearch.vb,50,ab8af456f7acbd12,﻿Public Class FPPNTypeSearch,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FPackagingSearch.designer.vb,156,1827b95c69da1705,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FPackagingSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FPackagingSearch.vb,118,0a73d9ac17054ec1,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FPartNumberSearch.Designer.vb,123,b4370e2fb1b188ef,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FPartNumberSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FPartNumberSearch.vb,2508,587d57a49da87947,﻿Imports master_new.ModFunction,End Class,0,0,0,2,0
+Asvia Solution/ASVIA.Project/__Browse References/FPartnerSearch.Designer.vb,166,f9d46371c548f14b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FPartnerSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FPartnerSearch.vb,475,3776ae37755568b7,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Asvia Solution/ASVIA.Project/__Browse References/FProjectAccountSearch.Designer.vb,156,8c4abd56303e2255,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FProjectAccountSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FProjectAccountSearch.vb,250,acdaa04a43068834,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FProjectSearch.Designer.vb,154,dc0f567a3ad92504,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FProjectSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FProjectSearch.vb,312,ef0ad34493eca490,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FPurchaseOrderSearch.Designer.vb,155,77028578c6d79188,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FPurchaseOrderSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FPurchaseOrderSearch.vb,1040,3f53dc1a52d83b39,﻿Imports master_new.ModFunction,End Class,0,0,0,5,0
+Asvia Solution/ASVIA.Project/__Browse References/FPurchaseReceiptScaleSearch.Designer.vb,192,5401487de9e5ceea,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FPurchaseReceiptScaleSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FPurchaseReceiptScaleSearch.vb,74,c6c607a802c3d037,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FQuotationSearch.Designer.vb,125,a5eb88f255215c23,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FQuotationSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FQuotationSearch.vb,304,675136903a8789ea,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Asvia Solution/ASVIA.Project/__Browse References/FReasonCodeSOSearch.Designer.vb,154,8db759af11e2fdc2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FReasonCodeSOSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FReasonCodeSOSearch.vb,95,3aa486169adf1073,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FRequisitionSearch.Designer.vb,228,67e4b2b98f92b2e7,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FRequisitionSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FRequisitionSearch.vb,683,4419451307caea0d,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Asvia Solution/ASVIA.Project/__Browse References/FSalesOrderRecapSearch.designer.vb,192,d5feff29d188d39b,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FSalesOrderRecapSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FSalesOrderRecapSearch.vb,429,e7a5e042674bafbc,﻿Imports master_new.ModFunction,End Class,0,0,0,3,0
+Asvia Solution/ASVIA.Project/__Browse References/FSalesOrderSearch.Designer.vb,204,ee8efea23d771292,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FSalesOrderSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FSalesOrderSearch.vb,2591,8124d592b0b50598,﻿Imports master_new.ModFunction,End Class,0,0,0,14,0
+Asvia Solution/ASVIA.Project/__Browse References/FSalesOrderShipmentSearch.Designer.vb,192,6a778a34953c38b0,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FSalesOrderShipmentSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FSalesOrderShipmentSearch.vb,121,3f3af73acebcf3be,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FSiteIDSearch.Designer.vb,122,e21dbaeb332a7557,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FSiteIDSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FSiteIDSearch.vb,125,19321d6e69e2a978,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FTaxClassSearch.Designer.vb,157,94d3662eb118d694,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FTaxClassSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FTaxClassSearch.vb,89,fee2d79c8db6eb87,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FTaxInvoiceNumberSearch.designer.vb,88,a45f00b394b6722d,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FTaxInvoiceNumberSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FTaxInvoiceNumberSearch.vb,68,e9d661424190a6ca,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FUMSearch.Designer.vb,156,0853f85d04493dc2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FUMSearch.resx,123,363d169a6c143592,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FUMSearch.vb,187,9128b96f8a80e51c,﻿Imports master_new.ModFunction,End Class,0,0,0,1,0
+Asvia Solution/ASVIA.Project/__Browse References/FUserApprovalSearch.Designer.vb,86,932c1b89dd627c56,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FUserApprovalSearch.resx,123,5606230ac553c97a,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FUserApprovalSearch.vb,59,dbd401111d4fe74e,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FVoucherSearch.Designer.vb,288,562f1358a1d408d2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FVoucherSearch.resx,126,68d037a5be6a370f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__Browse References/FVoucherSearch.vb,398,7e0be9c201c7be6d,﻿Imports master_new.ModFunction,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__General Form/CustomDesignForm.resx,640,db615f6583fe6dfb,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__General Form/CustomDesignForm.vb,1189,f0cf4b374a0a6cb7,Public Class CustomDesignForm,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__General Form/FCodeMstr.Designer.vb,600,982b99a574b03902,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__General Form/FCodeMstr.resx,126,10815bc58252fa8f,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__General Form/FCodeMstr.vb,358,8523534cb63e10a8,﻿Imports Devart.Data.PostgreSql,End Class,0,0,0,8,0
+Asvia Solution/ASVIA.Project/__General Form/frmExport.designer.vb,61,6f1eafce3a4851d8,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__General Form/frmExport.resx,120,f601cd30780a3718,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__General Form/frmExport.vb,3,45f406382ddae28b,﻿Public Class frmExport,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__General Form/frmPrintDialog.Designer.vb,168,398d776d704cd88b,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__General Form/frmPrintDialog.resx,440,caabe7620bd14448,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__General Form/frmPrintDialog.vb,208,e26386a582fe8c2b,Imports master_new.PGSqlConn,End Class,0,0,0,1,0
+Asvia Solution/ASVIA.Project/__General Form/frmPrintDialogReport.Designer.vb,1406,43c5bd402f5977d5,<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__General Form/frmPrintDialogReport.resx,446,0bde7817e885efc1,"<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/ASVIA.Project/__General Form/frmPrintDialogReport.vb,48,150408c4f7e7463c,Imports master_new.PGSqlConn,End Class,0,0,1,0,0
+Asvia Solution/ASVIA.Project/app.config,56,8238a3ed61ae45db,"<?xml version=""1.0"" encoding=""utf-8""?>","<startup><supportedRuntime version=""v4.0"" sku="".NETFramework,Version=v4.8""/></startup></configuration>",0,0,0,0,0
+Asvia Solution/ASVIA.Project/packages.config,4,b7aec97d4ffc7224,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</packages>,0,0,0,0,0
+Asvia Solution/App.config,6,bbc3a41050a98d04,"﻿<?xml version=""1.0"" encoding=""utf-8"" ?>",</configuration>,0,0,0,0,0
+Asvia Solution/Form1.Designer.vb,31,05810cc76ccd5eb2,﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _,End Class,0,0,0,0,0
+Asvia Solution/Form1.vb,3,c41262653db1676b,﻿Public Class Form1,End Class,0,0,0,0,0
+Asvia Solution/My Project/Application.Designer.vb,38,16ed63dbb892f5ba,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Asvia Solution/My Project/AssemblyInfo.vb,35,b2fd2f952011e621,﻿Imports System,"<Assembly: AssemblyFileVersion(""1.0.0.0"")>",0,0,0,0,0
+Asvia Solution/My Project/Resources.Designer.vb,62,2bf10b60ae3391a1,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
+Asvia Solution/My Project/Resources.resx,117,4e124f5a7694ffe8,"﻿<?xml version=""1.0"" encoding=""utf-8""?>",</root>,0,0,0,0,0
+Asvia Solution/My Project/Settings.Designer.vb,73,892d459d01958e6c,﻿'------------------------------------------------------------------------------,End Namespace,0,0,0,0,0
