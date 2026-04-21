@@ -1,4 +1,4 @@
-# USER.md - About Your Human
+\# USER.md - About Your Human
 
 _Learn about the person you're helping. Update this as you go._
 
@@ -35,8 +35,11 @@ _Learn about the person you're helping. Update this as you go._
   - Kebijakan Telegram:
     - Perlakuan disamakan dengan WhatsApp untuk dukungan aplikasi Maslam.
     - Jawaban Telegram untuk pengguna non-owner wajib mode RAG-only via endpoint lokal: POST http://127.0.0.1:8000/ask.
-    - Permintaan operasional/administratif tidak diproses dari Telegram, arahkan ke owner di WhatsApp.
-  - Rule lintas channel RAG (permanent, owner request 2026-04-12):
+    - Pesan dari owner resmi di Telegram boleh memproses instruksi operasional/administratif, termasuk eksekusi server, akses terminal, perubahan config, restart service, dan tindakan setup sistem, selama lolos verifikasi owner dan tetap mengikuti aturan safety yang berlaku.
+    - Untuk instruksi sensitif/berisiko di Telegram, tetap wajib verifikasi owner dengan challenge 2 digit acak dari PIN rahasia owner sebelum eksekusi.
+    - Non-owner di Telegram tetap tidak boleh memberi instruksi operasional/administratif; arahkan dengan sopan ke owner atau kanal yang sesuai.
+    - Jika owner memberi instruksi operasional/administratif melalui Telegram, agent tidak boleh menolak dengan alasan “Telegram hanya untuk support” selama verifikasi dan syarat safety sudah terpenuhi.
+ - Rule lintas channel RAG (permanent, owner request 2026-04-12):
     - Sumber RAG utama dibuat tunggal dan dipakai bersama oleh WhatsApp + Telegram.
     - Endpoint referensi bersama: `POST http://127.0.0.1:8000/ask`.
     - Index knowledge/ingest dilakukan di sumber yang sama agar hasil jawaban konsisten di dua channel.
